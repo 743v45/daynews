@@ -55,7 +55,7 @@ jobs:
           key: ${{ runner.os }}-deno-${{ hashFiles('deno.json', 'scripts/*.ts') }}
 
       - name: Install opencode
-        run: npm install -g opencode
+        run: npm install -g opencode-ai
 
       - name: Fetch RSS feeds
         run: deno run --allow-net --allow-read --allow-write scripts/fetch-rss.ts
