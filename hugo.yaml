@@ -1,0 +1,75 @@
+baseURL: 'https://taevas.github.io/daily-news/'
+locale: zh-cn
+title: '每日新闻'
+theme: PaperMod
+defaultContentLanguage: zh
+enableInlineShortcodes: true
+
+params:
+  description: '每日精选新闻，AI 智能摘要'
+  defaultTheme: auto
+  ShowReadingTime: false
+  ShowShareButtons: false
+  ShowPostNavLinks: false
+  ShowBreadCrumbs: false
+  ShowCodeCopyButtons: false
+  ShowWordCount: false
+  ShowRssButtonInSectionTermList: false
+  ShowAllPagesInArchive: false
+  ShowPageNaviButtons: false
+  ShowToc: false
+  disableSpecial1stPost: false
+
+  homeInfoParams:
+    Title: '每日新闻'
+    Content: '每日精选新闻，AI 智能摘要'
+
+  socialIcons: []
+
+  assets:
+    disableHLJS: true
+    disableFavicon: true
+
+  editPost:
+    URL: ""
+    Text: ""
+    appendFilePath: false
+
+  label:
+    text: "每日新闻"
+    icon: ""
+    iconHeight: 0
+
+  fuseOpts:
+    isCaseSensitive: false
+    shouldSort: true
+    location: 0
+    distance: 1000
+    threshold: 0.4
+    minMatchCharLength: 0
+    keys: ["title", "permalink", "summary", "content"]
+
+  mainSections: ["news"]
+
+taxonomies:
+  category: categories
+  tag: tags
+
+languages:
+  zh:
+    locale: zh-CN
+    label: 中文
+    title: 每日新闻
+    weight: 1
+
+menu:
+  main:
+    - identifier: news
+      name: 新闻
+      url: /news/
+      weight: 1
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
