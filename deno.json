@@ -1,0 +1,12 @@
+{
+  "tasks": {
+    "fetch": "deno run --allow-net --allow-read --allow-write scripts/fetch-rss.ts",
+    "summarize": "deno run --allow-net --allow-read --allow-write --allow-run --allow-env scripts/summarize.ts",
+    "generate": "deno run --allow-read --allow-write scripts/generate-hugo.ts",
+    "pipeline": "deno task fetch && deno task summarize && deno task generate"
+  },
+  "imports": {
+    "@std/yaml": "jsr:@std/yaml",
+    "fast-xml-parser": "npm:fast-xml-parser"
+  }
+}

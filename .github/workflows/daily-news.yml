@@ -1,0 +1,86 @@
+name: Daily News
+
+on:
+  schedule:
+    # 每天 UTC 21:00 (北京时间 05:00)
+    - cron: '0 21 * * *'
+  workflow_dispatch:
+  push:
+    branches: [master]
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+jobs:
+  fetch-and-deploy:
+    runs-on: ubuntu-latest
+    concurrency:
+      group: pages
+      cancel-in-progress: false
+
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          submodules: recursive
+          fetch-depth: 0
+
+      - name: Setup Hugo
+        uses: peaceiris/actions-hugo@v3
+        with:
+          hugo-version: 'latest'
+
+      - name: Setup Deno
+        uses: denoland/setup-deno@v2
+        with:
+          deno-version: 'latest'
+
+      - name: Setup Node.js (for opencode)
+        uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+
+      - name: Cache Deno dependencies
+        uses: actions/cache@v4
+        with:
+          path: |
+            ~/.cache/deno
+            deno.lock
+          key: ${{ runner.os }}-deno-${{ hashFiles('deno.json', 'scripts/*.ts') }}
+
+      - name: Install opencode
+        run: npm install -g opencode
+
+      - name: Fetch RSS feeds
+        run: deno run --allow-net --allow-read --allow-write scripts/fetch-rss.ts
+        timeout-minutes: 5
+
+      - name: Summarize articles with opencode
+        run: deno run --allow-net --allow-read --allow-write --allow-run --allow-env scripts/summarize.ts
+        timeout-minutes: 30
+        env:
+          OPENCODE_NO_AUTO_EXECUTE: '1'
+
+      - name: Generate Hugo content
+        run: deno run --allow-read --allow-write scripts/generate-hugo.ts
+
+      - name: Build Hugo site
+        run: hugo --minify --destination public
+
+      - name: Setup Pages
+        uses: actions/configure-pages@v5
+
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: public
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
