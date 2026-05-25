@@ -1,51 +1,60 @@
+# 工作流名称 — 在 GitHub Actions 界面中显示
 name: Daily News
 
+# 触发条件：何时自动运行此工作流
 on:
   schedule:
-    # 每天 UTC 21:00 (北京时间 05:00)
+    # cron 表达式：每天 UTC 21:00 (北京时间 05:00) 自动运行
     - cron: '0 21 * * *'
-  workflow_dispatch:
+  workflow_dispatch:  # 允许在 GitHub 网页上手动触发
   push:
-    branches: [master]
+    branches: [master]  # 推送代码到 master 分支时也会触发
 
+# 工作流需要的权限
 permissions:
-  contents: write
-  pages: write
-  id-token: write
+  contents: write   # 允许写入仓库内容
+  pages: write      # 允许部署到 GitHub Pages
+  id-token: write   # 用于身份认证
 
 jobs:
+  # 定义一个任务：抓取新闻并部署网站
   fetch-and-deploy:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-latest  # 在 Ubuntu 虚拟机上运行
     concurrency:
-      group: pages
-      cancel-in-progress: false
+      group: pages           # 同一时间只有一个部署任务运行
+      cancel-in-progress: false  # 不取消正在进行的旧任务
 
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
 
     steps:
+      # 1. 检出代码 — 把仓库代码下载到虚拟机
       - name: Checkout
         uses: actions/checkout@v4
         with:
-          submodules: recursive
-          fetch-depth: 0
+          submodules: recursive  # 同时拉取子模块（PaperMod 主题）
+          fetch-depth: 0         # 拉取完整 git 历史
 
+      # 2. 安装 Hugo 静态站点生成器
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v3
         with:
           hugo-version: 'latest'
 
+      # 3. 安装 Deno JavaScript/TypeScript 运行时
       - name: Setup Deno
         uses: denoland/setup-deno@v2
         with:
           deno-version: 'latest'
 
+      # 4. 安装 Node.js（opencode CLI 需要 Node.js 环境）
       - name: Setup Node.js (for opencode)
         uses: actions/setup-node@v4
         with:
           node-version: '22'
 
+      # 5. 缓存 Deno 依赖，加快后续运行速度
       - name: Cache Deno dependencies
         uses: actions/cache@v4
         with:
@@ -54,35 +63,52 @@ jobs:
             deno.lock
           key: ${{ runner.os }}-deno-${{ hashFiles('deno.json', 'scripts/*.ts') }}
 
+      # 6. 安装 opencode AI 命令行工具（用于生成文章摘要）
       - name: Install opencode
         run: npm install -g opencode-ai
 
+      # 7. 抓取 RSS 新闻源，保存为 JSON 文件
       - name: Fetch RSS feeds
         run: deno run --allow-net --allow-read --allow-write scripts/fetch-rss.ts
-        timeout-minutes: 5
+        timeout-minutes: 5  # 超过 5 分钟则超时
 
+      # 8. 用 opencode AI 对每篇文章生成中文摘要
       - name: Summarize articles with opencode
         run: deno run --allow-net --allow-read --allow-write --allow-run --allow-env scripts/summarize.ts
         timeout-minutes: 30
         env:
           OPENCODE_NO_AUTO_EXECUTE: '1'
 
+      # 9. 根据摘要生成 Hugo 所需的 Markdown 文件
       - name: Generate Hugo content
         run: deno run --allow-read --allow-write scripts/generate-hugo.ts
 
+      # 10. 将生成的 JSON 数据和 Hugo 内容提交到仓库
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add articles/ content/news/
+          git diff --staged --quiet || git commit -m "chore: daily news update [skip ci]"
+          git push
+
+      # 11. 用 Hugo 构建静态网站，输出到 public 目录
       - name: Build Hugo site
         run: hugo --minify --destination public
 
+      # 12. 配置 GitHub Pages 部署
       - name: Setup Pages
         uses: actions/configure-pages@v5
         with:
-          enablement: true
+          enablement: true  # 自动启用 GitHub Pages
 
+      # 13. 将构建好的 public 目录上传为部署 artifact
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v3
         with:
           path: public
 
+      # 14. 部署到 GitHub Pages，生成公开访问的网站
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4

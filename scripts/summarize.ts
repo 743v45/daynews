@@ -89,75 +89,93 @@ async function main() {
   const rawText = await Deno.readTextFile(rawPath);
   const allArticles: Article[] = JSON.parse(rawText);
 
-  console.error(`Summarizing ${allArticles.length} articles...`);
-
-  const batchSize = config.batch_size;
-  const batches: Article[][] = [];
-
-  for (let i = 0; i < allArticles.length; i += batchSize) {
-    batches.push(allArticles.slice(i, i + batchSize));
+  // Load existing summaries to skip already-summarized articles
+  const summarizedPath = `articles/summarized-${today}.json`;
+  const existingSummaryMap = new Map<string, string>();
+  try {
+    const existingText = await Deno.readTextFile(summarizedPath);
+    const existingArticles: Article[] = JSON.parse(existingText);
+    for (const a of existingArticles) {
+      if (a.summary) existingSummaryMap.set(a.link, a.summary);
+    }
+    console.error(`Loaded ${existingSummaryMap.size} existing summaries`);
+  } catch {
+    // No existing summaries yet
   }
 
-  console.error(`Split into ${batches.length} batches of ${batchSize}`);
+  // Mark articles that already have summaries
+  const toSummarize: Article[] = [];
+  for (const article of allArticles) {
+    const existing = existingSummaryMap.get(article.link);
+    if (existing) {
+      article.summary = existing;
+    } else {
+      toSummarize.push(article);
+    }
+  }
 
-  const results: Article[] = [];
+  console.error(`Total: ${allArticles.length}, already summarized: ${allArticles.length - toSummarize.length}, need AI: ${toSummarize.length}`);
 
-  for (let b = 0; b < batches.length; b++) {
-    const batch = batches[b];
-    console.error(`\nBatch ${b + 1}/${batches.length} (${batch.length} articles)...`);
+  if (toSummarize.length > 0) {
+    const batchSize = config.batch_size;
+    const batches: Article[][] = [];
 
-    const prompt = buildBatchPrompt(batch, config);
-    const summaryModel = config.model || "opencode/deepseek-v4-flash-free";
+    for (let i = 0; i < toSummarize.length; i += batchSize) {
+      batches.push(toSummarize.slice(i, i + batchSize));
+    }
 
-    try {
-      const output = await callOpencode(prompt, summaryModel);
+    console.error(`Split into ${batches.length} batches of ${batchSize}`);
 
-      // Try to parse JSON from response
-      const jsonMatch = output.match(/\[[\s\S]*\]/);
-      let summaries: Array<{ index: number; summary: string }> = [];
+    for (let b = 0; b < batches.length; b++) {
+      const batch = batches[b];
+      console.error(`\nBatch ${b + 1}/${batches.length} (${batch.length} articles)...`);
 
-      if (jsonMatch) {
-        try {
-          summaries = JSON.parse(jsonMatch[0]);
-        } catch {
-          console.error(`  [WARN] Failed to parse JSON from batch ${b + 1}, using raw output`);
-        }
-      }
+      const prompt = buildBatchPrompt(batch, config);
+      const summaryModel = config.model || "opencode/deepseek-v4-flash-free";
 
-      if (summaries.length > 0) {
-        for (const s of summaries) {
-          const idx = s.index - 1;
-          if (idx >= 0 && idx < batch.length) {
-            batch[idx].summary = s.summary;
+      try {
+        const output = await callOpencode(prompt, summaryModel);
+
+        const jsonMatch = output.match(/\[[\s\S]*\]/);
+        let summaries: Array<{ index: number; summary: string }> = [];
+
+        if (jsonMatch) {
+          try {
+            summaries = JSON.parse(jsonMatch[0]);
+          } catch {
+            console.error(`  [WARN] Failed to parse JSON from batch ${b + 1}, using raw output`);
           }
         }
-      } else {
-        // Fallback: use a generic summary
+
+        if (summaries.length > 0) {
+          for (const s of summaries) {
+            const idx = s.index - 1;
+            if (idx >= 0 && idx < batch.length) {
+              batch[idx].summary = s.summary;
+            }
+          }
+        } else {
+          for (const article of batch) {
+            article.summary = article.description.slice(0, config.max_summary_length);
+          }
+        }
+      } catch (err) {
+        console.error(`  [ERROR] Batch ${b + 1} failed: ${err}`);
         for (const article of batch) {
           article.summary = article.description.slice(0, config.max_summary_length);
         }
       }
 
-      results.push(...batch);
-    } catch (err) {
-      console.error(`  [ERROR] Batch ${b + 1} failed: ${err}`);
-      for (const article of batch) {
-        article.summary = article.description.slice(0, config.max_summary_length);
-        results.push(article);
+      if (b < batches.length - 1) {
+        await new Promise((r) => setTimeout(r, 1000));
       }
-    }
-
-    // Small delay between batches
-    if (b < batches.length - 1) {
-      await new Promise((r) => setTimeout(r, 1000));
     }
   }
 
-  console.error(`\nDone. ${results.length} articles summarized.`);
+  console.error(`\nDone. ${allArticles.length} articles summarized.`);
 
-  const outPath = `articles/summarized-${today}.json`;
-  await Deno.writeTextFile(outPath, JSON.stringify(results, null, 2));
-  console.error(`Saved to ${outPath}`);
+  await Deno.writeTextFile(summarizedPath, JSON.stringify(allArticles, null, 2));
+  console.error(`Saved to ${summarizedPath}`);
 }
 
 main().catch((err) => {

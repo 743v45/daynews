@@ -171,7 +171,26 @@ async function main() {
   await Deno.mkdir(outDir, { recursive: true });
 
   const outPath = `${outDir}/raw-${today}.json`;
-  await Deno.writeTextFile(outPath, JSON.stringify(allArticles, null, 2));
+
+  // Merge with existing data to preserve articles from previous runs today
+  let mergedArticles = allArticles;
+  try {
+    const existingText = await Deno.readTextFile(outPath);
+    const existingArticles: Article[] = JSON.parse(existingText);
+    const existingUrls = new Set(existingArticles.map((a) => a.link));
+    const newOnes = allArticles.filter((a) => !existingUrls.has(a.link));
+    if (newOnes.length > 0) {
+      mergedArticles = [...existingArticles, ...newOnes];
+      console.error(`Merged ${newOnes.length} new articles with ${existingArticles.length} existing`);
+    } else {
+      mergedArticles = existingArticles;
+      console.error(`No new articles — kept ${existingArticles.length} existing`);
+    }
+  } catch {
+    // File doesn't exist yet, use fresh results
+  }
+
+  await Deno.writeTextFile(outPath, JSON.stringify(mergedArticles, null, 2));
   console.error(`Saved to ${outPath}`);
 
   // Also save config for other scripts

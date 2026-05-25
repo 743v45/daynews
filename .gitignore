@@ -2,9 +2,6 @@
 /public/
 /resources/
 
-# Articles data
-/articles/
-
 # OS
 .DS_Store
 Thumbs.db
