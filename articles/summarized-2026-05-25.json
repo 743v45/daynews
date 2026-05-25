@@ -1951,5 +1951,374 @@
     "source": "卫报",
     "category": "综合",
     "summary": "Brereton says ‘ongoing focus on matters relating to me personally’ were ‘drawing attention away from the commission’s core purpose’Paul Brereton, Aust"
+  },
+  {
+    "title": "Show HN: Geomatic – a command-driven geometry studio enabled with autodiff",
+    "link": "https://www.tinyvolt.com/geomatic",
+    "description": "All commands have the format `output = \\func inputs` or just `\\function inputs`. Points and scalars are built on the fly. Eg `\\line a b` to an empty canvas creates points `a` and `b`, and joins them with a line.One can use broadcasting semantics similar to NumPy and PyTorch in a visual setting (imagine creating a list of circles where one dim corresponds to radius and another to the center). One can also use backpropagation, run gradient descent or visualize vector fields. Almost everything is r",
+    "pubDate": "Mon, 25 May 2026 08:25:00 +0000",
+    "source": "Hacker News",
+    "category": "科技",
+    "summary": "Geomatic 是一款命令驱动的几何工作室，支持自动微分。用户可通过类似 NumPy 和 PyTorch 的广播语义在视觉环境中即时创建点、标量及图形，如使用 `\\line a b` 命令生成两点连线。"
+  },
+  {
+    "title": "Why Do We Sleep Under Blankets, Even on the Hottest Nights? (2017)",
+    "link": "https://www.atlasobscura.com/articles/blankets-summer-hot",
+    "description": "Article URL: https://www.atlasobscura.com/articles/blankets-summer-hot\nComments URL: https://news.ycombinator.com/item?id=48263711\nPoints: 33\n# Comments: 21",
+    "pubDate": "Mon, 25 May 2026 05:33:31 +0000",
+    "source": "Hacker News",
+    "category": "科技",
+    "summary": "文章探讨了即使在炎热夜晚人们仍要盖被子的原因。该话题在 Hacker News 上引发了 33 个点赞和 21 条评论的讨论，原文发表于 2017 年的 Atlas Obscura。"
+  },
+  {
+    "title": "用AI重构增长：新通教育集团的实践| 2026AI Partner·北京亦庄AI+产业大会",
+    "link": "https://36kr.com/p/3824164325412992?f=rss",
+    "description": "新通教育创始人麻亚炜坦诚分享了过去五年的转型历程——从数字化基建到全员AI Must，从AI in All到AI Native新业务。她的实践证明：传统企业拥抱AI，最难的不是技术，而是让战略从董事会走到一线。\n  \n  麻亚炜将AI转型划分为四个递进阶段：\n  第一阶段（2021-2022）：数字化基建 完成底层数据与系统架构的夯实，为AI应用奠定坚实基础。\n  第二阶段（2023-2024）：AI Must 战略落地 通过全员公开课普及认知、孵化标杆小组树立典范、赴哈佛与斯坦福验证产品，将AI从\"命令\"转化为\"共识\"。\n  第三阶段（2025）：AI in All 深度嵌入 将AI融入所有关键业务流程，构建覆盖全链路的\"AI全家桶\"与数字员工体系，实现效率与体验的双重跃升。\n  第四阶段（2026）：AI Native 原生创新 以AI原生思维开辟全新业务赛道，完成从\"工具赋能\"到\"基因重塑\"的质变。\n  核心启示： 真正的AI转型，不是技术的堆砌，而是组织共识的构建与战略意志的穿透。\n  以下为演讲内容，经36氪整理编辑：\n  \n  麻亚炜丨新通教育集团创始人&amp;董事长\n ",
+    "pubDate": "2026-05-25 16:54:18  +0800",
+    "source": "36氪",
+    "category": "科技",
+    "summary": "新通教育创始人麻亚炜在 2026 AI Partner 大会上分享了 AI 转型四阶段：数字化基建（2021-2022）、全员 AI Must 战略落地（2023-2024）、AI in All 深度嵌入（2025）及 AI Native 新业务。她认为最大挑战是让战略从董事会贯彻到一线。"
+  },
+  {
+    "title": "氪星晚报｜全国首单挂钩蓝色债券合约类信用衍生品交易落地山东；到2030年底全国城市生活垃圾资源化利用率力争达到76%以上；新加坡寻求将富人开户时间缩短至一个月",
+    "link": "https://36kr.com/p/3824439681520002?f=rss",
+    "description": "大公司：\n  番茄小说持续加强低质内容治理，5月处置低质书籍超15万本\n  36氪获悉，近日，番茄小说发布《关于加强低质内容治理公告》。公告显示，5月以来，番茄小说已累计处置低质书籍超15万本，其中拒绝签约低质书籍112706本，处置低质违规书籍40275本。\n  全国首单挂钩蓝色债券合约类信用衍生品交易落地山东\n  36氪获悉，据上海清算所，近日，在中国人民银行山东省分行指导和推动下，山东省成功落地挂钩蓝色债券的合约类信用衍生品交易。该业务是全国首单以蓝色债券为保护标的的信用风险缓释合约。\n  日本监管机构敦促上市公司将现金用于业务投资，而非提高股东回报\n  日本金融监管机构敦促国内上市公司将更多现金储备用于长期业务投资，而不是通过股票回购和提高股息来回馈股东。将企业和家庭持有的更多国家财富引导出来用于支持未来扩张，是日本首相高市早苗振兴日本经济计划的关键支柱之一。她长期以来一直批评企业资产负债表上积累的大量现金沉淀。\n  速卖通Brand+品牌出海计划正式开放韩国站\n  36氪获悉，速卖通Brand+品牌出海计划已正式开放韩国站点，今年速卖通在韩国的市场投入将激增至去年的三倍。此外",
+    "pubDate": "2026-05-25 16:24:54  +0800",
+    "source": "36氪",
+    "category": "科技",
+    "summary": "全国首单挂钩蓝色债券的合约类信用衍生品交易在山东落地；番茄小说 5 月处置低质书籍超 15 万本；日本监管机构敦促上市公司将现金用于业务投资而非股东回报；新加坡拟缩短富人开户时间至一个月。"
+  },
+  {
+    "title": "*ST闻泰：控股股东闻天下所持全部股份被司法冻结",
+    "link": "https://36kr.com/newsflashes/3824541667217795?f=rss",
+    "description": "36氪获悉，*ST闻泰公告，公司控股股东闻天下所持有的1.54亿股公司股份（占公司总股本12.37%）被司法冻结，冻结期限自2026年5月22日至2029年5月21日。本次冻结系因闻天下及实控人张学政与姜照柏之间的合同纠纷仲裁案引发，姜照柏申请财产保全所致。闻天下表示不存在债务逾期或违约记录，本次冻结不会影响公司正常经营及控制权。",
+    "pubDate": "2026-05-25 18:04:58  +0800",
+    "source": "36氪",
+    "category": "科技",
+    "summary": "*ST闻泰公告称，控股股东闻天下所持全部 1.54 亿股股份（占总股本 12.37%）因合同纠纷仲裁案被司法冻结，冻结期三年。公司表示该事项不影响正常经营及控制权。"
+  },
+  {
+    "title": "三孚新科：已有头部PCB客户mSAP电镀设备订单",
+    "link": "https://36kr.com/newsflashes/3824539659817094?f=rss",
+    "description": "36氪获悉，三孚新科公告，2025年下半年起，公司高端片式VCP电镀设备在手订单逐步增加，部分设备已经出货。当前公司设备在手订单充足，主要覆盖VCP电镀设备、mSAP电镀设备、HVLP5铜箔电镀及��处理设备、复合铜箔水电镀设备等。mSAP方面，公司mSAP部分制程专用化学品已在头部PCB客户端上线应用，且已有头部PCB客户mSAP电镀设备订单。",
+    "pubDate": "2026-05-25 18:02:55  +0800",
+    "source": "36氪",
+    "category": "科技",
+    "summary": "三孚新科披露，2025年下半年以来公司高端片式VCP电镀设备在手订单增加，部分已出货。mSAP专用化学品已上线头部PCB客户，并获头部客户mSAP电镀设备订单，设备订单整体充足。"
+  },
+  {
+    "title": "菜百股份：明牌实业提前终止减持计划，实际未减持股份",
+    "link": "https://36kr.com/newsflashes/3824534772142467?f=rss",
+    "description": "36氪获悉，菜百股份公告，公司持股16.2%的股东浙江明牌实业股份有限公司（简称“明牌实业”）基于自身资金需求的变化及对公司价值的判断，决定提前终止减持股份计划；此次减持计划实施期间，明牌实业合计减持所持公司股份0股。",
+    "pubDate": "2026-05-25 17:57:57  +0800",
+    "source": "36氪",
+    "category": "科技",
+    "summary": "菜百股份公告，持股16.2%的股东明牌实业因资金需求变化及对公司价值判断，决定提前终止减持计划。减持计划实施期间内，明牌实业实际未减持任何股份。"
+  },
+  {
+    "title": "热景生物：子公司创新药SGC001注射液新增适应症临床试验申请获受理",
+    "link": "https://36kr.com/newsflashes/3824524730798466?f=rss",
+    "description": "36氪获悉，热景生物公告，公司控股子公司舜景医药自主研发的创新药SGC001注射液新增预期重症急性胰腺炎适应症临床试验申请，已获国家药监局《受理通知书》。该药此前已获FDA和CDE临床批准，用于急性心肌梗死急救治疗，并已启动Ⅱ期临床试验。本次新增适应症申请受理，标志着该候选药物进入多适应症临床开发新阶段。",
+    "pubDate": "2026-05-25 17:47:44  +0800",
+    "source": "36氪",
+    "category": "科技",
+    "summary": "热景生物子公司舜景医药自主研发的SGC001注射液新增重症急性胰腺炎适应症临床试验申请获国家药监局受理。该药此前已获FDA和CDE批准用于心梗急救，并已进入Ⅱ期临床。"
+  },
+  {
+    "title": "上海：支持微短剧企业租用智能算力，对租用智能算力的主体给予支持",
+    "link": "https://36kr.com/newsflashes/3824513366987141?f=rss",
+    "description": "36氪获悉，上海市文化和旅游局印发《上海市加快推进人工智能赋能微短剧高质量发展的若干措施》。其中提出，优化“AI+微短剧”核心要素供给。支持智能算力使用，支持微短剧企业租用智能算力，对租用智能算力的主体给予支持。支持视听模型使用，支持微短剧企业调用云平台部署的第三方大模型API（应用程序接口）。支持视听语料使用，支持微短剧企业采购非关联方的语料进行垂类模型训练、智能体应用研发。鼓励创制资源共建共享，支持微短剧企业建设数字资产库、IP库。",
+    "pubDate": "2026-05-25 17:36:10  +0800",
+    "source": "36氪",
+    "category": "科技",
+    "summary": "上海市文旅局印发措施，支持微短剧企业租用智能算力给予补贴，支持调用云平台第三方大模型API及采购语料进行垂类模型训练，鼓励建设数字资产库和IP库。"
+  },
+  {
+    "title": "上海：布局市级“AI+微短剧”中试基地，支持“AI+微短剧”应用创新",
+    "link": "https://36kr.com/newsflashes/3824513091752069?f=rss",
+    "description": "36氪获悉，上海市文化和旅游局印发《上海市加快推进人工智能赋能微短剧高质量发展的若干措施》。其中提出，布局市级“AI+微短剧”中试基地。支持企业、科研院所、高校联合开展中试基地建设与运营，推动人工智能深度赋能微短剧内容生产传播全链路，探索形成具有推广示范效应的行业解决方案。支持“AI+微短剧”应用创新。鼓励企业聚焦行业典型应用场景，打造AI微短剧技能库、智能体。对自主研发、市场认可的智能体项目，按不超过实际研发投入20%给予最高1000万元支持。",
+    "pubDate": "2026-05-25 17:35:54  +0800",
+    "source": "36氪",
+    "category": "科技",
+    "summary": "上海布局市级\"AI+微短剧\"中试基地，推动AI赋能微短剧全链路。鼓励企业打造AI微短剧智能体，对自主研发且市场认可的项目给予不超过实际投入20%、最高1000万元支持。"
+  },
+  {
+    "title": "湖南黄金：新龙矿业本部恢复生产",
+    "link": "https://36kr.com/newsflashes/3824508798996870?f=rss",
+    "description": "36氪获悉，湖南黄金公告，公司子公司新龙矿业本部于2026年5月26日起恢复生产。此前因4月25日发生顶板冒落事故导致一名员工死亡，新龙矿业本部主动停产整顿。经初步测算，本次停产预计减少公司当期净利润约4000万元。新龙矿业已通过安全培训、隐患排查等措施降低影响。",
+    "pubDate": "2026-05-25 17:31:32  +0800",
+    "source": "36氪",
+    "category": "科技",
+    "summary": "湖南黄金子公司新龙矿业本部因4月发生顶板冒落致1人死亡事故停产整顿后，于5月26日恢复生产，预计减少当期净利润约4000万元。"
+  },
+  {
+    "title": "消息称三星电子完成900层超高堆叠3D NAND闪存原型开发",
+    "link": "https://36kr.com/newsflashes/3824507490865538?f=rss",
+    "description": "三星电子近期利用单元多层键合 (CMB) 技术连接两片450层3D NAND，构建了全球首个900层超高堆叠3D NAND闪存原型，这一样品的存储单元工作特性已得到验证。 （财联社）",
+    "pubDate": "2026-05-25 17:30:12  +0800",
+    "source": "36氪",
+    "category": "科技",
+    "summary": "三星电子利用单元多层键合（CMB）技术连接两片450层3D NAND，成功开发出全球首个900层超高堆叠3D NAND闪存原型，存储单元工作特性已获验证。"
+  },
+  {
+    "title": "*ST万方：收到股票终止上市决定",
+    "link": "https://36kr.com/newsflashes/3824504261710214?f=rss",
+    "description": "36氪获悉，*ST万方公告，公司收到深交所《关于万方城镇投资发展股份有限公司股票终止上市的决定》，因连续二十个交易日股票收盘总市值均低于5亿元，触及终止上市情形。公司股票不进入退市整理期，将在十五个交易日内摘牌，并转入全国中小企业股份转让系统挂牌转让。",
+    "pubDate": "2026-05-25 17:26:55  +0800",
+    "source": "36氪",
+    "category": "科技",
+    "summary": "*ST万方因连续20个交易日收盘总市值低于5亿元，触及终止上市情形，收到深交所终止上市决定，股票不进入退市整理期，15个交易日内摘牌并转至新三板。"
+  },
+  {
+    "title": "3连板恒林股份：公司主营业务未发生重大变化 外部流通盘较小，提示非理性炒作风险",
+    "link": "https://36kr.com/newsflashes/3824503959703936?f=rss",
+    "description": "36氪获悉，恒林股份公告，公司股票于2026年5月21日、22日连续2个交易日收盘价格涨幅偏离值累计超过20%，5月25日再次涨停，3个交易日累计涨幅33.11%，短期涨幅显著高于同期上证指数，存在非理性炒作风险。公司外部流通盘较小，控股股东及其一致行动人合计持股71.73%。公司静态市盈率30.37倍，高于行业平均22.75倍。2025年度净利润1.64亿元，同比下降37.72%。公司主营业务未发生重大变化，持有海飞科信息技术有限公司0.8928%股份，为财务性投资，不构成重大影响。",
+    "pubDate": "2026-05-25 17:26:36  +0800",
+    "source": "36氪",
+    "category": "科技",
+    "summary": "恒林股份3个交易日累计涨幅33.11%，公司提示非理性炒作风险：主营业务无重大变化，外部流通盘小，控股股东持股71.73%，市盈率高于行业均值，2025年净利润同比下降37.72%。"
+  },
+  {
+    "title": "浙江世宝：股价异动，控股股东22日减持912.82万股",
+    "link": "https://36kr.com/newsflashes/3824503197962376?f=rss",
+    "description": "36氪获悉，浙江世宝公告，经自查，公司控股股东世宝控股于5月22日合计减持公司A股股份912.82万股，占公司总股本的1.11%，减持符合已披露的减持计划。",
+    "pubDate": "2026-05-25 17:25:50  +0800",
+    "source": "36氪",
+    "category": "科技",
+    "summary": "浙江世宝股价异动，控股股东世宝控股于5月22日减持公司A股912.82万股，占总股本1.11%，减持符合已披露计划。"
+  },
+  {
+    "title": "龙磁科技：研发的芯片电感产品产能正在建设，处于客户端验证及小批量出货阶段",
+    "link": "https://36kr.com/newsflashes/3824498595238018?f=rss",
+    "description": "36氪获悉，龙磁科技公告，目前公司研发的芯片电感产品产能正在建设，处于客户端验证及小批量出货阶段，当前该产品尚未形成稳定营收贡献，业务合作及订单交付进度存在不确定性，存在未来业务推进不及预期的风险。",
+    "pubDate": "2026-05-25 17:21:09  +0800",
+    "source": "36氪",
+    "category": "科技",
+    "summary": "36氪获悉，龙磁科技公告，目前公司研发的芯片电感产品产能正在建设，处于客户端验证及小批量出货阶段，当前该产品尚未形成稳定营收贡献，业务合作及订单交付进度存在不确定性，存在未来业务推进不及预期的风险。"
+  },
+  {
+    "title": "思必驰科技股份有限公司科创板IPO已获上交所受理",
+    "link": "https://36kr.com/newsflashes/3824498001268867?f=rss",
+    "description": "36氪获悉，思必驰科技股份有限公司科创板IPO已获上交所受理。",
+    "pubDate": "2026-05-25 17:20:33  +0800",
+    "source": "36氪",
+    "category": "科技",
+    "summary": "36氪获悉，思必驰科技股份有限公司科创板IPO已获上交所受理。"
+  },
+  {
+    "title": "九天六板京能电力：公司尚无新投运的大型新能源项目",
+    "link": "https://36kr.com/newsflashes/3824493237063815?f=rss",
+    "description": "36氪获悉，京能电力公告，截至2025年末，公司总装机容量2466.7万千瓦，其中：火电装机容量2139万千瓦，集中式风电装机容量242.67万千瓦，集中式光伏装机容量74.05万千瓦，分布式新能源装机容量10.98万千瓦。新能源装机占比13.28%，新能源发电营业收入占公司电力营业收入的3.99%。截至目前，公司尚无新投运的大型新能源项目。",
+    "pubDate": "2026-05-25 17:15:42  +0800",
+    "source": "36氪",
+    "category": "科技",
+    "summary": "36氪获悉，京能电力公告，截至2025年末，公司总装机容量2466.7万千瓦，其中：火电装机容量2139万千瓦，集中式风电装机容量242.67万千瓦，集中式光伏装机容量74.05万千瓦，分布式新能源装机容量10.98万千瓦。新能源装机占比13.28%，新能源发电营业收入占公司电力营业收入的3.99%"
+  },
+  {
+    "title": "2连板宏和科技：主要产品电子级玻璃纤维布是PCB的基础材料之一",
+    "link": "https://36kr.com/newsflashes/3824491097559170?f=rss",
+    "description": "36氪获悉，宏和科技公告，近日，公司关注到部分媒体将公司列为“PCB概念”。公司主要产品电子级玻璃纤维布是PCB的基础材料之一，公司长期专注于主要产品的研发、生产与销售，主营业务不存在重大变化。经公司自查，公司未发现需要澄清或回应的媒体报道或市场传闻；也未发现其他可能对公司股票交易价格产生较大影响的重大事件。公司在此特别提醒广大投资者注意热点概念炒作风险，审慎判断、理性决策。",
+    "pubDate": "2026-05-25 17:13:31  +0800",
+    "source": "36氪",
+    "category": "科技",
+    "summary": "36氪获悉，宏和科技公告，近日，公司关注到部分媒体将公司列为“PCB概念”。公司主要产品电子级玻璃纤维布是PCB的基础材料之一，公司长期专注于主要产品的研发、生产与销售，主营业务不存在重大变化。经公司自查，公司未发现需要澄清或回应的媒体报道或市场传闻；也未发现其他可能对公司股票交易价格产生较大影响的"
+  },
+  {
+    "title": "鲁信创投：拟挂牌转让参股公司彼岸电力14.46%股权",
+    "link": "https://36kr.com/newsflashes/3824483694055816?f=rss",
+    "description": "36氪获悉，鲁信创投公告，公司及全资子公司山东高新投拟在山东产权交易中心开挂牌转让持有的参股公司山东彼岸电力科技有限公司（简称“彼岸电力”）全部14.46%股权，挂牌底价5600.79万元。彼岸电力为公司2012年投资的项目，此次公开挂牌转让是公司为实现投资项目退出实施的交易。",
+    "pubDate": "2026-05-25 17:05:59  +0800",
+    "source": "36氪",
+    "category": "科技",
+    "summary": "36氪获悉，鲁信创投公告，公司及全资子公司山东高新投拟在山东产权交易中心开挂牌转让持有的参股公司山东彼岸电力科技有限公司（简称“彼岸电力”）全部14.46%股权，挂牌底价5600.79万元。彼岸电力为公司2012年投资的项目，此次公开挂牌转让是公司为实现投资项目退出实施的交易。"
+  },
+  {
+    "title": "博迁新材：股票交易异常波动，推进H股发行事项",
+    "link": "https://36kr.com/newsflashes/3824478967517576?f=rss",
+    "description": "36氪获悉，博迁新材公告，公司股票于2026年5月21日、5月22日、5月25日连续三个交易日收盘价格涨幅偏离值累计超20%，属异常波动。经核查，公司目前经营正常，外部环境未变。公司正推进发行境外上市外资股事项，该事项尚需股东会审议及监管机构批准，存在不确定性。此外，控股股东及实际控制人的一致行动人申扬投资正处减持期且已部分减持。公司提醒投资者注意交易风险。",
+    "pubDate": "2026-05-25 17:01:11  +0800",
+    "source": "36氪",
+    "category": "科技",
+    "summary": "36氪获悉，博迁新材公告，公司股票于2026年5月21日、5月22日、5月25日连续三个交易日收盘价格涨幅偏离值累计超20%，属异常波动。经核查，公司目前经营正常，外部环境未变。公司正推进发行境外上市外资股事项，该事项尚需股东会审议及监管机构批准，存在不确定性。此外，控股股东及实际控制人的一致行动人"
+  },
+  {
+    "title": "四会富仕：1.6T光模块用PCB已有小批量订单，光模块用PCB目前营收占比仍低于1%",
+    "link": "https://36kr.com/newsflashes/3824478330769798?f=rss",
+    "description": "36氪获悉，四会富仕在互动平台表示，公司1.6T光模块用PCB已有小批量订单，光模块用PCB目前营收占比仍低于1%。泰国工厂也在积极推进光模块客户认证，未来国内与泰国工厂均将有能力供应相关产品。",
+    "pubDate": "2026-05-25 17:00:32  +0800",
+    "source": "36氪",
+    "category": "科技",
+    "summary": "36氪获悉，四会富仕在互动平台表示，公司1.6T光模块用PCB已有小批量订单，光模块用PCB目前营收占比仍低于1%。泰国工厂也在积极推进光模块客户认证，未来国内与泰国工厂均将有能力供应相关产品。"
+  },
+  {
+    "title": "昀冢科技：目前公司MLCC产品主要应用于消费电子领域，暂未应用于AI算力服务器",
+    "link": "https://36kr.com/newsflashes/3824461967986820?f=rss",
+    "description": "36氪获悉，昀冢科技公告，公司股票于2026年5月21日、22日、25日连续三个交易日收盘价格涨幅偏离值累计达30%，属于股票交易异常波动。公司MLCC业务具有前期资金投入大、投资周期长等特点，尚处于亏损状态。如果未来行业竞争加剧、行业技术发展趋势发生难以预见的变化、下游行业需求发生重大变化，存在项目效益不及预期的风险。目前公司MLCC产品主要应用于消费电子领域，暂未应用于AI算力服务器。敬请广大投资者注意投资风险，理性决策，审慎投资。",
+    "pubDate": "2026-05-25 16:43:53  +0800",
+    "source": "36氪",
+    "category": "科技",
+    "summary": "36氪获悉，昀冢科技公告，公司股票于2026年5月21日、22日、25日连续三个交易日收盘价格涨幅偏离值累计达30%，属于股票交易异常波动。公司MLCC业务具有前期资金投入大、投资周期长等特点，尚处于亏损状态。如果未来行业竞争加剧、行业技术发展趋势发生难以预见的变化、下游行业需求发生重大变化，存在项"
+  },
+  {
+    "title": "宜人智科：未开展任何财富管理类相关业务",
+    "link": "https://36kr.com/newsflashes/3824457494827138?f=rss",
+    "description": "36氪获悉，近期，市场出现关于“头部助贷机构良性清退类固收产品”的相关讨论，宜人智科特此发布声明如下：宜人智科作为独立运营的上市公司主体，与其他业务板块分属独立的业务体系，运营管理完全隔离，彼此经营独立、互不影响。宜人智科未开展任何财富管理类相关业务。目前，宜人智科整体经营状况稳定，各项业务有序推进，现金流与风控指标保持健康，不受相关市场讨论影响。",
+    "pubDate": "2026-05-25 16:39:20  +0800",
+    "source": "36氪",
+    "category": "科技",
+    "summary": "36氪获悉，近期，市场出现关于“头部助贷机构良性清退类固收产品”的相关讨论，宜人智科特此发布声明如下：宜人智科作为独立运营的上市公司主体，与其他业务板块分属独立的业务体系，运营管理完全隔离，彼此经营独立、互不影响。宜人智科未开展任何财富管理类相关业务。目前，宜人智科整体经营状况稳定，各项业务有序推进"
+  },
+  {
+    "title": "Anger grows after China's deadliest coal mining disaster in years",
+    "link": "https://www.bbc.com/news/articles/c893543gn20o?at_medium=RSS&at_campaign=rss",
+    "description": "On China's tightly-controlled internet, people are calling for justice and questioning how this happened.",
+    "pubDate": "Mon, 25 May 2026 08:00:35 GMT",
+    "source": "BBC News",
+    "category": "综合",
+    "summary": "On China's tightly-controlled internet, people are calling for justice and questioning how this happened."
+  },
+  {
+    "title": "Goodbye Salah and Pep, hello new champions - the Premier League in review",
+    "link": "https://www.bbc.com/sport/football/articles/cx2136mx2m2o?at_medium=RSS&at_campaign=rss",
+    "description": "BBC Sport chief football writer Phil McNulty reviews every team's Premier League - and looks back at his pre-season predictions.",
+    "pubDate": "Mon, 25 May 2026 08:10:33 GMT",
+    "source": "BBC News",
+    "category": "综合",
+    "summary": "BBC首席足球作家菲尔·麦克纳尔蒂回顾了每支英超球队本赛季的表现，并对照了自己赛季前的预测。文章提到告别萨拉赫和瓜迪奥拉，新赛季可能迎来新的冠军格局。"
+  },
+  {
+    "title": "What to do if you think someone has heat exhaustion or heatstroke",
+    "link": "https://www.bbc.com/news/articles/ckgl51jjp3jo?at_medium=RSS&at_campaign=rss",
+    "description": "Know the signs and what to do if someone is unwell in hot weather.",
+    "pubDate": "Mon, 25 May 2026 07:53:58 GMT",
+    "source": "BBC News",
+    "category": "综合",
+    "summary": "文章介绍了热衰竭和中暑的识别症状及应对措施，提醒公众在炎热天气中注意观察身体不适信号，并采取正确的急救方法。"
+  },
+  {
+    "title": "Surf photographer attacked in water by 'shark or sea lion'",
+    "link": "https://www.bbc.com/sport/surfing/articles/cx213zv3dv3o?at_medium=RSS&at_campaign=rss",
+    "description": "The finals day of the World Surf League's New Zealand Pro event was paused after a photographer was attacked.",
+    "pubDate": "Mon, 25 May 2026 03:22:46 GMT",
+    "source": "BBC News",
+    "category": "综合",
+    "summary": "世界冲浪联赛新西兰职业赛决赛日因一名摄影师在水中遭到疑似鲨鱼或海狮的攻击而暂停，赛事组织方正在调查此事。"
+  },
+  {
+    "title": "The Louise Casey Interview (Live at Hay Festival)",
+    "link": "https://www.bbc.co.uk/sounds/play/p0nmrhlr?at_medium=RSS&at_campaign=rss",
+    "description": "Baroness Casey on violence against girls and whether governments take reviews seriously.",
+    "pubDate": "Sun, 24 May 2026 15:54:00 GMT",
+    "source": "BBC News",
+    "category": "综合",
+    "summary": "凯西女爵在海伊文学节现场访谈中谈论了针对女孩的暴力问题，以及政府是否认真对待相关调查报告。"
+  },
+  {
+    "title": "Americast",
+    "link": "https://www.bbc.co.uk/sounds/play/p0nmv22y?at_medium=RSS&at_campaign=rss",
+    "description": "An interview with author and professor, Scott Galloway",
+    "pubDate": "Mon, 25 May 2026 06:00:00 GMT",
+    "source": "BBC News",
+    "category": "综合",
+    "summary": "Americast节目采访了作家兼教授斯科特·加洛韦，讨论了当前社会与经济趋势。"
+  },
+  {
+    "title": "Premier League predictions - how accurate were BBC Sport pundits?",
+    "link": "https://www.bbc.com/sport/football/articles/c1j27y7leelo?at_medium=RSS&at_campaign=rss",
+    "description": "Last summer, 33 BBC pundits - plus AI and Opta's 'supercomputer' were asked to pick which teams would finish in the Premier League's top four, and in which order. How did they get on?",
+    "pubDate": "Mon, 25 May 2026 08:55:21 GMT",
+    "source": "BBC News",
+    "category": "综合",
+    "summary": "去年夏天，33位BBC专家、AI及Opta超级计算机预测了英超前四名球队及排名。赛季结束后，报道评估了这些预测的准确程度。"
+  },
+  {
+    "title": "Australian flotilla activists arrive home alleging sexual assault and beatings in Israeli detention",
+    "link": "https://www.theguardian.com/world/2026/may/25/stripped-naked-and-beaten-australian-flotilla-activists-arrive-home-after-alleged-torture-in-israeli-detention-ntwnfb",
+    "description": "Activists detained by Israel after attempting to deliver aid to Gaza as part of Global Sumud Flotilla arrive in AustraliaGet our breaking news email, free app or daily news podcastAustralians returning home from detention in Israel say they were abused, tortured and demeaned while in custody and have asked to meet the prime minister, Anthony Albanese.Nine of the 11 Australians who joined more than 400 people from around the world on an aid flotilla to Gaza returned home on Monday, where they wer",
+    "pubDate": "Mon, 25 May 2026 09:12:54 GMT",
+    "source": "卫报",
+    "category": "综合",
+    "summary": "参加全球苏穆德船队向加沙运送援助物资的澳大利亚活动人士被以色列拘留后回国，称在羁押期间遭受性侵犯、殴打和侮辱，并报告了相关虐待行为。"
+  },
+  {
+    "title": "Weather tracker: flash floods in New York and a heat dome in Europe",
+    "link": "https://www.theguardian.com/environment/2026/may/25/weather-tracker-flash-floods-new-york-heat-dome-europe",
+    "description": "Rain overwhelms sewer system in parts of US city, while temperatures in France break May recordNew York City saw flash flooding on Wednesday, as large parts of Brooklyn and Queens received about 2in (50mm) of rainfall in as little as 20 minutes. Officials said the deluge caused water to flow into the sewer system at a rate of up to 6in an hour, quickly overwhelming an aged network that was designed to accommodate just 1.75in an hour.Residents and commuters found themselves wading knee-deep throu",
+    "pubDate": "Mon, 25 May 2026 08:08:23 GMT",
+    "source": "卫报",
+    "category": "综合",
+    "summary": "纽约市布鲁克林和皇后区部分地区20分钟内降雨约50毫米，导致下水系统不堪重负，引发内涝。与此同时，欧洲正经历高温穹顶，法国气温打破5月纪录。"
+  },
+  {
+    "title": "‘A bridge, not an obstacle’: is Armenia a new crossroads between east and west?",
+    "link": "https://www.theguardian.com/world/2026/may/25/armenia-election-crossroads-between-east-west",
+    "description": "As former Soviet Republic goes to the polls, it finds itself in a strategic tug of war between Russia, the US, Turkey, Europe and AzerbaijanTo describe Yerevan, a charming city of liberal values encased in imposing Soviet architecture, as the centre of the world is a stretch, but Armenia’s claim that it can become the strategic crossroads of the landmass of Eurasia is becoming less and less fanciful. As the former Soviet Republic goes to the polls on 7 June for national elections, it finds itsel",
+    "pubDate": "Mon, 25 May 2026 07:40:46 GMT",
+    "source": "卫报",
+    "category": "综合",
+    "summary": "亚美尼亚正在进行大选，这个前苏联共和国正处于俄罗斯、美国、土耳其、欧洲和阿塞拜疆之间的战略拉锯中。首都埃里温兼具自由价值观与苏联建筑风格，成为东西方新枢纽的候选者。"
+  },
+  {
+    "title": "Opposition divided: battle among Iranian regime’s opponents plays out on London streets",
+    "link": "https://www.theguardian.com/world/2026/may/25/iran-regime-opponents-london-shah-pahlavi-mek",
+    "description": "Supporters of Reza Pahlavi, exiled son of the late shah, are clashing with those who oppose a return of monarchyWearing a bucket hat, a blue Adidas hoodie and khaki shorts, Tony Mohraz, also known as 021kid, chest-bumps a friend in front of a memorial wall in Golders Green, in north London.Photographs can be seen behind him of those who were killed protesting against the Iranian regime. As a large lion and sun flag used in Iran before the Islamic revolution is waved overhead, Mohraz starts to ra",
+    "pubDate": "Mon, 25 May 2026 08:00:20 GMT",
+    "source": "卫报",
+    "category": "综合",
+    "summary": "在伦敦，流亡伊朗国王之子Reza Pahlavi的支持者与反对君主制回归的人士发生冲突。代表不同立场的伊朗政权反对派在伦敦街头展开对抗。"
+  },
+  {
+    "title": "Trump to meet with US negotiators to decide on Iran’s ceasefire proposal",
+    "link": "https://www.theguardian.com/world/2026/may/23/iran-hosts-pakistani-delegation-diplomacy-to-avert-new-us-strikes",
+    "description": "US president says it’s a ‘solid 50/50’ on either making a ‘good’ deal with Iran or striking the country anewDonald Trump said he would meet today with American negotiators to review Iran’s latest proposal and decide by Sunday whether he will strike Iran “to kingdom come”.The US secretary of state, Marco Rubio, also told reporters in India on Saturday that “there may be news later today” about Iran. He did not specify what that news would be. Continue reading...",
+    "pubDate": "Sat, 23 May 2026 17:25:21 GMT",
+    "source": "卫报",
+    "category": "综合",
+    "summary": "US president says it’s a ‘solid 50/50’ on either making a ‘good’ deal with Iran or striking the country anewDonald Trump said he would meet today with"
+  },
+  {
+    "title": "Peter Murrell pleads guilty to embezzling £400,000 from SNP",
+    "link": "https://www.theguardian.com/uk-news/2026/may/25/peter-murrell-pleads-guilty-embezzlement-snp-scottish-national-party",
+    "description": "Ex-husband of Nicola Sturgeon admits reduced charges in court after deal with prosecutorsPeter Murrell, the former chief executive of the Scottish National party, has pleaded guilty to charges of embezzling £400,310.65 from the party after agreeing a deal with prosecutors.Murrell, the ex-husband of the former SNP leader and first minister Nicola Sturgeon, appeared in the high court in Edinburgh after being charged last year with stealing from the SNP to fund an expensive lifestyle including a Ja",
+    "pubDate": "Mon, 25 May 2026 09:53:30 GMT",
+    "source": "卫报",
+    "category": "综合",
+    "summary": "Ex-husband of Nicola Sturgeon admits reduced charges in court after deal with prosecutorsPeter Murrell, the former chief executive of the Scottish Nat"
+  },
+  {
+    "title": "Metro Bank investors urged to reject executive pay report",
+    "link": "https://www.theguardian.com/business/2026/may/25/metro-bank-investors-reject-executive-pay-report-bonus",
+    "description": "Bonus scheme that could hand CEO a £60m windfall is ‘significantly out of line’ with market, says proxy adviserInvestors in Metro Bank are being urged to vote against the lender’s pay report next month, in protest of a complex bonus scheme that shareholder advisers say is “significantly out of line” with market standards.Institutional Shareholder Services (ISS), which issues voting advice to some of the world’s biggest investors, made the recommendation weeks ahead of the bank’s annual meeting o",
+    "pubDate": "Mon, 25 May 2026 09:46:46 GMT",
+    "source": "卫报",
+    "category": "综合",
+    "summary": "Bonus scheme that could hand CEO a £60m windfall is ‘significantly out of line’ with market, says proxy adviserInvestors in Metro Bank are being urged"
+  },
+  {
+    "title": "Parts of England expected to hit 35C in ‘unprecedented’ May heatwave",
+    "link": "https://www.theguardian.com/uk-news/2026/may/25/uk-weather-35c-england-unprecedented-may-heatwave",
+    "description": "Monday predicted to be hottest May day on record by large margin, as UK braces for ‘super El Niño’ summerTemperatures are expected to hit 35C in parts of England on Monday, in an “unprecedented” May heatwave.The Met Office is already predicting that records will be broken. A spokesperson said: “Today will be the hottest day in May in the UK in our temperature records, with highs of 35C expected. The current May record is 32.8C. Records are usually only broken by tenths of a degree, making this h",
+    "pubDate": "Mon, 25 May 2026 09:22:14 GMT",
+    "source": "卫报",
+    "category": "综合",
+    "summary": "Monday predicted to be hottest May day on record by large margin, as UK braces for ‘super El Niño’ summerTemperatures are expected to hit 35C in parts"
+  },
+  {
+    "title": "Misinformation about perimenopause on social media ‘putting women at risk’",
+    "link": "https://www.theguardian.com/society/2026/may/25/misinformation-about-perimenopause-on-social-media-putting-women-at-risk",
+    "description": "Dangers include unintended pregnancies, taking unnecessary medication and missed diagnoses, say expertsMisinformation about perimenopause is putting women at risk of unintended pregnancies, unnecessary medication and missed diagnoses, experts have said.Awareness of menopause and treatments such as hormone replacement therapy (HRT) has been raised by efforts including a prominent documentary by Davina McCall. Continue reading...",
+    "pubDate": "Mon, 25 May 2026 09:00:22 GMT",
+    "source": "卫报",
+    "category": "综合",
+    "summary": "Dangers include unintended pregnancies, taking unnecessary medication and missed diagnoses, say expertsMisinformation about perimenopause is putting w"
+  },
+  {
+    "title": "Focus on jobs, not benefits, to cut welfare bill, says thinktank",
+    "link": "https://www.theguardian.com/money/2026/may/25/jobs-not-benefits-cut-welfare-bill-joseph-rowntree-foundation",
+    "description": "Hitting government’s target of getting 80% of workers into jobs would reduce cost of universal credit by £10bnTackling the root causes of joblessness, instead of cutting benefits, is the best way to get the welfare bill down, and polling shows voters support that approach, according to research by the Joseph Rowntree Foundation.In a forthcoming report, JRF economists show that hitting the government’s target of getting 80% of the working age population into jobs would cut the cost of universal c",
+    "pubDate": "Mon, 25 May 2026 08:00:20 GMT",
+    "source": "卫报",
+    "category": "综合",
+    "summary": "英国约瑟夫·朗特里基金会研究称，解决失业根源问题而非削减福利才是降低福利支出的最佳途径。报告指出，实现政府80%就业率目标可将通用信贷成本削减100亿英镑。民意调查显示，59%的选民支持通过解决失业根源来长期减少福利支出，而非快速削减福利资格或降低发放金额。报告呼吁政府优先建设社会住房、改善公共卫生和振兴地区经济。"
   }
 ]
