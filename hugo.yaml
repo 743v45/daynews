@@ -1,4 +1,4 @@
-baseURL: 'https://taevas.github.io/daily-news/'
+baseURL: 'https://743v45.github.io/daynews/'
 locale: zh-cn
 title: '每日新闻'
 theme: PaperMod
@@ -11,7 +11,7 @@ params:
   ShowReadingTime: false
   ShowShareButtons: false
   ShowPostNavLinks: false
-  ShowBreadCrumbs: false
+  ShowBreadCrumbs: true
   ShowCodeCopyButtons: false
   ShowWordCount: false
   ShowRssButtonInSectionTermList: false
