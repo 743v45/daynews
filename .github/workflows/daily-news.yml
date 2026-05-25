@@ -19,6 +19,8 @@ permissions:
 jobs:
   # 定义一个任务：抓取新闻并部署网站
   fetch-and-deploy:
+    # 避免 bot 自身的 push 触发重复运行
+    if: ${{ github.event_name != 'push' || github.actor != 'github-actions[bot]' }}
     runs-on: ubuntu-latest  # 在 Ubuntu 虚拟机上运行
     concurrency:
       group: pages           # 同一时间只有一个部署任务运行
@@ -94,6 +96,7 @@ jobs:
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add articles/ content/news/
           git diff --staged --quiet || git commit -m "chore: daily news update [skip ci]"
+          git pull --rebase origin master
           git push
 
       # 12. 用 Hugo 构建静态网站，输出到 public 目录
