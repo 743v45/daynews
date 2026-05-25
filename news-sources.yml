@@ -40,7 +40,7 @@ sources:
 # AI 总结配置
 summary:
   # 调用 opencode 使用的模型
-  model: "opencode/qwen3.6-plus-free"
+  model: "opencode/deepseek-v4-flash-free"
   # 摘要语言
   language: "zh-cn"
   # 每篇文章最大摘要字数

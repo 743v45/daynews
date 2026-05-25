@@ -77,7 +77,7 @@ async function main() {
     config = JSON.parse(configText);
   } catch {
     config = {
-      model: "opencode/qwen3.6-plus-free",
+      model: "opencode/deepseek-v4-flash-free",
       language: "zh-cn",
       max_summary_length: 150,
       batch_size: 5,
@@ -107,7 +107,7 @@ async function main() {
     console.error(`\nBatch ${b + 1}/${batches.length} (${batch.length} articles)...`);
 
     const prompt = buildBatchPrompt(batch, config);
-    const summaryModel = config.model || "opencode/qwen3.6-plus-free";
+    const summaryModel = config.model || "opencode/deepseek-v4-flash-free";
 
     try {
       const output = await callOpencode(prompt, summaryModel);
