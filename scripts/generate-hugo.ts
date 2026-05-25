@@ -47,11 +47,9 @@ function generateMarkdown(article: Article): string {
   const displayDate = formatDisplayDate(article.pubDate);
   const summary = article.summary || article.description.slice(0, 150);
 
-  const content = `**来源**: [${article.source}](${article.link})  
-**日期**: ${displayDate}  
-**分类**: ${article.category}
+  const content = `${summary}
 
-${summary}
+<!--more-->
 
 ---
 
