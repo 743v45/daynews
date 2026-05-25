@@ -79,11 +79,15 @@ jobs:
         env:
           OPENCODE_NO_AUTO_EXECUTE: '1'
 
-      # 9. 根据摘要生成 Hugo 所需的 Markdown 文件
+      # 9. 展示 opencode 使用统计
+      - name: Show opencode stats
+        run: opencode stats
+
+      # 10. 根据摘要生成 Hugo 所需的 Markdown 文件
       - name: Generate Hugo content
         run: deno run --allow-read --allow-write scripts/generate-hugo.ts
 
-      # 10. 将生成的 JSON 数据和 Hugo 内容提交到仓库
+      # 11. 将生成的 JSON 数据和 Hugo 内容提交到仓库
       - name: Commit changes
         run: |
           git config user.name "github-actions[bot]"
@@ -92,23 +96,23 @@ jobs:
           git diff --staged --quiet || git commit -m "chore: daily news update [skip ci]"
           git push
 
-      # 11. 用 Hugo 构建静态网站，输出到 public 目录
+      # 12. 用 Hugo 构建静态网站，输出到 public 目录
       - name: Build Hugo site
         run: hugo --minify --destination public
 
-      # 12. 配置 GitHub Pages 部署
+      # 13. 配置 GitHub Pages 部署
       - name: Setup Pages
         uses: actions/configure-pages@v5
         with:
           enablement: true  # 自动启用 GitHub Pages
 
-      # 13. 将构建好的 public 目录上传为部署 artifact
+      # 14. 将构建好的 public 目录上传为部署 artifact
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v3
         with:
           path: public
 
-      # 14. 部署到 GitHub Pages，生成公开访问的网站
+      # 15. 部署到 GitHub Pages，生成公开访问的网站
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
