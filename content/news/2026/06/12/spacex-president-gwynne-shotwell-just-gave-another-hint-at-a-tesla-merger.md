@@ -1,0 +1,17 @@
+---
+title: "SpaceX president Gwynne Shotwell just gave another hint at a Tesla merger"
+date: 2026-06-12T19:28:00+08:00
+source: "TechCrunch"
+sourceUrl: "https://techcrunch.com/2026/06/12/spacex-president-gwynne-shotwell-just-gave-another-hint-at-a-tesla-merger/"
+category: "科技"
+slug: "spacex-president-gwynne-shotwell-just-gave-another-hint-at-a-tesla-merger"
+---
+
+SpaceX 总裁 Gwynne Shotwell 再次暗示与特斯拉合并的可能性，市场认为 SpaceX 与特斯拉的合并似乎已不可避免。
+
+<!--more-->
+
+---
+
+[阅读原文 →](https://techcrunch.com/2026/06/12/spacex-president-gwynne-shotwell-just-gave-another-hint-at-a-tesla-merger/)
+
