@@ -1,0 +1,17 @@
+---
+title: "‘Period tax’ on sanitary products to be abolished, says Pakistan minister"
+date: 2026-06-17T12:46:00+08:00
+source: "卫报"
+sourceUrl: "https://www.theguardian.com/global-development/2026/jun/17/period-tax-sanitary-products-abolished-pakistan-minister"
+category: "综合"
+slug: "period-tax-on-sanitary-products-to-be-abolished-says-pakistan-minister"
+---
+
+巴基斯坦财政部长穆罕默德·奥朗则布宣布计划废除卫生巾“经期税”。活动人士对此表示欢迎，但称消除经期贫困的工作“远未结束”。此前年轻活动人士曾就此费用将政府诉至法院。
+
+<!--more-->
+
+---
+
+[阅读原文 →](https://www.theguardian.com/global-development/2026/jun/17/period-tax-sanitary-products-abolished-pakistan-minister)
+
