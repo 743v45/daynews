@@ -1,0 +1,17 @@
+---
+title: "英国拟强制Meta、YouTube等平台推送更多本地新闻内容"
+date: 2026-06-20T07:33:00+08:00
+source: "36氪"
+sourceUrl: "https://36kr.com/newsflashes/3861056590222342?f=rss"
+category: "科技"
+slug: "metayoutube"
+---
+
+多位接近谈判的匿名人士报道，英国政府计划强制YouTube、Meta等社交媒体平台提升本地新闻内容的曝光权重。政府预计最早于本月就相关规则展开公众咨询，要求BBC、ITV、Channel 4等公共服务广播机构增加新闻内容供给。相关规则也可能延伸至全国性及区域性报纸。细节仍在最终敲定中。 （财联社）
+
+<!--more-->
+
+---
+
+[阅读原文 →](https://36kr.com/newsflashes/3861056590222342?f=rss)
+
