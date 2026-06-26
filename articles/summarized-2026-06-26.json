@@ -1,0 +1,1604 @@
+[
+  {
+    "title": "The National Parks Were Reportedly Told to Stay Silent on Deaths",
+    "link": "https://www.outsideonline.com/outdoor-adventure/environment/nps-internal-memo-deaths/?link_source=ta_first_comment&taid=6a3dae4f4d2dce00016deef8&utm_content=trueanthem&utm_medium=social&utm_source=facebook",
+    "description": "Article URL: https://www.outsideonline.com/outdoor-adventure/environment/nps-internal-memo-deaths/?link_source=ta_first_comment&taid=6a3dae4f4d2dce00016deef8&utm_content=trueanthem&utm_medium=social&utm_source=facebook\nComments URL: https://news.ycombinator.com/item?id=48692098\nPoints: 9\n# Comments: 0",
+    "pubDate": "Fri, 26 Jun 2026 21:19:20 +0000",
+    "source": "Hacker News",
+    "category": "科技",
+    "summary": "据《华盛顿邮报》报道，美国内政部下发内部备忘录，禁止国家公园管理局工作人员公开报告园区内发生的死亡或重伤事件。专家指出，此举可能削弱公众知情权，增加游客安全风险，引发外界对透明度的担忧。"
+  },
+  {
+    "title": "A C++ implementation of a fast hash map and hash set using hopscotch hashing",
+    "link": "https://github.com/Tessil/hopscotch-map",
+    "description": "Article URL: https://github.com/Tessil/hopscotch-map\nComments URL: https://news.ycombinator.com/item?id=48692090\nPoints: 14\n# Comments: 0",
+    "pubDate": "Fri, 26 Jun 2026 21:18:28 +0000",
+    "source": "Hacker News",
+    "category": "科技",
+    "summary": "Tessil 在 GitHub 上开源了 hopscotch-map 库，这是一个基于 hopscotch hashing 和开放寻址法的 C++ 哈希映射与哈希集合实现。它是仅头文件的库，性能优于 std::unordered_map，内存占用小于 google::dense_hash_map，并支持异构查找等功能。"
+  },
+  {
+    "title": "The gap between open weights LLMs and closed source LLMs",
+    "link": "https://blog.doubleword.ai/frontier-os-llm",
+    "description": "Article URL: https://blog.doubleword.ai/frontier-os-llm\nComments URL: https://news.ycombinator.com/item?id=48692058\nPoints: 16\n# Comments: 8",
+    "pubDate": "Fri, 26 Jun 2026 21:14:47 +0000",
+    "source": "Hacker News",
+    "category": "科技",
+    "summary": "文章分析了开源与闭源大语言模型之间的性能差距。综合多基准测试显示，开源模型在编程能力上已大幅追赶，差距缩至1-2个月；但其他领域的平均落后幅度仍稳定在约5个月，且未呈现缩小趋势，说明评估维度不同结论差异巨大。"
+  },
+  {
+    "title": "Hightouch (YC S19) Is Hiring",
+    "link": "https://hightouch.com/careers#open-positions",
+    "description": "Article URL: https://hightouch.com/careers#open-positions\nComments URL: https://news.ycombinator.com/item?id=48691893\nPoints: 0\n# Comments: 0",
+    "pubDate": "Fri, 26 Jun 2026 21:00:50 +0000",
+    "source": "Hacker News",
+    "category": "科技",
+    "summary": "Hightouch（YC S19 成员）正在招聘。该公司专注于数据集成领域，相关职位信息可在其官网 careers 页面查看。"
+  },
+  {
+    "title": "PlayStation Is Deleting 551 Movies from Customers' Accounts",
+    "link": "https://kotaku.com/playstation-store-movies-digital-studio-canal-terminator-2000711013",
+    "description": "Article URL: https://kotaku.com/playstation-store-movies-digital-studio-canal-terminator-2000711013\nComments URL: https://news.ycombinator.com/item?id=48691346\nPoints: 30\n# Comments: 8",
+    "pubDate": "Fri, 26 Jun 2026 20:07:18 +0000",
+    "source": "Hacker News",
+    "category": "科技",
+    "summary": "索尼 PlayStation 通知用户，因内容许可协议变更，将于 9 月 1 日从用户账户中删除 551 部此前购买的 StudioCanal 电影（包括《终结者2》《第一滴血》等），且未提及退款或补偿，再次引发关于数字内容所有权的讨论。"
+  },
+  {
+    "title": "Long Wave radio era set to end with Droitwich switch-off",
+    "link": "https://www.bbc.com/news/articles/c74yn7v7k4qo",
+    "description": "Article URL: https://www.bbc.com/news/articles/c74yn7v7k4qo\nComments URL: https://news.ycombinator.com/item?id=48690709\nPoints: 17\n# Comments: 4",
+    "pubDate": "Fri, 26 Jun 2026 19:12:20 +0000",
+    "source": "Hacker News",
+    "category": "科技",
+    "summary": "Article URL: https://www.bbc.com/news/articles/c74yn7v7k4qo\nComments URL: https://news.ycombinator.com/item?id=48690709\nPoints: 17\n# Comments: 4"
+  },
+  {
+    "title": "Gossamer: a Rust-flavoured language with real goroutines and pause-free memory",
+    "link": "https://gossamer-lang.org/",
+    "description": "Article URL: https://gossamer-lang.org/\nComments URL: https://news.ycombinator.com/item?id=48690231\nPoints: 48\n# Comments: 39",
+    "pubDate": "Fri, 26 Jun 2026 18:32:22 +0000",
+    "source": "Hacker News",
+    "category": "科技",
+    "summary": "Article URL: https://gossamer-lang.org/\nComments URL: https://news.ycombinator.com/item?id=48690231\nPoints: 48\n# Comments: 39"
+  },
+  {
+    "title": "Slisp: Simple Lisp compiler (Linux/amd64)",
+    "link": "https://github.com/skx/slisp",
+    "description": "Article URL: https://github.com/skx/slisp\nComments URL: https://news.ycombinator.com/item?id=48690200\nPoints: 43\n# Comments: 1",
+    "pubDate": "Fri, 26 Jun 2026 18:30:11 +0000",
+    "source": "Hacker News",
+    "category": "科技",
+    "summary": "Article URL: https://github.com/skx/slisp\nComments URL: https://news.ycombinator.com/item?id=48690200\nPoints: 43\n# Comments: 1"
+  },
+  {
+    "title": "U.S. government will decide who gets to use GPT-5.6",
+    "link": "https://www.washingtonpost.com/technology/2026/06/26/openai-says-us-government-will-vet-users-its-latest-ai-model/",
+    "description": "https://archive.ph/PCQQl\n\nComments URL: https://news.ycombinator.com/item?id=48690101\nPoints: 569\n# Comments: 717",
+    "pubDate": "Fri, 26 Jun 2026 18:23:14 +0000",
+    "source": "Hacker News",
+    "category": "科技",
+    "summary": "https://archive.ph/PCQQl\n\nComments URL: https://news.ycombinator.com/item?id=48690101\nPoints: 569\n# Comments: 717"
+  },
+  {
+    "title": "Pre-Modern Armies for Worldbuilders, Part III: Paying for It",
+    "link": "https://acoup.blog/2026/06/26/collections-pre-modern-armies-for-worldbuilders-part-iii-paying-for-it/",
+    "description": "Article URL: https://acoup.blog/2026/06/26/collections-pre-modern-armies-for-worldbuilders-part-iii-paying-for-it/\nComments URL: https://news.ycombinator.com/item?id=48689859\nPoints: 20\n# Comments: 1",
+    "pubDate": "Fri, 26 Jun 2026 18:04:05 +0000",
+    "source": "Hacker News",
+    "category": "科技",
+    "summary": "Article URL: https://acoup.blog/2026/06/26/collections-pre-modern-armies-for-worldbuilders-part-iii-paying-for-it/\nComments URL: https://news.ycombina"
+  },
+  {
+    "title": "Webradio server – broadcasts audio source to clients",
+    "link": "https://github.com/tau-org/tau-tower",
+    "description": "Article URL: https://github.com/tau-org/tau-tower\nComments URL: https://news.ycombinator.com/item?id=48689760\nPoints: 9\n# Comments: 2",
+    "pubDate": "Fri, 26 Jun 2026 17:57:06 +0000",
+    "source": "Hacker News",
+    "category": "科技",
+    "summary": "tau-tower 是一个开源 Webradio 服务器项目，功能是将音频源广播到客户端。项目托管在 GitHub 上，供开发者自建网络电台服务。"
+  },
+  {
+    "title": "What Is a Nomogram and Why Would It Interest Me?",
+    "link": "https://lefakkomies.github.io/pynomo-doc/introduction/introduction.html#what-is-a-nomogram-and-why-would-it-interest-me",
+    "description": "Article URL: https://lefakkomies.github.io/pynomo-doc/introduction/introduction.html#what-is-a-nomogram-and-why-would-it-interest-me\nComments URL: https://news.ycombinator.com/item?id=48689277\nPoints: 49\n# Comments: 13",
+    "pubDate": "Fri, 26 Jun 2026 17:24:25 +0000",
+    "source": "Hacker News",
+    "category": "科技",
+    "summary": "Nomogram（诺模图）是一种图形化计算工具，通过读取标尺上的值来求解数学关系，无需复杂运算。文章介绍了其原理、历史及在现代数据可视化中的实用价值。"
+  },
+  {
+    "title": "Data centers trigger voter backlash",
+    "link": "https://www.newsweek.com/cost-me-the-election-data-centers-trigger-voter-backlash-12118327",
+    "description": "Article URL: https://www.newsweek.com/cost-me-the-election-data-centers-trigger-voter-backlash-12118327\nComments URL: https://news.ycombinator.com/item?id=48689275\nPoints: 121\n# Comments: 184",
+    "pubDate": "Fri, 26 Jun 2026 17:24:21 +0000",
+    "source": "Hacker News",
+    "category": "科技",
+    "summary": "数据中心建设引发美国选民反弹，因其消耗大量电力和水资源、抬高能源成本并影响环境。多地居民抗议新项目，数据中心已成为地方选举中的敏感议题。"
+  },
+  {
+    "title": "Previewing GPT‑5.6 Sol: a next-generation model",
+    "link": "https://openai.com/index/previewing-gpt-5-6-sol/",
+    "description": "System card: https://deploymentsafety.openai.com/gpt-5-6-preview\n\nComments URL: https://news.ycombinator.com/item?id=48689028\nPoints: 656\n# Comments: 401",
+    "pubDate": "Fri, 26 Jun 2026 17:06:55 +0000",
+    "source": "Hacker News",
+    "category": "科技",
+    "summary": "OpenAI 发布 GPT‑5.6 Sol 预览系统卡，介绍新一代模型的能力、安全评估及部署策略。该模型在推理、多模态等方面有显著提升，引发社区广泛讨论。"
+  },
+  {
+    "title": "Liva AI (YC S25) Is Hiring",
+    "link": "https://www.ycombinator.com/companies/liva-ai/jobs/gvtc3Ep-founding-operations-lead",
+    "description": "Article URL: https://www.ycombinator.com/companies/liva-ai/jobs/gvtc3Ep-founding-operations-lead\nComments URL: https://news.ycombinator.com/item?id=48688961\nPoints: 0\n# Comments: 0",
+    "pubDate": "Fri, 26 Jun 2026 17:00:43 +0000",
+    "source": "Hacker News",
+    "category": "科技",
+    "summary": "Liva AI（YC S25 批次）正在招聘创始运营负责人。公司面向 AI 领域，职位要求候选人具备早期创业公司运营经验，推动公司从 0 到 1 增长。"
+  },
+  {
+    "title": "Show HN: Smart model routing directly in Claude, Codex and Cursor",
+    "link": "https://github.com/workweave/router",
+    "description": "We built a model router that plugs into coding agents (e.g. Claude Code, Codex, Cursor, etc.) and intelligently sends requests to the best model to serve them. Here's a quick demo of running it locally: https://www.youtube.com/watch?v=isKhAyivtfM.At Weave, we write most of our code with AI, and it's been getting more expensive. This came to a head when Opus 4.7 was released and, thanks to its tokenizer changes, our costs shot up. We knew we didn't need Opus for everything but we didn't want to l",
+    "pubDate": "Fri, 26 Jun 2026 16:40:11 +0000",
+    "source": "Hacker News",
+    "category": "科技",
+    "summary": "Weave 团队构建了一个智能模型路由器，可集成到 Claude Code、Codex、Cursor 等编码代理中，自动将请求路由到最合适的 AI 模型，以优化代码生成效果。"
+  },
+  {
+    "title": "What is a Lithium-ion capacitor?",
+    "link": "https://www.jtekt.co.jp/e/products/capacitor/capacitor_about.html",
+    "description": "Article URL: https://www.jtekt.co.jp/e/products/capacitor/capacitor_about.html\nComments URL: https://news.ycombinator.com/item?id=48688081\nPoints: 42\n# Comments: 21",
+    "pubDate": "Fri, 26 Jun 2026 15:51:19 +0000",
+    "source": "Hacker News",
+    "category": "科技",
+    "summary": "锂离子电容器是一种混合储能器件，兼具锂离子电池的高能量密度和传统电容器的快速充放电、长寿命特性，适用于需要高功率输出的场景。"
+  },
+  {
+    "title": "Jolla Phone (October 2026)",
+    "link": "https://commerce.jolla.com/products/jolla-phone-october-2026",
+    "description": "Article URL: https://commerce.jolla.com/products/jolla-phone-october-2026\nComments URL: https://news.ycombinator.com/item?id=48687272\nPoints: 264\n# Comments: 142",
+    "pubDate": "Fri, 26 Jun 2026 14:46:00 +0000",
+    "source": "Hacker News",
+    "category": "科技",
+    "summary": "Jolla 宣布将于 2026 年 10 月推出新款手机，延续其基于 Sailfish OS 的独立移动生态路线，获得 264 点赞和 142 条评论，引发社区关注。"
+  },
+  {
+    "title": "Springer Nature has removed two studies by Max Planck",
+    "link": "https://www.science.org/content/article/why-have-papers-one-history-s-most-famous-physicists-been-retracted",
+    "description": "Article URL: https://www.science.org/content/article/why-have-papers-one-history-s-most-famous-physicists-been-retracted\nComments URL: https://news.ycombinator.com/item?id=48686834\nPoints: 320\n# Comments: 151",
+    "pubDate": "Fri, 26 Jun 2026 14:10:26 +0000",
+    "source": "Hacker News",
+    "category": "科技",
+    "summary": "Springer Nature 撤回了马克斯·普朗克的两篇研究论文。《科学》杂志发文探讨撤稿原因，该事件获得 320 点赞和 151 条评论，在学术界引发广泛讨论。"
+  },
+  {
+    "title": "Incident CVE-2026-LGTM",
+    "link": "https://nesbitt.io/2026/06/26/incident-report-cve-2026-lgtm.html",
+    "description": "Article URL: https://nesbitt.io/2026/06/26/incident-report-cve-2026-lgtm.html\nComments URL: https://news.ycombinator.com/item?id=48686093\nPoints: 481\n# Comments: 82",
+    "pubDate": "Fri, 26 Jun 2026 12:58:07 +0000",
+    "source": "Hacker News",
+    "category": "科技",
+    "summary": "一篇安全事件报告披露了编号为 CVE-2026-LGTM 的漏洞，详细描述了发现与利用过程。该帖获得 481 点赞，引发安全社区对漏洞披露机制的关注。"
+  },
+  {
+    "title": "Corgi, the buzzy Y Combinator-backed insurance tech startup, says it didn&#8217;t steal an open source product",
+    "link": "https://techcrunch.com/2026/06/26/corgi-the-buzzy-y-combinator-backed-insurance-tech-startup-says-it-didnt-steal-an-open-source-product/",
+    "description": "Corgi became embroiled in  controversy when Papermark accused it of stealing its software. Corgi says it did not, raising new questions about vibe coding.",
+    "pubDate": "Fri, 26 Jun 2026 22:00:37 +0000",
+    "source": "TechCrunch",
+    "category": "科技",
+    "summary": "YC支持的保险科技初创公司Corgi被Papermark指控窃取其开源软件，Corgi否认并引发关于vibe coding的新争议。"
+  },
+  {
+    "title": "Novak Djokovic has a new job —  advisor to private equity firm General Atlantic",
+    "link": "https://techcrunch.com/2026/06/26/novak-djokovic-has-a-new-job-advisor-to-private-equity-firm-general-atlantic/",
+    "description": "General Atlantic has tapped tennis legend Novak Djokovic to serve as a global strategic advisor.",
+    "pubDate": "Fri, 26 Jun 2026 19:13:40 +0000",
+    "source": "TechCrunch",
+    "category": "科技",
+    "summary": "网坛传奇德约科维奇获得新职位——担任私募股权公司General Atlantic的全球战略顾问。"
+  },
+  {
+    "title": "OpenAI limits GPT-5.6 rollout after government request, says restrictions shouldn’t be the norm",
+    "link": "https://techcrunch.com/2026/06/26/openai-limits-gpt-5-6-rollout-after-government-request-says-restrictions-shouldnt-be-the-norm/",
+    "description": "“We don’t believe this kind of government access process should become the long-term default,” says OpenAI. “It keeps the best tools from users, developers, enterprises, cyber defenders, and global partners who need them.”",
+    "pubDate": "Fri, 26 Jun 2026 18:32:14 +0000",
+    "source": "TechCrunch",
+    "category": "科技",
+    "summary": "OpenAI应政府要求限制GPT-5.6的发布，但表示此类政府准入流程不应成为长期常态，否则会阻碍最佳工具的使用。"
+  },
+  {
+    "title": "OpenAI poaches Uber India chief to lead its biggest market outside the US",
+    "link": "https://techcrunch.com/2026/06/26/openai-poaches-uber-india-chief-to-lead-its-biggest-market-outside-the-u-s/",
+    "description": "The hire marks OpenAI's latest push into India, expanding offices, partnerships and hiring.",
+    "pubDate": "Fri, 26 Jun 2026 18:19:36 +0000",
+    "source": "TechCrunch",
+    "category": "科技",
+    "summary": "OpenAI从Uber挖来印度负责人，以领导其美国以外最大市场，标志着OpenAI在印度扩张的最新动作。"
+  },
+  {
+    "title": "Why everyone from OpenAI to SpaceX is building their own chips (and turning up the heat on Nvidia)",
+    "link": "https://techcrunch.com/video/why-everyone-from-openai-to-spacex-is-building-their-own-chips-and-turning-up-the-heat-on-nvidia/",
+    "description": "Nvidia has dominated the AI chip market for years, but the era of total dependence might be ending.&#160;&#160; OpenAI just shared its plans to spice things up with&#160;Jalapeño, its custom inference chip built with Broadcom, joining Google, Apple, and SpaceX in a growing list of companies building their way out of single-supplier risk. The goal&#160;is&#160;less&#160;of&#160;a [&#8230;]",
+    "pubDate": "Fri, 26 Jun 2026 17:43:22 +0000",
+    "source": "TechCrunch",
+    "category": "科技",
+    "summary": "从OpenAI到SpaceX，各大公司纷纷自研芯片减少对英伟达依赖。OpenAI宣布与博通合作打造定制推理芯片Jalapeño。"
+  },
+  {
+    "title": "Russian hackers were behind $2.5B hack of Jaguar Land Rover: Report",
+    "link": "https://techcrunch.com/2026/06/26/russian-hackers-were-behind-2-5-billion-hack-of-jaguar-land-rover-report/",
+    "description": "The hack on car giant Jaguar Land Rover last year was one of the most disrupting, damaging, and costly hacks of the last few years.",
+    "pubDate": "Fri, 26 Jun 2026 17:29:29 +0000",
+    "source": "TechCrunch",
+    "category": "科技",
+    "summary": "报告称，去年针对捷豹路虎的网络攻击由俄罗斯黑客组织实施，造成约25亿美元损失，是近年来最具破坏性和成本最高的黑客事件之一。"
+  },
+  {
+    "title": "Tesla settles FSD crash lawsuit as federal investigations continue",
+    "link": "https://techcrunch.com/2026/06/26/tesla-settles-fsd-crash-lawsuit-as-federal-investigations-continue/",
+    "description": "The lawsuit was connected to a fatal 2023 crash involving a vehicle using the company's advanced driver assistance system known as Full Self-Driving.",
+    "pubDate": "Fri, 26 Jun 2026 16:32:55 +0000",
+    "source": "TechCrunch",
+    "category": "科技",
+    "summary": "特斯拉就一起涉及其全自动驾驶（FSD）系统的致命车祸诉讼达成和解，该事故发生于2023年。与此同时，联邦对该系统的调查仍在进行中。"
+  },
+  {
+    "title": "TikTok&#8217;s road to becoming a super app",
+    "link": "https://techcrunch.com/2026/06/26/tiktoks-road-to-becoming-a-super-app/",
+    "description": "TikTok may be working to become the app that people use for most of their digital activities.",
+    "pubDate": "Fri, 26 Jun 2026 16:29:48 +0000",
+    "source": "TechCrunch",
+    "category": "科技",
+    "summary": "TikTok正致力于转型为超级应用，覆盖用户大部分数字活动需求，包括社交、购物、支付等，以拓展其生态系统。"
+  },
+  {
+    "title": "It&#8217;s not about Anthropic vs. OpenAI anymore",
+    "link": "https://techcrunch.com/2026/06/26/its-not-about-anthropic-vs-openai-anymore/",
+    "description": "AI models have progressed to the point where their capabilities have real political consequences. Dealing with those consequences will require collective action.",
+    "pubDate": "Fri, 26 Jun 2026 16:24:47 +0000",
+    "source": "TechCrunch",
+    "category": "科技",
+    "summary": "AI模型能力已发展到足以产生实质性政治后果的阶段。竞争焦点已从模型之间的较量转向如何通过集体行动应对这些后果。"
+  },
+  {
+    "title": "Xprize founder says &#8216;humans behave better when they’re being watched&#8217;",
+    "link": "https://techcrunch.com/2026/06/26/xprize-founder-says-humans-behave-better-when-theyre-being-watched/",
+    "description": "Peter Diamandis is the latest tech executive to argue that global surveillance will make the world a better place, following Larry Ellison's comments in 2024.",
+    "pubDate": "Fri, 26 Jun 2026 15:46:05 +0000",
+    "source": "TechCrunch",
+    "category": "科技",
+    "summary": "Xprize创始人彼得·迪亚曼迪斯表示，人类在被监视时会表现得更好，成为继拉里·埃里森之后又一位主张全球监控将改善世界的科技高管。"
+  },
+  {
+    "title": "Robotaxis drive miles just to get cleaned and charged; this new startup wants to fix that",
+    "link": "https://techcrunch.com/2026/06/26/this-silicon-valley-startup-has-raised-10m-to-build-pitstops-to-clean-and-charge-robotaxis/",
+    "description": "Aseon Labs, which came out of Y Combinator's 2026 spring cohort, has raised $10 million from Crane Venture Partners and others.",
+    "pubDate": "Fri, 26 Jun 2026 13:00:00 +0000",
+    "source": "TechCrunch",
+    "category": "科技",
+    "summary": "Aseon Labs, which came out of Y Combinator's 2026 spring cohort, has raised $10 million from Crane Venture Partners and others."
+  },
+  {
+    "title": "Early Bird pricing ends tonight for TechCrunch Founder Summit",
+    "link": "https://techcrunch.com/2026/06/26/early-bird-pricing-ends-tonight-for-techcrunch-founder-summit/",
+    "description": "Save up to $190 on your pass to TechCrunch Founder Summit 2026. Early Bird pricing ends today, at 11:59 p.m. PT, after which rates increase. Register now.",
+    "pubDate": "Fri, 26 Jun 2026 13:00:00 +0000",
+    "source": "TechCrunch",
+    "category": "科技",
+    "summary": "Save up to $190 on your pass to TechCrunch Founder Summit 2026. Early Bird pricing ends today, at 11:59 p.m. PT, after which rates increase. Register "
+  },
+  {
+    "title": "The White House is asking OpenAI to slow roll the release of its new model over safety concerns",
+    "link": "https://techcrunch.com/2026/06/25/the-white-house-is-asking-openai-to-slow-roll-the-release-of-its-new-model-over-safety-concerns/",
+    "description": "OpenAI reportedly plans to share its newest model, GPT 5.6, with a select group of partners instead of with the broader public. The reason: the Trump administration told it to.",
+    "pubDate": "Thu, 25 Jun 2026 23:34:39 +0000",
+    "source": "TechCrunch",
+    "category": "科技",
+    "summary": "OpenAI reportedly plans to share its newest model, GPT 5.6, with a select group of partners instead of with the broader public. The reason: the Trump "
+  },
+  {
+    "title": "YouTube Shorts are getting even shorter with an update that lets you double the playback speed",
+    "link": "https://techcrunch.com/2026/06/25/youtube-shorts-are-getting-even-shorter-with-an-update-that-lets-you-double-the-playback-speed/",
+    "description": "YouTube Shorts is getting a makeover.",
+    "pubDate": "Thu, 25 Jun 2026 22:02:12 +0000",
+    "source": "TechCrunch",
+    "category": "科技",
+    "summary": "YouTube Shorts is getting a makeover."
+  },
+  {
+    "title": "Patronus AI lands $50M to build ‘digital worlds’ that stress-test AI agents",
+    "link": "https://techcrunch.com/2026/06/25/patronus-ai-lands-50m-to-build-digital-worlds-that-stress-test-ai-agents/",
+    "description": "Agent-testing startup Patronus AI, founded by former Meta AI researchers, is experiencing nearly insatiable demand, its investor says.",
+    "pubDate": "Thu, 25 Jun 2026 20:19:25 +0000",
+    "source": "TechCrunch",
+    "category": "科技",
+    "summary": "Agent-testing startup Patronus AI, founded by former Meta AI researchers, is experiencing nearly insatiable demand, its investor says."
+  },
+  {
+    "title": "Polymarket says hackers stole users&#8217; funds",
+    "link": "https://techcrunch.com/2026/06/25/polymarket-says-hackers-stole-users-funds/",
+    "description": "The prediction market giant Polymarket said it's refunding users who had funds stolen due to a third-party breach.",
+    "pubDate": "Thu, 25 Jun 2026 19:58:46 +0000",
+    "source": "TechCrunch",
+    "category": "科技",
+    "summary": "预测市场巨头Polymarket表示，因第三方漏洞导致用户资金被盗，公司正在为受影响用户退款。"
+  },
+  {
+    "title": "Xbox follows Apple with price increases",
+    "link": "https://techcrunch.com/2026/06/25/xbox-follows-apple-with-price-increases/",
+    "description": "The company says the increases are being driven by rising memory and console storage prices, with costs more than 2.5x higher than previous levels.",
+    "pubDate": "Thu, 25 Jun 2026 19:39:55 +0000",
+    "source": "TechCrunch",
+    "category": "科技",
+    "summary": "Xbox效仿Apple提高产品价格，称内存和主机存储成本上涨超过2.5倍是涨价主因。"
+  },
+  {
+    "title": "Notion Mail shuts down amid agent takeover",
+    "link": "https://techcrunch.com/2026/06/25/notion-mail-shuts-down-amid-agent-takeover/",
+    "description": "The company said it is discontinuing its email inbox in favor of its AI agent offering as users are increasingly handing over the reins of their email to the agents.",
+    "pubDate": "Thu, 25 Jun 2026 19:14:46 +0000",
+    "source": "TechCrunch",
+    "category": "科技",
+    "summary": "Notion宣布停用其电子邮件收件箱功能，转向AI代理服务，因用户越来越多地将邮件交由代理处理。"
+  },
+  {
+    "title": "a16z-backed Base Power is offering cheaper electricity to the power grid that needs it most",
+    "link": "https://techcrunch.com/2026/06/25/a16z-backed-base-power-is-offering-cheaper-electricity-to-the-power-grid-that-needs-it-most/",
+    "description": "Base Power is skipping the PJM's troubled interconnection queue by placing its batteries at people's homes, offering backup services in exchange.",
+    "pubDate": "Thu, 25 Jun 2026 17:52:05 +0000",
+    "source": "TechCrunch",
+    "category": "科技",
+    "summary": "a16z支持的Base Power绕过PJM冗长的并网排队，将电池安装在用户家中，以提供备用电力服务换取更廉价的电力。"
+  },
+  {
+    "title": "Anthropic&#8217;s Claude is winning over paid consumers, a market owned by ChatGPT",
+    "link": "https://techcrunch.com/2026/06/25/anthropics-claude-is-winning-over-paid-consumers-a-market-owned-by-chatgpt/",
+    "description": "Despite ChatGPT's commanding market lead, consumers who pay for AI have been increasingly choosing Anthropic's Claude, data shows.",
+    "pubDate": "Thu, 25 Jun 2026 17:38:27 +0000",
+    "source": "TechCrunch",
+    "category": "科技",
+    "summary": "数据显示，尽管ChatGPT在AI市场占据主导地位，但越来越多的付费消费者开始选择Anthropic的Claude。"
+  },
+  {
+    "title": "氪星晚报 ｜智元旗下灵巧手估值10亿美元，成立仅5个月首季实现盈利；DeepSeek计划将所有部门规模扩大至少一倍",
+    "link": "https://36kr.com/p/3869884559332356?f=rss",
+    "description": "大公司：\n  五粮液：曾从钦无法正常履职离任，选举邓敏为公司董事长\n  36氪获悉，五粮液公告，因曾从钦无法正常履职，公司于2026年6月26日召开2025年度股东会，审议通过《关于免去董事及补选第七届董事会非独立董事的议案》，自本次股东会审议通过之日起，曾从钦不再担任公司董事职务，其担任的董事长、董事会专门委员会主任委员及委员职务一并自动解除（原定任期至公司第七届董事会日期届满之日即2028年6月19日止），离任后不在公司及控股子公司任职，其离任不会对公司正常经营产生影响。截至本公告披露日，曾从钦未持有公司股份，不存在应当履行而未履行的承诺事项。\n  京东大药房在烟台成立新公司\n  36氪获悉，天眼查App显示，近日，京东大药房（烟台）有限公司成立，法定代表人为张媛媛，注册资本10万人民币，经营范围包括药品零售、药品互联网信息服务、第三类医疗器械经营、医疗器械互联网信息服务等。股东信息显示，该公司由京东大药房（青岛）连锁有限公司全资持股。\n  SpaceX公司计划在美国市场推出“星链”零售产品，并建设自己的地面移动网络\n  据报道，埃隆·马斯克拥有的SpaceX公司计划为美国消费者推",
+    "pubDate": "2026-06-26 20:12:40  +0800",
+    "source": "36氪",
+    "category": "科技",
+    "summary": "大公司：\n  五粮液：曾从钦无法正常履职离任，选举邓敏为公司董事长\n  36氪获悉，五粮液公告，因曾从钦无法正常履职，公司于2026年6月26日召开2025年度股东会，审议通过《关于免去董事及补选第七届董事会非独立董事的议案》，自本次股东会审议通过之日起，曾从钦不再担任公司董事职务，其担任的董事长、"
+  },
+  {
+    "title": "《走进AIE》，谁是下一个主角",
+    "link": "https://36kr.com/p/3869838577620231?f=rss",
+    "description": "一展两地，链接全球 &nbsp; &nbsp;AIE 电子展成为龙头企业的必选舞台\n  全球智能制造产业加速演进，粤港澳大湾区正成为打造世界级科技展会的核心阵地。2026全球智能制造与电子产品博览会（AIE）依托大湾区完备的产业生态，致力于打造中国智能制造首发平台。\n  技术创新的源头既来自产业一线的龙头力量，也来自科研院所的前沿探索，更来自真实场景中的实战检验。为此，AIE 组委会联合南方财经、新华网、南方+等权威媒体，重磅推出《走进AIE》专题栏目，全维度挖掘产业、科研与场景应用的创新价值，彰显湾区智造硬实力，吸引全球产业资源加速汇聚。\n  走进企业，解码产业 用专业内容讲好\"中国智造\"\n  围绕行业前沿趋势，从实验室到生产线，从技术突破到关键场景落地，《走进AIE》全维度捕捉湾区智造的创新现场。《走进AIE》将走进行业龙头企业，解码技术创新与产业实践；也将走近科研院所对线一线专家，探寻技术前沿边界；走进应急救援、城市安全等容错率最低的关键场景，由一线操盘人讲述顶尖科技如何经受真实考验、真正跑起来。《走进AIE》通过专业媒体视角，持续带出独特的赛道故事与产业洞察，共同拼出大湾区智造",
+    "pubDate": "2026-06-26 18:28:31  +0800",
+    "source": "36氪",
+    "category": "科技",
+    "summary": "一展两地，链接全球 &nbsp; &nbsp;AIE 电子展成为龙头企业的必选舞台\n  全球智能制造产业加速演进，粤港澳大湾区正成为打造世界级科技展会的核心阵地。2026全球智能制造与电子产品博览会（AIE）依托大湾区完备的产业生态，致力于打造中国智能制造首发平台。\n  技术创新的源头既来自产业一线"
+  },
+  {
+    "title": "对话张亚勤：AI不是泡沫，但AI公司有泡沫",
+    "link": "https://36kr.com/p/3866837793952769?f=rss",
+    "description": "文 | 海若镜\n  访谈 | 海若镜 巴芮\n  6月盛夏，在清华无锡研究院智能产业创新中心，我们见到了张亚勤院士。他匆匆赶来，一进门，就建议让室内温度降得更低些。\n  访谈中，聊起当下具身智能、AI投资创业热潮，张亚勤也觉得应该降降温，“更冷静些，不要急躁”。\n  五年前，张亚勤创建了清华大学智能产业研究院（以下简称AIR)，聚集了多位有AI产业经验的知名教授。据介绍，如今AIR的第一届博士生已经毕业；这里孵化、走出的十家公司，累计“融资约150亿元，估值1500亿元”。其中，华深智药、它石智航等独角兽，在资本市场备受追捧。\n  1500亿估值是个亮眼数据，但张亚勤却告诉我们：AIR首要任务是做科研；孵化公司只是自然长出的副产品，多数公司正处在“证明能力”的阶段。\n  作为国内最年轻的IEEE fellow、中国工程院院士，张亚勤经历过技术革命和资本周期的潮起潮落。在他看来，当下AI所处阶段，像1998-1999年的互联网，正在大规模投资基建（电力+算力+算法）。长期看AI产业充满巨大潜力，“AI没有泡沫，但早期AI公司会有泡沫”，未来万亿市值巨头很可能不是眼前的明星公司。\n  202",
+    "pubDate": "2026-06-26 16:52:52  +0800",
+    "source": "36氪",
+    "category": "科技",
+    "summary": "文 | 海若镜\n  访谈 | 海若镜 巴芮\n  6月盛夏，在清华无锡研究院智能产业创新中心，我们见到了张亚勤院士。他匆匆赶来，一进门，就建议让室内温度降得更低些。\n  访谈中，聊起当下具身智能、AI投资创业热潮，张亚勤也觉得应该降降温，“更冷静些，不要急躁”。\n  五年前，张亚勤创建了清华大学智能产"
+  },
+  {
+    "title": "中科闻歌开盘暴涨81%，北京再增一家硬科技IPO",
+    "link": "https://36kr.com/p/3869622921041156?f=rss",
+    "description": "本文约900字，建议阅读2分钟\n  作者&nbsp;|&nbsp;彭孝秋\n  6月26日，中科闻歌（01956.HK）正式在港交所主板敲钟上市。开盘涨81.2%，报110港元，市值190亿港元。截至发稿，盘中最高125港元、最低110港元，振幅收窄至24.71%，换手率2.21%。按现价，一手账面浮盈1.08万港元，公司市值198.37港元。\n  \n  关于中科闻歌深度报道，可查看此前报道——中科院博士冲上市，市值超105亿港币。\n  在昨日下午先行的暗盘中，其以115.40港元收盘，较发行价60.70港元大涨90.12%，对应市值199.76亿港元（约合人民币175亿）。按每手200股算，一手账面浮盈约1.09万港元；盘中最高冲到128港元，上涨110.9%；最低85港元，上涨40%，振幅高达70.84%。整个暗盘成交额2.50亿港元、换手率1.32%。\n  中科闻歌大涨背后，是三股力量的共振：\n  一是港股打新大环境正热。2026年的港股打新堪称盛宴，新股首日上涨比例超过九成，市场风险偏好高，新股普遍享受情绪溢价。\n  二是AI概念加持。通用决策大模型第一股+国家队阵容股东，比如国",
+    "pubDate": "2026-06-26 14:24:40  +0800",
+    "source": "36氪",
+    "category": "科技",
+    "summary": "本文约900字，建议阅读2分钟\n  作者&nbsp;|&nbsp;彭孝秋\n  6月26日，中科闻歌（01956.HK）正式在港交所主板敲钟上市。开盘涨81.2%，报110港元，市值190亿港元。截至发稿，盘中最高125港元、最低110港元，振幅收窄至24.71%，换手率2.21%。按现价，一手账面浮"
+  },
+  {
+    "title": "历经13年，二手车交易平台大搜车终于登陆纳斯达克",
+    "link": "https://36kr.com/p/3869474592363528?f=rss",
+    "description": "北京时间&nbsp;&nbsp;2026 年 6 月 25 日，DSC Holdings Ltd.（以下简称\"大搜车\"或\"公司\"，纳斯达克代码：\"DSC\"）正式在美国纳斯达克全球市场挂牌交易，成为 2026 年首家赴美上市的中国企业。公司本次发行 3,000,000 份美国存托股份（ADS），发行价定为每股 ADS 17.00 美元，总发行规模约 5,100 万美元（未计超额配售权）。公司另授予承销商 30 天的超额配售权，可按发行价额外购买最多 450,000 份 ADS。\n  \n  大搜车在纳斯达克挂牌上市\n  大搜车创始人兼CEO姚军红在上市仪式上表示：“大搜车的发展历程是一个为他人解决问题、创造价值的故事。二手车流通是一个非常复杂的行业，参与者众多，且存在许多线下环节。大搜车用数字化和AI智能去改善二手车商的工作流，去消除行业内的交易摩擦，通过为别人创造价值而实现自我价值。大搜车坚持13年的战略没有改变过，也将一直坚持——推动中国二手车行业的数字化和智能化。”\n  本次大搜车发行的联席主承销商代表为 德意志银行（Deutsche Bank）、中金公司（CICC）以及 CR Gl",
+    "pubDate": "2026-06-26 13:38:23  +0800",
+    "source": "36氪",
+    "category": "科技",
+    "summary": "北京时间&nbsp;&nbsp;2026 年 6 月 25 日，DSC Holdings Ltd.（以下简称\"大搜车\"或\"公司\"，纳斯达克代码：\"DSC\"）正式在美国纳斯达克全球市场挂牌交易，成为 2026 年首家赴美上市的中国企业。公司本次发行 3,000,000 份美国存托股份（ADS），发行价"
+  },
+  {
+    "title": "戴宗宏和他的「工业世界模型」：一人两周，干完百人级定制化“累活”",
+    "link": "https://36kr.com/p/3869445453305090?f=rss",
+    "description": "文｜王欣逸\n  编辑｜周鑫雨\n  半年前，我们第一次和基点起源创始人兼&nbsp;CEO&nbsp;戴宗宏交流时，这家逆流入局&nbsp;B&nbsp;端定制化的AI公司，刚刚推进了&nbsp;7、8&nbsp;个项目。他从外界接受到最多的声音是质疑：“故事不够性感”、“定制化都是累活”。\n  半年后，基点对质疑声的回应，是数千万元的在手订单。\n  戴宗宏对《智能涌现》透露，基点起源的订单数翻了一番，订单合同金额较半年前提升了一个数量级，AI&nbsp;解决方案已经落地到了冶金、化工、精密制造、半导体、纺织等&nbsp;10&nbsp;多个行业。\n  伴随订单而来的，基点起源半年内完成3轮融资，融资金额数亿元。《智能涌现》独家获悉，国科投资、电控产投、上海半导体产投、建投投资、鑫和达、崇麟资本与硬核坚果资本，押注基点起源发展。\n  戴宗宏，AI To B&nbsp;领域的“老炮”。他曾是“AI&nbsp;六小虎”零一万物的联创，此前曾担任华为云&nbsp;AI CTO，落地过数百个定制化项目。\n  他曾告诉《智能涌现》，所谓的“定制化”，就是将企业沉淀在专家、业务数据中的&nbsp;K",
+    "pubDate": "2026-06-26 13:36:55  +0800",
+    "source": "36氪",
+    "category": "科技",
+    "summary": "文｜王欣逸\n  编辑｜周鑫雨\n  半年前，我们第一次和基点起源创始人兼&nbsp;CEO&nbsp;戴宗宏交流时，这家逆流入局&nbsp;B&nbsp;端定制化的AI公司，刚刚推进了&nbsp;7、8&nbsp;个项目。他从外界接受到最多的声音是质疑：“故事不够性感”、“定制化都是累活”。\n  半年"
+  },
+  {
+    "title": "年入27亿，一颗中国糖果拿捏「美国味」",
+    "link": "https://36kr.com/p/3868550907237636?f=rss",
+    "description": "作者 |&nbsp;谢芸子\n  编辑 | 张帆\n  在TikTok国际版，一条关于果汁剥皮软糖皮乐士Peelerz的测评视频，共获得点赞量258万。皮乐士Peelerz是阿麦斯Amos旗下的主打品牌。\n  走进美国的Costco或山姆会员店，阿麦斯几乎是货架上仅有的中国糖果。欧美会员店的选品口碑“回流”至国内。\n  打开中国山姆APP，阿麦斯旗下的两款产品Peelerz与“贝欧宝Biobor活性益生菌软糖”，位列“糖果热销榜单”第一、第二，月销量分别超过20万件及10万件。\n  品牌势能的积累在资本市场爆发。\n  不久前，阿麦斯向港交所递交招股书。据其援引的弗若斯特沙利文数据，按2025年零售额计算，阿麦斯是中国最大的糖果公司。若顺利过会，阿麦斯也将摘下“中国糖果第一股”的头衔。\n  但细看招股书，一个更复杂的故事浮出水面：这家年收入27亿元的中国糖果大王，一半以上的营收来自北美，本土市场的贡献不到四分之一。问题在于，全球消费的大环境已发生改变，阿麦斯在海外市场越成功，就越像一个中国市场的异乡人。\n  \n  图片来自TikTok截图\n  为美国货架而生\n  中国正式加入WTO后的头几年",
+    "pubDate": "2026-06-26 10:23:48  +0800",
+    "source": "36氪",
+    "category": "科技",
+    "summary": "作者 |&nbsp;谢芸子\n  编辑 | 张帆\n  在TikTok国际版，一条关于果汁剥皮软糖皮乐士Peelerz的测评视频，共获得点赞量258万。皮乐士Peelerz是阿麦斯Amos旗下的主打品牌。\n  走进美国的Costco或山姆会员店，阿麦斯几乎是货架上仅有的中国糖果。欧美会员店的选品口碑“回"
+  },
+  {
+    "title": "主题圆桌：我们永远赞美冒险 更早、更小、更下水｜36氪WAVES2026新浪潮",
+    "link": "https://36kr.com/p/3869378164397313?f=rss",
+    "description": "“2026年，创投圈的浪潮再次翻涌：AI从技术概念走进产业深水区，硬科技创业从“小众赛道” 变成“主流共识”，年轻的创业者们正在用代码和双手，重新定义中国创新的未来坐标。\n  每一年，由36氪 · 暗涌主办的WAVES大会，都是中国创投圈的年度风向标。今年的 WAVES 2026以“今年盛夏”为主题，落地广州番禺良仓新造创意园，在两天的时间里，我们汇聚了顶级投资人、产业领袖、新锐创业者，用14场深度圆桌、数十场独立演讲，拆解 AI、硬科技、出海、医疗等核心赛道的底层逻辑，见证那些“少数人” 的坚持，如何汇聚成改变行业的浪潮。”\n  以下为对话内容，经36氪整理编辑：\n  \n  陆海涛｜华义创投 业务合伙人（主持）\n  刘元｜真格基金 管理合伙人\n  徐诗｜山行资本 创始合伙人\n  林海卓｜卓源亚洲 创始合伙人\n  徐之浩｜明势创投 合伙人\n  陆海涛：大家好！很高兴能够受到36氪邀请担任本场圆桌的主持，也很高兴能跟在场各位大咖一起探讨一下比较好的话题，叫做我们永远赞美冒险，如何去投更早、更小、更水下。首先请各位嘉宾先简单介绍一下跟自己所在的机构。\n  刘元：大家好，我叫刘元，在真格基金",
+    "pubDate": "2026-06-26 10:17:40  +0800",
+    "source": "36氪",
+    "category": "科技",
+    "summary": "“2026年，创投圈的浪潮再次翻涌：AI从技术概念走进产业深水区，硬科技创业从“小众赛道” 变成“主流共识”，年轻的创业者们正在用代码和双手，重新定义中国创新的未来坐标。\n  每一年，由36氪 · 暗涌主办的WAVES大会，都是中国创投圈的年度风向标。今年的 WAVES 2026以“今年盛夏”为主题"
+  },
+  {
+    "title": "布局下一代人机交互与具身数据入口，「念象科技」完成近千万元天使轮融资｜36氪首发",
+    "link": "https://36kr.com/p/3867943030395913?f=rss",
+    "description": "文｜胡香赟\n  编辑｜海若镜\n  36氪获悉，专注非侵入式神经接口技术研发与产业化的「念象科技」已完成近千万元天使轮融资。本轮融资由永珺星芒领投，浦东创投、一村资本跟投，募集资金主要用于产品研发、团队扩建、本土sEMG数据集建设。\n  念象科技成立于2025年底，首款产品Omniband是一款腕戴式表面肌电（surface electromyography，简称sEMG）神经接口设备。它不直接采集大脑皮层信号，而是通过手腕处的神经肌肉电信号，解析手部运动意图和连续动态手势，进而用于手机、电脑、智能眼镜、智能家居等终端的人机交互。\n  除泛交互场景外，念象科技也将高精度手部运动数据视为另一条长期价值线。团队希望围绕手部姿态、肌肉发力、物体交互等标签，建设面向本土手部操作场景的大规模sEMG数据集，为具身智能、物理AI和世界模型训练提供数据支持。\n  创始人王译博士期间在新西兰奥克兰大学从事脑机接口方向研究，现任国家脑机接口产业联盟副主席，并入选上海市白玉兰人才计划，曾任应脉医疗首席科学家、智元机器人研发总监，完整实践过侵入式/非侵入式/介入式脑机接口、sEMG神经接口等脑机接口与具身智能",
+    "pubDate": "2026-06-26 08:00:00  +0800",
+    "source": "36氪",
+    "category": "科技",
+    "summary": "文｜胡香赟\n  编辑｜海若镜\n  36氪获悉，专注非侵入式神经接口技术研发与产业化的「念象科技」已完成近千万元天使轮融资。本轮融资由永珺星芒领投，浦东创投、一村资本跟投，募集资金主要用于产品研发、团队扩建、本土sEMG数据集建设。\n  念象科技成立于2025年底，首款产品Omniband是一款腕戴式"
+  },
+  {
+    "title": "8点1氪丨苹果宣布上调iPad及Mac价格；黄仁勋计划把50%或更多现金流返还股东；OpenAI发布首款AI芯片",
+    "link": "https://36kr.com/p/3869243269387269?f=rss",
+    "description": "今日热点导览\n  \n   Anthropic成全球价值最高独角兽，DeepSeek跻身全球独角兽企业前15名\n   建设银行：将于7月24日日终清算时起关闭代理上海黄金交易所个人贵金属交易业务功能\n   马斯克曾直言混动车只是过渡阶段\n   韩国5200万人开了1.08亿股票账户，半年增超1000万\n   逾八成澳大利亚未成年人“绕过”了社媒禁令\n   IBM发布全球首款亚纳米芯片技术\n  \n  TOP 3大新闻\n  苹果官宣涨价：iPad和Mac率先调价\n  6月25日，记者获悉，因内存和存储芯片成本持续飙升，苹果已正式宣布上调iPad及Mac系列产品价格。苹果在声明中表示：“消费电子行业正面临前所未有的挑战。AI数据中心的迅猛扩张导致存储需求激增，我们从未见过零部件价格以如此幅度和速度上涨。此前我们一直在内部消化成本压力，但目前已不得不开始上调多款产品售价，其中就包括今天公布的iPad和Mac。”（澎湃新��）\n  黄仁勋计划把50%或更多现金流返还股东，还称物理AI是下一波增长浪潮\n  北京时间周四凌晨，全球市值最高上市公司英伟达举行年度股东大会。AI产业领军人物黄仁勋在股东大会",
+    "pubDate": "2026-06-26 07:57:55  +0800",
+    "source": "36氪",
+    "category": "科技",
+    "summary": "今日热点导览\n  \n   Anthropic成全球价值最高独角兽，DeepSeek跻身全球独角兽企业前15名\n   建设银行：将于7月24日日终清算时起关闭代理上海黄金交易所个人贵金属交易业务功能\n   马斯克曾直言混动车只是过渡阶段\n   韩国5200万人开了1.08亿股票账户，半年增超1000万"
+  },
+  {
+    "title": "热门中概股美股盘前多数下跌，小鹏集团跌超3%",
+    "link": "https://36kr.com/newsflashes/3870003257971976?f=rss",
+    "description": "36氪获悉，热门中概股美股盘前多数下跌，截至发稿，百度、阿里巴巴、小鹏集团跌超3%，京东跌超2%，B站、蔚来、腾讯音乐、拼多多跌超1%；网易涨超3%。",
+    "pubDate": "2026-06-26 20:50:53  +0800",
+    "source": "36氪",
+    "category": "科技",
+    "summary": "热门中概股美股盘前多数下跌，百度、阿里巴巴、小鹏集团跌超3%，京东跌超2%，B站、蔚来、腾讯音乐、拼多多跌超1%；网易涨超3%。"
+  },
+  {
+    "title": "美股大型科技股盘前涨跌不一，SpaceX跌超1%",
+    "link": "https://36kr.com/newsflashes/3870001895642113?f=rss",
+    "description": "36氪获悉，美股大型科技股盘前涨跌不一，截至发稿，Arm跌超4%，SpaceX、特斯拉、英伟达跌超1%，谷歌跌0.36%；微软、奈飞涨超1%，苹果涨0.89%，Meta涨0.48%，亚马逊涨0.35%。",
+    "pubDate": "2026-06-26 20:49:30  +0800",
+    "source": "36氪",
+    "category": "科技",
+    "summary": "美股大型科技股盘前涨跌互现，Arm跌超4%，SpaceX、特斯拉、英伟达跌超1%；微软、奈飞涨超1%，苹果涨0.89%，Meta、亚马逊小幅上涨。"
+  },
+  {
+    "title": "协创数据：拟定增募资不超80亿元，用于智算中心及数据存储项目等",
+    "link": "https://36kr.com/newsflashes/3869990301586434?f=rss",
+    "description": "36氪获悉，协创数据公告，公司拟向不超过35名符合中国证监会规定条件的特定投资者发行不超过发行前公司总股本30%的A股股票，募集资金总额不超过80亿元（含本数）。扣除发行费用后的募集资金净额将用于“协创数据智算中心建设项目”、“数据存储拓展升级扩产项目”和补充流动资金及偿还银行贷款。",
+    "pubDate": "2026-06-26 20:37:42  +0800",
+    "source": "36氪",
+    "category": "科技",
+    "summary": "协创数据公告拟定向增发募资不超过80亿元，用于智算中心建设、数据存储拓展升级及补充流动资金，发行对象不超过35名。"
+  },
+  {
+    "title": "五洋自控：股东拟协议转让5.0979%股份给时培培",
+    "link": "https://36kr.com/newsflashes/3869982836626694?f=rss",
+    "description": "36氪获悉，五洋自控公告，公司股东侯友夫、蔡敏、孙晋明与时培培签署股份转让协议，侯友夫、蔡敏、孙晋明拟将其持有的合计5691.18万股(占公司总股本5.0979%)通过协议转让方式转让给时培培，转让价格为7.20元/股，转让价款合计4.10亿元。本次权益变动不会导致公司控股股东、实际控制人发生变化。协议自受让方支付第一笔股份转让款之日起生效，尚需深交所合规性确认。",
+    "pubDate": "2026-06-26 20:30:07  +0800",
+    "source": "36氪",
+    "category": "科技",
+    "summary": "五洋自控股东侯友夫、蔡敏、孙晋明拟以7.20元/股向时培培协议转让合计5691.18万股（占总股本5.0979%），总价款4.10亿元，不影响控制权。"
+  },
+  {
+    "title": "Quantum Cyber获批收购SpaceX部分股权",
+    "link": "https://36kr.com/newsflashes/3869966420743430?f=rss",
+    "description": "据报道，Quantum Cyber获批收购SpaceX部分股权。（财联社）",
+    "pubDate": "2026-06-26 20:13:25  +0800",
+    "source": "36氪",
+    "category": "科技",
+    "summary": "据报道，Quantum Cyber已获批准收购SpaceX部分股权。"
+  },
+  {
+    "title": "预测市场平台Polymarket年化营收突破10亿美元",
+    "link": "https://36kr.com/newsflashes/3869966062114050?f=rss",
+    "description": "据报道，预测市场平台Polymarket年化营收突破10亿美元。（界面）",
+    "pubDate": "2026-06-26 20:13:03  +0800",
+    "source": "36氪",
+    "category": "科技",
+    "summary": "预测市场平台Polymarket年化营收突破10亿美元，据界面新闻报道。"
+  },
+  {
+    "title": "万通发展：选举王薇为董事长",
+    "link": "https://36kr.com/newsflashes/3869958921917440?f=rss",
+    "description": "36氪获悉，万通发展公告，因个人原因，王忆会辞去公司董事、董事长及董事会战略委��会主任委员、提名委员会委员职务。根据相关规定，王忆会的辞呈自送达公司董事会之日起生效。公司于6月26日召开第九届董事会第二十八次临时会议，选举董事王薇为董事长，根据《公司章程》规定，法定代表人变更为王薇。董事长的任期自本次董事会审议通过之日起至第九届董事会任期届满之日止。",
+    "pubDate": "2026-06-26 20:05:47  +0800",
+    "source": "36氪",
+    "category": "科技",
+    "summary": "万通发展公告，王忆会因个人原因辞去董事、董事长等职务。公司董事会选举王薇为新任董事长，法定代表人相应变更为王薇，任期至本届董事会届满。"
+  },
+  {
+    "title": "杭州新剑机电传动股份有限公司创业板IPO获受理",
+    "link": "https://36kr.com/newsflashes/3869958230349062?f=rss",
+    "description": "36氪获悉，杭州新剑机电传动股份有限公司创业板IPO获受理。",
+    "pubDate": "2026-06-26 20:05:05  +0800",
+    "source": "36氪",
+    "category": "科技",
+    "summary": "杭州新剑机电传动股份有限公司创业板IPO申请获受理。"
+  },
+  {
+    "title": "广东科杰技术股份有限公司创业板IPO获受理",
+    "link": "https://36kr.com/newsflashes/3869958059808001?f=rss",
+    "description": "36氪获悉，广东科杰技术股份有限公司创业板IPO获受理。",
+    "pubDate": "2026-06-26 20:04:54  +0800",
+    "source": "36氪",
+    "category": "科技",
+    "summary": "广东科杰技术股份有限公司创业板IPO申请获受理。"
+  },
+  {
+    "title": "禾润电子科技（嘉兴）股份有限公司创业板IPO获受理",
+    "link": "https://36kr.com/newsflashes/3869957418521607?f=rss",
+    "description": "36氪获悉，禾润电子科技（嘉兴）股份有限公司创业板IPO获受理。",
+    "pubDate": "2026-06-26 20:04:15  +0800",
+    "source": "36氪",
+    "category": "科技",
+    "summary": "禾润电子科技（嘉兴）股份有限公司创业板IPO申请获受理。"
+  },
+  {
+    "title": "广东德聚技术股份有限公司创业板IPO获受理",
+    "link": "https://36kr.com/newsflashes/3869957141157128?f=rss",
+    "description": "36氪获悉，广东德聚技术股份有限公司创业板IPO获受理。",
+    "pubDate": "2026-06-26 20:03:58  +0800",
+    "source": "36氪",
+    "category": "科技",
+    "summary": "36氪获悉，广东德聚技术股份有限公司创业板IPO获受理。"
+  },
+  {
+    "title": "德意志银行：通胀预期下修，或为欧洲央行年内维持利率不变打开空间",
+    "link": "https://36kr.com/newsflashes/3869954883638531?f=rss",
+    "description": "据报道，德意志银行表示，油价下跌已导致通胀预期被下修。如果这一趋势持续，可能为欧洲央行将利率维持在2.25%打开空间，尤其是在已经实施过一次加息的情况下。（界面）",
+    "pubDate": "2026-06-26 20:01:41  +0800",
+    "source": "36氪",
+    "category": "科技",
+    "summary": "据报道，德意志银行表示，油价下跌已导致通胀预期被下修。如果这一趋势持续，可能为欧洲央行将利率维持在2.25%打开空间，尤其是在已经实施过一次加息的情况下。（界面）"
+  },
+  {
+    "title": "信诺维科创板IPO获上市委会议通过",
+    "link": "https://36kr.com/newsflashes/3869952229184513?f=rss",
+    "description": "36氪获悉，信诺维科创板IPO获上市委会议通过，拟融资金额29.40亿元。",
+    "pubDate": "2026-06-26 19:58:58  +0800",
+    "source": "36氪",
+    "category": "科技",
+    "summary": "36氪获悉，信诺维科创板IPO获上市委会议通过，拟融资金额29.40亿元。"
+  },
+  {
+    "title": "荃银高科：因2024年年报存在虚假记载被实施其他风险警示，6月30日起股票简称变更为ST荃银",
+    "link": "https://36kr.com/newsflashes/3869951732995330?f=rss",
+    "description": "36氪获悉，荃银高科公告，公司收到证监会安徽监管局下发的《行政处罚事先告知书》，因2024年年报存在虚假记载，少计提信用减值损失1871.51万元，虚增利润总额1871.51万元，占当期披露利润总额的10.86%。证监会拟对公司给予警告并罚款300万元，对时任董事长应敏杰、副董事长兼总经理张琴给予警告并分别罚款150万元，对时任董秘兼财务总监张庆一给予警告并罚款130万元。公司股票自2026年6月29日开市起停牌一天，6月30日开市起复牌，并被实施其他风险警示，股票简称变更为“ST荃银”。",
+    "pubDate": "2026-06-26 19:58:28  +0800",
+    "source": "36氪",
+    "category": "科技",
+    "summary": "36氪获悉，荃银高科公告，公司收到证监会安徽监管局下发的《行政处罚事先告知书》，因2024年年报存在虚假记载，少计提信用减值损失1871.51万元，虚增利润总额1871.51万元，占当期披露利润总额的10.86%。证监会拟对公司给予警告并罚款300万元，对时任董事长应敏杰、副董事长兼总经理张琴给予警"
+  },
+  {
+    "title": "光智科技：拟3.01亿元增资收购先锐科技50.08%股权，将Ⅲ-Ⅴ族化合物材料纳入产品体系",
+    "link": "https://36kr.com/newsflashes/3869945342465289?f=rss",
+    "description": "36氪获悉，光智科技公告，公司拟与清远先导、先锐科技签署投资协议，以增资形式投资先锐科技，取得其50.0832%股权，实现控股。本次增资总金额为3.01亿元，增资完成后，先锐科技将成为公司控股子公司，纳入合并报表。标的公司从事Ⅲ-Ⅴ族化合物材料业务，通过收购整合，公司将Ⅲ-Ⅴ族化合物材料纳入产品体系，降低对传统红外业务的依赖，提升高端产品营业收入占比，提升公司整体盈利水平与抗风险能力。",
+    "pubDate": "2026-06-26 19:51:58  +0800",
+    "source": "36氪",
+    "category": "科技",
+    "summary": "36氪获悉，光智科技公告，公司拟与清远先导、先锐科技签署投资协议，以增资形式投资先锐科技，取得其50.0832%股权，实现控股。本次增资总金额为3.01亿元，增资完成后，先锐科技将成为公司控股子公司，纳入合并报表。标的公司从事Ⅲ-Ⅴ族化合物材料业务，通过收购整合，公司将Ⅲ-Ⅴ族化合物材料纳入产品体系"
+  },
+  {
+    "title": "本田2025财年录得超4000亿日元巨额亏损，预计2026年财年扭亏为盈",
+    "link": "https://36kr.com/newsflashes/3869939505959936?f=rss",
+    "description": "本田公布，2025财年（2025年4月至2026年3月）计入伴随纯电动汽车战略调整的4239亿日元巨额净亏损，遭遇上市以来首次超过4000亿日元的巨亏。本田预计2026年财年（2026年4月至2027年3月）将扭亏为盈，实现2600亿日元盈利。（财联社）",
+    "pubDate": "2026-06-26 19:46:02  +0800",
+    "source": "36氪",
+    "category": "科技",
+    "summary": "本田公布，2025财年（2025年4月至2026年3月）计入伴随纯电动汽车战略调整的4239亿日元巨额净亏损，遭遇上市以来首次超过4000亿日元的巨亏。本田预计2026年财年（2026年4月至2027年3月）将扭亏为盈，实现2600亿日元盈利。（财联社）"
+  },
+  {
+    "title": "国际复材：2025年电子细纱及细纱制品营业收入占比18.22%，总体占比较小",
+    "link": "https://36kr.com/newsflashes/3869933139694849?f=rss",
+    "description": "36氪获悉，国际复材公告，近期PCB、电子布相关题材市场关注度走高，公司持续跟踪市场舆情。玻璃纤维电子细纱及细纱制品为公司主营业务品类之一，产品可作为印制电路板上游基础原材料。2025年度，公司电子细纱及细纱制品营业收入占比18.22%，总体占比较小。目前公司相关业务经营情况稳定，无重大未披露事项，敬请投资者理性看待行业热点，审慎防范概念炒作风险。",
+    "pubDate": "2026-06-26 19:39:33  +0800",
+    "source": "36氪",
+    "category": "科技",
+    "summary": "36氪获悉，国际复材公告，近期PCB、电子布相关题材市场关注度走高，公司持续跟踪市场舆情。玻璃纤维电子细纱及细纱制品为公司主营业务品类之一，产品可作为印制电路板上游基础原材料。2025年度，公司电子细纱及细纱制品营业收入占比18.22%，总体占比较小。目前公司相关业务经营情况稳定，无重大未披露事项，"
+  },
+  {
+    "title": "飞凯材料：公司TGV湿电子化学品暂未实现大批量供货，相关业务尚未形成规模化营业收入",
+    "link": "https://36kr.com/newsflashes/3869930751235079?f=rss",
+    "description": "36氪获悉，飞凯材料公告，近期市场对公司紫外固化光纤光缆涂覆材料及用于玻璃基板的TGV湿电子化学品关注度较高，目前公司TGV湿电子化学品暂未实现大批量供货，相关业务尚未形成规模化营业收入，对公司整体业绩影响很小。公司紫外固化光纤光缆涂覆材料主要向国内光纤光缆制造企业供货，业务运行平稳。敬请广大投资者理性看待市场热点，注意投资风险，审慎决策。",
+    "pubDate": "2026-06-26 19:37:08  +0800",
+    "source": "36氪",
+    "category": "科技",
+    "summary": "36氪获悉，飞凯材料公告，近期市场对公司紫外固化光纤光缆涂覆材料及用于玻璃基板的TGV湿电子化学品关注度较高，目前公司TGV湿电子化学品暂未实现大批量供货，相关业务尚未形成规模化营业收入，对公司整体业绩影响很小。公司紫外固化光纤光缆涂覆材料主要向国内光纤光缆制造企业供货，业务运行平稳。敬请广大投资者"
+  },
+  {
+    "title": "深交所：本周共对192起证券异常交易行为采取了自律监管措施",
+    "link": "https://36kr.com/newsflashes/3869925073949954?f=rss",
+    "description": "36氪获悉，深交所消息，2026年6月22日至6月26日，深交所共对192起证券异常交易行为采取了自律监管措施，涉及盘中拉抬打压、虚假申报等异常交易情形；对近期股价异常波动的“兴业科技”进行重点监控；共对7起上市公司重大事项进行核查。",
+    "pubDate": "2026-06-26 19:31:21  +0800",
+    "source": "36氪",
+    "category": "科技",
+    "summary": "36氪获悉，深交所消息，2026年6月22日至6月26日，深交所共对192起证券异常交易行为采取了自律监管措施，涉及盘中拉抬打压、虚假申报等异常交易情形；对近期股价异常波动的“兴业科技”进行重点监控；共对7起上市公司重大事项进行核查。"
+  },
+  {
+    "title": "浙江新瑞立汽配股份有限公司递表港交所",
+    "link": "https://36kr.com/newsflashes/3869918356395264?f=rss",
+    "description": "36氪获悉，据港交所文件，浙江新瑞立汽配股份有限公司向港交所提交上市申请书，独家保荐人为农银国际。",
+    "pubDate": "2026-06-26 19:24:31  +0800",
+    "source": "36氪",
+    "category": "科技",
+    "summary": "36氪获悉，据港交所文件，浙江新瑞立汽配股份有限公司向港交所提交上市申请书，独家保荐人为农银国际。"
+  },
+  {
+    "title": "Russian citizens told \"switch to Android\" after Apple blocks key Russian apps",
+    "link": "https://arstechnica.com/gadgets/2026/06/russian-citizens-told-switch-to-android-after-apple-blocks-key-russian-apps/",
+    "description": "Russian government lashes out at Apple's \"bizarre\" decisions.",
+    "pubDate": "Fri, 26 Jun 2026 20:58:02 +0000",
+    "source": "Ars Technica",
+    "category": "科技",
+    "summary": "Russian government lashes out at Apple's \"bizarre\" decisions."
+  },
+  {
+    "title": "NYT slams Microsoft for building copyright-infringing supercomputer for OpenAI",
+    "link": "https://arstechnica.com/tech-policy/2026/06/microsoft-built-supercomputer-to-help-openai-infringe-copyrights-nyt-alleged/",
+    "description": "NYT shifts OpenAI/Microsoft copyright claims after SCOTUS ruling against Sony.",
+    "pubDate": "Fri, 26 Jun 2026 20:04:55 +0000",
+    "source": "Ars Technica",
+    "category": "科技",
+    "summary": "NYT shifts OpenAI/Microsoft copyright claims after SCOTUS ruling against Sony."
+  },
+  {
+    "title": "FCC accused of hiding Chairman Carr's messages with DOGE and Musk",
+    "link": "https://arstechnica.com/tech-policy/2026/06/fcc-accused-of-hiding-chairman-carrs-messages-with-doge-and-musk/",
+    "description": "FCC refuses to provide messages, has \"wasted a year\" of court's time, filing says.",
+    "pubDate": "Fri, 26 Jun 2026 18:51:04 +0000",
+    "source": "Ars Technica",
+    "category": "科技",
+    "summary": "FCC refuses to provide messages, has \"wasted a year\" of court's time, filing says."
+  },
+  {
+    "title": "Netflix now requires every user profile to be tied to unique email address",
+    "link": "https://arstechnica.com/gadgets/2026/06/netflix-now-requires-every-user-profile-to-be-tied-to-unique-email-address/",
+    "description": "Update began June 15 and will no longer allow you to share your login info.",
+    "pubDate": "Fri, 26 Jun 2026 18:19:58 +0000",
+    "source": "Ars Technica",
+    "category": "科技",
+    "summary": "Update began June 15 and will no longer allow you to share your login info."
+  },
+  {
+    "title": "Antibiotic \"megacluster\" discovery provides new strategy to fight superbugs",
+    "link": "https://arstechnica.com/health/2026/06/antibiotic-megacluster-discovery-provides-new-strategy-to-fight-superbugs/",
+    "description": "It's \"an exciting advance in efforts to restock the antibiotic arsenal.\"",
+    "pubDate": "Fri, 26 Jun 2026 17:46:07 +0000",
+    "source": "Ars Technica",
+    "category": "科技",
+    "summary": "It's \"an exciting advance in efforts to restock the antibiotic arsenal.\""
+  },
+  {
+    "title": "Ars Live: What's the latest in the aftermath of the New Glenn catastrophe?",
+    "link": "https://arstechnica.com/space/2026/06/ars-live-whats-the-latest-in-the-aftermath-of-the-new-glenn-catastrophe/",
+    "description": "Join us on the livestream at 1 pm ET and ask questions about the aftermath of New Glenn.",
+    "pubDate": "Fri, 26 Jun 2026 16:24:59 +0000",
+    "source": "Ars Technica",
+    "category": "科技",
+    "summary": "Ars Technica 将于美东时间下午1点直播讨论 New Glenn 火箭灾难后的最新进展，并接受观众提问。"
+  },
+  {
+    "title": "VW may close four factories to adapt to the future, report says",
+    "link": "https://arstechnica.com/cars/2026/06/vw-may-close-four-factories-to-adapt-to-the-future-report-says/",
+    "description": "With falling sales in the US and especially China, VW Group wants to restructure.",
+    "pubDate": "Fri, 26 Jun 2026 15:10:03 +0000",
+    "source": "Ars Technica",
+    "category": "科技",
+    "summary": "大众集团因在美国尤其是中国市场销量下滑，计划关闭四家工厂以进行重组，适应未来发展需求。"
+  },
+  {
+    "title": "Feedbacks upon feedbacks: Rock weathering and the climate",
+    "link": "https://arstechnica.com/science/2026/06/feedbacks-upon-feedbacks-rock-weathering-and-the-climate/",
+    "description": "Rock weathering may release or draw down carbon dioxide—it depends on the rock.",
+    "pubDate": "Fri, 26 Jun 2026 14:41:18 +0000",
+    "source": "Ars Technica",
+    "category": "科技",
+    "summary": "岩石风化对气候的影响具有两面性：不同种类的岩石风化可能释放二氧化碳，也可能固定二氧化碳。"
+  },
+  {
+    "title": "SpaceX plans to launch Starlink mobile service in the US",
+    "link": "https://arstechnica.com/space/2026/06/spacex-plans-to-launch-starlink-mobile-service-in-the-us/",
+    "description": "Move would test whether group can turn ambition into a mass-market phone business.",
+    "pubDate": "Fri, 26 Jun 2026 13:22:59 +0000",
+    "source": "Ars Technica",
+    "category": "科技",
+    "summary": "SpaceX 计划在美国推出 Starlink 移动电话服务，此举将检验其能否将雄心转化为大众市场手机业务。"
+  },
+  {
+    "title": "Rocket Report: China may soon attempt booster landing; Rocket Lab does rapid response",
+    "link": "https://arstechnica.com/space/2026/06/rocket-report-china-may-soon-attempt-booster-landing-rocket-lab-does-rapid-response/",
+    "description": "Is SpaceX planning to end its Transporter program?",
+    "pubDate": "Fri, 26 Jun 2026 11:00:59 +0000",
+    "source": "Ars Technica",
+    "category": "科技",
+    "summary": "最新火箭动态：中国可能很快尝试火箭着陆回收；火箭实验室实现快速响应发射；SpaceX 或被传将终止 Transporter 拼车发射项目。"
+  },
+  {
+    "title": "Microsoft adds another year to Windows 10 extended update program",
+    "link": "https://arstechnica.com/gadgets/2026/06/microsoft-adds-another-year-to-windows-10-extended-update-program/",
+    "description": "About a quarter of PCs are still running Microsoft's previous operating system.",
+    "pubDate": "Thu, 25 Jun 2026 20:24:09 +0000",
+    "source": "Ars Technica",
+    "category": "科技",
+    "summary": "微软将Windows 10扩展更新计划再延长一年。目前约四分之一的PC仍在运行这一上一代操作系统。"
+  },
+  {
+    "title": "FCC may kill $2B program that connects schools and libraries to Internet",
+    "link": "https://arstechnica.com/tech-policy/2026/06/fcc-may-kill-2b-program-that-connects-schools-and-libraries-to-internet/",
+    "description": "Carr cites screen time concerns, is accused of trying to be \"the nation’s parent.\"",
+    "pubDate": "Thu, 25 Jun 2026 20:01:08 +0000",
+    "source": "Ars Technica",
+    "category": "科技",
+    "summary": "美国联邦通信委员会(FCC)可能终止一项连接学校和图书馆的20亿美元互联网项目。Carr以屏幕时间问题为由，被批评试图充当全国家长角色。"
+  },
+  {
+    "title": "Notion killing Skiff-influenced email app since most users use AI agents instead",
+    "link": "https://arstechnica.com/gadgets/2026/06/notion-killing-skiff-influenced-email-app-since-most-users-use-ai-agents-instead/",
+    "description": "Notion is \"going all in on using agents to run your inbox.\"",
+    "pubDate": "Thu, 25 Jun 2026 19:04:57 +0000",
+    "source": "Ars Technica",
+    "category": "科技",
+    "summary": "Notion取消受Skiff影响的电子邮件应用，因大多数用户转而使用AI代理处理收件箱。该公司将全力投入AI代理管理收件箱。"
+  },
+  {
+    "title": "Google finally releases a Finance Android app, promises iOS version later in 2026",
+    "link": "https://arstechnica.com/google/2026/06/google-finance-finally-gets-a-mobile-app-as-ai-powered-overhaul-leaves-beta/",
+    "description": "It took 20 years, but the Finance app arrives just in time to be packed full of AI.",
+    "pubDate": "Thu, 25 Jun 2026 18:38:51 +0000",
+    "source": "Ars Technica",
+    "category": "科技",
+    "summary": "谷歌时隔20年终于发布Android版财经应用，并承诺2026年晚些时候推出iOS版本。该应用将全面集成AI功能。"
+  },
+  {
+    "title": "Anthropic says Alibaba must be punished for largest Claude cloning attack",
+    "link": "https://arstechnica.com/tech-policy/2026/06/anthropic-claims-alibaba-defied-trump-to-attack-claude-and-steal-capabilities/",
+    "description": "Alibaba allegedly used 25,000 accounts to mine Claude over 28.8 million exchanges.",
+    "pubDate": "Thu, 25 Jun 2026 18:01:48 +0000",
+    "source": "Ars Technica",
+    "category": "科技",
+    "summary": "Anthropic指控阿里巴巴使用25000个账户进行大规模Claude模型克隆攻击，涉及2880万次对话，要求对阿里巴巴进行处罚。"
+  },
+  {
+    "title": "Planet orbits so close to its star that their magnetic fields connect",
+    "link": "https://arstechnica.com/science/2026/06/planet-orbits-so-close-to-its-star-that-their-magnetic-fields-connect/",
+    "description": "At the right point of the orbit and stellar cycle, the star's chromosphere brightens.",
+    "pubDate": "Thu, 25 Jun 2026 18:00:39 +0000",
+    "source": "Ars Technica",
+    "category": "科技",
+    "summary": "一颗行星运行轨道离恒星极近，在特定轨道点和恒星周期阶段，恒星的色球层会增亮，甚至出现磁场连接现象。"
+  },
+  {
+    "title": "Feds deny Polestar authorization to sell cars in US from model year 2027",
+    "link": "https://arstechnica.com/cars/2026/06/feds-deny-polestar-authorization-to-sell-cars-in-us-from-model-year-2027/",
+    "description": "Unlike with Volvo, there will be no authorization for Polestar to sell its cars here.",
+    "pubDate": "Thu, 25 Jun 2026 14:40:23 +0000",
+    "source": "Ars Technica",
+    "category": "科技",
+    "summary": "美国联邦政府拒绝批准Polestar从2027车型年起在美国销售汽车，与沃尔沃不同，Polestar将无法获得授权。"
+  },
+  {
+    "title": "Apple ratchets up prices, blames the cost of memory",
+    "link": "https://arstechnica.com/apple/2026/06/apple-ratchets-up-prices-blames-the-cost-of-memory/",
+    "description": "Some Macs are hundreds of dollars more expensive today than yesterday.",
+    "pubDate": "Thu, 25 Jun 2026 14:14:37 +0000",
+    "source": "Ars Technica",
+    "category": "科技",
+    "summary": "苹果因内存成本上涨大幅提价，部分Mac机型价格一夜之间上涨数百美元。"
+  },
+  {
+    "title": "The \"sad inevitability\" of Europe's heat wave",
+    "link": "https://arstechnica.com/science/2026/06/the-sad-inevitability-of-europes-heat-wave/",
+    "description": "Europeans are baking under their second heat wave of the summer.",
+    "pubDate": "Thu, 25 Jun 2026 13:54:46 +0000",
+    "source": "Ars Technica",
+    "category": "科技",
+    "summary": "欧洲正经历今年夏季第二波热浪，媒体称之为\"令人悲伤的必然\"事件。"
+  },
+  {
+    "title": "New effort will get genome sequences for entire Endangered Species list",
+    "link": "https://arstechnica.com/science/2026/06/new-effort-will-get-genome-sequences-for-entire-endangered-species-list/",
+    "description": "Colossal Biosciences will be biobanking tissues from all of them as well.",
+    "pubDate": "Thu, 25 Jun 2026 13:40:34 +0000",
+    "source": "Ars Technica",
+    "category": "科技",
+    "summary": "Colossal Biosciences将开展新项目，为全部濒危物种名录上的动物获取基因组序列并保存组织样本。"
+  },
+  {
+    "title": "Hottest June day record broken for third day in row as temperature hits 37.3C",
+    "link": "https://www.bbc.co.uk/news/articles/cn4d0n1l8zno?at_medium=RSS&at_campaign=rss",
+    "description": "Suffolk saw the highest temperature on Friday - but many will feel the heatwave begin to ease over the weekend.",
+    "pubDate": "Fri, 26 Jun 2026 19:40:07 GMT",
+    "source": "BBC News",
+    "category": "综合",
+    "summary": "英国连续第三天刷新六月最高气温纪录，周五萨福克郡气温达37.3°C，但预计热浪将于周末开始缓解。"
+  },
+  {
+    "title": "US conducts strikes on Iran after attack on cargo ship",
+    "link": "https://www.bbc.co.uk/news/articles/ckg590wqxwpo?at_medium=RSS&at_campaign=rss",
+    "description": "US Central Command says it has struck missile and drone storage facilities and coastal radar positions.",
+    "pubDate": "Fri, 26 Jun 2026 21:30:59 GMT",
+    "source": "BBC News",
+    "category": "综合",
+    "summary": "美国中央司令部宣布对伊朗发动打击，目标包括导弹和无人机储存设施及海岸雷达阵地，系报复针对货船的袭击。"
+  },
+  {
+    "title": "Court rules 13 men who allegedly helped rapist drug and abuse wife can be named",
+    "link": "https://www.bbc.co.uk/news/articles/cnv9er181lno?at_medium=RSS&at_campaign=rss",
+    "description": "13 men are accused of helping a man abuse his wife over a period of years.",
+    "pubDate": "Fri, 26 Jun 2026 12:51:21 GMT",
+    "source": "BBC News",
+    "category": "综合",
+    "summary": "法院裁定可公开13名男子的身份，他们被指控协助一名男子在多年间对其妻子下药并实施虐待。"
+  },
+  {
+    "title": "Venezuela earthquakes kill 920 people as families desperate for news",
+    "link": "https://www.bbc.co.uk/news/articles/c39y79g7gzko?at_medium=RSS&at_campaign=rss",
+    "description": "Hundreds are still feared trapped under the rubble, as international rescue teams start to arrive.",
+    "pubDate": "Fri, 26 Jun 2026 21:15:37 GMT",
+    "source": "BBC News",
+    "category": "综合",
+    "summary": "委内瑞拉地震已造成920人遇难，数百人仍被困废墟下，国际救援队开始抵达灾区，家属焦急等待亲人消息。"
+  },
+  {
+    "title": "Mother dies saving daughter in Venezuela earthquakes",
+    "link": "https://www.bbc.co.uk/news/articles/c0jydyz8z6jo?at_medium=RSS&at_campaign=rss",
+    "description": "Héctor Bello wrote on social media that \"you gave your own life for our daughter\" in the quakes which killed at least 920 people.",
+    "pubDate": "Fri, 26 Jun 2026 18:36:32 GMT",
+    "source": "BBC News",
+    "category": "综合",
+    "summary": "在地震中，一位母亲为保护女儿而牺牲。其丈夫发文悼念：\"你为女儿献出了自己的生命。\"此次地震已致至少920人遇难。"
+  },
+  {
+    "title": "Man who punched female police officers at Manchester Airport jailed",
+    "link": "https://www.bbc.co.uk/news/articles/c1my31rr1vno?at_medium=RSS&at_campaign=rss",
+    "description": "Mohammed Fahir Amaaz assaulted PC Lydia Ward, PC Ellie Cook and a Starbucks customer, a court heard.",
+    "pubDate": "Fri, 26 Jun 2026 16:47:10 GMT",
+    "source": "BBC News",
+    "category": "综合",
+    "summary": "穆罕默德·法希尔·阿马兹在曼彻斯特机场袭击女警官莉迪亚·沃德、艾莉·库克及一名星巴克顾客，已被判入狱。"
+  },
+  {
+    "title": "Trump threatens 100% tariff on European nations over tech tax",
+    "link": "https://www.bbc.co.uk/news/articles/cn4rd71411ko?at_medium=RSS&at_campaign=rss",
+    "description": "The US president says \"Numerous European countries\" have been discussing bringing in such a levy.",
+    "pubDate": "Fri, 26 Jun 2026 21:29:38 GMT",
+    "source": "BBC News",
+    "category": "综合",
+    "summary": "美国总统特朗普威胁称，若欧洲国家开征数字服务税，美国将对欧盟商品加征100%关税。"
+  },
+  {
+    "title": "How transparent are the royals being about money?",
+    "link": "https://www.bbc.co.uk/news/articles/c77yzgnp5lvo?at_medium=RSS&at_campaign=rss",
+    "description": "After the King reveals the tax he paid questions remain over how open the Royal Family is being about its wealth.",
+    "pubDate": "Fri, 26 Jun 2026 15:03:39 GMT",
+    "source": "BBC News",
+    "category": "综合",
+    "summary": "尽管国王公布了纳税情况，但外界仍对英国王室在财富方面的透明度存有疑问。"
+  },
+  {
+    "title": "Conservatives offer tax incentive as part of 50,000 reservist pledge",
+    "link": "https://www.bbc.co.uk/news/articles/c9v219gx79wo?at_medium=RSS&at_campaign=rss",
+    "description": "Labour accused the Conservatives of trying to \"rewrite history\" after making defence cuts while in power.",
+    "pubDate": "Fri, 26 Jun 2026 21:00:56 GMT",
+    "source": "BBC News",
+    "category": "综合",
+    "summary": "保守党承诺将预备役人员增至5万并提出税收激励措施。工党指责其在执政期间削减国防开支，现在试图改写历史。"
+  },
+  {
+    "title": "Debris falls after plane hits Beijing's tallest building",
+    "link": "https://www.bbc.co.uk/news/videos/c8j2rjrzjero?at_medium=RSS&at_campaign=rss",
+    "description": "Social media footage showed the moment debris from a small aircraft fell to the ground after a crash into Beijing's tallest skyscraper.",
+    "pubDate": "Fri, 26 Jun 2026 18:36:42 GMT",
+    "source": "BBC News",
+    "category": "综合",
+    "summary": "一架小型飞机撞上北京最高摩天大楼后，碎片坠落至地面。社交媒体视频记录了这一瞬间。"
+  },
+  {
+    "title": "Even if you're fit and young, avoid runs and too many beers in the heat, experts say",
+    "link": "https://www.bbc.co.uk/news/articles/cgjxdpp4qzeo?at_medium=RSS&at_campaign=rss",
+    "description": "Cardiac arrests have gone up during very hot weather, and it's not just among the elderly and frail, experts are warning.",
+    "pubDate": "Fri, 26 Jun 2026 10:24:26 GMT",
+    "source": "BBC News",
+    "category": "综合",
+    "summary": "专家警告，即使在炎热天气中年轻健康的人也应避免跑步和过量饮酒，因为酷热天气下心脏骤停案例增加，且不仅限于老年人和体弱者。"
+  },
+  {
+    "title": "UK search team joins Venezuela earthquake rescue effort",
+    "link": "https://www.bbc.co.uk/news/articles/cr7xlr2ndxno?at_medium=RSS&at_campaign=rss",
+    "description": "The 68-strong team left Brize Norton airbase on Friday onboard an RAF plane carrying aid supplies.",
+    "pubDate": "Fri, 26 Jun 2026 20:50:33 GMT",
+    "source": "BBC News",
+    "category": "综合",
+    "summary": "一支68人的英国搜救队周五从布里兹诺顿空军基地搭乘英国皇家空军飞机出发，携带援助物资前往委内瑞拉参与地震救援工作。"
+  },
+  {
+    "title": "Watch: Moment woman pulled from rubble alive",
+    "link": "https://www.bbc.co.uk/news/videos/clyxgxr2672o?at_medium=RSS&at_campaign=rss",
+    "description": "First responders and volunteers pulled a survivor from under the rubble of a collapsed building in La Guaira.",
+    "pubDate": "Fri, 26 Jun 2026 10:06:11 GMT",
+    "source": "BBC News",
+    "category": "综合",
+    "summary": "在委内瑞拉拉瓜伊拉，救援人员和志愿者从一栋倒塌建筑的废墟中成功救出一名幸存者，现场画面记录了这一刻。"
+  },
+  {
+    "title": "Quake reveals challenges facing country's battered infrastructure",
+    "link": "https://www.bbc.co.uk/news/articles/c3vynpw7rk4o?at_medium=RSS&at_campaign=rss",
+    "description": "The twin quakes come less than six months after Venezuela's then-leader Nicolás Maduro was seized by US forces.",
+    "pubDate": "Fri, 26 Jun 2026 02:12:07 GMT",
+    "source": "BBC News",
+    "category": "综合",
+    "summary": "委内瑞拉接连发生两次地震，距离前领导人马杜罗被美军抓获不到半年，地震暴露了该国本已受损的基础设施面临的严峻挑战。"
+  },
+  {
+    "title": "What we know so far",
+    "link": "https://www.bbc.co.uk/news/articles/c4gyjgreg1ro?at_medium=RSS&at_campaign=rss",
+    "description": "The quakes killed at least 589 people and injured more than 2,980, with more feared trapped under rubble.",
+    "pubDate": "Fri, 26 Jun 2026 18:09:56 GMT",
+    "source": "BBC News",
+    "category": "综合",
+    "summary": "地震已造成至少589人死亡、2980多人受伤，还有更多人可能被困在废墟下，救援工作仍在进行中。"
+  },
+  {
+    "title": "Europe's deadly heatwave breaks German record and halts public events",
+    "link": "https://www.bbc.co.uk/news/articles/cx2knzzwprgo?at_medium=RSS&at_campaign=rss",
+    "description": "Germany's highest ever temperature of 41.3C is recorded provisionally in Saarbrücken, over the border from France.",
+    "pubDate": "Fri, 26 Jun 2026 18:14:36 GMT",
+    "source": "BBC News",
+    "category": "综合",
+    "summary": "欧洲致命热浪打破德国最高气温纪录，萨尔布吕肯测得41.3°C，已导致公共活动取消。"
+  },
+  {
+    "title": "Watch: Lightning strikes seen across UK",
+    "link": "https://www.bbc.co.uk/news/videos/c74y1l9kkryo?at_medium=RSS&at_campaign=rss",
+    "description": "Lightning strikes lit up the sky across the UK during the early hours of Friday as thunderstorms were triggered by the intense heat.",
+    "pubDate": "Fri, 26 Jun 2026 19:26:58 GMT",
+    "source": "BBC News",
+    "category": "综合",
+    "summary": "英国多地凌晨出现闪电，强雷暴由极端高温引发，照亮夜空。"
+  },
+  {
+    "title": "UK forecast for the week ahead",
+    "link": "https://www.bbc.co.uk/weather/videos/ckgw7qqz4g2o?at_medium=RSS&at_campaign=rss",
+    "description": "Will more comfortable temperatures replace the heatwave soon? Darren Bett has the details.",
+    "pubDate": "Fri, 26 Jun 2026 14:58:43 GMT",
+    "source": "BBC News",
+    "category": "综合",
+    "summary": "英国未来一周天气预报：达伦·贝特介绍热浪是否将被更舒适的气温取代。"
+  },
+  {
+    "title": "Inside the cold store where it's -18C in a heatwave",
+    "link": "https://www.bbc.co.uk/news/articles/c0ry0xe80qgo?at_medium=RSS&at_campaign=rss",
+    "description": "Staff at Magnavale, near Grantham, say the \"giant freezer\" is a great place to be in hot weather.",
+    "pubDate": "Fri, 26 Jun 2026 05:17:02 GMT",
+    "source": "BBC News",
+    "category": "综合",
+    "summary": "格兰瑟姆的Magnavale冷库工作人员表示，在-18°C的\"巨型冰箱\"工作，酷暑天气下反而舒适宜人。"
+  },
+  {
+    "title": "Missing Glastonbury? There's a festival on your doorstep this weekend",
+    "link": "https://www.bbc.co.uk/news/articles/cj4gyz21wyko?at_medium=RSS&at_campaign=rss",
+    "description": "Stars like Fatboy Slim and Becky Hill will play small local venues to celebrate the UK music scene.",
+    "pubDate": "Thu, 25 Jun 2026 23:50:10 GMT",
+    "source": "BBC News",
+    "category": "综合",
+    "summary": "错过格拉斯顿伯里音乐节？本周末各地小型场馆将举办本地演出，Fatboy Slim和Becky Hill等明星登场庆祝英国音乐现场。"
+  },
+  {
+    "title": "Living with parents again? How to make it work while saving to move out",
+    "link": "https://www.bbc.co.uk/news/articles/cg53q6dl0plo?at_medium=RSS&at_campaign=rss",
+    "description": "Rising costs are forcing more young adults to live with their parents, here's how not to come to blows.",
+    "pubDate": "Thu, 25 Jun 2026 23:03:48 GMT",
+    "source": "BBC News",
+    "category": "综合",
+    "summary": "Rising costs are forcing more young adults to live with their parents, here's how not to come to blows."
+  },
+  {
+    "title": "How male infertility is still not getting enough attention",
+    "link": "https://www.bbc.co.uk/news/articles/cx2w4kz7z1ko?at_medium=RSS&at_campaign=rss",
+    "description": "How could the system better support men who have been told they might have a fertility issue?",
+    "pubDate": "Fri, 26 Jun 2026 01:05:11 GMT",
+    "source": "BBC News",
+    "category": "综合",
+    "summary": "How could the system better support men who have been told they might have a fertility issue?"
+  },
+  {
+    "title": "What's happening to petrol prices now oil is back to pre-Iran war levels?",
+    "link": "https://www.bbc.co.uk/news/articles/c20zgjzz0e4o?at_medium=RSS&at_campaign=rss",
+    "description": "When the conflict began on 28 February, fuel costs jumped as the war disrupted the production and transportation of energy across the Middle East.",
+    "pubDate": "Fri, 26 Jun 2026 13:51:15 GMT",
+    "source": "BBC News",
+    "category": "综合",
+    "summary": "When the conflict began on 28 February, fuel costs jumped as the war disrupted the production and transportation of energy across the Middle East."
+  },
+  {
+    "title": "Weekly quiz: Who did Donald Trump anger after saying they begged for a photo with him?",
+    "link": "https://www.bbc.co.uk/news/articles/c1lyqd6e7ypo?at_medium=RSS&at_campaign=rss",
+    "description": "How much attention did you pay to what happened in the world over the past seven days?",
+    "pubDate": "Thu, 25 Jun 2026 17:42:35 GMT",
+    "source": "BBC News",
+    "category": "综合",
+    "summary": "How much attention did you pay to what happened in the world over the past seven days?"
+  },
+  {
+    "title": "Why has Trump stayed away from matches?",
+    "link": "https://www.bbc.co.uk/sport/football/articles/c0myxevn3emo?at_medium=RSS&at_campaign=rss",
+    "description": "The US president was expected to regularly feature at the World Cup, but he is yet to attend a single match.",
+    "pubDate": "Fri, 26 Jun 2026 14:35:00 GMT",
+    "source": "BBC News",
+    "category": "综合",
+    "summary": "The US president was expected to regularly feature at the World Cup, but he is yet to attend a single match."
+  },
+  {
+    "title": "World Cup fans frustrated by 'confusing and expensive' tipping culture in US",
+    "link": "https://www.bbc.co.uk/news/articles/clyxgjykx7lo?at_medium=RSS&at_campaign=rss",
+    "description": "International fans visiting the US for the World Cup have become frustrated by the culture of having to tip servers, telling the BBC that tipping fatigue has set in.",
+    "pubDate": "Fri, 26 Jun 2026 18:20:04 GMT",
+    "source": "BBC News",
+    "category": "综合",
+    "summary": "前来美国观看世界杯的国际球迷对小费文化感到沮丧，称已对小费感到疲劳，认为这种文化令人困惑且昂贵。"
+  },
+  {
+    "title": "Has VAR become a lottery at the World Cup?",
+    "link": "https://www.bbc.co.uk/sport/football/articles/c8e2ynrp7kro?at_medium=RSS&at_campaign=rss",
+    "description": "After a week of strange decisions many supporters have been left scratching their heads with VAR.",
+    "pubDate": "Fri, 26 Jun 2026 12:29:59 GMT",
+    "source": "BBC News",
+    "category": "综合",
+    "summary": "世界杯开赛一周来，VAR多次做出争议判罚，让众多球迷和球队感到困惑，认为其判罚如同抽奖般不可预测。"
+  },
+  {
+    "title": "The underdogs surprising everyone and taking points from top teams",
+    "link": "https://www.bbc.co.uk/sport/football/articles/cr5jedp7ppyo?at_medium=RSS&at_campaign=rss",
+    "description": "Are the surprise results achieved by lower-ranked teams in the World Cup a matter of luck - or clever planning and execution?",
+    "pubDate": "Fri, 26 Jun 2026 09:18:00 GMT",
+    "source": "BBC News",
+    "category": "综合",
+    "summary": "多支排名较低的球队在世界杯上爆冷从强队手中拿分，引发讨论：这究竟是运气使然还是精心策划和执行的结果？"
+  },
+  {
+    "title": "Ex-Trump adviser John Bolton pleads guilty to mishandling classified documents",
+    "link": "https://www.bbc.co.uk/news/articles/czxqwg4nrvlo?at_medium=RSS&at_campaign=rss",
+    "description": "Bolton faces a prison sentence of up to five years and has agreed to pay $2.25m in fine, prosecutors say.",
+    "pubDate": "Fri, 26 Jun 2026 16:45:21 GMT",
+    "source": "BBC News",
+    "category": "综合",
+    "summary": "前特朗普顾问博尔顿对不当处理机密文件指控认罪，检方称其面临最高五年监禁，并同意支付225万美元罚款。"
+  },
+  {
+    "title": "Nicholas Rossi: Rapist who faked death and fled to Scotland dies in US hospital",
+    "link": "https://www.bbc.co.uk/news/articles/cz75px7zl0wo?at_medium=RSS&at_campaign=rss",
+    "description": "Rossi fled to Scotland in 2021 in an attempt to evade justice but was arrested in the Covid ward of a Glasgow hospital.",
+    "pubDate": "Fri, 26 Jun 2026 18:19:24 GMT",
+    "source": "BBC News",
+    "category": "综合",
+    "summary": "强奸犯罗西为逃避司法伪造死亡并逃往苏格兰，在格拉斯哥一家医院的新冠病区被捕，近日在美国医院死亡。"
+  },
+  {
+    "title": "Canada eligible to join Eurovision competition",
+    "link": "https://www.bbc.co.uk/news/articles/cy06yzp4r0eo?at_medium=RSS&at_campaign=rss",
+    "description": "Prime Minister Mark Carney raised the idea of Canada joining the song contest in his 2025 budget.",
+    "pubDate": "Fri, 26 Jun 2026 13:41:36 GMT",
+    "source": "BBC News",
+    "category": "综合",
+    "summary": "加拿大总理马克·卡尼在2025年预算中提出加拿大参加欧洲歌唱大赛的构想，若实现将成为首个非欧洲参赛国。"
+  },
+  {
+    "title": "BBC DJ and presenter Trevor Nelson taking a break from work due to health issues",
+    "link": "https://www.bbc.co.uk/news/articles/c4gykyenweyo?at_medium=RSS&at_campaign=rss",
+    "description": "The Radio 2 and 1Xtra presenter said he was now \"concentrating on getting better\".",
+    "pubDate": "Fri, 26 Jun 2026 15:24:07 GMT",
+    "source": "BBC News",
+    "category": "综合",
+    "summary": "BBC Radio 2和1Xtra主持人特雷弗·尼尔森因健康问题暂停工作，表示将专注康复。"
+  },
+  {
+    "title": "Israel and Lebanon sign framework agreement after US-brokered talks",
+    "link": "https://www.bbc.co.uk/news/articles/cg5315n1v5go?at_medium=RSS&at_campaign=rss",
+    "description": "Previous ceasefires between Israel and Hezbollah have still seen near-daily cross-border strikes",
+    "pubDate": "Fri, 26 Jun 2026 21:33:34 GMT",
+    "source": "BBC News",
+    "category": "综合",
+    "summary": "以色列与黎巴嫩在美国斡旋下签署框架协议。此前双方虽有停火，但跨境交火仍几乎每日发生。"
+  },
+  {
+    "title": "David Miliband says he is optimistic about potential Burnham government",
+    "link": "https://www.bbc.co.uk/news/articles/cy04k0kd7q4o?at_medium=RSS&at_campaign=rss",
+    "description": "The former foreign secretary says Burnham has \"this openness and energy that I think is very attractive and positive\".",
+    "pubDate": "Fri, 26 Jun 2026 19:04:10 GMT",
+    "source": "BBC News",
+    "category": "综合",
+    "summary": "前外交大臣大卫·米利班德表示看好伯纳姆领导的潜在政府，称其拥有开放和积极的正能量。"
+  },
+  {
+    "title": "Watch: Driver gives lift to armed officer chasing suspect",
+    "link": "https://www.bbc.co.uk/news/articles/clyxg76527po?at_medium=RSS&at_campaign=rss",
+    "description": "The chase was caught on camera as the motorist pulled over to help in Margate.",
+    "pubDate": "Thu, 25 Jun 2026 21:09:16 GMT",
+    "source": "BBC News",
+    "category": "综合",
+    "summary": "英国马盖特一名司机主动停车搭载追捕嫌犯的武装警察，追逐过程被监控摄像头拍下。"
+  },
+  {
+    "title": "BBC News app",
+    "link": "https://www.bbc.co.uk/news/10628994?at_medium=RSS&at_campaign=rss",
+    "description": "Top stories, breaking news, live reporting, and follow news topics that match your interests",
+    "pubDate": "Wed, 30 Apr 2025 14:04:28 GMT",
+    "source": "BBC News",
+    "category": "综合",
+    "summary": "BBC新闻应用提供头条新闻、突发新闻、实时报道以及个性化新闻主题关注功能。"
+  },
+  {
+    "title": "Boiling point: The week of extreme heat",
+    "link": "https://www.bbc.co.uk/iplayer/episode/m002ypkf?at_medium=RSS&at_campaign=rss",
+    "description": "Danger to life warnings and record heat: how the UK and Europe struggled to cope.",
+    "pubDate": "Fri, 26 Jun 2026 16:00:00 GMT",
+    "source": "BBC News",
+    "category": "综合",
+    "summary": "英国和欧洲遭遇极端高温天气，发布生命危险警告，气温创下历史纪录，社会应对困难。"
+  },
+  {
+    "title": "The King (sort of) reveals his finances",
+    "link": "https://www.bbc.co.uk/sounds/play/p0ntfdw5?at_medium=RSS&at_campaign=rss",
+    "description": "King Charles has become the first monarch to reveal their tax bill, paying £12.9m.",
+    "pubDate": "Fri, 26 Jun 2026 15:07:00 GMT",
+    "source": "BBC News",
+    "category": "综合",
+    "summary": "英国国王查尔斯成为首位公开税单的君主，披露其缴纳了1290万英镑税款。"
+  },
+  {
+    "title": "Gripping, star-studded environmental thriller",
+    "link": "https://www.bbc.co.uk/iplayer/episode/m001j65w/dark-waters?at_mid=ZBSEF4bP71&at_campaign=Dark_Waters&at_medium=display_ad&at_campaign_type=owned&at_nation=NET&at_audience_id=SS&at_product=iplayer&at_brand=m001j65w&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=Dark_Waters&at_bbc_team=BBC&at_creation=Film",
+    "description": "Past ties drag corporate lawyer Rob into conflict with a company he usually assists.",
+    "pubDate": "Thu, 28 May 2026 00:30:33 GMT",
+    "source": "BBC News",
+    "category": "综合",
+    "summary": "一部扣人心弦、明星云集的环境惊悚片，讲述企业律师罗布因过往关系卷入与他通常代理的公司的冲突。"
+  },
+  {
+    "title": "James injury concerns grow but Rice back in training",
+    "link": "https://www.bbc.co.uk/sport/football/articles/ckg4kv0kkgeo?at_medium=RSS&at_campaign=rss",
+    "description": "Reece James could miss the start of the World Cup knockout stage if England progress as he recovers from injury.",
+    "pubDate": "Fri, 26 Jun 2026 21:04:10 GMT",
+    "source": "BBC News",
+    "category": "综合",
+    "summary": "里斯·詹姆斯因伤可能缺席世界杯淘汰赛阶段比赛，而赖斯已恢复训练。"
+  },
+  {
+    "title": "'I started running' - how fitter Duckett got back to his best",
+    "link": "https://www.bbc.co.uk/sport/cricket/articles/c621nr8zj80o?at_medium=RSS&at_campaign=rss",
+    "description": "Ben Duckett has lost \"five or six\" kilograms since the Ashes - this is how he reaped the rewards with a century for England in the third Test against New Zealand.",
+    "pubDate": "Fri, 26 Jun 2026 19:54:44 GMT",
+    "source": "BBC News",
+    "category": "综合",
+    "summary": "本·达克特自对阵澳大利亚的系列赛以来减重5-6公斤，体能提升帮助他在对新西兰的第三场测试赛中打出百分，重拾最佳状态。"
+  },
+  {
+    "title": "Usyk vacates belts but is not retiring",
+    "link": "https://www.bbc.co.uk/sport/boxing/articles/c6210pk8klro?at_medium=RSS&at_campaign=rss",
+    "description": "Heavyweight world champion Oleksandr Usyk says he will vacate all his belts but is not retiring.",
+    "pubDate": "Fri, 26 Jun 2026 17:29:56 GMT",
+    "source": "BBC News",
+    "category": "综合",
+    "summary": "重量级拳王奥列克桑德·乌西克宣布将放弃所有拳王金腰带，但表示不会退役。"
+  },
+  {
+    "title": "Brilliant Dembele hat-trick helps France see off Norway to top group",
+    "link": "https://www.bbc.co.uk/sport/football/videos/cr47d0g9v4yo?at_medium=RSS&at_campaign=rss",
+    "description": "Ousmane Dembele's first-half hat-trick helps France soundly defeat a Norway side without Erling Haaland 4-1 to top Group I at the World Cup.",
+    "pubDate": "Fri, 26 Jun 2026 21:34:57 GMT",
+    "source": "BBC News",
+    "category": "综合",
+    "summary": "奥斯曼·登贝莱上半场完成帽子戏法，帮助法国队4-1大胜缺少哈兰德的挪威队，以小组头名晋级世界杯。"
+  },
+  {
+    "title": "‘Everyone is talking about Cape Verde’: World Cup run delights diaspora community in UK",
+    "link": "https://www.theguardian.com/world/2026/jun/26/cape-verde-world-cup-run-delights-diaspora-community-uk",
+    "description": "Cape Verdeans in Britain feeling ‘incredibly proud’ after team’s hard-fought draws against Spain and UruguayWorld Cup live – latest updatesFor as long as she can remember, 13-year-old Lauryn struggled to find a map that included Cape Verde. Now, to her great delight, the tiny African island nation is finally centre stage.“Seeing our country shown across the world at the World Cup makes me feel incredibly proud,” Lauryn says. “After the first match, everyone was talking about Cape Verde. People s",
+    "pubDate": "Fri, 26 Jun 2026 12:03:25 GMT",
+    "source": "卫报",
+    "category": "综合",
+    "summary": "佛得角队在世界杯上接连逼平西班牙和乌拉圭，让旅居英国的佛得角侨民感到无比自豪，这个西非岛国正因球队表现备受关注。"
+  },
+  {
+    "title": "Whereabouts of nearly 300 people with Ebola unknown in DR Congo",
+    "link": "https://www.theguardian.com/global-development/2026/jun/26/whereabouts-of-nearly-300-people-with-ebola-unknown-in-drc",
+    "description": "Fears over ‘huge community transmission’ as modelling predicts thousands of deaths in DRC by SeptemberThe whereabouts of almost 300 people who have tested positive for Ebola in the Democratic Republic of the Congo is unknown, according to Africa’s top public health official.The humanitarian crisis amid the conflict in the affected areas means more than 1 million people are living in camps to which health workers have no access, Dr Jean Kaseya, director general of the Africa Centers for Disease C",
+    "pubDate": "Fri, 26 Jun 2026 10:55:56 GMT",
+    "source": "卫报",
+    "category": "综合",
+    "summary": "非洲公共卫生官员表示，刚果（金）有近300名埃博拉检测阳性者下落不明，模型预测到9月可能导致数千人死亡，引发大规模社区传播担忧。"
+  },
+  {
+    "title": "Outrage as woman jailed for three years after criticising Somali government online",
+    "link": "https://www.theguardian.com/global-development/2026/jun/26/woman-sadia-moalim-ali-three-year-jail-sentence-somalia-online-comments-governement",
+    "description": "Sentencing of 27-year-old Sadia Moalim Ali condemned by former president and prime ministers as well as rights groupsA rickshaw driver in Somalia has been sentenced to three years in prison for comments she made on social media, in a case that has caught the public’s attention and provoked outrage in the country.Sadia Moalim Ali, a 27-year-old nursing graduate, was originally charged with insulting government institutions and incitement to commit a crime, but convicted only of the former. Her se",
+    "pubDate": "Fri, 26 Jun 2026 10:00:14 GMT",
+    "source": "卫报",
+    "category": "综合",
+    "summary": "Sentencing of 27-year-old Sadia Moalim Ali condemned by former president and prime ministers as well as rights groupsA rickshaw driver in Somalia has "
+  },
+  {
+    "title": "‘Constitutional coup’ claims as Zimbabwe senate approves extending presidential term",
+    "link": "https://www.theguardian.com/world/2026/jun/25/constitutional-coup-zimbabwe-senate-approves-presidential-term",
+    "description": "Opposition figures fear changes will further tighten 83-year-old president Emmerson Mnangagwa’s hold on powerZimbabwe is on the brink of amending its constitution to give the president more time in office, a change that the government says will bring stability but that opponents have labelled a “constitutional coup”.The upper house of Zimbabwe’s parliament voted on Wednesday 75-4 in favour of the constitutional amendments, which will allow President Emmerson Mnangagwa to stay in office until 203",
+    "pubDate": "Thu, 25 Jun 2026 16:04:41 GMT",
+    "source": "卫报",
+    "category": "综合",
+    "summary": "Opposition figures fear changes will further tighten 83-year-old president Emmerson Mnangagwa’s hold on powerZimbabwe is on the brink of amending its "
+  },
+  {
+    "title": "France confirms first Ebola case in doctor who had worked in DRC",
+    "link": "https://www.theguardian.com/world/2026/jun/24/france-ebola-first-case-doctor-drc",
+    "description": "French health ministry says patient’s contacts are being traced and that risk to European public is very lowThe first case of Ebola has been confirmed in France, the country’s health ministry has said, in a doctor who had returned from a humanitarian mission to an area affected by the outbreak in the Democratic Republic of the Congo.The patient was transferred to a specialist facility and was in a stable condition, the ministry said in a statement. “All precautionary measures, including the pati",
+    "pubDate": "Wed, 24 Jun 2026 12:11:21 GMT",
+    "source": "卫报",
+    "category": "综合",
+    "summary": "French health ministry says patient’s contacts are being traced and that risk to European public is very lowThe first case of Ebola has been confirmed"
+  },
+  {
+    "title": "Venezuela quake death toll reaches 920 as interim president vows to save ‘as many as possible’",
+    "link": "https://www.theguardian.com/world/2026/jun/26/delcy-rodriguez-interim-president-venezuela-earthquake-death-toll",
+    "description": "Delcy Rodríguez says foreign rescue teams are arriving as anger grows at official response and limited resourcesSurvivors tell of ‘brutal and fast’ Venezuela quake as hunt for survivors goes onVenezuela’s interim president, Delcy Rodríguez, has vowed to fight to save “as many people as possible” as the official death toll from the country’s worst earthquake in more than a century almost doubled, but frustration was growing at the perceived sluggishness of the government’s response.Rodríguez’s br",
+    "pubDate": "Fri, 26 Jun 2026 17:36:39 GMT",
+    "source": "卫报",
+    "category": "综合",
+    "summary": "Delcy Rodríguez says foreign rescue teams are arriving as anger grows at official response and limited resourcesSurvivors tell of ‘brutal and fast’ Ve"
+  },
+  {
+    "title": "Carney announces contest to revamp uninhabitable Canadian PM residence",
+    "link": "https://www.theguardian.com/world/2026/jun/26/mark-carney-contest-canada-prime-minister-residence",
+    "description": "Various issues – including a rodent infestation and mould – have left the historic, sprawling Ottawa estate empty10 Downing Street has two things: mice and a chief mouser. For more than a decade, an officially recognized feline has kept rodent infestation in the British prime minister’s residence to a minimum.Over a similar period, the official residence of Canada’s prime minister has seen an unchecked explosion of rodents. Continue reading...",
+    "pubDate": "Fri, 26 Jun 2026 16:09:00 GMT",
+    "source": "卫报",
+    "category": "综合",
+    "summary": "Various issues – including a rodent infestation and mould – have left the historic, sprawling Ottawa estate empty10 Downing Street has two things: mic"
+  },
+  {
+    "title": "Survivors tell of ‘brutal and fast’ Venezuela quake as hunt for survivors goes on",
+    "link": "https://www.theguardian.com/world/2026/jun/26/hunt-survivors-brutal-venezuela-earthquake",
+    "description": "Worst incident of its kind in country for more than 125 years leaves many searching for family members – and pleading for international helpVenezuela death toll doubles as interim president vows to save ‘as many people as possible’Nearly all of Ligia Level’s family lived in a trio of apartment blocks along Hotel Avenue, a seafront sweep of palm-specked resorts and high-rise condos along Venezuela’s Caribbean coast.When a powerful “doublet” of earthquakes jolted the region on Wednesday afternoon,",
+    "pubDate": "Fri, 26 Jun 2026 16:02:33 GMT",
+    "source": "卫报",
+    "category": "综合",
+    "summary": "委内瑞拉发生125年来最严重地震，幸存者描述地震\"迅猛且残酷\"。许多人仍在寻找失踪亲人，呼吁国际援助。临时总统誓言尽最大努力挽救生命。"
+  },
+  {
+    "title": "Venezuela earthquakes: 589 confirmed dead so far as international rescue teams arrive – as it happened",
+    "link": "https://www.theguardian.com/world/live/2026/jun/26/venezuela-earthquakes-search-survivors-death-toll-rodriguez-rubio-latest-news-updates",
+    "description": "This blog is now closed, you can read more on this story hereChina’s president Xi Jinping said Beijing was ready to provide Venezuela with “disaster relief and reconstruction” assistance.Xi sent a message of condolence to Venezuela’s interim president Delcy Rodríguez today, according to Chinese state news agency Xinhua. Continue reading...",
+    "pubDate": "Fri, 26 Jun 2026 15:00:07 GMT",
+    "source": "卫报",
+    "category": "综合",
+    "summary": "委内瑞拉地震已造成589人确认死亡，国际救援队陆续抵达。中国国家主席习近平向委内瑞拉临时总统德尔西·罗德里格斯致慰问电，表示愿提供救灾和重建援助。"
+  },
+  {
+    "title": "‘Chock full of incredible animals’: marine expedition uncovers 31 new species in two weeks",
+    "link": "https://www.theguardian.com/environment/2026/jun/26/marine-expedition-uncovers-31-new-species-two-weeks-brazil",
+    "description": "Experts worked in ocean midwater off Brazil at near-record speeds thanks to cutting-edge techA marine biology expedition in international waters off the coast of Brazil has discovered 31 new species in just two weeks.The researchers believe the speed at which the species were found and identified may be a record, in part because of the cutting-edge technology designed and built by the science and engineering team. For the first time on board a ship, the researchers were able to observe the livin",
+    "pubDate": "Fri, 26 Jun 2026 11:06:37 GMT",
+    "source": "卫报",
+    "category": "综合",
+    "summary": "一项在巴西沿岸国际水域进行的海洋生物学考察借助尖端技术，在两周内以创纪录速度发现了31个新物种。研究人员对发现和鉴定速度之快感到惊讶。"
+  },
+  {
+    "title": "Weather tracker: Heatwave expected to bring Germany and Poland to 40C",
+    "link": "https://www.theguardian.com/environment/2026/jun/26/weather-tracker-heatwave-germany-poland-40c-temperatures",
+    "description": "Austrian Grand Prix declares heat hazard as dramatic rise in temperatures forecast in central and northern EuropeTemperatures are forecast to rise dramatically in parts of central and northern Europe this weekend as the intense heatwave continues. In Germany and Poland, highs up to or exceeding 40C (104F) are expected on both Saturday and Sunday, days after swathes of France experienced similar extreme temperatures. The Austrian Grand Prix, taking place this weekend in Spielberg, has declared a ",
+    "pubDate": "Fri, 26 Jun 2026 08:22:52 GMT",
+    "source": "卫报",
+    "category": "综合",
+    "summary": "中北欧本周末将迎来极端热浪，德国和波兰气温预计高达40摄氏度。奥地利大奖赛已发布高温预警，热浪持续影响该地区。"
+  },
+  {
+    "title": "South Korea to train half a million military personnel to become ‘drone warriors’",
+    "link": "https://www.theguardian.com/world/2026/jun/26/south-korea-drone-warriors-military-training",
+    "description": "All branches of the military will be taught how to use technology that has become a ‘game changer on the battlefield’, says defence ministerAll of South Korea’s military forces will be trained as drone operators in a sweeping overhaul of its warfare strategy, the defence minister has said.“All soldiers should be able to use drones like a second personal firearm,” Ahn Gyu-back, who heads the defence ministry in Seoul, said on Friday. Continue reading...",
+    "pubDate": "Fri, 26 Jun 2026 06:04:05 GMT",
+    "source": "卫报",
+    "category": "综合",
+    "summary": "韩国国防部长表示，将对全军50万军事人员进行无人机操作培训，以全面革新作战策略。无人机已被视为\"战场游戏规则改变者\"。"
+  },
+  {
+    "title": "Xi Jinping has hosted more than a dozen leaders this year, as ‘middle powers’ look beyond the US",
+    "link": "https://www.theguardian.com/world/2026/jun/26/xi-jinping-china-host-of-world-leaders-middle-powers",
+    "description": "China’s leader wants to promote his alternative to the current world order, and his efforts are being assisted by a capricious US Xi Jinping meets Bangladesh’s new prime minister on Friday, the latest in a wave of world leaders to visit Beijing this year as the Chinese leader builds his influence and economic ties, and seeks to “shift the balance of power” away from the west.Xi’s meeting with Tarique Rahman comes less than two weeks after the Chinese leader welcomed Myanmar’s military chief-turn",
+    "pubDate": "Fri, 26 Jun 2026 01:28:11 GMT",
+    "source": "卫报",
+    "category": "综合",
+    "summary": "China’s leader wants to promote his alternative to the current world order, and his efforts are being assisted by a capricious US Xi Jinping meets Ban"
+  },
+  {
+    "title": "New evidence casts doubt on RFK Jr testimony before Senate",
+    "link": "https://www.theguardian.com/us-news/2026/jun/25/rfk-jr-senate-testimony-samoa-visit",
+    "description": "Kennedy repeatedly said 2019 Samoa trip had ‘nothing to do with vaccines’. An email from his then colleague says they were on a vaccine-related ‘mission’New evidence has emerged that Robert F Kennedy Jr was on a vaccine-related “mission” when he visited Samoa ahead of a deadly measles outbreak in 2019, raising further questions about whether the US health secretary lied to the US Senate when he said the trip had “nothing to do with vaccines”.Records obtained by the Guardian show Kennedy’s collea",
+    "pubDate": "Thu, 25 Jun 2026 19:31:43 GMT",
+    "source": "卫报",
+    "category": "综合",
+    "summary": "Kennedy repeatedly said 2019 Samoa trip had ‘nothing to do with vaccines’. An email from his then colleague says they were on a vaccine-related ‘missi"
+  },
+  {
+    "title": "Papua New Guinea at risk of food shortages as El Niño brings frost and drought",
+    "link": "https://www.theguardian.com/world/2026/jun/25/el-nino-pacific-papua-new-guinea-png-food-shortages",
+    "description": "Oxfam predicts PNG will be worst-hit country in Pacific from the weather pattern, with up to 3 million people affected nationwideFamilies across Papua New Guinea’s Highlands are facing depleted harvests and the threat of hunger after the El Niño weather pattern brought frost and prolonged dry conditions that have destroyed food gardens providing sustenance and income for thousands of households.The effects of El Niño emerged in recent weeks, bringing drought conditions, falling water levels and ",
+    "pubDate": "Thu, 25 Jun 2026 03:54:03 GMT",
+    "source": "卫报",
+    "category": "综合",
+    "summary": "Oxfam predicts PNG will be worst-hit country in Pacific from the weather pattern, with up to 3 million people affected nationwideFamilies across Papua"
+  },
+  {
+    "title": "Massive wins and the promise of change – but that’s where the Starmer-Albanese similarities end",
+    "link": "https://www.theguardian.com/australia-news/2026/jun/27/australia-uk-prime-minister-keir-starmer-anthony-albanese-comparison",
+    "description": "While Anthony Albanese calls ousted British PM Keir Starmer his mate, the pair share very different political fortunesGet our breaking news email, free app or daily news podcastAnthony Albanese channelled Paul Keating as he spoke to government MPs in Canberra this week, reflecting on the tough work of reform.Keating, Albanese said, considered Labor to be a bit like a bicycle. “It only stands up when you pedal,” the party grandee once warned, suggesting that without ideas, direction or momentum, ",
+    "pubDate": "Fri, 26 Jun 2026 15:00:22 GMT",
+    "source": "卫报",
+    "category": "综合",
+    "summary": "While Anthony Albanese calls ousted British PM Keir Starmer his mate, the pair share very different political fortunesGet our breaking news email, fre"
+  },
+  {
+    "title": "Here we Joh again? The spectre of Bjelke-Petersen still looms large over Queensland",
+    "link": "https://www.theguardian.com/australia-news/2026/jun/27/joh-bjelke-petersen-queensland-politics-ntwnfb",
+    "description": "The LNP’s unapologetic moves on crime, transgender healthcare and police-led suppression of protests are a throwback to days many thought had come and goneGet our breaking news email, free app or daily news podcastA sign stopped Aunty Sandra King in her tracks. The elder of the Yagara, Quandamooka and Bundjalung people, now in her 70s, spoke at a protest last month against plans to build an Olympic stadium in the heart of Brisbane’s Victoria Park.In the crowd a man held aloft a homemade placard ",
+    "pubDate": "Fri, 26 Jun 2026 15:00:15 GMT",
+    "source": "卫报",
+    "category": "综合",
+    "summary": "The LNP’s unapologetic moves on crime, transgender healthcare and police-led suppression of protests are a throwback to days many thought had come and"
+  },
+  {
+    "title": "Park to protect 12,000 koalas to go ahead via contentious carbon credit deal by Albanese government",
+    "link": "https://www.theguardian.com/australia-news/2026/jun/26/great-koala-national-park-nsw-carbon-credit-deal",
+    "description": "Minns government waited on federal approval of carbon credit scheme before proceeding with long-awaited great koala national parkFollow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podcastA long-promised New South Wales great koala national park is set to go ahead after the Albanese government greenlit the state to receive hundreds of millions of dollars for protecting native forests previously earmarked for logging.The assistant climate chan",
+    "pubDate": "Fri, 26 Jun 2026 08:19:43 GMT",
+    "source": "卫报",
+    "category": "综合",
+    "summary": "Minns government waited on federal approval of carbon credit scheme before proceeding with long-awaited great koala national parkFollow our Australia "
+  },
+  {
+    "title": "Socceroos fans celebrate at city sites – as it happened",
+    "link": "https://www.theguardian.com/australia-news/live/2026/jun/26/australia-news-live-pat-conroy-defence-labor-karl-stefanovic-nine-moira-deeming-matthew-guy-liberals-victoria-coalition-tax-reform-ntwnfb",
+    "description": "This blog is now closedGet our breaking news email, free app or daily news podcastAlbanese says Stefanovic saga ‘unfortunate’, but ‘words do matter’The prime minister was asked by the ABC about Karl Stefanovic’s departure from Nine. He had this to say:It’s a matter, of course, for Channel 9, but words do matter, and what people who are very prominent in our public discourse do, and how they conduct themselves, matters as well.And it’s unfortunate, the way that what has been a very big career has",
+    "pubDate": "Fri, 26 Jun 2026 07:18:12 GMT",
+    "source": "卫报",
+    "category": "综合",
+    "summary": "This blog is now closedGet our breaking news email, free app or daily news podcastAlbanese says Stefanovic saga ‘unfortunate’, but ‘words do matter’Th"
+  },
+  {
+    "title": "Vital Blue Mountains highway to be closed for another year as NSW reveals bridge plans",
+    "link": "https://www.theguardian.com/australia-news/2026/jun/26/blue-mountains-highway-closed-for-another-year-victoria-pass-new-bridge",
+    "description": "New structure to be built above 194-year-old Mitchells Causeway as residents face months of delays to reopening of Victoria Pass section of highwayFollow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podcastA vital road connecting Sydney with New South Wales’ central west will remain shut for at least another year, leaving Blue Mountains and Central Tablelands residents facing extended travel times and detours for longer than expected.Transpor",
+    "pubDate": "Fri, 26 Jun 2026 06:22:10 GMT",
+    "source": "卫报",
+    "category": "综合",
+    "summary": "New structure to be built above 194-year-old Mitchells Causeway as residents face months of delays to reopening of Victoria Pass section of highwayFol"
+  },
+  {
+    "title": "UK June heat record broken again, France postpones Pride and Poland warns of wildfires as heatwave grips Europe – as it happened",
+    "link": "https://www.theguardian.com/environment/live/2026/jun/26/europe-heatwave-extreme-heat-red-alert-weather-uk-england-france-climate-crisis-latest-news-updates",
+    "description": "This blog is now closed, you can read more on this story here:UK June heat record broken for third day in a rowFourth child dies in France as brutal heatwave forecast to shift eastOver in the UK, firefighters are still trying to bring a large wildfire in Derbyshire under control.The blaze, which has burned over 500 square metres of moorland and woodland on Tintwistle Moor, near Glossop, broke out on Wednesday evening, with fire crews from Manchester and Derbyshire deploying a water-dropping heli",
+    "pubDate": "Fri, 26 Jun 2026 17:07:33 GMT",
+    "source": "卫报",
+    "category": "综合",
+    "summary": "This blog is now closed, you can read more on this story here:UK June heat record broken for third day in a rowFourth child dies in France as brutal h"
+  },
+  {
+    "title": "Fourth toddler dies in France as Europe’s brutal heatwave forecast to shift east",
+    "link": "https://www.theguardian.com/environment/2026/jun/26/europe-heatwave-shift-east-child-deaths-france-cities-heat-stress",
+    "description": "Scientists say hot spell is worst ever, with nearly half of region’s 850 largest cities facing unprecedented heat stress The number of deaths in France linked to the heatwave has climbed to four toddlers and more than 55 drownings, as the brutally hot conditions sweeping Europe were forecast to shift east, choking 150 million people under 35C (95F) temperatures.Scientists said the heatwave was the most severe and widespread ever, leaving nearly half of the region’s 850 largest cities grappling w",
+    "pubDate": "Fri, 26 Jun 2026 17:04:30 GMT",
+    "source": "卫报",
+    "category": "综合",
+    "summary": "Scientists say hot spell is worst ever, with nearly half of region’s 850 largest cities facing unprecedented heat stress The number of deaths in Franc"
+  },
+  {
+    "title": "VW plans to cut up to 100,000 jobs and shut plants, report says",
+    "link": "https://www.theguardian.com/business/2026/jun/26/vw-cut-jobs-shut-plants-volkswagen-china",
+    "description": "German firm reportedly considering doubling previously announced staff reductions amid Chinese competitionBusiness live – latest updatesGermany’s Volkswagen is to cut up to 100,000 jobs and reduce and eventually stop production at some plants, according to reports.The company has refused to comment on reports of a management presentation at a board meeting outlining dramatic cost cutting, but if it goes ahead it would mean Volkswagen doubling previously announced staff reductions. Continue readi",
+    "pubDate": "Fri, 26 Jun 2026 15:35:52 GMT",
+    "source": "卫报",
+    "category": "综合",
+    "summary": "German firm reportedly considering doubling previously announced staff reductions amid Chinese competitionBusiness live – latest updatesGermany’s Volk"
+  },
+  {
+    "title": "‘We feel like the peasants’: women and low-income families bear brunt of heatwave",
+    "link": "https://www.theguardian.com/environment/2026/jun/26/women-low-income-families-bear-brunt-climate-crisis-heatwave",
+    "description": "As temperatures soar across Europe, cities are struggling to adapt, further exacerbating socioeconomic divisions The heatwave afflicting western Europe is the worst ever, with the combination of heat and humidity fuelled by the climate crisis making scores of cities feel unliveable. While for some the adverse impacts amount to disturbed sleep and sticky days in the home office, low-income families are often worse affected by cities’ lack of adequate adaptation measures, with women at the sharp e",
+    "pubDate": "Fri, 26 Jun 2026 15:00:14 GMT",
+    "source": "卫报",
+    "category": "综合",
+    "summary": "As temperatures soar across Europe, cities are struggling to adapt, further exacerbating socioeconomic divisions The heatwave afflicting western Europ"
+  },
+  {
+    "title": "‘Fork in the road’: CEO of Amazon-backed Rivian on why carmakers need to invest in EVs",
+    "link": "https://www.theguardian.com/business/2026/jun/26/ceo-amazon-backed-rivian-carmakers-evs",
+    "description": "RJ Scaringe says firms focused on selling fossil fuel engines risk being ‘woefully behind’ on technology by end of decadeCarmakers that focus on selling fossil fuel engines are at risk of being “woefully behind” on technology by the end of the decade, according to the boss of Rivian, an Amazon-backed US electric carmaker.RJ Scaringe, Rivian’s founder and chief executive, said the car industry has reached a “fork in the road” in the choice between short-term profits and the heavy investments, par",
+    "pubDate": "Fri, 26 Jun 2026 14:00:14 GMT",
+    "source": "卫报",
+    "category": "综合",
+    "summary": "RJ Scaringe says firms focused on selling fossil fuel engines risk being ‘woefully behind’ on technology by end of decadeCarmakers that focus on selli"
+  },
+  {
+    "title": "US says it struck Iran targets after attack on cargo ship on the strait of Hormuz",
+    "link": "https://www.theguardian.com/world/2026/jun/26/us-says-it-struck-iran-targets-after-attack-on-cargo-ship-on-the-strait-of-hormuz",
+    "description": "Strike was in response to drone attack a day earlier on a commercial vesselUS strikes Iran – latest updatesThe US military ⁠conducted strikes ⁠against Iran ​on Friday, ⁠Central Command said in ⁠a statement, ​adding ‌that ‌US aircraft ‌struck Iranian missile and drone storage locations and ‌coastal radar sites ​after Tehran’s attack on a ⁠commercial ship ​in the ​strait ​of ​Hormuz.The US strike was in response to a drone attack a day earlier on a cargo ship in the strait, a provocation that Pres",
+    "pubDate": "Fri, 26 Jun 2026 21:07:05 GMT",
+    "source": "卫报",
+    "category": "综合",
+    "summary": "Strike was in response to drone attack a day earlier on a commercial vesselUS strikes Iran – latest updatesThe US military ⁠conducted strikes ⁠against"
+  },
+  {
+    "title": "Trump blames Iran for drone strike on cargo ship in strait of Hormuz",
+    "link": "https://www.theguardian.com/us-news/2026/jun/26/trump-iran-drone-strike-strait-hormuz",
+    "description": "US president calls it ‘foolish violation’ of ceasefire agreement after drone damaged ship’s upper deckUS politics live – latest updatesDonald Trump on Friday blamed Iran for carrying out a drone strike on a cargo ship in the strait of Hormuz, calling it a “foolish violation” of the ceasefire agreement with the US.One drone damaged the upper deck of the ship but the ship was able to proceed, the US president said. The US shot down three other drones aimed at the ship, he said. Continue reading...",
+    "pubDate": "Fri, 26 Jun 2026 19:08:22 GMT",
+    "source": "卫报",
+    "category": "综合",
+    "summary": "US president calls it ‘foolish violation’ of ceasefire agreement after drone damaged ship’s upper deckUS politics live – latest updatesDonald Trump on"
+  },
+  {
+    "title": "UN agency pauses ship evacuations through strait of Hormuz after vessel struck",
+    "link": "https://www.theguardian.com/world/2026/jun/25/un-pauses-ship-evacuations-through-strait-of-hormuz-after-vessel-attack",
+    "description": "International Maritime Organization says safety guarantees must be confirmed before ships can move againA United Nations agency has paused the evacuation of ships through the strait of Hormuz after the British military said a vessel was hit by a projectile off the coast of Oman following the passage of several tankers that used a route backed by the UN.The head of the UN’s International Maritime Organization said on Thursday that the plan to move stranded ships out of the Persian Gulf through th",
+    "pubDate": "Fri, 26 Jun 2026 04:41:16 GMT",
+    "source": "卫报",
+    "category": "综合",
+    "summary": "International Maritime Organization says safety guarantees must be confirmed before ships can move againA United Nations agency has paused the evacuat"
+  },
+  {
+    "title": "Iran rejects UN-backed plan to free ships trapped in strait of Hormuz",
+    "link": "https://www.theguardian.com/world/2026/jun/25/un-backed-plan-ships-trapped-strait-of-hormuz-rejected-iran",
+    "description": "Blocking of proposal backed by Oman signals new threat to free passage through strait vital to world economyIran has rejected UN-backed plans for the mass evacuation of ships through the strait of Hormuz, creating a new threat to the free passage of commercial ships through the strait.The proposal, backed by Oman, was potentially the first phase of a broader Omani proposal to consult on setting up a new management of the strait based on voluntary fees and modelled on the Malacca and Singapore st",
+    "pubDate": "Thu, 25 Jun 2026 16:44:56 GMT",
+    "source": "卫报",
+    "category": "综合",
+    "summary": "Blocking of proposal backed by Oman signals new threat to free passage through strait vital to world economyIran has rejected UN-backed plans for the "
+  },
+  {
+    "title": "Israeli forces arrest Palestinian ‘doctor of the poor’",
+    "link": "https://www.theguardian.com/world/2026/jun/25/israeli-forces-arrest-palestinian-doctor-of-the-poor",
+    "description": "Dr Mazen Al-Rantisi, a 71-year-old physician well known for providing care to low-income Palestinians, was arrested in the occupied West BankIsraeli forces on Sunday arrested a prominent 71-year-old Palestinian physician known as the “doctor of the poor” in a pre-dawn raid on his home in the occupied West Bank, prompting widespread condemnation.Dr Mazen Al-Rantisi, a physician widely known for providing care to low-income Palestinians, was arrested in the al-Tira neighbourhood of Ramallah. Conti",
+    "pubDate": "Thu, 25 Jun 2026 16:25:34 GMT",
+    "source": "卫报",
+    "category": "综合",
+    "summary": "Dr Mazen Al-Rantisi, a 71-year-old physician well known for providing care to low-income Palestinians, was arrested in the occupied West BankIsraeli f"
+  },
+  {
+    "title": "Child malnutrition in Nepal has reached ‘alarming’ levels since aid cuts, survey finds",
+    "link": "https://www.theguardian.com/global-development/2026/jun/26/child-malnutrition-nepal-child-mortality-usaid-funding-nutrition-programmes",
+    "description": "Fears hard-won gains in reducing child mortality over 20 years are at risk after end of USAID funding for nutrition programmesChild malnutrition in Nepal has reached “alarming” levels, according to the largest ever survey of under-fives in the country.The new figures came just over a year after USAID, the former US flagship agency closed by the Trump administration in 2025, stopped funding work on child nutrition in Nepal. Continue reading...",
+    "pubDate": "Fri, 26 Jun 2026 07:00:13 GMT",
+    "source": "卫报",
+    "category": "综合",
+    "summary": "Fears hard-won gains in reducing child mortality over 20 years are at risk after end of USAID funding for nutrition programmesChild malnutrition in Ne"
+  },
+  {
+    "title": "Pakistan police rescue French woman and children allegedly held captive by husband for 12 years",
+    "link": "https://www.theguardian.com/world/2026/jun/24/pakistan-police-rescue-french-woman-sylvie-yasmina-children-allegedly-held-captive-husband",
+    "description": "Husband arrested after Sylvie Yasmina, 54, and five children found at home in north-western provincePakistan police say they have rescued a French woman and her five children after she told authorities she had been held captive by her husband for more than a decade and subjected to years of domestic abuse in the country’s north-west.The woman, identified as 54-year-old Sylvie Yasmina, was rescued earlier this week from a mud-brick home in Bara, a town in Khyber Pakhtunkhwa province near the Afgh",
+    "pubDate": "Wed, 24 Jun 2026 18:30:02 GMT",
+    "source": "卫报",
+    "category": "综合",
+    "summary": "Husband arrested after Sylvie Yasmina, 54, and five children found at home in north-western provincePakistan police say they have rescued a French wom"
+  },
+  {
+    "title": "EU faces fierce criticism over plans to host Taliban in Brussels",
+    "link": "https://www.theguardian.com/world/2026/jun/23/eu-faces-fierce-criticism-plans-host-taliban-brussels",
+    "description": "Rights campaigners and MEPs say meeting would normalise regime that erases women from public lifeRights campaigners and MEPs have warned that a meeting between EU officials and a Taliban delegation in Brussels risks normalising a regime that has banned girls from school beyond the sixth grade and sought to erase women from public life, while its ranks include two leaders accused of crimes against humanity.A spokesperson for the Afghan foreign ministry confirmed that a delegation representing the",
+    "pubDate": "Tue, 23 Jun 2026 14:11:58 GMT",
+    "source": "卫报",
+    "category": "综合",
+    "summary": "Rights campaigners and MEPs say meeting would normalise regime that erases women from public lifeRights campaigners and MEPs have warned that a meetin"
+  },
+  {
+    "title": "Taliban order ban on smartphones as officials shown destroying devices",
+    "link": "https://www.theguardian.com/global-development/2026/jun/18/taliban-ban-smartphones-officials-shown-destroying-devices",
+    "description": "Directive aimed at government workers, but reports of wider implementation spark warnings of future Afghanistan-wide prohibitionThe Taliban have ordered a sweeping ban on the use of smartphones by government officials – in what some analysts say could foreshadow broader, population-level restrictions.In a directive issued by the Taliban’s military courts and reviewed by the Guardian, the ban was to take effect this week and prohibits “high rank, low rank, general mujahideen, or service staff” fr",
+    "pubDate": "Thu, 18 Jun 2026 05:00:01 GMT",
+    "source": "卫报",
+    "category": "综合",
+    "summary": "Directive aimed at government workers, but reports of wider implementation spark warnings of future Afghanistan-wide prohibitionThe Taliban have order"
+  },
+  {
+    "title": "‘Period tax’ on sanitary products to be abolished, says Pakistan minister",
+    "link": "https://www.theguardian.com/global-development/2026/jun/17/period-tax-sanitary-products-abolished-pakistan-minister",
+    "description": "Campaigners welcome announcement cutting levies on menstrual health items, but say their work to end period poverty is ‘far from over’Pakistan plans to abolish “period tax”, in a victory for young campaigners who had taken the government to court over the charges.Finance minister Muhammad Aurangzeb announced that sanitary towels and related items were “daily necessities that are indispensable for women’s health, dignity and full participation in social activities”, and said he intended to remove",
+    "pubDate": "Wed, 17 Jun 2026 12:46:15 GMT",
+    "source": "卫报",
+    "category": "综合",
+    "summary": "Campaigners welcome announcement cutting levies on menstrual health items, but say their work to end period poverty is ‘far from over’Pakistan plans t"
+  },
+  {
+    "title": "Home secretary sought to restrict minister’s access to papers as she calls for his sacking",
+    "link": "https://www.theguardian.com/uk-news/2026/jun/26/minister-mike-tapp-row-home-secretary-shabana-mahmood",
+    "description": "Row between Shabana Mahmood and Mike Tapp broke out after he wrote unauthorised article about immigrationA rift between Keir Starmer and Shabana Mahmood has deepened after it emerged the home secretary wanted to deny the migration minister, Mike Tapp, access to sensitive documents without her approval as she called for him to be sacked.Downing Street said Tapp – who has been a loyal supporter of Keir Starmer – remained a minister but that the prime minister was taking advice on whether he broke ",
+    "pubDate": "Fri, 26 Jun 2026 21:23:37 GMT",
+    "source": "卫报",
+    "category": "综合",
+    "summary": "Row between Shabana Mahmood and Mike Tapp broke out after he wrote unauthorised article about immigrationA rift between Keir Starmer and Shabana Mahmo"
+  },
+  {
+    "title": "Mahmood outlines safe immigration routes plan to win over Labour left",
+    "link": "https://www.theguardian.com/uk-news/2026/jun/26/mahmood-outlines-safe-immigration-routes-plan-to-win-over-labour-left",
+    "description": "Home secretary speeds up major part of bill governing asylum and refugees as new prime minister set to take overShabana Mahmood will seek to shore up support for her controversial immigration bill on the progressive left of Labour, as she sets out plans to speed up the opening of new safe and legal routes that will permit thousands of refugees to come to the UK.The home secretary, who is the leading contender to stay in her job if Andy Burnham becomes prime minister, will next week introduce the",
+    "pubDate": "Fri, 26 Jun 2026 18:23:38 GMT",
+    "source": "卫报",
+    "category": "综合",
+    "summary": "Home secretary speeds up major part of bill governing asylum and refugees as new prime minister set to take overShabana Mahmood will seek to shore up "
+  },
+  {
+    "title": "Now we know how much tax King Charles pays, and it is very little",
+    "link": "https://www.theguardian.com/uk-news/2026/jun/26/now-we-know-how-much-tax-king-charles-pays-and-it-is-very-little",
+    "description": "The monarch’s declaration does not tell us much, except that his bill is lower than for people with much smaller fortunesThe veil of secrecy that surrounds the royal finances was nudged aside a little on Thursday to allow the release of a new piece of information. We learned for the first time how much the king’s annual tax bill comes to.This was not a full tax return. It was a two-sentence declaration, stating his tax payable amounted to £12.9m in 2024-25, and a slightly smaller sum the year be",
+    "pubDate": "Fri, 26 Jun 2026 17:23:41 GMT",
+    "source": "卫报",
+    "category": "综合",
+    "summary": "英国王室财务透明度略有提升，首次公开国王查尔斯缴纳的税款金额，显示其税单远低于拥有更少财富的普通人，王室财务仍高度不透明。"
+  },
+  {
+    "title": "Andy Burnham says he will give 15% of his MP’s pay to local causes",
+    "link": "https://www.theguardian.com/politics/2026/jun/26/andy-burnham-donate-15-per-cent-mp-pay-makerfield",
+    "description": "New member for Makerfield and expected next prime minister joins other MPs who donate some or all of their payAndy Burnham has said he will be donating 15% of his MP’s salary to local causes in his constituency of Makerfield.An MP’s salary currently stands at £98,599 and a number of MPs donate all or part of their salary to charities and causes in the areas they represent. Continue reading...",
+    "pubDate": "Fri, 26 Jun 2026 17:16:00 GMT",
+    "source": "卫报",
+    "category": "综合",
+    "summary": "英国新任议员、有望成为下任首相的安迪·伯纳姆宣布将把15%的议员薪水（议员年薪约98,599英镑）捐赠给其选区梅克菲尔德的当地公益事业。"
+  },
+  {
+    "title": "State functions, offices and tourists: plans for revamped Buckingham Palace",
+    "link": "https://www.theguardian.com/uk-news/2026/jun/26/plans-revamped-buckingham-palace-king-charles",
+    "description": "Despite £369m upgrade, King Charles will never live in palace but aides stress it will remain ‘buzzing hive’ of activityNot all modern British monarchs have viewed the prospect of moving into Buckingham Palace with unalloyed joy. So in announcing he will never live there, after the completion of its £369m upgrade next year, King Charles has at least grasped that nettle.Queen Victoria was initially dismayed by the damp, dingy and disorganised building that greeted her and her husband, Prince Albe",
+    "pubDate": "Fri, 26 Jun 2026 17:06:05 GMT",
+    "source": "卫报",
+    "category": "综合",
+    "summary": "尽管白金汉宫耗资3.69亿英镑翻新，国王查尔斯三世将永远不会入住该宫殿。助手强调翻新后的白金汉宫仍将是办公、国事活动和接待游客的繁忙中心。"
+  },
+  {
+    "title": "US military strikes Iran in response to attack on cargo ship, Pentagon says – live",
+    "link": "https://www.theguardian.com/us-news/live/2026/jun/26/trump-news-john-bolton-updates-today",
+    "description": "Announcement of strikes come after Donald Trump was asked if Iran would face consequences for attack in strait of HormuzUS says it struck Iran targets after attack on cargo ship on the strait of HormuzSign up for the Breaking News US emailHayes went on:As national security adviser to the president of the United States, Mr Bolton had access to and was responsible for safeguarding the most sensitive national defense information, including classified material.Mr Bolton knew how to handle classified",
+    "pubDate": "Fri, 26 Jun 2026 21:50:26 GMT",
+    "source": "卫报",
+    "category": "综合",
+    "summary": "美国五角大楼宣布对伊朗发动军事打击，以回应此前在霍尔木兹海峡发生的货船遭袭事件。此前特朗普被问及伊朗是否将面临后果。"
+  },
+  {
+    "title": "Pete Buttigieg says family investigated over baseless child abuse allegation",
+    "link": "https://www.theguardian.com/us-news/2026/jun/26/pete-buttigieg-cps-family-investigation-accusation",
+    "description": "Buttigieg calls anonymous tip ‘politically motivated’ and says separation from his kids was among his ‘darkest hours’Pete Buttigieg, the former US transportation secretary, said on Friday an anonymous and baseless accusation of child abuse led child protective services to investigate his family.In a Substack post published on Friday, Buttigieg described the incident – which resulted in him being separated from his four-year-old twins – as “among the darkest hours of my life” and likened the accu",
+    "pubDate": "Fri, 26 Jun 2026 21:31:49 GMT",
+    "source": "卫报",
+    "category": "综合",
+    "summary": "前美国交通部长皮特·布蒂吉格称，有人匿名举报其虐待儿童（后被证实毫无根据），导致儿童保护服务机构对其家庭展开调查，他称这是政治动机且与孩子分离是其最黑暗的时刻。"
+  },
+  {
+    "title": "‘Release the footage’: Mississippi protest over police killing of one-year-old",
+    "link": "https://www.theguardian.com/us-news/2026/jun/26/kohen-wiley-mississippi-police-killing-protest",
+    "description": "About 100 marchers demand transparency after Kohen Wiley was shot dead in a car outside a WalmartAbout 100 people gathered on Friday morning outside of the Walmart in rural Senatobia, Mississippi, to protest about the killing of a one-year-old boy by police earlier this month.Walmart itself was closed, its doors barricaded. During a protest at the Walmart earlier in the week, officers deployed teargas on those gathered to force the crowds to disperse. Continue reading...",
+    "pubDate": "Fri, 26 Jun 2026 20:50:05 GMT",
+    "source": "卫报",
+    "category": "综合",
+    "summary": "密西西比州约100名抗议者聚集沃尔玛外，要求当局公布一名1岁男童科恩·威利于月初被警方在车内枪杀的相关录像，呼吁执法透明。"
+  },
+  {
+    "title": "Call for inquiry into Alligator Alcatraz’s ‘abuse of Everglades’ despite closure",
+    "link": "https://www.theguardian.com/us-news/2026/jun/26/alligator-alcatraz-environmental-immigrant-inquiry",
+    "description": "Environmentalists and immigrant-rights advocates seek accounting of damage done by notorious detention centerWhile they welcome the recent closure of the controversial Alligator Alcatraz migrant detention center, leading environmental groups and their allies say they want an independent investigation into the environmental damage the facility inflicted on the surrounding wilderness during its 12 months of operations.Those groups made that demand alongside immigrant-rights advocates and members o",
+    "pubDate": "Fri, 26 Jun 2026 20:38:07 GMT",
+    "source": "卫报",
+    "category": "综合",
+    "summary": "尽管备受争议的\"鳄鱼阿尔卡特拉斯\"移民拘留中心已关闭，环保和移民权益组织仍呼吁独立调查其造成的环境破坏和人权侵害，追究相关责任。"
+  },
+  {
+    "title": "Trump administration orders US health programs to move away from overdose prevention",
+    "link": "https://www.theguardian.com/us-news/2026/jun/26/trump-administration-overdose-prevention-health-program",
+    "description": "Experts say move signals greater political interference into public health and will exacerbate opioid overdose crisisHealth programs receiving federal funding must agree within days to new priorities from the Trump administration, including a focus on “parental authority” in education and a move away from proven overdose-prevention methods like harm reduction, suggesting greater political control over public health.The new priorities will likely affect progress against the opioid crisis, and the",
+    "pubDate": "Fri, 26 Jun 2026 20:25:21 GMT",
+    "source": "卫报",
+    "category": "综合",
+    "summary": "特朗普政府要求联邦资助的健康项目在数日内调整优先事项，转向强调\"家长权威\"和远离阿片类药物过量预防。专家称这将加剧阿片类药物危机。"
+  }
+]
