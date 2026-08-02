@@ -1,0 +1,17 @@
+---
+title: "Javier Milei accuses US Democrats of financing ‘anti-Argentina campaign’ at World Cup"
+date: 2026-07-28T10:21:00+08:00
+source: "卫报"
+sourceUrl: "https://www.theguardian.com/world/2026/jul/28/javier-milei-accuses-us-democrats-of-financing-anti-argentina-campaign-at-world-cup"
+category: "综合"
+slug: "javier-milei-accuses-us-democrats-of-financing-anti-argentina-campaign-at-world-"
+---
+
+阿根廷总统米莱指责美国民主党资助针对本国的“反阿根廷运动”，同时归咎巴西和墨西哥。他称网上批评者“不希望自由理念成功”。尽管西班牙在加时赛取胜夺冠已一周多，但对阿根廷总统而言，这场赛事并未结束。
+
+<!--more-->
+
+---
+
+[阅读原文 →](https://www.theguardian.com/world/2026/jul/28/javier-milei-accuses-us-democrats-of-financing-anti-argentina-campaign-at-world-cup)
+
