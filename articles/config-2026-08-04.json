@@ -1,0 +1,6 @@
+{
+  "model": "opencode/deepseek-v4-flash-free",
+  "language": "zh-cn",
+  "max_summary_length": 150,
+  "batch_size": 5
+}
