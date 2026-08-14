@@ -1,0 +1,1106 @@
+[
+  {
+    "title": "Every exterior shot in The Taking of Pelham 123",
+    "link": "https://iafisher.com/2026/07/pelham-123",
+    "description": "Article URL: https://iafisher.com/2026/07/pelham-123\nComments URL: https://news.ycombinator.com/item?id=49303957\nPoints: 5\n# Comments: 1",
+    "pubDate": "Fri, 14 Aug 2026 20:10:49 +0000",
+    "source": "Hacker News",
+    "category": "科技"
+  },
+  {
+    "title": "New Lower and Upper Bounds for the Grothendieck Constant",
+    "link": "https://arxiv.org/abs/2608.11158",
+    "description": "Article URL: https://arxiv.org/abs/2608.11158\nComments URL: https://news.ycombinator.com/item?id=49303652\nPoints: 11\n# Comments: 2",
+    "pubDate": "Fri, 14 Aug 2026 19:41:42 +0000",
+    "source": "Hacker News",
+    "category": "科技"
+  },
+  {
+    "title": "CEO who fired 900 people on Zoom just before Christmas wants his job back",
+    "link": "https://www.cnn.com/2026/08/14/business/vishal-garg-better-ceo",
+    "description": "Article URL: https://www.cnn.com/2026/08/14/business/vishal-garg-better-ceo\nComments URL: https://news.ycombinator.com/item?id=49303592\nPoints: 41\n# Comments: 13",
+    "pubDate": "Fri, 14 Aug 2026 19:36:18 +0000",
+    "source": "Hacker News",
+    "category": "科技"
+  },
+  {
+    "title": "Anthropic Risk August 2026 [pdf]",
+    "link": "https://www-cdn.anthropic.com/f61d49fa5596956a5dec75fea0e973bf6a6a8378/Redacted%20Risk%20Report%20August%202026%20.pdf",
+    "description": "Article URL: https://www-cdn.anthropic.com/f61d49fa5596956a5dec75fea0e973bf6a6a8378/Redacted%20Risk%20Report%20August%202026%20.pdf\nComments URL: https://news.ycombinator.com/item?id=49303540\nPoints: 28\n# Comments: 16",
+    "pubDate": "Fri, 14 Aug 2026 19:32:15 +0000",
+    "source": "Hacker News",
+    "category": "科技"
+  },
+  {
+    "title": "Show HN: AletheionAGI – Grounding enforcement for AI agents",
+    "link": "https://www.aletheionagi.com",
+    "description": "Article URL: https://www.aletheionagi.com\nComments URL: https://news.ycombinator.com/item?id=49303499\nPoints: 3\n# Comments: 0",
+    "pubDate": "Fri, 14 Aug 2026 19:28:17 +0000",
+    "source": "Hacker News",
+    "category": "科技"
+  },
+  {
+    "title": "What You Gain by Building Your Own Game Engine",
+    "link": "https://eliasfarhan.ch/gamedev/cpp/2026/08/14/srnative-01-why-a-custom-engine.html",
+    "description": "Article URL: https://eliasfarhan.ch/gamedev/cpp/2026/08/14/srnative-01-why-a-custom-engine.html\nComments URL: https://news.ycombinator.com/item?id=49303405\nPoints: 9\n# Comments: 3",
+    "pubDate": "Fri, 14 Aug 2026 19:20:20 +0000",
+    "source": "Hacker News",
+    "category": "科技"
+  },
+  {
+    "title": "Open WireGuard Endpoints",
+    "link": "https://proxylity.com/articles/now-available-open-wireguard-endpoints-and-async-lambda.html",
+    "description": "Article URL: https://proxylity.com/articles/now-available-open-wireguard-endpoints-and-async-lambda.html\nComments URL: https://news.ycombinator.com/item?id=49303237\nPoints: 15\n# Comments: 1",
+    "pubDate": "Fri, 14 Aug 2026 19:05:46 +0000",
+    "source": "Hacker News",
+    "category": "科技"
+  },
+  {
+    "title": "Show HN: Mole – Deep research agent for your terminal",
+    "link": "https://github.com/lajosdeme/mole",
+    "description": "Doing research with agents is fun until they blow way past budget, jumble the sources, and don't even give you the best possible answer, just sound confident.And if you want to run some research task on local data - you have no idea where your data ends up after the prompt consumes it.So I built this tool: a deep-research agent with an enforced budget, verified quotes, and a privacy boundary for local data.1. Never spend more than you budgeted (measured overshoot is 0%).\n2. Every claim carries a",
+    "pubDate": "Fri, 14 Aug 2026 18:52:48 +0000",
+    "source": "Hacker News",
+    "category": "科技"
+  },
+  {
+    "title": "A Contract-Grade Verifier for LLM-Generated GPU Kernels",
+    "link": "https://arxiv.org/abs/2608.12700",
+    "description": "Article URL: https://arxiv.org/abs/2608.12700\nComments URL: https://news.ycombinator.com/item?id=49301417\nPoints: 20\n# Comments: 0",
+    "pubDate": "Fri, 14 Aug 2026 16:57:14 +0000",
+    "source": "Hacker News",
+    "category": "科技"
+  },
+  {
+    "title": "Show HN: LuaCAD – Parametric CAD Scripted in Lua",
+    "link": "https://luacad.ad-si.com",
+    "description": "LuaCAD models solids in Lua rather than the OpenSCAD language, with operator\noverloading for CSG (`a + b`, `a - b`, `a * b`).It ships with a CLI and a desktop app, including a preview area and a text editor.I've always been a big fan of OpenSCAD, but the SCAD language itself is unfortunately quite cobbled-together and is a very poorly designed programming language.LuaCAD takes all the good parts of OpenSCAD and combines them with one of the best scripting languages. It has now completely replace",
+    "pubDate": "Fri, 14 Aug 2026 16:43:22 +0000",
+    "source": "Hacker News",
+    "category": "科技"
+  },
+  {
+    "title": "Maximizing the value of your Claude Code sessions",
+    "link": "https://claude.com/blog/maximizing-the-value-of-your-claude-code-sessions",
+    "description": "Article URL: https://claude.com/blog/maximizing-the-value-of-your-claude-code-sessions\nComments URL: https://news.ycombinator.com/item?id=49300800\nPoints: 88\n# Comments: 62",
+    "pubDate": "Fri, 14 Aug 2026 16:15:21 +0000",
+    "source": "Hacker News",
+    "category": "科技"
+  },
+  {
+    "title": "RustDesk now supports true unattended remote access on Wayland",
+    "link": "https://rustdesk.com/blog/unattended-remote-access-wayland/",
+    "description": "Article URL: https://rustdesk.com/blog/unattended-remote-access-wayland/\nComments URL: https://news.ycombinator.com/item?id=49300759\nPoints: 153\n# Comments: 66",
+    "pubDate": "Fri, 14 Aug 2026 16:12:52 +0000",
+    "source": "Hacker News",
+    "category": "科技"
+  },
+  {
+    "title": "France's top court blocks social media ban for under-15s",
+    "link": "https://www.reuters.com/world/frances-top-court-rules-social-media-ban-curtails-freedom-expression-2026-08-14/",
+    "description": "Article URL: https://www.reuters.com/world/frances-top-court-rules-social-media-ban-curtails-freedom-expression-2026-08-14/\nComments URL: https://news.ycombinator.com/item?id=49300671\nPoints: 179\n# Comments: 119",
+    "pubDate": "Fri, 14 Aug 2026 16:06:49 +0000",
+    "source": "Hacker News",
+    "category": "科技"
+  },
+  {
+    "title": "AI by Hand",
+    "link": "https://www.byhand.ai/",
+    "description": "Article URL: https://www.byhand.ai/\nComments URL: https://news.ycombinator.com/item?id=49300568\nPoints: 108\n# Comments: 10",
+    "pubDate": "Fri, 14 Aug 2026 15:58:59 +0000",
+    "source": "Hacker News",
+    "category": "科技"
+  },
+  {
+    "title": "Google is making private AI practical with homomorphic encryption",
+    "link": "https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/",
+    "description": "Article URL: https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/\nComments URL: https://news.ycombinator.com/item?id=49300314\nPoints: 174\n# Comments: 117",
+    "pubDate": "Fri, 14 Aug 2026 15:43:10 +0000",
+    "source": "Hacker News",
+    "category": "科技"
+  },
+  {
+    "title": "Introducing Toast 1",
+    "link": "https://www.mixedbread.com/blog/toast-1",
+    "description": "Article URL: https://www.mixedbread.com/blog/toast-1\nComments URL: https://news.ycombinator.com/item?id=49299746\nPoints: 145\n# Comments: 46",
+    "pubDate": "Fri, 14 Aug 2026 15:07:57 +0000",
+    "source": "Hacker News",
+    "category": "科技"
+  },
+  {
+    "title": "Seven books I keep close because I love them",
+    "link": "https://blog.plover.com/2026/08/02/",
+    "description": "Article URL: https://blog.plover.com/2026/08/02/\nComments URL: https://news.ycombinator.com/item?id=49299675\nPoints: 241\n# Comments: 103",
+    "pubDate": "Fri, 14 Aug 2026 15:03:26 +0000",
+    "source": "Hacker News",
+    "category": "科技"
+  },
+  {
+    "title": "Qwen 3.8 27B",
+    "link": "https://huggingface.co/Qwen/Qwen3.8-27B-FP8",
+    "description": "Article URL: https://huggingface.co/Qwen/Qwen3.8-27B-FP8\nComments URL: https://news.ycombinator.com/item?id=49299605\nPoints: 671\n# Comments: 433",
+    "pubDate": "Fri, 14 Aug 2026 15:00:00 +0000",
+    "source": "Hacker News",
+    "category": "科技"
+  },
+  {
+    "title": "Every Fucking Website (2020)",
+    "link": "https://lxe.github.io/everywebsite/",
+    "description": "Article URL: https://lxe.github.io/everywebsite/\nComments URL: https://news.ycombinator.com/item?id=49299222\nPoints: 656\n# Comments: 373",
+    "pubDate": "Fri, 14 Aug 2026 14:31:08 +0000",
+    "source": "Hacker News",
+    "category": "科技"
+  },
+  {
+    "title": "I turned my RSS feeds into an e-ink newspaper to stop reading on my phone",
+    "link": "https://heyjonny.dev/posts/rss-to-eink-newspaper/",
+    "description": "Article URL: https://heyjonny.dev/posts/rss-to-eink-newspaper/\nComments URL: https://news.ycombinator.com/item?id=49299081\nPoints: 98\n# Comments: 42",
+    "pubDate": "Fri, 14 Aug 2026 14:21:18 +0000",
+    "source": "Hacker News",
+    "category": "科技"
+  },
+  {
+    "title": "Self-driving trucks are officially testing on California highways",
+    "link": "https://techcrunch.com/2026/08/14/self-driving-trucks-are-officially-testing-on-california-highways/",
+    "description": "Aurora Innovation and Kodiak AI, two companies developing self-driving trucks, have received permits from the California Department of Motor Vehicles.",
+    "pubDate": "Fri, 14 Aug 2026 20:37:49 +0000",
+    "source": "TechCrunch",
+    "category": "科技"
+  },
+  {
+    "title": "Thrive&#8217;s Joshua Kushner chides Silicon Valley VCs over AI euphoria",
+    "link": "https://techcrunch.com/2026/08/14/thrives-joshua-kushner-chides-silicon-valley-vcs-over-ai-euphoria/",
+    "description": "The AI opportunity is huge, but \"it would also be a grave error in our minds to let excitement weaken our investment discipline,\" Kushner warns in his first-ever investment letter.",
+    "pubDate": "Fri, 14 Aug 2026 19:33:00 +0000",
+    "source": "TechCrunch",
+    "category": "科技"
+  },
+  {
+    "title": "What we know about the alleged Iranian hacks on US water utilities",
+    "link": "https://techcrunch.com/2026/08/14/what-we-know-about-the-alleged-iranian-hacks-on-u-s-water-utilities/",
+    "description": "Over the last couple of weeks, hackers have targeted and broken into the systems of several water plants in the United States. Here’s what we know and don’t know about this wave of attacks allegedly carried out by the Iranian government.",
+    "pubDate": "Fri, 14 Aug 2026 19:04:32 +0000",
+    "source": "TechCrunch",
+    "category": "科技"
+  },
+  {
+    "title": "Read-it-later app Pocket shut down — here are the best alternatives",
+    "link": "https://techcrunch.com/2026/08/14/read-it-later-app-pocket-is-shutting-down-here-are-the-best-alternatives/",
+    "description": "Pocket users have until October 8, 2025, to export their saved articles and other items, including lists, archives, favorites, notes, and highlights.",
+    "pubDate": "Fri, 14 Aug 2026 18:58:15 +0000",
+    "source": "TechCrunch",
+    "category": "科技"
+  },
+  {
+    "title": "Unforgetful is a new reminders app for people who can&#8217;t stop hitting snooze",
+    "link": "https://techcrunch.com/2026/08/14/unforgetful-is-a-new-reminders-app-for-people-who-cant-stop-hitting-snooze/",
+    "description": "Unforgetful, the latest app from longtime indie developer Marco Arment, is designed to make reminders harder to ignore — or accidentally dismiss.",
+    "pubDate": "Fri, 14 Aug 2026 16:21:04 +0000",
+    "source": "TechCrunch",
+    "category": "科技"
+  },
+  {
+    "title": "Google will now allow users to remove visible watermark from its AI generations",
+    "link": "https://techcrunch.com/2026/08/14/google-will-now-allow-users-to-remove-visible-watermark-from-its-ai-generations/",
+    "description": "Turning off this setting won't affect invisible benchmarks used to identify an AI generated file.",
+    "pubDate": "Fri, 14 Aug 2026 16:13:40 +0000",
+    "source": "TechCrunch",
+    "category": "科技"
+  },
+  {
+    "title": "Does Mark Zuckerberg really believe AI is &#8216;for everyone&#8217;?",
+    "link": "https://techcrunch.com/video/does-mark-zuckerberg-really-believe-ai-is-for-everyone/",
+    "description": "Meta released Glimmer this week, an open-weight AI&#160;model&#160;anyone can download and run on their own hardware&#160;— a contrast to&#160;Muse&#160;Spark, the company’s more powerful model that stays locked behind its own APIs. The release landed alongside&#160;a letter from Mark Zuckerberg&#160;arguing AI should be “for everyone” rather than controlled by a handful of labs, but as Equity’s [&#8230;]",
+    "pubDate": "Fri, 14 Aug 2026 15:43:28 +0000",
+    "source": "TechCrunch",
+    "category": "科技"
+  },
+  {
+    "title": "Apple proposes to take a 15% cut of purchases made outside the App Store",
+    "link": "https://techcrunch.com/2026/08/14/apple-proposes-to-take-a-15-cut-of-purchases-made-outside-the-app-store/",
+    "description": "Apple is asking a federal judge to allow it to charge commissions of up to 15% on purchases made through external links in iOS apps.",
+    "pubDate": "Fri, 14 Aug 2026 14:54:48 +0000",
+    "source": "TechCrunch",
+    "category": "科技"
+  },
+  {
+    "title": "Kog is going deeper to squeeze more inference out of GPUs",
+    "link": "https://techcrunch.com/2026/08/14/kog-is-going-deeper-to-squeeze-more-inference-out-of-gpus/",
+    "description": "The idea that GPUs are poorly suited for agentic workflows may be a misconception, according to French startup Kog.",
+    "pubDate": "Fri, 14 Aug 2026 14:50:11 +0000",
+    "source": "TechCrunch",
+    "category": "科技"
+  },
+  {
+    "title": "Hyperscalers might regret embracing natural gas if new forecast proves correct",
+    "link": "https://techcrunch.com/2026/08/14/hyperscalers-might-regret-embracing-natural-gas-if-new-forecast-proves-correct/",
+    "description": "Natural gas prices could triple in some parts of the U.S., which could saddle hyperscalers with massive bills to power their AI data centers.",
+    "pubDate": "Fri, 14 Aug 2026 14:05:00 +0000",
+    "source": "TechCrunch",
+    "category": "科技"
+  },
+  {
+    "title": "US courts will start publishing how often the government uses spyware",
+    "link": "https://techcrunch.com/2026/08/14/us-courts-will-start-publishing-how-often-the-government-uses-spyware/",
+    "description": "The Administrative Office of the U.S. Courts told TechCrunch that it will start disclosing how many times judges authorized the use of spyware to wiretap suspected criminals.",
+    "pubDate": "Fri, 14 Aug 2026 13:29:04 +0000",
+    "source": "TechCrunch",
+    "category": "科技"
+  },
+  {
+    "title": "Uber and Pony.ai plan to bring 2,000 robotaxis to Europe",
+    "link": "https://techcrunch.com/2026/08/14/uber-and-pony-ai-plan-to-bring-2000-robotaxis-to-europe/",
+    "description": "The partnership is expanding beyond the initial market of Zagreb, Croatia to four additional European cities.",
+    "pubDate": "Fri, 14 Aug 2026 10:44:30 +0000",
+    "source": "TechCrunch",
+    "category": "科技"
+  },
+  {
+    "title": "Investors sue Selena Gomez alleging fraud tied to her mental health startup",
+    "link": "https://techcrunch.com/2026/08/13/investors-sue-selena-gomez-alleging-fraud-tied-to-her-mental-health-startup/",
+    "description": "The plaintiffs say they invested nearly $1.2 million in the company, and are accusing Gomez of failing to build and market the startup.",
+    "pubDate": "Thu, 13 Aug 2026 22:12:40 +0000",
+    "source": "TechCrunch",
+    "category": "科技"
+  },
+  {
+    "title": "Flock says its new tool will help identify police abuse, but hasn’t explained how it works",
+    "link": "https://techcrunch.com/2026/08/13/flock-says-its-new-tool-will-help-identify-police-abuse-but-hasnt-explained-how-it-works/",
+    "description": "The surveillance company announced it's making a tool called \"Audit Assistance\" mandatory for all customers, claiming it's already helped catch abuse. But the company has yet to explain how the tool works in detail, raising questions about its effectiveness.",
+    "pubDate": "Thu, 13 Aug 2026 22:02:04 +0000",
+    "source": "TechCrunch",
+    "category": "科技"
+  },
+  {
+    "title": "If Apple sends you a push notification alerting you to a spyware attack, take it seriously",
+    "link": "https://techcrunch.com/2026/08/13/if-apple-sends-you-a-push-notification-alerting-you-to-a-spyware-attack-take-it-seriously/",
+    "description": "Apple now sends out push notifications to iPhone lock screens when the company identifies government spyware targeting someone's devices.",
+    "pubDate": "Thu, 13 Aug 2026 21:50:11 +0000",
+    "source": "TechCrunch",
+    "category": "科技"
+  },
+  {
+    "title": "Writer introduces new AI model and upgraded harness to contain token costs",
+    "link": "https://techcrunch.com/2026/08/13/writer-introduces-new-ai-model-and-upgraded-harness-to-contain-token-costs/",
+    "description": "Built as a post-training variation on Z.ai's open source model GLM-5.2, Writer says the new system should provide deployment-ready capabilities at a much lower price.",
+    "pubDate": "Thu, 13 Aug 2026 21:13:24 +0000",
+    "source": "TechCrunch",
+    "category": "科技"
+  },
+  {
+    "title": "Databricks wanted to raise $1B, investors wanted $15B. It settled on $5B at a $190B valuation.",
+    "link": "https://techcrunch.com/2026/08/13/databricks-wanted-to-raise-1b-investors-wanted-15b-it-settled-on-5b-at-a-190b-valuation/",
+    "description": "AI is expensive, Ali Ghodsi tells TechCrunch. With so many investors wanting into his latest round, he said yes to more than planned.",
+    "pubDate": "Thu, 13 Aug 2026 20:14:39 +0000",
+    "source": "TechCrunch",
+    "category": "科技"
+  },
+  {
+    "title": "OpenAI introduces &#8216;Ultrafast,&#8217; a new mode that makes GPT-5.6 Sol work at 14x the speed",
+    "link": "https://techcrunch.com/2026/08/13/openai-introduces-ultrafast-a-new-mode-that-makes-gpt-5-6-sol-work-at-14x-the-speed/",
+    "description": "OpenAI is launching a preview of a sped up version of its latest, most powerful model, in an effort to court enterprise users.",
+    "pubDate": "Thu, 13 Aug 2026 19:22:40 +0000",
+    "source": "TechCrunch",
+    "category": "科技"
+  },
+  {
+    "title": "IBM partners with OpenAI to bolster enterprise AI push",
+    "link": "https://techcrunch.com/2026/08/13/ibm-partners-with-openai-to-bolster-enterprise-ai-push/",
+    "description": "IBM plans to train and certify tens of thousands of consultants on OpenAI's technologies as part of this deal.",
+    "pubDate": "Thu, 13 Aug 2026 19:19:49 +0000",
+    "source": "TechCrunch",
+    "category": "科技"
+  },
+  {
+    "title": "Anthropic set AI agents loose on the same task. They started a turf war.",
+    "link": "https://techcrunch.com/2026/08/13/anthropic-set-ai-agents-loose-on-the-same-task-they-started-a-turf-war/",
+    "description": "Anthropic researchers found AI agents can clash, collude, and coordinate in unexpected ways, raising new questions about whether today’s safety tests capture the risks of multi-agent systems.",
+    "pubDate": "Thu, 13 Aug 2026 18:28:14 +0000",
+    "source": "TechCrunch",
+    "category": "科技"
+  },
+  {
+    "title": "Vulnerability giving attackers full control of Macs is under active exploitation",
+    "link": "https://arstechnica.com/security/2026/08/vulnerability-giving-attackers-full-control-of-macs-is-under-active-exploitation/",
+    "description": "Screen-sharing bug lets remote hackers log in without a password.",
+    "pubDate": "Fri, 14 Aug 2026 18:32:14 +0000",
+    "source": "Ars Technica",
+    "category": "科技"
+  },
+  {
+    "title": "First test flight of largest all-electric aircraft used just $5 of electricity",
+    "link": "https://arstechnica.com/gadgets/2026/08/first-test-flight-of-largest-all-electric-aircraft-used-just-5-of-electricity/",
+    "description": "Airline-backed venture aims to develop a hybrid-electric commercial aircraft.",
+    "pubDate": "Fri, 14 Aug 2026 18:00:23 +0000",
+    "source": "Ars Technica",
+    "category": "科技"
+  },
+  {
+    "title": "Suspecting court of using AI, man injected prompts in filings to try to win case",
+    "link": "https://arstechnica.com/tech-policy/2026/08/suspecting-court-of-using-ai-man-injected-prompts-in-filings-to-try-to-win-case/",
+    "description": "Judge warns pro se litigants are using chatbots wrong and getting desperate.",
+    "pubDate": "Fri, 14 Aug 2026 17:26:53 +0000",
+    "source": "Ars Technica",
+    "category": "科技"
+  },
+  {
+    "title": "State judge orders Kalshi to stop offering sports bets and other wagers",
+    "link": "https://arstechnica.com/tech-policy/2026/08/state-judge-orders-kalshi-to-stop-offering-sports-bets-and-other-wagers/",
+    "description": "Kalshi ordered to stop offering bets in Washington, must implement geofencing.",
+    "pubDate": "Fri, 14 Aug 2026 17:13:14 +0000",
+    "source": "Ars Technica",
+    "category": "科技"
+  },
+  {
+    "title": "PBS station fears losing 50TB of data after being ghosted by cloud storage provider",
+    "link": "https://arstechnica.com/information-technology/2026/08/pbs-station-fears-losing-50tb-of-data-after-being-ghosted-by-cloud-storage-provider/",
+    "description": "\"We don't have access to the data on the hardware/servers,\" Iron Mountain told Ars.",
+    "pubDate": "Fri, 14 Aug 2026 17:03:54 +0000",
+    "source": "Ars Technica",
+    "category": "科技"
+  },
+  {
+    "title": "Policy experts: Europe stuck between \"rock and a hard place\" on launch",
+    "link": "https://arstechnica.com/space/2026/08/policy-experts-europe-stuck-between-rock-and-a-hard-place-on-launch/",
+    "description": "It turns out that the economics of rocket reuse are pretty, pretty good.",
+    "pubDate": "Fri, 14 Aug 2026 16:29:21 +0000",
+    "source": "Ars Technica",
+    "category": "科技"
+  },
+  {
+    "title": "Ars Live recap: How can we stop publishers from killing their own games?",
+    "link": "https://arstechnica.com/gaming/2026/08/ars-live-recap-how-can-we-stop-publishers-from-killing-their-own-games/",
+    "description": "The Stop Killing Games movement faces an uphill battle.",
+    "pubDate": "Fri, 14 Aug 2026 16:11:37 +0000",
+    "source": "Ars Technica",
+    "category": "科技"
+  },
+  {
+    "title": "Judge gives Google one week to fix \"anticompetitive\" app store download in Google Play",
+    "link": "https://arstechnica.com/gadgets/2026/08/google-ordered-to-make-it-easier-to-download-alternative-android-app-stores/",
+    "description": "Third-party app stores are about to become more visible in Google Play.",
+    "pubDate": "Fri, 14 Aug 2026 15:46:40 +0000",
+    "source": "Ars Technica",
+    "category": "科技"
+  },
+  {
+    "title": "R-rated director's cut of X-Files film restores Chris Carter's original horror vision",
+    "link": "https://arstechnica.com/culture/2026/08/r-rated-directors-cut-of-x-files-film-restores-chris-carters-original-horror-vision/",
+    "description": "Chris Carter chats with Ars about the film he originally wanted to make—and why it's more relevant than ever.",
+    "pubDate": "Fri, 14 Aug 2026 15:18:22 +0000",
+    "source": "Ars Technica",
+    "category": "科技"
+  },
+  {
+    "title": "Taylor Farms' connections to Trump admin spurs probe into Cyclospora response",
+    "link": "https://arstechnica.com/health/2026/08/taylor-farms-connections-to-trump-admin-spurs-probe-into-cyclospora-response/",
+    "description": "Senator Warren questions whether Taylor Farms' influence swayed Trump admin.",
+    "pubDate": "Fri, 14 Aug 2026 15:03:16 +0000",
+    "source": "Ars Technica",
+    "category": "科技"
+  },
+  {
+    "title": "OpenAI and Anthropic in price war as Chinese AI rivals gain ground",
+    "link": "https://arstechnica.com/ai/2026/08/openai-and-anthropic-in-price-war-as-chinese-ai-rivals-gain-ground/",
+    "description": "US groups release cheaper models after new challenges to their trillion-dollar ambitions.",
+    "pubDate": "Fri, 14 Aug 2026 14:27:14 +0000",
+    "source": "Ars Technica",
+    "category": "科技"
+  },
+  {
+    "title": "Rocket Report: Rocket Lab shows off its flexibility; Blue Origin's two-pad plan",
+    "link": "https://arstechnica.com/space/2026/08/rocket-report-rocket-lab-shows-off-its-flexibility-blue-origins-two-pad-plan/",
+    "description": "\"We’ve never seen launch capacity so constrained.\"",
+    "pubDate": "Fri, 14 Aug 2026 11:00:49 +0000",
+    "source": "Ars Technica",
+    "category": "科技"
+  },
+  {
+    "title": "Samsung Galaxy Z Fold 8 Ultra review: The ultra foldable with an ultra price",
+    "link": "https://arstechnica.com/gadgets/2026/08/samsung-galaxy-z-fold-8-ultra-review-the-ultra-foldable-with-an-ultra-price/",
+    "description": "Samsung didn't have to change much this year because its hardware is just that good.",
+    "pubDate": "Fri, 14 Aug 2026 11:00:05 +0000",
+    "source": "Ars Technica",
+    "category": "科技"
+  },
+  {
+    "title": "Organic-looking brake assemblies debut on new Czinger 21C Spyder",
+    "link": "https://arstechnica.com/cars/2026/08/czinger-debuts-topology-optimized-brakes-with-21c-spyder/",
+    "description": "Czinger used topological design and additive manufacturing to make the brakes.",
+    "pubDate": "Fri, 14 Aug 2026 07:01:15 +0000",
+    "source": "Ars Technica",
+    "category": "科技"
+  },
+  {
+    "title": "US wait times for cancer surgeries are getting longer and longer",
+    "link": "https://arstechnica.com/health/2026/08/us-wait-times-for-cancer-surgeries-are-getting-longer-and-longer/",
+    "description": "Study finds wait times for cancer surgeries hit 10-year high.",
+    "pubDate": "Thu, 13 Aug 2026 22:17:29 +0000",
+    "source": "Ars Technica",
+    "category": "科技"
+  },
+  {
+    "title": "Private security firms will soon be allowed to hack overseas cybercriminals",
+    "link": "https://arstechnica.com/security/2026/08/white-house-recruits-security-firms-to-hack-overseas-cybercriminals/",
+    "description": "Trump memo is first time gov't has authorized private sector to perform cyberattacks.",
+    "pubDate": "Thu, 13 Aug 2026 19:38:58 +0000",
+    "source": "Ars Technica",
+    "category": "科技"
+  },
+  {
+    "title": "Virgin Galactic wants your help naming its new Delta class spaceship",
+    "link": "https://arstechnica.com/space/2026/08/virgin-galactic-wants-your-help-naming-its-new-delta-class-spaceship/",
+    "description": "Will it be the VSS... Horizon, Explorer, Ascend or Apeiron?",
+    "pubDate": "Thu, 13 Aug 2026 19:12:15 +0000",
+    "source": "Ars Technica",
+    "category": "科技"
+  },
+  {
+    "title": "Ukrainian drones wipe out entire US tank brigade in live war game",
+    "link": "https://arstechnica.com/gadgets/2026/08/ukrainian-drones-wipe-out-entire-us-tank-brigade-in-live-war-game/",
+    "description": "Ukrainian drone pilots teach the US military and NATO hard battlefield lessons.",
+    "pubDate": "Thu, 13 Aug 2026 18:31:56 +0000",
+    "source": "Ars Technica",
+    "category": "科技"
+  },
+  {
+    "title": "Flock “can’t tech its way out” of the stalker cop problem, experts say",
+    "link": "https://arstechnica.com/tech-policy/2026/08/flock-cant-tech-its-way-out-of-the-stalker-cop-problem-experts-say/",
+    "description": "Flock to lock out cops who stalk exes, but agencies can still hide abuse.",
+    "pubDate": "Thu, 13 Aug 2026 18:10:14 +0000",
+    "source": "Ars Technica",
+    "category": "科技"
+  },
+  {
+    "title": "Pet owners say smart pet feeder outage led to furry ones going unfed",
+    "link": "https://arstechnica.com/gadgets/2026/08/pet-owners-say-smart-pet-feeder-outage-led-to-furry-ones-going-unfed/",
+    "description": "\"I've lost trust ...\"",
+    "pubDate": "Thu, 13 Aug 2026 17:53:53 +0000",
+    "source": "Ars Technica",
+    "category": "科技"
+  },
+  {
+    "title": "Jason Arday, ex-Cambridge professor at centre of plagiarism row, found dead",
+    "link": "https://www.bbc.co.uk/news/articles/c1j1ye6n30no?at_medium=RSS&at_campaign=rss",
+    "description": "His family said it was \"in shock to have lost this amazing father, partner, brother, uncle and son\" after the academic was found dead in London on Friday.",
+    "pubDate": "Fri, 14 Aug 2026 21:12:15 GMT",
+    "source": "BBC News",
+    "category": "综合"
+  },
+  {
+    "title": "Fires prompt national alert as 19 homes destroyed",
+    "link": "https://www.bbc.co.uk/news/articles/c2k7y4k98x3o?at_medium=RSS&at_campaign=rss",
+    "description": "The prime minister said 37 fires were currently burning across England and Wales",
+    "pubDate": "Fri, 14 Aug 2026 20:56:53 GMT",
+    "source": "BBC News",
+    "category": "综合"
+  },
+  {
+    "title": "Temporary ban on sale of disposable BBQs over wildfire risk",
+    "link": "https://www.bbc.co.uk/news/articles/c0jlyqdj6geo?at_medium=RSS&at_campaign=rss",
+    "description": "Single-use grills pose a \"significant risk to the public\" in current drought and heatwave conditions, the government warns.",
+    "pubDate": "Fri, 14 Aug 2026 19:17:16 GMT",
+    "source": "BBC News",
+    "category": "综合"
+  },
+  {
+    "title": "Mangione admits killing healthcare CEO and pleads guilty to federal charges",
+    "link": "https://www.bbc.co.uk/news/articles/cwy0nlq1l2wo?at_medium=RSS&at_campaign=rss",
+    "description": "\"I shot Mr Thompson in Manhattan and he died,\" the 28-year-old said after pleading guilty to charges of stalking resulting in death.",
+    "pubDate": "Fri, 14 Aug 2026 19:20:43 GMT",
+    "source": "BBC News",
+    "category": "综合"
+  },
+  {
+    "title": "Derailed Essex to London train leads to travel chaos",
+    "link": "https://www.bbc.co.uk/news/articles/cq561qvg7qgo?at_medium=RSS&at_campaign=rss",
+    "description": "More than 60 patients were checked over by ambulance crews but all were discharged at the scene.",
+    "pubDate": "Fri, 14 Aug 2026 19:57:50 GMT",
+    "source": "BBC News",
+    "category": "综合"
+  },
+  {
+    "title": "Afghan women tell the BBC their lives are unrecognisable after five years of Taliban rule",
+    "link": "https://www.bbc.co.uk/news/articles/clyje43dz4eo?at_medium=RSS&at_campaign=rss",
+    "description": "Women across the country speak of public floggings, losing their jobs, and barriers to healthcare that endanger lives.",
+    "pubDate": "Fri, 14 Aug 2026 18:25:38 GMT",
+    "source": "BBC News",
+    "category": "综合"
+  },
+  {
+    "title": "Chris Mason: Where does this unorthodox by-election victory leave Nigel Farage?",
+    "link": "https://www.bbc.co.uk/news/articles/cvgvjnyz8k7o?at_medium=RSS&at_campaign=rss",
+    "description": "As expected, the Reform UK leader easily won the Clacton by-election but was nowhere to be seen after the result.",
+    "pubDate": "Fri, 14 Aug 2026 14:50:02 GMT",
+    "source": "BBC News",
+    "category": "综合"
+  },
+  {
+    "title": "Britain's Finlay Tarling dies in Volta a Portugal accident",
+    "link": "https://www.bbc.co.uk/sport/cycling/articles/ceqed1g3j48o?at_medium=RSS&at_campaign=rss",
+    "description": "British cyclist Finlay Tarling dies at the age of 19 in a serious accident during the eighth stage of the Volta a Portugal.",
+    "pubDate": "Fri, 14 Aug 2026 19:43:03 GMT",
+    "source": "BBC News",
+    "category": "综合"
+  },
+  {
+    "title": "Activists try to deliver aid to Palestinians in homes besieged by Israeli settlers",
+    "link": "https://www.bbc.co.uk/news/articles/c1w1ylw0p3no?at_medium=RSS&at_campaign=rss",
+    "description": "Two families have been trapped in their homes in the occupied West Bank for several days.",
+    "pubDate": "Fri, 14 Aug 2026 17:03:17 GMT",
+    "source": "BBC News",
+    "category": "综合"
+  },
+  {
+    "title": "Bezos-backed consortium buys a third of Liverpool FC",
+    "link": "https://www.bbc.co.uk/sport/football/articles/cx2vj4l9wxyo?at_medium=RSS&at_campaign=rss",
+    "description": "Liverpool's owners agree to sell about a third of the club to a consortium including billionaire Amazon founder Jeff Bezos - in a deal that values the Reds at more than £5bn.",
+    "pubDate": "Fri, 14 Aug 2026 16:00:16 GMT",
+    "source": "BBC News",
+    "category": "综合"
+  },
+  {
+    "title": "Stephen Bear jailed over sex offender breaches",
+    "link": "https://www.bbc.co.uk/news/articles/c7vgymz71l4o?at_medium=RSS&at_campaign=rss",
+    "description": "The TV personality posted in Brazil \"the police will not be able to catch\" him, a court hears.",
+    "pubDate": "Fri, 14 Aug 2026 17:22:36 GMT",
+    "source": "BBC News",
+    "category": "综合"
+  },
+  {
+    "title": "'Glam helps mentality' says sprinter Amy Hunt, but can it give you that winning edge?",
+    "link": "https://www.bbc.co.uk/news/articles/cd9wp32dgxxo?at_medium=RSS&at_campaign=rss",
+    "description": "Sprinter Amy Hunt has been showing off her nails at the European Athletics Championships in Birmingham.",
+    "pubDate": "Fri, 14 Aug 2026 11:49:09 GMT",
+    "source": "BBC News",
+    "category": "综合"
+  },
+  {
+    "title": "'I shot Mr Thompson'- What it was like inside court as Mangione pleaded guilty",
+    "link": "https://www.bbc.co.uk/news/articles/c4gkyez7195o?at_medium=RSS&at_campaign=rss",
+    "description": "It marked the first time a court had heard Mangione describe how he committed a crime that garnered worldwide attention.",
+    "pubDate": "Fri, 14 Aug 2026 18:54:58 GMT",
+    "source": "BBC News",
+    "category": "综合"
+  },
+  {
+    "title": "What we know so far about the West Midlands fires",
+    "link": "https://www.bbc.co.uk/news/articles/cp8xr2n9560o?at_medium=RSS&at_campaign=rss",
+    "description": "Several fires swept across the West Midlands on Thursday destroying homes and forcing residents to flee.",
+    "pubDate": "Fri, 14 Aug 2026 15:46:56 GMT",
+    "source": "BBC News",
+    "category": "综合"
+  },
+  {
+    "title": "Instagram accounts fuelling Ceuta migrant crisis with paid advice for help to cross",
+    "link": "https://www.bbc.co.uk/news/articles/c89n20wj9kko?at_medium=RSS&at_campaign=rss",
+    "description": "BBC's Top Comment podcast has found a network of Instagram profiles glamourising the swim around the Morocco-Ceuta border fence.",
+    "pubDate": "Fri, 14 Aug 2026 12:19:21 GMT",
+    "source": "BBC News",
+    "category": "综合"
+  },
+  {
+    "title": "Weekly quiz: What was used to smuggle Donald Trump off Air Force One?",
+    "link": "https://www.bbc.co.uk/news/articles/c2lq28xvw8po?at_medium=RSS&at_campaign=rss",
+    "description": "How much attention did you pay to what happened in the world over the past seven days?",
+    "pubDate": "Thu, 13 Aug 2026 16:40:52 GMT",
+    "source": "BBC News",
+    "category": "综合"
+  },
+  {
+    "title": "Why heatwaves hit women harder",
+    "link": "https://www.bbc.co.uk/news/articles/c4gyp1knzzxo?at_medium=RSS&at_campaign=rss",
+    "description": "Experts are calling for better awareness of the heat-related risks to women and more targeted efforts to protect them.",
+    "pubDate": "Wed, 08 Jul 2026 23:49:12 GMT",
+    "source": "BBC News",
+    "category": "综合"
+  },
+  {
+    "title": "Six ways to keep your home and yourself cool in hot weather",
+    "link": "https://www.bbc.co.uk/news/articles/cz6gxe61p70o?at_medium=RSS&at_campaign=rss",
+    "description": "Six simple things you can do to help keep your house cool when temperatures rise.",
+    "pubDate": "Mon, 22 Jun 2026 11:13:44 GMT",
+    "source": "BBC News",
+    "category": "综合"
+  },
+  {
+    "title": "No air con? Here's how to get the most out of your electric fan",
+    "link": "https://www.bbc.co.uk/news/articles/cly76jlxljlo?at_medium=RSS&at_campaign=rss",
+    "description": "Point it at your face? Use a bowl of ice? Open a window? Our experts separate fact from fiction.",
+    "pubDate": "Wed, 08 Jul 2026 17:07:05 GMT",
+    "source": "BBC News",
+    "category": "综合"
+  },
+  {
+    "title": "Your heatwave tips on how to cope in extreme temperatures",
+    "link": "https://www.bbc.co.uk/news/articles/cze9w9xnprno?at_medium=RSS&at_campaign=rss",
+    "description": "From what to wear to getting a restful night's sleep, you share your tips for beating the heat.",
+    "pubDate": "Wed, 12 Aug 2026 15:30:28 GMT",
+    "source": "BBC News",
+    "category": "综合"
+  },
+  {
+    "title": "Eurovision proposes new rules to reduce political voting",
+    "link": "https://www.bbc.co.uk/news/articles/czrjxyg8mzmo?at_medium=RSS&at_campaign=rss",
+    "description": "Organisers reportedly say politically motivated voting is \"persistent\" and is seen as \"deeply worrying\".",
+    "pubDate": "Fri, 14 Aug 2026 10:23:08 GMT",
+    "source": "BBC News",
+    "category": "综合"
+  },
+  {
+    "title": "France's top court blocks social media ban for under-15s",
+    "link": "https://www.bbc.co.uk/news/articles/cx2vj433xqlo?at_medium=RSS&at_campaign=rss",
+    "description": "The Constitutional Council says it infringes upon freedom of expression - but President Macron vows to prepare a new draft.",
+    "pubDate": "Fri, 14 Aug 2026 16:35:06 GMT",
+    "source": "BBC News",
+    "category": "综合"
+  },
+  {
+    "title": "Two dead after light aircraft crash",
+    "link": "https://www.bbc.co.uk/news/articles/cgjexn9qd54o?at_medium=RSS&at_campaign=rss",
+    "description": "A plane travelling from England on Friday did not arrive at Caernarfon Airport as scheduled.",
+    "pubDate": "Fri, 14 Aug 2026 17:56:29 GMT",
+    "source": "BBC News",
+    "category": "综合"
+  },
+  {
+    "title": "Builders unearth €9m gold stash sealed in walls of Belgian property",
+    "link": "https://www.bbc.co.uk/news/articles/c5ydzg0dnz7o?at_medium=RSS&at_campaign=rss",
+    "description": "Construction workers found the stash in the walls of a cellar while drilling to lay sewage pipes.",
+    "pubDate": "Fri, 14 Aug 2026 13:18:08 GMT",
+    "source": "BBC News",
+    "category": "综合"
+  },
+  {
+    "title": "Prisoners charged over attack on Sara Sharif's father",
+    "link": "https://www.bbc.co.uk/news/articles/c3v0yz9k250o?at_medium=RSS&at_campaign=rss",
+    "description": "Steven Sansom, 47, and Adam Watson, 39, are also charged with other offences relating to the Belmarsh Prison incident.",
+    "pubDate": "Fri, 14 Aug 2026 13:21:56 GMT",
+    "source": "BBC News",
+    "category": "综合"
+  },
+  {
+    "title": "Trump asks Supreme Court to allow ballroom work to continue",
+    "link": "https://www.bbc.co.uk/news/articles/c3v0yz2r4wlo?at_medium=RSS&at_campaign=rss",
+    "description": "Forcing the US president to go \"hat-in-hand to Congress\" for permission would be \"dangerous\", the administration says.",
+    "pubDate": "Fri, 14 Aug 2026 19:05:22 GMT",
+    "source": "BBC News",
+    "category": "综合"
+  },
+  {
+    "title": "UK diplomats no longer get hardship bonus for being posted to Buenos Aires",
+    "link": "https://www.bbc.co.uk/news/articles/cly5p995ykko?at_medium=RSS&at_campaign=rss",
+    "description": "Civil servants are entitled to extra money for working in difficult or dangerous cities around the world.",
+    "pubDate": "Fri, 14 Aug 2026 17:00:46 GMT",
+    "source": "BBC News",
+    "category": "综合"
+  },
+  {
+    "title": "BBC News app",
+    "link": "https://www.bbc.co.uk/news/10628994?at_medium=RSS&at_campaign=rss",
+    "description": "Top stories, breaking news, live reporting, and follow news topics that match your interests",
+    "pubDate": "Wed, 30 Apr 2025 14:04:28 GMT",
+    "source": "BBC News",
+    "category": "综合"
+  },
+  {
+    "title": "What Next For Nigel Farage After The Clacton By-Election?",
+    "link": "https://www.bbc.co.uk/sounds/play/p0p38lpy?at_medium=RSS&at_campaign=rss",
+    "description": "The parliamentary standards investigation into Farage's £5m gift has reopened.",
+    "pubDate": "Fri, 14 Aug 2026 16:07:00 GMT",
+    "source": "BBC News",
+    "category": "综合"
+  },
+  {
+    "title": "Is Iran really trying to kill Trump?",
+    "link": "https://www.bbc.co.uk/sounds/play/w3ct8mfn?at_medium=RSS&at_campaign=rss",
+    "description": "How developed is the Tehran regime’s assassination operation abroad?",
+    "pubDate": "Thu, 13 Aug 2026 09:00:00 GMT",
+    "source": "BBC News",
+    "category": "综合"
+  },
+  {
+    "title": "Hodgkinson beaten to European gold by rival Werro",
+    "link": "https://www.bbc.co.uk/sport/athletics/articles/cyvl05g8g4lo?at_medium=RSS&at_campaign=rss",
+    "description": "Keely Hodgkinson is forced to settle for European silver as Switzerland's Audrey Werro denies the Briton a third consecutive title in a thrilling 800m final.",
+    "pubDate": "Fri, 14 Aug 2026 21:07:10 GMT",
+    "source": "BBC News",
+    "category": "综合"
+  },
+  {
+    "title": "Chelsea say no Fernandez move as deadline passes - but is it really over?",
+    "link": "https://www.bbc.co.uk/sport/football/articles/c7vgyrl2573o?at_medium=RSS&at_campaign=rss",
+    "description": "Chelsea's deadline for clubs to bid £120m for midfielder Enzo Fernandez has passed - and they now expect the Argentine to stay at the club this season.",
+    "pubDate": "Fri, 14 Aug 2026 16:04:54 GMT",
+    "source": "BBC News",
+    "category": "综合"
+  },
+  {
+    "title": "Walter puts dominant Super Giants in Hundred final",
+    "link": "https://www.bbc.co.uk/sport/cricket/articles/c0qvy5p5gdlo?at_medium=RSS&at_campaign=rss",
+    "description": "All-rounder Paul Walter is the unlikely star with 80 off 46 balls as Manchester Super Giants comfortably beat Sunrisers Leeds to reach the men's Hundred final.",
+    "pubDate": "Fri, 14 Aug 2026 20:32:45 GMT",
+    "source": "BBC News",
+    "category": "综合"
+  },
+  {
+    "title": "American missionary kidnapped in Niger freed after nine months",
+    "link": "https://www.theguardian.com/world/2026/aug/14/american-missionary-kevin-rideout-niger-released-kidnapping",
+    "description": "Kevin Rideout, who was abducted by unknown assailants in Niamey, said to be in good health and in care of US officialsAn American missionary who was kidnapped in Niger in October has been released, his organisation has said.Serving in Mission International said Kevin Rideout “is in good health in the care of US officials” and would soon be reunited with his extended family. Continue reading...",
+    "pubDate": "Fri, 14 Aug 2026 14:55:17 GMT",
+    "source": "卫报",
+    "category": "综合"
+  },
+  {
+    "title": "DRC’s fast-growing Ebola outbreak spreads to sixth province",
+    "link": "https://www.theguardian.com/world/2026/aug/13/ebola-drc-democratic-republic-congo-sixth-province",
+    "description": "Man dies in Bas-Uele after travelling from Haut-Uele, as head of WHO says outbreak on track to be deadliest everThe Ebola outbreak in the Democratic Republic of the Congo has spread to a sixth province, officials have said, a day after the head of the World Health Organization said the outbreak was on track to surpass the deadliest in history, which killed at least 11,000 people more than a decade ago.The current outbreak has killed more than 2,100 people out of more than 4,500 cases, according ",
+    "pubDate": "Thu, 13 Aug 2026 15:17:13 GMT",
+    "source": "卫报",
+    "category": "综合"
+  },
+  {
+    "title": "French ambassador to CAR investigated over claims he hosted dozens of women",
+    "link": "https://www.theguardian.com/world/2026/aug/13/france-ambassador-car-central-african-republic-investigation-bruno-foucher",
+    "description": "Disciplinary proceedings under way after security concerns raised over reported visits to official residenceFrance has opened disciplinary proceedings against its ambassador to Central African Republic over allegations of misconduct, after claims he brought dozens of women into his official residence, raising potential security concerns.The investigation comes as Paris seeks to rebuild relations with CAR after their sharp deterioration in recent years amid Russia’s expanding influence in the for",
+    "pubDate": "Thu, 13 Aug 2026 14:21:52 GMT",
+    "source": "卫报",
+    "category": "综合"
+  },
+  {
+    "title": "Zambia elections haunted by ghost of incumbent president’s arch-rival",
+    "link": "https://www.theguardian.com/world/2026/aug/13/zambia-elections-hakainde-hichilema-haunted-ghost-incumbent-president-arch-rival-edgar-lungu",
+    "description": "Hakainde Hichilema is bidding for second term, but feud between him and family of Edgar Lungu, who died in 2025, continuesAs Zambians go to the polls on Thursday, the ghost of the current president’s predecessor hangs over the elections.Hakainde Hichilema, 64, is bidding for a second term leading the southern African country after defeating his arch-rival Edgar Lungu by a landslide in 2021. Continue reading...",
+    "pubDate": "Thu, 13 Aug 2026 04:00:49 GMT",
+    "source": "卫报",
+    "category": "综合"
+  },
+  {
+    "title": "At least 44 dead after overcrowded ferry capsizes on Lake Kariba in Zimbabwe",
+    "link": "https://www.theguardian.com/world/2026/aug/12/zimbabwe-lake-kariba-ferry-capsize",
+    "description": "Operation under way to rescue dozens missing after boat overturned by waves at world’s largest human-made lakeAt least 44 people have died after an overcrowded ferry capsized on Lake Kariba in Zimbabwe, police said.The boat had a capacity of 90 people, but was carrying 114 adult passengers, five crew members and an unknown number of children, Zimbabwe’s civil protection unit (CPU) said earlier on Wednesday, citing ticket sales. Continue reading...",
+    "pubDate": "Wed, 12 Aug 2026 12:21:08 GMT",
+    "source": "卫报",
+    "category": "综合"
+  },
+  {
+    "title": "Ontario free to axe Toronto bike lanes, region’s top court rules",
+    "link": "https://www.theguardian.com/world/2026/aug/14/ontario-free-to-axe-toronto-bike-lanes-regions-top-court-rules",
+    "description": "Win is significant for region’s premier, Doug Ford, who blames protected zones as cause of city’s traffic illsThe Ontario government is now free to rip out Toronto’s bike lanes on its busiest streets after the region’s top court ruled in favour of the province on Friday, overturning a lower court’s decision that decreed removing the lanes would violate constitutional rights.The win is significant for Ontario’s premier, Doug Ford, and his government, who have long railed against Toronto’s bike la",
+    "pubDate": "Fri, 14 Aug 2026 21:03:43 GMT",
+    "source": "卫报",
+    "category": "综合"
+  },
+  {
+    "title": "Canadian plasma clinics pause collections after deaths of two donors",
+    "link": "https://www.theguardian.com/world/2026/aug/14/canadian-plasma-clinics-pause-collections-after-deaths-of-donors-grifols",
+    "description": "Grifols, which runs private chain of clinics, to temporarily stop taking donations after new government investigationA chain of private plasma donation clinics in Canada has said it is pausing collections after the deaths of two donors and a new government investigation into potential unsafe practices.Grifols, a Spanish healthcare company which runs 17 clinics in Canada and is the country’s only private clinic for plasma donation, said it informed Health Canada of its decision to temporarily pau",
+    "pubDate": "Fri, 14 Aug 2026 16:21:39 GMT",
+    "source": "卫报",
+    "category": "综合"
+  },
+  {
+    "title": "BP to develop offshore gasfield in Venezuela with firms linked to Trump administration",
+    "link": "https://www.theguardian.com/business/2026/aug/14/bp-offshore-gasfield-venezuela-donald-trump",
+    "description": "Move will be one of first large-scale foreign investments in country since US ousted leader Nicolás Maduro in JanuaryBP has answered Donald Trump’s call for oil companies to help rebuild Venezuela’s fossil fuel industry with new plans to develop a large offshore gasfield.BP will partner with two oil firms with close links to the Trump administration to develop the second phase of the Loran gasfield, in one of the first large-scale foreign investments in Venezuela since the US ousted its leader N",
+    "pubDate": "Fri, 14 Aug 2026 14:04:49 GMT",
+    "source": "卫报",
+    "category": "综合"
+  },
+  {
+    "title": "Former Mexican governor charged in case of 43 students who vanished in 2014",
+    "link": "https://www.theguardian.com/world/2026/aug/12/former-mexican-governor-charged-in-case-of-43-students-who-vanished-in-2014",
+    "description": "Ángel Aguirre indicted in case that rocked Mexico and became symbol of its brutal cartel violenceThe former governor of Guerrero state in Mexico has been formally charged over his alleged involvement in the disappearance of 43 students in 2014, a case that has become a symbol of the country’s brutal cartel violence and government impunity.Ángel Aguirre, who was arrested last week, is accused of forced disappearance and obstruction of justice for ordering the destruction of surveillance tapes tha",
+    "pubDate": "Wed, 12 Aug 2026 18:46:30 GMT",
+    "source": "卫报",
+    "category": "综合"
+  },
+  {
+    "title": "Canadian airline WestJet agrees to settle flight attendants’ sexual harassment class action",
+    "link": "https://www.theguardian.com/world/2026/aug/12/canadian-airline-westjet-settle-flight-attendants-sexual-harassment-class-action",
+    "description": "Female staff alleged company failed to maintain safe workplace, after allegations of sexual assault against pilotThe Canadian airline WestJet has agreed to pay C$4.5m (£2.4m) to settle a decade-long sexual harassment class action lawsuit levelled by its female flight attendants, who alleged the company failed to maintain a safe workplace.The suit followed allegations by Mandalena Lewis, a former flight attendant, that a pilot had sexually assaulted her and a colleague, but that WestJet kept the ",
+    "pubDate": "Wed, 12 Aug 2026 14:40:36 GMT",
+    "source": "卫报",
+    "category": "综合"
+  },
+  {
+    "title": "‘Unprecedented’ rain kills five in Japan as thousands stranded at airport",
+    "link": "https://www.theguardian.com/world/2026/aug/14/japan-deadly-rain-evacuation-thousands-stranded-tokyo-airport-weather",
+    "description": "Evacuation orders issued for 400,000 after flooding, landslide warnings and power outages in Chiba prefectureAt least five people have died in eastern Japan after “unprecedented” heavy rain that left nearly 7,000 stranded at Tokyo’s Narita airport and forced thousands to take refuge in government buildings.The torrential rains hit Chiba prefecture, east of Tokyo, on Thursday night, triggering landslide warnings and power outages. Evacuation orders were issued for more than 400,000 people in Chib",
+    "pubDate": "Fri, 14 Aug 2026 13:11:48 GMT",
+    "source": "卫报",
+    "category": "综合"
+  },
+  {
+    "title": "Indonesia wildfires threaten orangutans rescued from animal traffickers",
+    "link": "https://www.theguardian.com/world/2026/aug/14/indonesia-wildfires-threaten-orangutans-rescued-from-animal-traffickers",
+    "description": "Blaze fuelled by hot, dry and windy conditions comes within metres of West Kalimantan rehabilitation centreOrangutans rescued from wildlife traffickers face a new threat from the record number of fires that have broken out in Indonesia in recent weeks.Flames have come within metres of an animal rehabilitation centre in West Kalimantan as hot, dry and windy conditions have been amplified by a powerful El Niño and the human-driven climate crisis. Continue reading...",
+    "pubDate": "Fri, 14 Aug 2026 04:00:16 GMT",
+    "source": "卫报",
+    "category": "综合"
+  },
+  {
+    "title": "‘Absolutely unacceptable’: Japan condemns visit by Vladimir Putin to disputed Kuril Islands",
+    "link": "https://www.theguardian.com/world/2026/aug/13/japan-condemns-vladimir-putin-visit-kuril-islands",
+    "description": "Japanese PM says islands seized by Soviets late in second world war are part of her country under international lawThe Japanese government has reacted angrily to Vladimir Putin’s first visit to the disputed Kuril Islands, which are claimed by both Tokyo and Moscow.Japan’s foreign minister, Toshimitsu Motegi, summoned the Russian ambassador Nikolay Nozdrev, while the prime minister, Sanae Takaichi, called Putin’s actions “absolutely unacceptable”. Continue reading...",
+    "pubDate": "Thu, 13 Aug 2026 12:56:57 GMT",
+    "source": "卫报",
+    "category": "综合"
+  },
+  {
+    "title": "South Korean airport becomes busiest in world for global traffic amid Iran war",
+    "link": "https://www.theguardian.com/world/2026/aug/13/south-korea-incheon-airport-iran-war-middle-east",
+    "description": "Incheon airport had 38.39m international passengers in first half of 2026, as traffic diverted from Middle East hubsSouth Korea’s Incheon airport has become the world’s busiest airport for international passengers, in part owing to disruption in the Middle East caused by the Iran war.The airport, South Korea’s main gateway, about 30 miles (48km) west of Seoul, handled 38.39 million international passengers in the first half of 2026, according to preliminary figures compiled by the Airports Counc",
+    "pubDate": "Thu, 13 Aug 2026 09:45:56 GMT",
+    "source": "卫报",
+    "category": "综合"
+  },
+  {
+    "title": "Thailand suspends gun licences as teen shooter and grandparents he killed are cremated",
+    "link": "https://www.theguardian.com/world/2026/aug/12/thailand-suspends-gun-licences-teenage-shooter-grandparents-cremated",
+    "description": "Prime minister Anutin Charnvirakul calls  for tighter gun controls and ‘decisive penalties’ after nine dead in school shooting Thailand has suspended firearms licences after the deadly Nonthaburi school shooting, as the bodies of the teenage attacker and the grandparents he killed were cremated.The prime minister, Anutin Charnvirakul, said he had ordered the interior ministry and police to stop issuing licences to possess, purchase and carry firearms, and called for “tighter controls and decisiv",
+    "pubDate": "Wed, 12 Aug 2026 05:28:05 GMT",
+    "source": "卫报",
+    "category": "综合"
+  },
+  {
+    "title": "French court blocks Macron’s social media ban for under-15s",
+    "link": "https://www.theguardian.com/world/2026/aug/14/french-court-blocks-macron-social-media-ban-under-15s",
+    "description": "Constitutional council says curbs infringe freedom of expression and privacy as president vows to rework legislationFrance’s top court has blocked a ban on social media access for under-15s, ruling that it infringed freedom of expression and privacy.The decision is a blow to President Emmanuel Macron as momentum builds around the world for Australian-style restrictions on children’s use of social media. Continue reading...",
+    "pubDate": "Fri, 14 Aug 2026 17:12:14 GMT",
+    "source": "卫报",
+    "category": "综合"
+  },
+  {
+    "title": "A Queensland man enjoyed soaring profits from a crypto trading app. Then his money started disappearing",
+    "link": "https://www.theguardian.com/australia-news/2026/aug/15/australia-crypto-money-investment-scam-ai-fraud-crime",
+    "description": "The administrative work required to run an effective investment scam has been drastically cut by using merging technologyGet our breaking news email, free app or daily news podcastWithin days of clicking on an online ad for a cryptocurrency trading app, a 29-year-old Queensland man watched his dashboard soar with profits.Making investment gains was as simple as downloading the slick-looking app and browser extension linked to his crypto wallet. So he invested more. Continue reading...",
+    "pubDate": "Fri, 14 Aug 2026 15:00:31 GMT",
+    "source": "卫报",
+    "category": "综合"
+  },
+  {
+    "title": "Pocock and crossbenchers call Labor’s NDIS overhaul ‘too far, too fast’ in scathing Senate inquiry report",
+    "link": "https://www.theguardian.com/australia-news/2026/aug/14/pocock-and-crossbenchers-call-labors-ndis-overhaul-too-far-too-fast-in-scathing-senate-inquiry-report",
+    "description": "Greens say Labor’s reform set to ‘rip life-changing supports away from disabled people instead of raising additional revenue through taxing gas exports’Cross-benchers have slammed the Albanese government’s proposed overhaul of the NDIS as going “too far, too fast” as the changes to curb the growth of the $52bn program appear set to pass the parliament as early as next week.The Greens and independent ACT senator, David Pocock, delivered scathing assessments of the bill they warn will enable blunt",
+    "pubDate": "Fri, 14 Aug 2026 08:04:02 GMT",
+    "source": "卫报",
+    "category": "综合"
+  },
+  {
+    "title": "Lending to property investors falls sharply in ‘tiny’ step towards fairer housing market in Australia, expert says",
+    "link": "https://www.theguardian.com/australia-news/2026/aug/14/lending-to-property-investors-falls-sharply-in-tiny-step-towards-fairer-housing-market-in-australia-expert-says",
+    "description": "ABS data shows an almost 9% slump in new lending to investors after three interest rate hikes this yearFollow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podcastIn what one economist is describing as a “tiny step” toward a fairer housing market after decades of bad policy, property investors are shying away from established homes, and putting money into new builds instead, new data shows.New lending to property investors fell sharply in the ",
+    "pubDate": "Fri, 14 Aug 2026 08:03:29 GMT",
+    "source": "卫报",
+    "category": "综合"
+  },
+  {
+    "title": "Alleged victim says Alan Jones groped him at lunch and describes fear of being seen as broadcaster’s ‘toy’, court hears",
+    "link": "https://www.theguardian.com/australia-news/2026/aug/14/alan-jones-trial-alleged-victim-broadcaster-eggs-soldiers-ironed-underpants-court-ntwnfb",
+    "description": "Former 2GB and 2UE radio broadcaster is facing 22 indecent assault and sexual touching charges. Jones, 85, has pleaded not guiltyFollow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podcastA young driver for Alan Jones felt “violated” and “trapped” when the broadcaster allegedly touched him on the penis in the car and kissed him in a lift, but didn’t complain due to the “extraordinary” power dynamic between the pair, a Sydney court has been to",
+    "pubDate": "Fri, 14 Aug 2026 07:59:06 GMT",
+    "source": "卫报",
+    "category": "综合"
+  },
+  {
+    "title": "BBC seeks to subpoena Trump’s eldest children and son-in-law over defamation lawsuit",
+    "link": "https://www.theguardian.com/media/2026/aug/14/bbc-trump-children-subpoenas-lawsuit",
+    "description": "Network wants to serve Jared Kushner, Ivanka Trump and Donald Trump Jr after president sues over January 6 documentaryThe BBC is trying to subpoena Donald Trump’s children as it builds its defense against the president’s defamation lawsuit centered on a documentary on the January 6 insurrection.In a motion filed Friday, the BBC sought authorization to serve Trump’s two eldest children, Donald Trump Jr and Ivanka Trump, and son-in-law Jared Kushner, with subpoenas for testimony and their records ",
+    "pubDate": "Fri, 14 Aug 2026 21:05:47 GMT",
+    "source": "卫报",
+    "category": "综合"
+  },
+  {
+    "title": "Hundreds arrested on suspicion of arson in France as wildfires rage across Europe",
+    "link": "https://www.theguardian.com/world/2026/aug/14/arrested-suspicion-starting-wildfires-europe-france",
+    "description": "One person killed and hundreds evacuated in Croatia as blazes also hit Germany, Greece and SpainAlmost 500 people have been arrested on suspicion of starting wildfires in France since the start of the summer, authorities have said, as firefighters in half a dozen European countries tackle ferocious blazes amid a record-breaking heatwave.A fire engulfed ⁠homes in a Croatian holiday resort on Friday, killing one person, injuring 40 and forcing 1,200 to evacuate, officials said, as the EU warned th",
+    "pubDate": "Fri, 14 Aug 2026 16:58:04 GMT",
+    "source": "卫报",
+    "category": "综合"
+  },
+  {
+    "title": "Belgian student strikes gold worth €9m while digging a new sewer",
+    "link": "https://www.theguardian.com/world/2026/aug/14/belgian-student-strikes-gold-worth-9m-while-digging-sewers",
+    "description": "Kobe, 18, who made discovery on site of former brewery in Sint-Gillis-Dendermonde, at first thought trove was €1 coinsFor a student with a summer job working on a Belgian building site, “money down the drain” has taken on a whole new meaning: excavating the trenches for a sewage system, he stumbled across a hidden trove of gold worth an estimated €9m (£8m).“We suddenly saw something lying there,” 18-year-old Kobe told the Belgian news network VTM. “At first I thought it was €1 coins. So we start",
+    "pubDate": "Fri, 14 Aug 2026 15:52:31 GMT",
+    "source": "卫报",
+    "category": "综合"
+  },
+  {
+    "title": "One dead, dozens injured and thousands evacuated in Croatian wildfires – as it happened",
+    "link": "https://www.theguardian.com/world/live/2026/aug/14/fires-wildfires-extreme-heat-west-midlands-stourbridge-uk-greece-france-croatia-climate-crisis-europe-latest-news-updates",
+    "description": "Firefighters discover body and say more than 40 people hurt in the Lokva Rogoznica and Omiš areasEngland has received just 4mm of rain so far in August, or 6% of the long-term average for the month, the Environment Agency said on Friday, as reported by PA.It follows the driest July on record for the country, when only 7mm of rain was measured, or 10% of the average. Continue reading...",
+    "pubDate": "Fri, 14 Aug 2026 15:23:29 GMT",
+    "source": "卫报",
+    "category": "综合"
+  },
+  {
+    "title": "Iberian orca known for ramming boats seen with suspected gunshot wounds",
+    "link": "https://www.theguardian.com/environment/2026/aug/14/iberian-orca-known-for-ramming-boats-seen-with-suspected-gunshot-wounds",
+    "description": "Marine conservationist says deliberate attack would be ‘act of extreme cruelty’ against endangered populationSpanish officials have launched an investigation after the matriarch of an orca pod known for jostling and ramming boats off the Iberian Peninsula was spotted with wounds suggesting she had been shot by a pellet gun.On Friday, Spain’s environment ministry said Toñi, the oldest living member of the pod, had been seen swimming in the Strait of Gibraltar with markings on her dorsal fin that ",
+    "pubDate": "Fri, 14 Aug 2026 15:07:10 GMT",
+    "source": "卫报",
+    "category": "综合"
+  },
+  {
+    "title": "Israeli military plans to transfer law enforcement in occupied West Bank to police",
+    "link": "https://www.theguardian.com/world/2026/aug/14/israeli-military-plans-transfer-law-enforcement-in-occupied-west-bank-to-police",
+    "description": "Palestine’s vice-president calls plan ‘flagrant violation of international law’ and a step towards full Israeli annexationIsrael’s defence minister wants to transfer law enforcement powers for Israelis in the occupied West Bank over to the police, a plan that Palestine’s vice-president described as a “flagrant violation of international law” and step towards full Israeli annexation.Israel Katz announced that he had ordered the military to draw up plans for the handover of responsibility for poli",
+    "pubDate": "Fri, 14 Aug 2026 17:52:51 GMT",
+    "source": "卫报",
+    "category": "综合"
+  },
+  {
+    "title": "Benjamin Netanyahu describes UK as ‘first Islamic republic to get a nuclear weapon’",
+    "link": "https://www.theguardian.com/world/2026/aug/14/benjamin-netanyahu-describes-uk-first-islamic-republic-to-get-nuclear-weapon",
+    "description": "Israeli PM criticised by political rival for attacking an international ally and overseeing ‘horrific diplomatic failure’The Israeli prime minister, Benjamin Netanyahu, called the UK “the Islamic republic of Britain” in a podcast interview, where he also described the country as the “first Islamic republic to get a nuclear weapon”.His comments, made during an interview for Israel’s army radio, played into a common far-right Islamophobic trope about Britain’s small Muslim population. Continue rea",
+    "pubDate": "Fri, 14 Aug 2026 12:00:42 GMT",
+    "source": "卫报",
+    "category": "综合"
+  },
+  {
+    "title": "Israeli troops force families from homes amid settler terror campaign in West Bank",
+    "link": "https://www.theguardian.com/world/2026/aug/13/israeli-troops-force-families-from-homes-amid-settler-terror-campaign-in-west-bank",
+    "description": "Former PM of Israel calls events ‘concerted and meticulous attempt at ethnic cleansing’ against PalestiniansIsraeli troops have forced two Palestinian families to leave their besieged West Bank homes, the day after a top Israeli commander personally promised he would end a violent settler campaign to drive them out.Israeli soldiers also took over eight other homes in Qusra early on Thursday, telling the village’s mayor, Abdul Azim Wadi, that the buildings were needed for a days-long operation to",
+    "pubDate": "Thu, 13 Aug 2026 18:54:09 GMT",
+    "source": "卫报",
+    "category": "综合"
+  },
+  {
+    "title": "Israeli militants besiege two Palestinian families in their West Bank homes",
+    "link": "https://www.theguardian.com/world/2026/aug/12/israeli-militants-besiege-two-palestinian-families-in-their-west-bank-homes",
+    "description": "Settlers and soldiers cut off water and electricity to homes, and block medical care in campaign of terrorIsraeli militants have besieged two Palestinian families in their homes since the weekend, aiming to take over their properties in the West Bank village of Qusra through a campaign of terror.A group of settlers and soldiers set up a tent outside the home of Yousef Hassan’s family on Sunday afternoon, trapping him inside with his wife and two young daughters. Continue reading...",
+    "pubDate": "Thu, 13 Aug 2026 06:45:27 GMT",
+    "source": "卫报",
+    "category": "综合"
+  },
+  {
+    "title": "Israel deliberately starting wildfires in southern Lebanon, firefighters say",
+    "link": "https://www.theguardian.com/world/2026/aug/12/israel-deliberately-starting-wildfires-in-southern-lebanon-firefighters-say",
+    "description": "Emergency services, residents and environmental groups say military dropping flares to destroy forests and cropsFirefighters and residents of south Lebanon have accused the Israeli military of lighting wildfires in the region, as forested areas burned down in blazes sparked by Israeli bombing.Environmental groups said the fires in recent weeks were part of a longstanding Israeli practice of targeting Lebanon’s natural environment. Continue reading...",
+    "pubDate": "Wed, 12 Aug 2026 16:17:55 GMT",
+    "source": "卫报",
+    "category": "综合"
+  },
+  {
+    "title": "Ex-Myanmar ambassador to UK on trial for trespassing in diplomatic residence",
+    "link": "https://www.theguardian.com/uk-news/2026/aug/12/ex-myanmar-ambassador-uk-kyaw-zwar-minn-trial-trespassing-diplomatic-residence",
+    "description": "Kyaw Zwar Minn was ousted for declaring loyalty to Aung San Suu Kyi after 2021 coup but refused to leave his homeMyanmar’s ousted ambassador to the UK has gone on trial on trespassing charges for refusing to leave a diplomatic residence after being unceremoniously locked out of the embassy in 2021.Shortly after Myanmar’s military seized power in 2021, triggering mass protests that spiralled into a civil war, Kyaw Zwar Minn was locked out of the embassy for declaring his loyalty to the deposed ci",
+    "pubDate": "Wed, 12 Aug 2026 18:01:51 GMT",
+    "source": "卫报",
+    "category": "综合"
+  },
+  {
+    "title": "The return of the caspian tiger: how a species feared extinct has come back to Kazakhstan",
+    "link": "https://www.theguardian.com/environment/2026/aug/11/extinction-caspian-tiger-release-female-kazakhstan-aoe",
+    "description": "The wild capture and release of a female big cat into a nature reserve is the first step towards reintroducing a population that hasn’t been seen for 70 yearsOn 31 July, “Umit” – which means hope in Kazakh – was released into a nature reserve on the edge of Lake Balkhash after more than a decade of careful planning to return the caspian tiger to the region. With this release, Kazakhstan became the first country to restore its tiger range after they had been thought extinct, with the last reliabl",
+    "pubDate": "Tue, 11 Aug 2026 10:00:56 GMT",
+    "source": "卫报",
+    "category": "综合"
+  },
+  {
+    "title": "Police use teargas on young Indians as government jobs protest escalates",
+    "link": "https://www.theguardian.com/world/2026/aug/10/indian-police-use-force-to-disperse-youth-protesters-calling-for-exam-overhaul",
+    "description": "Demonstrators accuse authorities of failing to tackle irregularities in exams for sought-after civil service jobsThousands of angry young job-seekers clashed with police in Jharkhand, one of India’s poorest states, on Monday as a weeks-long protest over alleged irregularities in recruitment drives for coveted government jobs escalated into a march on the state legislature.Police fired water cannon and teargas and swung batons as they tried to stop flag-waving demonstrators from clambering over b",
+    "pubDate": "Mon, 10 Aug 2026 17:16:28 GMT",
+    "source": "卫报",
+    "category": "综合"
+  },
+  {
+    "title": "British national shot dead in Kashmir by Pakistani security forces",
+    "link": "https://www.theguardian.com/world/2026/aug/10/british-national-shot-dead-in-kashmir-by-pakistani-security-forces",
+    "description": "Mohammad Akhtar, 50, from Peterborough killed during clashes between authorities and protestersA British national was shot dead in Pakistan-administered Kashmir during clashes between security forces and protesters, the Guardian can reveal.Another Briton has been held in a regional prison for more than two months despite his family’s efforts to secure his release through the Foreign Office. Continue reading...",
+    "pubDate": "Mon, 10 Aug 2026 05:00:36 GMT",
+    "source": "卫报",
+    "category": "综合"
+  },
+  {
+    "title": "India-Bangladesh relations hit new low over exiled PM’s speech to press in Delhi",
+    "link": "https://www.theguardian.com/world/2026/aug/06/india-bangladesh-relations-exiled-pm-speech-delhi-sheikh-hasina",
+    "description": "Dhaka accuses India of giving platform to a ‘convicted genocider’ by allowing Sheikh Hasina to address journalistsBangladesh has lashed out at India for allowing the ousted prime minister Sheikh Hasina to address journalists in New Delhi, plunging already strained bilateral relations to a fresh low.Dhaka accused India of giving a platform to a fugitive it labelled a “convicted genocider” and of undermining efforts to repair ties, after Hasina vowed to return to Bangladesh in December despite fac",
+    "pubDate": "Thu, 06 Aug 2026 14:30:43 GMT",
+    "source": "卫报",
+    "category": "综合"
+  },
+  {
+    "title": "Jason Arday found dead after resigning from Cambridge over plagiarism claims",
+    "link": "https://www.theguardian.com/uk-news/2026/aug/14/jason-arday-found-dead-after-resigning-from-cambridge-over-plagiarism-claims",
+    "description": "Academic was pronounced dead at his home in south London after police called to address after 3pm on FridayJason Arday, the black academic who resigned last week as a professor at the University of Cambridge, has been found dead at his home in south London.The Metropolitan police said officers were called to Arday’s address by the London ambulance service after 3pm on Friday. Continue reading...",
+    "pubDate": "Fri, 14 Aug 2026 19:56:25 GMT",
+    "source": "卫报",
+    "category": "综合"
+  },
+  {
+    "title": "Emergency alert warning of wildfire risk sent to phones in England and Wales",
+    "link": "https://www.theguardian.com/world/2026/aug/14/emergency-alert-warning-wildfire-risk-sent-phones-england-wales",
+    "description": "People urged not to light barbecues, campfires or anything else that could spark fire during period of extreme heatMillions of people across England and Wales received an emergency alert to their phones on Friday as the government warned against activities that could start fires.The deputy prime minister, Louise Haigh, said it was the most extensive use to date of the emergency alert system, with phones beaming a siren noise about 7pm, with the warning: “There is a serious risk of wildfires nati",
+    "pubDate": "Fri, 14 Aug 2026 19:19:48 GMT",
+    "source": "卫报",
+    "category": "综合"
+  },
+  {
+    "title": "Burnham criticised for EV and North Sea approach amid climate crisis",
+    "link": "https://www.theguardian.com/environment/2026/aug/14/andy-burnham-new-ev-sales-targets",
+    "description": "Cut in electric vehicle sales targets could add millions of tonnes of CO2 to emissions in UK, say green campaignersAndy Burnham has been criticised for moving to cut electric vehicle (EV) sales targets and accept North Sea drilling at a time of devastating wildfires caused by the climate emergency.The prime minister for the first time acknowledged on Friday that the climate crisis was behind hundreds of wildfires that have ripped across the parts of the UK. Continue reading...",
+    "pubDate": "Fri, 14 Aug 2026 18:51:11 GMT",
+    "source": "卫报",
+    "category": "综合"
+  },
+  {
+    "title": "Madonna will not be playing Glastonbury in 2027, Emily Eavis says",
+    "link": "https://www.theguardian.com/music/2026/aug/14/madonna-will-not-be-playing-glastonbury-2027-emily-eavis-says",
+    "description": "Festival organiser says she has booked next year’s headliners but would not say if Taylor Swift is among themMadonna will not be performing at next year’s Glastonbury, the festival’s organiser, Emily Eavis, has said.The singer, who has the most top 10 singles in UK chart history of any female artist, has never featured at Britain’s biggest music festival. Continue reading...",
+    "pubDate": "Fri, 14 Aug 2026 18:38:25 GMT",
+    "source": "卫报",
+    "category": "综合"
+  },
+  {
+    "title": "National Rail says heat poses ‘exceptional challenges’ after two trains derail in 24 hours",
+    "link": "https://www.theguardian.com/uk-news/2026/aug/14/train-derails-near-essex-town-of-wickford",
+    "description": "Incident near Essex town of Wickford happens day after two passengers seriously hurt in East Sussex derailmentThe UK’s fifth heatwave of the summer has “presented exceptional challenges to the railway”, Network Rail has said, after two trains derailed in less than 24 hours.On Friday, British Transport Police (BTP) confirmed the rear carriages of a Greater Anglia train derailed “in an upright position” at Wickford railway station in Essex, adding that there were no reported injuries. On Thursday,",
+    "pubDate": "Fri, 14 Aug 2026 17:20:01 GMT",
+    "source": "卫报",
+    "category": "综合"
+  },
+  {
+    "title": "Trump dismisses concerns about USS Abraham Lincoln, saying its record-breaking 250 days at sea ‘not nearly enough’ – live",
+    "link": "https://www.theguardian.com/us-news/live/2026/aug/14/donald-trump-speech-crime-safety-new-york-republicans-midterms-us-politics-latest-news-updates",
+    "description": "President claims families not worried, despite relatives raising concerns, but confirms USS George Washington will replace aircraft carrier on Iran missionTrump administration asks ⁠US supreme court to allow construction of White House ballroomSign up for the Breaking News US emailThe Trump administration, in its appeal to the supreme court today, said that “this case involves an extraordinary and unlawful injunction that will halt the ongoing construction of the integrated military complex incl",
+    "pubDate": "Fri, 14 Aug 2026 21:05:25 GMT",
+    "source": "卫报",
+    "category": "综合"
+  },
+  {
+    "title": "‘Devastating’: bulldozers plough through Big Bend national park as Trump’s border work pushes ahead",
+    "link": "https://www.theguardian.com/us-news/2026/aug/14/bulldozers-big-bend-national-park-trump",
+    "description": "Heavy machinery seen operating in famous Santa Elena Canyon amid outcry over new wall infrastructure in beloved Texas parkBulldozers have begun plowing up ground at the mouth of Big Bend national park’s famed Santa Elena Canyon as part of the Trump administration’s multibillion-dollar “smart wall” expansion on the US-Mexico border, according to new footage taken by activists who have been monitoring the site.Tensions have run high since the Trump administration announced plans to erect new borde",
+    "pubDate": "Fri, 14 Aug 2026 19:27:08 GMT",
+    "source": "卫报",
+    "category": "综合"
+  },
+  {
+    "title": "US Forest Service chief reportedly pressed staff for more support for wildfire near his ranch",
+    "link": "https://www.theguardian.com/us-news/2026/aug/14/michael-boren-idaho-wildfire-ranch",
+    "description": "Michael Boren requested more aircraft for 7-acre Cabin Creek fire, some of which were diverted from other firesMichael Boren, the US undersecretary of agriculture for natural resources and environment who oversees the US Forest Service, reportedly pressed agency staff last month to deploy more aircraft to a 7-acre (2.8-hectare) fire that was burning near his Idaho ranch, according to a Washington Post report on Friday.The Cabin Creek fire in Idaho began on about 12 July as a result of an unatten",
+    "pubDate": "Fri, 14 Aug 2026 19:01:58 GMT",
+    "source": "卫报",
+    "category": "综合"
+  },
+  {
+    "title": "Woman arrested after second world war memorial in DC vandalized",
+    "link": "https://www.theguardian.com/us-news/2026/aug/14/world-war-two-memorial-dc-vandalism",
+    "description": "Suspect faces two felony charges after memorial filled with bubbles and spray-paint reading ‘Clean hands Dirty $’A woman was arrested on Friday morning in connection with the vandalization of the National World War Two Memorial on the National Mall in Washington DC, the capital’s federal prosecutor announced.Jeanine Pirro, the US attorney for the District of Columbia, announced mid-morning that a suspect was in custody and had been charged with federal crimes. Continue reading...",
+    "pubDate": "Fri, 14 Aug 2026 18:43:30 GMT",
+    "source": "卫报",
+    "category": "综合"
+  },
+  {
+    "title": "Hawaii braces for direct hit from Tropical Storm Lala",
+    "link": "https://www.theguardian.com/us-news/2026/aug/14/hawaii-tropical-storm-lala",
+    "description": "Storm expected to strengthen to hurricane as state of emergency declared amid danger of ‘life-threatening’ floodsTropical Storm Lala is set to hit Hawaii’s Big Island with hurricane force in a matter of hours, bringing dangerous winds, heavy rainfall and high surf in a sign of what a strengthening “super” El Niño in the Pacific may bring.The tropical storm is currently about 420 miles (675km) south-east of Hilo on the archipelago’s largest island, the National Oceanic and Atmospheric Administrat",
+    "pubDate": "Fri, 14 Aug 2026 18:17:25 GMT",
+    "source": "卫报",
+    "category": "综合"
+  }
+]
