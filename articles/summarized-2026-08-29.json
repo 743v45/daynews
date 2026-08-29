@@ -1303,5 +1303,671 @@
     "source": "卫报",
     "category": "综合",
     "summary": "A former editor of Breitbart News, Yiannopoulos has also served as an intern for Marjorie Taylor GreeneMilo Yiannopoulos, a far-right British politica"
+  },
+  {
+    "title": "$44M Solar-Powered EV Production Deal Struck",
+    "link": "https://frequal.com/aptera/ProductionDealAug2026.html",
+    "description": "Article URL: https://frequal.com/aptera/ProductionDealAug2026.html\nComments URL: https://news.ycombinator.com/item?id=49493563\nPoints: 16\n# Comments: 22",
+    "pubDate": "Sat, 29 Aug 2026 21:37:07 +0000",
+    "source": "Hacker News",
+    "category": "科技",
+    "summary": "Article URL: https://frequal.com/aptera/ProductionDealAug2026.html\nComments URL: https://news.ycombinator.com/item?id=49493563\nPoints: 16\n# Comments: "
+  },
+  {
+    "title": "What we want is a hunter gatherer lifestyle with space age tools",
+    "link": "https://www.strangeloopcanon.com/p/what-we-want-is-a-hunter-gatherer",
+    "description": "Article URL: https://www.strangeloopcanon.com/p/what-we-want-is-a-hunter-gatherer\nComments URL: https://news.ycombinator.com/item?id=49493244\nPoints: 45\n# Comments: 38",
+    "pubDate": "Sat, 29 Aug 2026 20:53:56 +0000",
+    "source": "Hacker News",
+    "category": "科技",
+    "summary": "Article URL: https://www.strangeloopcanon.com/p/what-we-want-is-a-hunter-gatherer\nComments URL: https://news.ycombinator.com/item?id=49493244\nPoints: "
+  },
+  {
+    "title": "Tencent Releases and Open-Sources Tencent Hy4 Preview",
+    "link": "https://www.tencent.com/tencent-releases-and-open-sources-tencent-hy4-preview/",
+    "description": "Article URL: https://www.tencent.com/tencent-releases-and-open-sources-tencent-hy4-preview/\nComments URL: https://news.ycombinator.com/item?id=49492632\nPoints: 114\n# Comments: 53",
+    "pubDate": "Sat, 29 Aug 2026 19:33:23 +0000",
+    "source": "Hacker News",
+    "category": "科技",
+    "summary": "Article URL: https://www.tencent.com/tencent-releases-and-open-sources-tencent-hy4-preview/\nComments URL: https://news.ycombinator.com/item?id=4949263"
+  },
+  {
+    "title": "Domain-Driven Agents",
+    "link": "https://coldtake.dev/blog/domain-driven-agents",
+    "description": "Article URL: https://coldtake.dev/blog/domain-driven-agents\nComments URL: https://news.ycombinator.com/item?id=49492584\nPoints: 25\n# Comments: 1",
+    "pubDate": "Sat, 29 Aug 2026 19:28:28 +0000",
+    "source": "Hacker News",
+    "category": "科技",
+    "summary": "Article URL: https://coldtake.dev/blog/domain-driven-agents\nComments URL: https://news.ycombinator.com/item?id=49492584\nPoints: 25\n# Comments: 1"
+  },
+  {
+    "title": "A safe MySQL upgrade that wasn't so safe",
+    "link": "https://blog.elis.cc/articles/a-safe-mysql-upgrade-that-wasnt-so-safe/",
+    "description": "Article URL: https://blog.elis.cc/articles/a-safe-mysql-upgrade-that-wasnt-so-safe/\nComments URL: https://news.ycombinator.com/item?id=49492488\nPoints: 20\n# Comments: 1",
+    "pubDate": "Sat, 29 Aug 2026 19:15:51 +0000",
+    "source": "Hacker News",
+    "category": "科技",
+    "summary": "Article URL: https://blog.elis.cc/articles/a-safe-mysql-upgrade-that-wasnt-so-safe/\nComments URL: https://news.ycombinator.com/item?id=49492488\nPoints"
+  },
+  {
+    "title": "Functional State Machines in Rust: Typestate and Newtype Patterns",
+    "link": "https://dl.acm.org/doi/10.1145/3830438.3830958",
+    "description": "Article URL: https://dl.acm.org/doi/10.1145/3830438.3830958\nComments URL: https://news.ycombinator.com/item?id=49492368\nPoints: 23\n# Comments: 2",
+    "pubDate": "Sat, 29 Aug 2026 19:01:09 +0000",
+    "source": "Hacker News",
+    "category": "科技",
+    "summary": "Article URL: https://dl.acm.org/doi/10.1145/3830438.3830958\nComments URL: https://news.ycombinator.com/item?id=49492368\nPoints: 23\n# Comments: 2"
+  },
+  {
+    "title": "DHS is using obscure law to snoop on journalists, non-profits, unions",
+    "link": "https://www.theguardian.com/us-news/2026/aug/29/trump-dhs-1509-summons-records-journalists-nonprofits",
+    "description": "Article URL: https://www.theguardian.com/us-news/2026/aug/29/trump-dhs-1509-summons-records-journalists-nonprofits\nComments URL: https://news.ycombinator.com/item?id=49492219\nPoints: 227\n# Comments: 31",
+    "pubDate": "Sat, 29 Aug 2026 18:44:37 +0000",
+    "source": "Hacker News",
+    "category": "科技",
+    "summary": "Article URL: https://www.theguardian.com/us-news/2026/aug/29/trump-dhs-1509-summons-records-journalists-nonprofits\nComments URL: https://news.ycombina"
+  },
+  {
+    "title": "vLLM v0.28.0",
+    "link": "https://github.com/vllm-project/vllm/releases/tag/v0.28.0",
+    "description": "Article URL: https://github.com/vllm-project/vllm/releases/tag/v0.28.0\nComments URL: https://news.ycombinator.com/item?id=49492067\nPoints: 70\n# Comments: 24",
+    "pubDate": "Sat, 29 Aug 2026 18:22:00 +0000",
+    "source": "Hacker News",
+    "category": "科技",
+    "summary": "Article URL: https://github.com/vllm-project/vllm/releases/tag/v0.28.0\nComments URL: https://news.ycombinator.com/item?id=49492067\nPoints: 70\n# Commen"
+  },
+  {
+    "title": "Calibrate Before You Accelerate: Bias Toward Action in a New Role",
+    "link": "https://tucker.wales/writing/bias-towards-action/",
+    "description": "Article URL: https://tucker.wales/writing/bias-towards-action/\nComments URL: https://news.ycombinator.com/item?id=49491714\nPoints: 78\n# Comments: 30",
+    "pubDate": "Sat, 29 Aug 2026 17:39:18 +0000",
+    "source": "Hacker News",
+    "category": "科技",
+    "summary": "Article URL: https://tucker.wales/writing/bias-towards-action/\nComments URL: https://news.ycombinator.com/item?id=49491714\nPoints: 78\n# Comments: 30"
+  },
+  {
+    "title": "Good Culture Is the Biggest Productivity Hack, Not AI",
+    "link": "https://newsletter.eng-leadership.com/p/good-culture-is-the-biggest-productivity",
+    "description": "Article URL: https://newsletter.eng-leadership.com/p/good-culture-is-the-biggest-productivity\nComments URL: https://news.ycombinator.com/item?id=49491568\nPoints: 191\n# Comments: 35",
+    "pubDate": "Sat, 29 Aug 2026 17:19:47 +0000",
+    "source": "Hacker News",
+    "category": "科技",
+    "summary": "Article URL: https://newsletter.eng-leadership.com/p/good-culture-is-the-biggest-productivity\nComments URL: https://news.ycombinator.com/item?id=49491"
+  },
+  {
+    "title": "A better SQL in 11 lines of code",
+    "link": "https://prela-lang.org/tutorial/",
+    "description": "Article URL: https://prela-lang.org/tutorial/\nComments URL: https://news.ycombinator.com/item?id=49491544\nPoints: 36\n# Comments: 38",
+    "pubDate": "Sat, 29 Aug 2026 17:13:45 +0000",
+    "source": "Hacker News",
+    "category": "科技",
+    "summary": "Article URL: https://prela-lang.org/tutorial/\nComments URL: https://news.ycombinator.com/item?id=49491544\nPoints: 36\n# Comments: 38"
+  },
+  {
+    "title": "Trees for a Changing Climate and Resilient Urban Forest (2022)",
+    "link": "https://www.coolboulder.org/news/trees-for-a-changing-climate-resilient-urban-forest",
+    "description": "Article URL: https://www.coolboulder.org/news/trees-for-a-changing-climate-resilient-urban-forest\nComments URL: https://news.ycombinator.com/item?id=49491175\nPoints: 17\n# Comments: 3",
+    "pubDate": "Sat, 29 Aug 2026 16:24:21 +0000",
+    "source": "Hacker News",
+    "category": "科技",
+    "summary": "Article URL: https://www.coolboulder.org/news/trees-for-a-changing-climate-resilient-urban-forest\nComments URL: https://news.ycombinator.com/item?id=4"
+  },
+  {
+    "title": "Quantifying Colour",
+    "link": "https://ekunazanu.foo/lab/quantifying-colour/",
+    "description": "Article URL: https://ekunazanu.foo/lab/quantifying-colour/\nComments URL: https://news.ycombinator.com/item?id=49490832\nPoints: 59\n# Comments: 5",
+    "pubDate": "Sat, 29 Aug 2026 15:43:53 +0000",
+    "source": "Hacker News",
+    "category": "科技",
+    "summary": "Article URL: https://ekunazanu.foo/lab/quantifying-colour/\nComments URL: https://news.ycombinator.com/item?id=49490832\nPoints: 59\n# Comments: 5"
+  },
+  {
+    "title": "GrapheneOS project: pixel 11 no longer supports hardware memory tagging (MTE)",
+    "link": "https://bsky.app/profile/grapheneos.org/post/3mua32q4ds22e",
+    "description": "Article URL: https://bsky.app/profile/grapheneos.org/post/3mua32q4ds22e\nComments URL: https://news.ycombinator.com/item?id=49490702\nPoints: 221\n# Comments: 93",
+    "pubDate": "Sat, 29 Aug 2026 15:26:28 +0000",
+    "source": "Hacker News",
+    "category": "科技",
+    "summary": "Article URL: https://bsky.app/profile/grapheneos.org/post/3mua32q4ds22e\nComments URL: https://news.ycombinator.com/item?id=49490702\nPoints: 221\n# Comm"
+  },
+  {
+    "title": "Indirect Calling of Nested Functions on GCC Without Executable Stack",
+    "link": "https://uecker.codeberg.page/2026-08-29.html",
+    "description": "Article URL: https://uecker.codeberg.page/2026-08-29.html\nComments URL: https://news.ycombinator.com/item?id=49490138\nPoints: 63\n# Comments: 38",
+    "pubDate": "Sat, 29 Aug 2026 14:20:33 +0000",
+    "source": "Hacker News",
+    "category": "科技",
+    "summary": "Article URL: https://uecker.codeberg.page/2026-08-29.html\nComments URL: https://news.ycombinator.com/item?id=49490138\nPoints: 63\n# Comments: 38"
+  },
+  {
+    "title": "Samsung's Processing-in-Memory (PIM)",
+    "link": "https://chipsandcheese.com/p/hot-chips-2026-samsungs-processing",
+    "description": "Article URL: https://chipsandcheese.com/p/hot-chips-2026-samsungs-processing\nComments URL: https://news.ycombinator.com/item?id=49487341\nPoints: 232\n# Comments: 89",
+    "pubDate": "Sat, 29 Aug 2026 06:06:51 +0000",
+    "source": "Hacker News",
+    "category": "科技",
+    "summary": "Article URL: https://chipsandcheese.com/p/hot-chips-2026-samsungs-processing\nComments URL: https://news.ycombinator.com/item?id=49487341\nPoints: 232\n#"
+  },
+  {
+    "title": "Nancy Grace Roman Space Telescope Launches this Sunday",
+    "link": "https://www.npr.org/2026/08/28/nx-s1-5905370/nasa-nancy-grace-roman-space-telescope-dark-energy-supernova",
+    "description": "Article URL: https://www.npr.org/2026/08/28/nx-s1-5905370/nasa-nancy-grace-roman-space-telescope-dark-energy-supernova\nComments URL: https://news.ycombinator.com/item?id=49482833\nPoints: 36\n# Comments: 2",
+    "pubDate": "Fri, 28 Aug 2026 18:53:48 +0000",
+    "source": "Hacker News",
+    "category": "科技",
+    "summary": "Article URL: https://www.npr.org/2026/08/28/nx-s1-5905370/nasa-nancy-grace-roman-space-telescope-dark-energy-supernova\nComments URL: https://news.ycom"
+  },
+  {
+    "title": "Creating the Aetheryte Radio",
+    "link": "https://haz.ee/posts/aetheryte-radio.html",
+    "description": "Article URL: https://haz.ee/posts/aetheryte-radio.html\nComments URL: https://news.ycombinator.com/item?id=49479546\nPoints: 60\n# Comments: 12",
+    "pubDate": "Fri, 28 Aug 2026 14:59:15 +0000",
+    "source": "Hacker News",
+    "category": "科技",
+    "summary": "Article URL: https://haz.ee/posts/aetheryte-radio.html\nComments URL: https://news.ycombinator.com/item?id=49479546\nPoints: 60\n# Comments: 12"
+  },
+  {
+    "title": "Sony Music, Warner sue Anthropic, alleging a &#8220;brazen campaign&#8221; of intellectual property theft",
+    "link": "https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft/",
+    "description": "This latest lawsuit is particularly broad and homes in on accusations of illegal piracy.",
+    "pubDate": "Sat, 29 Aug 2026 18:41:59 +0000",
+    "source": "TechCrunch",
+    "category": "科技",
+    "summary": "This latest lawsuit is particularly broad and homes in on accusations of illegal piracy."
+  },
+  {
+    "title": "At TechBBQ, Europe&#8217;s AI conversations kept coming back to: Who&#8217;s actually in control?",
+    "link": "https://techcrunch.com/2026/08/29/at-techbbq-europes-ai-conversations-kept-coming-back-to-whos-actually-in-control/",
+    "description": "Investors, founders, and operators from across Europe arrived for the annual Nordic TechBBQ conference to talk about how humans can have agency over AI.",
+    "pubDate": "Sat, 29 Aug 2026 17:51:10 +0000",
+    "source": "TechCrunch",
+    "category": "科技",
+    "summary": "Investors, founders, and operators from across Europe arrived for the annual Nordic TechBBQ conference to talk about how humans can have agency over A"
+  },
+  {
+    "title": "&#8220;We&#8217;re not doing 30 bets a year&#8221;: Vijay Pande on betting small after running $4 billion at a16z",
+    "link": "https://techcrunch.com/2026/08/29/were-not-doing-30-bets-a-year-vijay-pande-on-betting-small-after-running-4-billion-at-a16z/",
+    "description": "Vijay Pande — who left a16z's roughly $4 billion biotech practice last year to start the much smaller, AI-native VZVC — talks about why biology is finally shifting from a \"discovery\" science to an \"engineering\" one, why clinical trials are still brutally expensive, and why he thinks open, shared datasets (not walled-off ones) are what will actually let AI transform medicine.",
+    "pubDate": "Sat, 29 Aug 2026 17:36:47 +0000",
+    "source": "TechCrunch",
+    "category": "科技",
+    "summary": "Vijay Pande — who left a16z's roughly $4 billion biotech practice last year to start the much smaller, AI-native VZVC — talks about why biology is fin"
+  },
+  {
+    "title": "Hollywood celebs are getting into microdrama apps",
+    "link": "https://techcrunch.com/2026/08/29/hollywood-celebs-are-getting-into-microdrama-apps/",
+    "description": "Several Hollywood celebs are ditching the massive eight-figure checks and exotic movie sets for a rising format: microdramas.",
+    "pubDate": "Sat, 29 Aug 2026 16:10:00 +0000",
+    "source": "TechCrunch",
+    "category": "科技",
+    "summary": "Several Hollywood celebs are ditching the massive eight-figure checks and exotic movie sets for a rising format: microdramas."
+  },
+  {
+    "title": "The Theragun Sense makes everyday recovery surprisingly easy",
+    "link": "https://techcrunch.com/2026/08/29/the-theragun-sense-makes-everyday-recovery-surprisingly-easy/",
+    "description": "As my 20s are set to come to an end later this year, I’ve officially reached the age where sleeping in the wrong position or stretching just a little too far can cause aches and pains. I’ve always been somewhat skeptical of massage guns, mostly because I’ve tried a few off-brand ones and just assumed [&#8230;]",
+    "pubDate": "Sat, 29 Aug 2026 14:00:00 +0000",
+    "source": "TechCrunch",
+    "category": "科技",
+    "summary": "As my 20s are set to come to an end later this year, I’ve officially reached the age where sleeping in the wrong position or stretching just a little "
+  },
+  {
+    "title": "Nvidia’s AI advantage is moving beyond the GPU",
+    "link": "https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu/",
+    "description": "The new generation of data center systems is increasing efficiency with smarter traffic control instead of just more processor cycles.",
+    "pubDate": "Sat, 29 Aug 2026 13:00:00 +0000",
+    "source": "TechCrunch",
+    "category": "科技",
+    "summary": "The new generation of data center systems is increasing efficiency with smarter traffic control instead of just more processor cycles."
+  },
+  {
+    "title": "I asked 100 companies for my data. Some deleted it instead.",
+    "link": "https://arstechnica.com/tech-policy/2026/08/i-asked-100-companies-for-my-data-some-deleted-it-instead/",
+    "description": "Testing 100 companies found privacy requests often led to confusion and dead ends.",
+    "pubDate": "Sat, 29 Aug 2026 10:50:31 +0000",
+    "source": "Ars Technica",
+    "category": "科技",
+    "summary": "Testing 100 companies found privacy requests often led to confusion and dead ends."
+  },
+  {
+    "title": "At least 37 dead and hundreds evacuated after strike on Kyiv weapons depot",
+    "link": "https://www.bbc.co.uk/news/articles/c86xwqez4npo?at_medium=RSS&at_campaign=rss",
+    "description": "An investigation has begun into the storage of weapons for Ukraine's military near a residential area.",
+    "pubDate": "Sat, 29 Aug 2026 20:13:16 GMT",
+    "source": "BBC News",
+    "category": "综合",
+    "summary": "An investigation has begun into the storage of weapons for Ukraine's military near a residential area."
+  },
+  {
+    "title": "Cleverly quits shadow cabinet to run for London mayor",
+    "link": "https://www.bbc.co.uk/news/articles/c5ye8p8xpg4o?at_medium=RSS&at_campaign=rss",
+    "description": "The capital is not set to vote on a new mayor until 2028.",
+    "pubDate": "Sat, 29 Aug 2026 16:24:39 GMT",
+    "source": "BBC News",
+    "category": "综合",
+    "summary": "The capital is not set to vote on a new mayor until 2028."
+  },
+  {
+    "title": "Norway's new king remembers 'my dear father' in first speech",
+    "link": "https://www.bbc.co.uk/news/articles/cvgy79wmv4jo?at_medium=RSS&at_campaign=rss",
+    "description": "Haakon VIII pays emotional tribute to his late father, Harald V, before outlining how he wishes to reign.",
+    "pubDate": "Sat, 29 Aug 2026 19:06:28 GMT",
+    "source": "BBC News",
+    "category": "综合",
+    "summary": "Haakon VIII pays emotional tribute to his late father, Harald V, before outlining how he wishes to reign."
+  },
+  {
+    "title": "Sarah Ferguson expected back in the UK 'shortly', source says",
+    "link": "https://www.bbc.co.uk/news/articles/ce8xn9ge6xeo?at_medium=RSS&at_campaign=rss",
+    "description": "The former Duchess of York is renting a six-bed house in the Home Counties, reports say.",
+    "pubDate": "Sat, 29 Aug 2026 10:43:25 GMT",
+    "source": "BBC News",
+    "category": "综合",
+    "summary": "The former Duchess of York is renting a six-bed house in the Home Counties, reports say."
+  },
+  {
+    "title": "Vessel in distress with five people onboard in Channel",
+    "link": "https://www.bbc.co.uk/news/articles/czeznrgyd1go?at_medium=RSS&at_campaign=rss",
+    "description": "A vessel with five people on board is \"in distress\" in the English Channel, the coastguard says.",
+    "pubDate": "Sat, 29 Aug 2026 20:44:49 GMT",
+    "source": "BBC News",
+    "category": "综合",
+    "summary": "A vessel with five people on board is \"in distress\" in the English Channel, the coastguard says."
+  },
+  {
+    "title": "Burnham's summer tour is over - now he has to prove himself in Parliament",
+    "link": "https://www.bbc.co.uk/news/articles/cvgy48r1nr4o?at_medium=RSS&at_campaign=rss",
+    "description": "The imminent return of Parliament will put the new prime minister under real scrutiny, with MPs finally getting a chance to grill him.",
+    "pubDate": "Sat, 29 Aug 2026 10:31:18 GMT",
+    "source": "BBC News",
+    "category": "综合",
+    "summary": "The imminent return of Parliament will put the new prime minister under real scrutiny, with MPs finally getting a chance to grill him."
+  },
+  {
+    "title": "Man dies after train hits van on level crossing",
+    "link": "https://www.bbc.co.uk/news/articles/clylkwl5nd4o?at_medium=RSS&at_campaign=rss",
+    "description": "British Transport Police said a man who was in a van died at the scene, in Burscough.",
+    "pubDate": "Sat, 29 Aug 2026 18:38:31 GMT",
+    "source": "BBC News",
+    "category": "综合",
+    "summary": "British Transport Police said a man who was in a van died at the scene, in Burscough."
+  },
+  {
+    "title": "Christian festival 'devastated' as man dies after sign falls",
+    "link": "https://www.bbc.co.uk/news/articles/c158939pz4do?at_medium=RSS&at_campaign=rss",
+    "description": "Police say at least six other people were also injured in the incident at the Big Church Festival.",
+    "pubDate": "Sat, 29 Aug 2026 14:12:30 GMT",
+    "source": "BBC News",
+    "category": "综合",
+    "summary": "Police say at least six other people were also injured in the incident at the Big Church Festival."
+  },
+  {
+    "title": "Right-wing commentator Milo Yiannopoulos deported from US to UK",
+    "link": "https://www.bbc.co.uk/news/articles/cqlw52vr0dwo?at_medium=RSS&at_campaign=rss",
+    "description": "The self-styled provocateur had been detained by Immigration and Customs Enforcement (ICE).",
+    "pubDate": "Sat, 29 Aug 2026 17:52:42 GMT",
+    "source": "BBC News",
+    "category": "综合",
+    "summary": "The self-styled provocateur had been detained by Immigration and Customs Enforcement (ICE)."
+  },
+  {
+    "title": "Normandy veteran who lied about age to enlist dies at 101",
+    "link": "https://www.bbc.co.uk/news/articles/cy5z3e64vpyo?at_medium=RSS&at_campaign=rss",
+    "description": "A veterans' charity says Donald Turrell will be remembered with \"enormous affection and gratitude\".",
+    "pubDate": "Sat, 29 Aug 2026 19:49:08 GMT",
+    "source": "BBC News",
+    "category": "综合",
+    "summary": "A veterans' charity says Donald Turrell will be remembered with \"enormous affection and gratitude\"."
+  },
+  {
+    "title": "Football fans pay tribute to crash death officers at Middlesbrough match",
+    "link": "https://www.bbc.co.uk/news/articles/c5y5727d02xo?at_medium=RSS&at_campaign=rss",
+    "description": "PC Matthew Blades and PC Tom Clough died in a head-on collision on the A66 near Middlesbrough.",
+    "pubDate": "Sat, 29 Aug 2026 15:43:43 GMT",
+    "source": "BBC News",
+    "category": "综合",
+    "summary": "PC Matthew Blades and PC Tom Clough died in a head-on collision on the A66 near Middlesbrough."
+  },
+  {
+    "title": "Murder investigation after man found dead and child seriously injured",
+    "link": "https://www.bbc.co.uk/news/articles/c20vngpg77zo?at_medium=RSS&at_campaign=rss",
+    "description": "The incident happened in Lisnahull Road in Dungannon, County Tyrone.",
+    "pubDate": "Sat, 29 Aug 2026 15:52:36 GMT",
+    "source": "BBC News",
+    "category": "综合",
+    "summary": "The incident happened in Lisnahull Road in Dungannon, County Tyrone."
+  },
+  {
+    "title": "How to get £2,000 to play computer games at university",
+    "link": "https://www.bbc.co.uk/news/articles/cz647wlvg1do?at_medium=RSS&at_campaign=rss",
+    "description": "Roehampton University offers students a year;y scholarship to play esports alongside their studies.",
+    "pubDate": "Sun, 23 Aug 2026 23:23:55 GMT",
+    "source": "BBC News",
+    "category": "综合",
+    "summary": "Roehampton University offers students a year;y scholarship to play esports alongside their studies."
+  },
+  {
+    "title": "Man tracks down siblings who sent him Christmas present as he fled war 33 years ago",
+    "link": "https://www.bbc.co.uk/news/articles/c3w08px9v6do?at_medium=RSS&at_campaign=rss",
+    "description": "Dalibor Sentic was 10 when in the early 1990s his family fled Croatia for Sweden.",
+    "pubDate": "Fri, 21 Aug 2026 21:31:03 GMT",
+    "source": "BBC News",
+    "category": "综合",
+    "summary": "Dalibor Sentic was 10 when in the early 1990s his family fled Croatia for Sweden."
+  },
+  {
+    "title": "'Keep walking': 100-year-old still does mile a day",
+    "link": "https://www.bbc.co.uk/news/articles/cdj0v1dr8pxo?at_medium=RSS&at_campaign=rss",
+    "description": "Peter Byers says he walks into Pocklington town centre \"to make sure people know I'm still alive\".",
+    "pubDate": "Fri, 21 Aug 2026 05:02:44 GMT",
+    "source": "BBC News",
+    "category": "综合",
+    "summary": "Peter Byers says he walks into Pocklington town centre \"to make sure people know I'm still alive\"."
+  },
+  {
+    "title": "How a seaside town realised it needed public loos",
+    "link": "https://www.bbc.co.uk/news/articles/c2el8kkz1xxo?at_medium=RSS&at_campaign=rss",
+    "description": "Eastbourne Borough Council did not install the first public toilets for ladies until 1900.",
+    "pubDate": "Sun, 23 Aug 2026 06:19:23 GMT",
+    "source": "BBC News",
+    "category": "综合",
+    "summary": "Eastbourne Borough Council did not install the first public toilets for ladies until 1900."
+  },
+  {
+    "title": "Canada tests the limits of Trump’s power",
+    "link": "https://www.bbc.co.uk/sounds/play/live:bbc_world_service_news_internet?at_medium=RSS&at_campaign=rss",
+    "description": "And, America says goodbye to musical icon Dolly Parton.",
+    "pubDate": "Wed, 26 Aug 2026 17:14:00 GMT",
+    "source": "BBC News",
+    "category": "综合",
+    "summary": "And, America says goodbye to musical icon Dolly Parton."
+  },
+  {
+    "title": "Itauma punches himself out against Hrgovic in world-title fight",
+    "link": "https://www.bbc.co.uk/sport/boxing/articles/cpd0n46we13o?at_medium=RSS&at_campaign=rss",
+    "description": "Filip Hrgovic shatters Moses Itauma's world-title dream as the Briton appears to punch himself out in an extraordinary heavyweight world-title contest in London.",
+    "pubDate": "Sat, 29 Aug 2026 22:53:29 GMT",
+    "source": "BBC News",
+    "category": "综合",
+    "summary": "Filip Hrgovic shatters Moses Itauma's world-title dream as the Briton appears to punch himself out in an extraordinary heavyweight world-title contest"
+  },
+  {
+    "title": "Man City open talks with Liverpool over Gakpo",
+    "link": "https://www.bbc.co.uk/sport/football/articles/c39m0z4m2mpo?at_medium=RSS&at_campaign=rss",
+    "description": "The Netherlands forward has also attracted interest from Tottenham, but sources indicate Manchester City is his preferred destination if he leaves Anfield.",
+    "pubDate": "Sat, 29 Aug 2026 20:17:18 GMT",
+    "source": "BBC News",
+    "category": "综合",
+    "summary": "The Netherlands forward has also attracted interest from Tottenham, but sources indicate Manchester City is his preferred destination if he leaves Anf"
+  },
+  {
+    "title": "£300m spent, bottom of the table... but Spurs boss De Zerbi 'not angry'",
+    "link": "https://www.bbc.co.uk/sport/football/articles/clyqn158n5jo?at_medium=RSS&at_campaign=rss",
+    "description": "Having spent more than £300m in the summer, Tottenham find themselves bottom of the Premier League, without a point or a goal, but boss Roberto de Zerbi remains optimistic.",
+    "pubDate": "Sat, 29 Aug 2026 21:15:46 GMT",
+    "source": "BBC News",
+    "category": "综合",
+    "summary": "Having spent more than £300m in the summer, Tottenham find themselves bottom of the Premier League, without a point or a goal, but boss Roberto de Zer"
+  },
+  {
+    "title": "Decision to curtail play at Lord's 'a joke' - Hussain",
+    "link": "https://www.bbc.co.uk/sport/cricket/articles/c1l6njn2vm8o?at_medium=RSS&at_campaign=rss",
+    "description": "The decision to abandon play an hour early after a rain-hit third day of England’s second Test against Pakistan is criticised by former captain Nasser Hussain and fans.",
+    "pubDate": "Sat, 29 Aug 2026 19:31:13 GMT",
+    "source": "BBC News",
+    "category": "综合",
+    "summary": "The decision to abandon play an hour early after a rain-hit third day of England’s second Test against Pakistan is criticised by former captain Nasser"
+  },
+  {
+    "title": "'Supporters aren't always wrong' - Moyes on Everton fans' anger",
+    "link": "https://www.bbc.co.uk/sport/football/articles/cy7zk5vprplo?at_medium=RSS&at_campaign=rss",
+    "description": "David Moyes says \"supporters aren't always wrong\" after Everton fans voice their opposition to the potential sale of teenage midfielder Harrison Armstrong during the 1-1 draw at Bournemouth.",
+    "pubDate": "Sat, 29 Aug 2026 18:59:28 GMT",
+    "source": "BBC News",
+    "category": "综合",
+    "summary": "David Moyes says \"supporters aren't always wrong\" after Everton fans voice their opposition to the potential sale of teenage midfielder Harrison Armst"
+  },
+  {
+    "title": "GB's Fery beaten in his first ATP Tour final",
+    "link": "https://www.bbc.co.uk/sport/tennis/articles/cnvl3m06j6po?at_medium=RSS&at_campaign=rss",
+    "description": "Arthur Fery misses out on his first ATP Tour title with a straight-set defeat by Ignacio Buse in the final of the Winston-Salem Open.",
+    "pubDate": "Sat, 29 Aug 2026 21:49:05 GMT",
+    "source": "BBC News",
+    "category": "综合",
+    "summary": "Arthur Fery misses out on his first ATP Tour title with a straight-set defeat by Ignacio Buse in the final of the Winston-Salem Open."
+  },
+  {
+    "title": "Was it a mistake for 99 Colombian guerrillas to lay down their arms?",
+    "link": "https://www.theguardian.com/world/2026/aug/29/former-guerrillas-colombia-fate-new-president",
+    "description": "Fighters in legal limbo after accepting ‘total peace’ plan of Petro government just days before hardliner Abelardo De la Espriella took overIn mid-June, 99 guerrilla fighters were flown by helicopter to a small settlement in a rural area of southern Colombia where they lined up and, one by one, handed their weapons to government officials: rifles, pistols, machine guns and grenade launchers.They also stripped off their heavy tactical vests, field packs and camouflage uniforms, which were each pi",
+    "pubDate": "Sat, 29 Aug 2026 10:00:24 GMT",
+    "source": "卫报",
+    "category": "综合",
+    "summary": "Fighters in legal limbo after accepting ‘total peace’ plan of Petro government just days before hardliner Abelardo De la Espriella took overIn mid-Jun"
+  },
+  {
+    "title": "One Nation claims victory on Secret Harbour byelection in Western Australia",
+    "link": "https://www.theguardian.com/australia-news/2026/aug/30/one-nation-claims-victory-on-secret-harbour-byelection-in-western-australia",
+    "description": "One Nation candidate Luke Herdegen secures 57% of the vote after preferences as party’s WA leader says result will send shock waves across the countryOne Nation has claimed victory in the Secret Harbour state byelection in Western AustraliaWith 74.5% of the vote counted, One Nation’s Luke Herdegen leads Labor’s Georgia Tree 57-42 after preferences. Continue reading...",
+    "pubDate": "Sat, 29 Aug 2026 22:29:43 GMT",
+    "source": "卫报",
+    "category": "综合",
+    "summary": "One Nation candidate Luke Herdegen secures 57% of the vote after preferences as party’s WA leader says result will send shock waves across the country"
+  },
+  {
+    "title": "August reveals Australians’ big appetite for weight-loss drugs, love for ‘dupe’ brands and an accelerating EV uptake",
+    "link": "https://www.theguardian.com/business/2026/aug/30/australians-buying-less-pizza-more-weight-loss-drugs-consumer-report",
+    "description": "Reporting season shows how consumers are responding to cost of living pressures and how retailers are respondingGet our breaking news email, free app or daily news podcastAustralians are buying less pizza but more weight-loss drugs. They love “dupes” but don’t enjoy writing letters.Here are five key takeaways from the August reporting season that show what consumers are buying as cost of living pressures reignite, and how retailers are responding. Continue reading...",
+    "pubDate": "Sat, 29 Aug 2026 20:00:38 GMT",
+    "source": "卫报",
+    "category": "综合",
+    "summary": "Reporting season shows how consumers are responding to cost of living pressures and how retailers are respondingGet our breaking news email, free app "
+  },
+  {
+    "title": "Statins can safely cut risk of heart attacks or strokes in healthy people aged over 70, world-first clinical trial shows",
+    "link": "https://www.theguardian.com/australia-news/2026/aug/29/statins-reduce-risk-heart-attack-stroke-over-70s-clinical-trial",
+    "description": "Australian-led trial finds low risk of side effects from common cholesterol-lowering medication for otherwise healthy older peopleTaking a common cholesterol-lowering medication can reduce the risk of a heart attack or stroke for people aged over 70, with a low risk of serious side effects, a world-first clinical trial led by Australian researchers has found.Statins are already commonly prescribed to people under the age of 75 who meet certain risk criteria, such as having diabetes and high chol",
+    "pubDate": "Sat, 29 Aug 2026 06:25:19 GMT",
+    "source": "卫报",
+    "category": "综合",
+    "summary": "Australian-led trial finds low risk of side effects from common cholesterol-lowering medication for otherwise healthy older peopleTaking a common chol"
+  },
+  {
+    "title": "Plug-in solar panels could save households up to $370 a year – if Australia made them legal as in the UK",
+    "link": "https://www.theguardian.com/environment/2026/aug/29/plug-in-solar-panels-could-save-households-370-a-year-and-experts-say-australia-should-copy-the-uk-in-legalising-them",
+    "description": "A plug-in solar kit that costs about $1,000 ‘pays for itself in three years’, one expert saysGet our breaking news email, free app or daily news podcastMillions of Australians could be saving up to $370 a year on energy bills and doing their bit for the climate crisis if Labor followed the UK’s lead in legalising plug-in solar panels, an advocacy group has said.Plug-in solar refers to small standalone solar units that could be attached to balconies or used in back yards and plugged into power po",
+    "pubDate": "Sat, 29 Aug 2026 05:13:27 GMT",
+    "source": "卫报",
+    "category": "综合",
+    "summary": "A plug-in solar kit that costs about $1,000 ‘pays for itself in three years’, one expert saysGet our breaking news email, free app or daily news podca"
+  },
+  {
+    "title": "What we know about the Australians missing in the Nepal floods",
+    "link": "https://www.theguardian.com/australia-news/2026/aug/29/what-we-know-about-the-australians-missing-in-the-nepal-floods",
+    "description": "More than 40 Australians are among several thousand people unaccounted for after catastrophic flooding on the Nepal-Tibet borderHow the deadly Nepal and Tibet flash flood unfolded – a visual guideGet our breaking news email, free app or daily news podcastAn 11-year-old child, an ADF member and many other pilgrims and trekkers have been named among the Australians missing after deadly flash floods and landslides tore through valleys on the Nepal-Tibet border.As of Saturday there were 41 Australia",
+    "pubDate": "Sat, 29 Aug 2026 03:54:59 GMT",
+    "source": "卫报",
+    "category": "综合",
+    "summary": "More than 40 Australians are among several thousand people unaccounted for after catastrophic flooding on the Nepal-Tibet borderHow the deadly Nepal a"
+  },
+  {
+    "title": "Royal Navy spent three days tracking Russian vessels in UK waters",
+    "link": "https://www.theguardian.com/uk-news/2026/aug/29/royal-navy-tracking-russian-vessels-uk-waters-channel-north-sea",
+    "description": "Three vessels and a helicopter deployed to monitor four ships travelling through the North Sea to the ChannelThe Royal Navy spent three days tracking Russian vessels as they passed through UK waters, it has emerged.The “intense” 72-hour operation took place last week, with radars used to monitor four ships that made their way from the North Sea through to the Channel. Continue reading...",
+    "pubDate": "Sat, 29 Aug 2026 15:06:07 GMT",
+    "source": "卫报",
+    "category": "综合",
+    "summary": "Three vessels and a helicopter deployed to monitor four ships travelling through the North Sea to the ChannelThe Royal Navy spent three days tracking "
+  },
+  {
+    "title": "Russian drone strike on Kyiv warehouse storing weapons kills at least 37",
+    "link": "https://www.theguardian.com/world/2026/aug/29/russian-strike-warehouse-near-kyiv-kills-at-least-37",
+    "description": "Ukrainian prosecutors open investigation into why munitions were stored so close to residential buildingsAt least 37 people have been killed after a Russian drone struck a warehouse near Kyiv’s western suburbs that was storing “explosive objects”.The attack damaged at least 50 residential buildings, including a care home for elderly and disabled people, and sparked a huge fire and explosions in the Bucha district of the Kyiv region. The regional governor, Tymur Tkachenko, said a further 42 peopl",
+    "pubDate": "Sat, 29 Aug 2026 13:34:02 GMT",
+    "source": "卫报",
+    "category": "综合",
+    "summary": "Ukrainian prosecutors open investigation into why munitions were stored so close to residential buildingsAt least 37 people have been killed after a R"
+  },
+  {
+    "title": "Laurie Anderson’s next manuscript to be locked away for 88 years in Future Library",
+    "link": "https://www.theguardian.com/books/2026/aug/29/laurie-anderson-manuscript-88-years-future-library-oslo",
+    "description": "Grammy award-winning American artist selected as 13th person to submit written work to Oslo-based projectThe next manuscript by the American artist Laurie Anderson will remain unseen for 88 years, as she becomes the 13th figure to contribute to the Future Library project.Anderson joins Margaret Atwood, Han Kang, Ocean Vuong and other prominent authors who have written secret manuscripts, which have been locked away until 2114. Continue reading...",
+    "pubDate": "Sat, 29 Aug 2026 12:00:26 GMT",
+    "source": "卫报",
+    "category": "综合",
+    "summary": "Grammy award-winning American artist selected as 13th person to submit written work to Oslo-based projectThe next manuscript by the American artist La"
+  },
+  {
+    "title": "‘Winter panic’: EU gas stores at their lowest level in 13 years",
+    "link": "https://www.theguardian.com/business/2026/aug/29/european-gas-stores-lowest-13-years-eu-price",
+    "description": "As one of Europe’s biggest consumers of gas the UK may be particularly exposed to heightened price volatilityEurope is on course to enter the cooler months with gas stores at their lowest level in 13 years, which has triggered “winter panic” among energy traders, experts have warned.The EU’s gas stocks were 63% full in the last week of August, well below the 80% average for late August over recent years and among the lowest levels ever recorded for this time of year. Continue reading...",
+    "pubDate": "Sat, 29 Aug 2026 05:00:19 GMT",
+    "source": "卫报",
+    "category": "综合",
+    "summary": "As one of Europe’s biggest consumers of gas the UK may be particularly exposed to heightened price volatilityEurope is on course to enter the cooler m"
+  },
+  {
+    "title": "Ireland will be united, says Gordon Brown",
+    "link": "https://www.theguardian.com/uk-news/2026/aug/29/ireland-will-be-united-says-gordon-brown",
+    "description": "Former PM believes Northern Ireland will leave UK in the long term – but remains opposed to Scottish independence‘I don’t want to be a backseat driver’: Gordon Brown on Burnham, billionaires – and his vision for a better BritainThe former prime minister Gordon Brown has said it is inevitable that Ireland will become united at some point in the future, in a wide-ranging interview with the Guardian.While he added that any union would necessarily be “a long process” and based on mutual agreement, B",
+    "pubDate": "Sat, 29 Aug 2026 05:00:18 GMT",
+    "source": "卫报",
+    "category": "综合",
+    "summary": "Former PM believes Northern Ireland will leave UK in the long term – but remains opposed to Scottish independence‘I don’t want to be a backseat driver"
+  },
+  {
+    "title": "Palestinian woman and NBC News team reportedly attacked in West Bank",
+    "link": "https://www.theguardian.com/world/2026/aug/29/nbc-news-team-attacked-west-bank",
+    "description": "Matt Bradley and crew assaulted while interviewing woman who said settlers had driven family out of homeA Palestinian woman and an NBC News team are reported to have been attacked and injured by masked Israeli settlers in the Israeli-occupied West Bank on Saturday, amid worsening confrontations in the area.Benjamin Netanyahu said he condemned the violence committed “by a handful of rioters”. Continue reading...",
+    "pubDate": "Sat, 29 Aug 2026 21:55:08 GMT",
+    "source": "卫报",
+    "category": "综合",
+    "summary": "Matt Bradley and crew assaulted while interviewing woman who said settlers had driven family out of homeA Palestinian woman and an NBC News team are r"
+  },
+  {
+    "title": "Nepal-Tibet floods: Nepal calls for technical support for rescue efforts as number of missing rises to nearly 3,000 – as it happened",
+    "link": "https://www.theguardian.com/world/live/2026/aug/29/nepal-tibet-floods-latest-updates-death-toll-missing-search-and-rescue",
+    "description": "This blog is now closed.‘The flood took everything I have’: survivors grieve for relatives and homes swept away in NepalChinese rescuers find ‘nothing but ruins’ at border crossing as Nepal seeks help to ID and store the deadOutside the army camp in the Nuwakot district of Nepal, people run their fingers down the sheets of paper pinned to the wall, scanning the growing list of those reported missing for news of loved ones. Nepali authorities said nearly 3,000 people are missing, while China repo",
+    "pubDate": "Sat, 29 Aug 2026 22:27:09 GMT",
+    "source": "卫报",
+    "category": "综合",
+    "summary": "This blog is now closed.‘The flood took everything I have’: survivors grieve for relatives and homes swept away in NepalChinese rescuers find ‘nothing"
+  },
+  {
+    "title": "Daughter traces mother and aunt’s last known location in Nepal through TikTok video",
+    "link": "https://www.theguardian.com/world/2026/aug/29/daughter-traces-mother-and-aunts-last-known-location-in-nepal-through-tiktok-video",
+    "description": "Tulshi Patel says mother Hemangini Jitendra Patel and aunt Hema Sunil Amin were last seen at Friendship Bridge on Nepal-China border• Nepal-Tibet flash flood – latest updatesThe daughter of a woman missing in Nepal has told how she traced her mother’s location through a TikTok video posted hours before the devastating flash flood hit.The catastrophic flash floods that hit Nepal and Tibet on Wednesday, thundering down valleys and sweeping away entire villages, have killed at least 675 people, whi",
+    "pubDate": "Sat, 29 Aug 2026 17:01:46 GMT",
+    "source": "卫报",
+    "category": "综合",
+    "summary": "Tulshi Patel says mother Hemangini Jitendra Patel and aunt Hema Sunil Amin were last seen at Friendship Bridge on Nepal-China border• Nepal-Tibet flas"
+  },
+  {
+    "title": "Number of missing in Nepal and Tibet rises to nearly 3,000 as operations continue",
+    "link": "https://www.theguardian.com/world/2026/aug/29/nepal-tibet-chinese-rescue-team-finds-nothing-but-ruins-after-reaching-border-crossing-hit-by-deadly-flood",
+    "description": "Nepal requests foreign ⁠help in identification and storing of bodies, DNA testing and rescuing people from tunnelsVisual guide: how the deadly flooding unfoldedNepal-Tibet flash flood – latest updatesThe number of people killed in the floods in Nepal has risen to at least 675, the country’s disaster authority has said.Seven have also been confirmed dead in Tibet by Chinese state media, taking the total killed when a glacial collapse unleashed a deadly torrent through river systems in the Himalay",
+    "pubDate": "Sat, 29 Aug 2026 15:00:37 GMT",
+    "source": "卫报",
+    "category": "综合",
+    "summary": "Nepal requests foreign ⁠help in identification and storing of bodies, DNA testing and rescuing people from tunnelsVisual guide: how the deadly floodin"
+  },
+  {
+    "title": "‘Their whole village has disappeared’: frantic hunt for survivors in Kathmandu hospital",
+    "link": "https://www.theguardian.com/world/2026/aug/29/nepal-flood-missing-kathmandu-hospital",
+    "description": "Family members pin photos of Nepal’s missing to hospital wall as people try not to give up hope on loved onesNepal-Tibet flash flood – latest updatesPosters of missing people line the wall of the hospital, the glue still fresh beneath. A schoolgirl smiling in her uniform; a beaming, chubby-cheeked baby; a couple smiling on their wedding day; a young man, hands on hips, atop a mountain peak; a young girl with flowing hair, peaking out from behind a door.These faces are just a fraction of the thou",
+    "pubDate": "Sat, 29 Aug 2026 14:11:10 GMT",
+    "source": "卫报",
+    "category": "综合",
+    "summary": "Family members pin photos of Nepal’s missing to hospital wall as people try not to give up hope on loved onesNepal-Tibet flash flood – latest updatesP"
+  },
+  {
+    "title": "Far-right media provocateur Milo Yiannopoulos deported by ICE from US to UK",
+    "link": "https://www.theguardian.com/us-news/2026/aug/29/milo-yiannopoulos-deported-us-to-uk",
+    "description": "Ex-Breitbart editor has vocally supported immediate deportations for anyone who can’t prove US residencyFar-right British media provocateur Milo Yiannopoulos has been deported from the US after being detained on Thursday by Immigration and Customs Enforcement (ICE) in New Orleans in connection with what the agency said was expired authorization to be in the country and a deportation order.Yiannopoulos’s deportation to the UK occurred on Friday, said a statement on Saturday from a spokesperson fo",
+    "pubDate": "Sat, 29 Aug 2026 17:08:43 GMT",
+    "source": "卫报",
+    "category": "综合",
+    "summary": "Ex-Breitbart editor has vocally supported immediate deportations for anyone who can’t prove US residencyFar-right British media provocateur Milo Yiann"
+  },
+  {
+    "title": "James Cleverly resigns from shadow cabinet to run for mayor of London",
+    "link": "https://www.theguardian.com/politics/2026/aug/29/james-cleverly-resigns-conservative-shadow-cabinet-london-mayor",
+    "description": "Shadow minister for housing, communities and local government to resign with immediate effectJames Cleverly has resigned from the shadow cabinet to run for mayor of London.The Tory heavyweight, who was once home and foreign secretary and is shadow minister for housing, communities and local government, told the Sunday Times he will resign with immediate effect. Continue reading...",
+    "pubDate": "Sat, 29 Aug 2026 16:24:45 GMT",
+    "source": "卫报",
+    "category": "综合",
+    "summary": "Shadow minister for housing, communities and local government to resign with immediate effectJames Cleverly has resigned from the shadow cabinet to ru"
+  },
+  {
+    "title": "Sarah Ferguson to return to UK after relocating amid Epstein revelations",
+    "link": "https://www.theguardian.com/uk-news/2026/aug/29/sarah-ferguson-relocation-uk-jeffrey-epstein",
+    "description": "Former Duchess of York moved to Swiss chalet during fallout over her friendship with convicted child sex offenderSarah Ferguson will return to the UK after relocating to a Swiss chalet amid the fallout over the friendship between her and her ex-husband, Andrew Mountbatten-Windsor, and the convicted child sex offender Jeffrey Epstein, according to reports.The pair were stripped of their royal titles in October over the scandal of their relationship with Epstein. According to the Sun, the former D",
+    "pubDate": "Sat, 29 Aug 2026 14:32:34 GMT",
+    "source": "卫报",
+    "category": "综合",
+    "summary": "Former Duchess of York moved to Swiss chalet during fallout over her friendship with convicted child sex offenderSarah Ferguson will return to the UK "
+  },
+  {
+    "title": "Cells for arrested offenders may run out without early prison release, says Labour",
+    "link": "https://www.theguardian.com/society/2026/aug/29/cells-for-arrested-offenders-may-run-out-without-early-prison-release-says-labour",
+    "description": "Bridget Phillipson says government would not have to consider releasing prisoners early if Tories had created more capacityCells to hold newly arrested people could run out without the early prison release scheme, a minister has said.Bridget Phillipson defended the plan to address the prison capacity crisis in England and Wales by releasing thousands of prisoners early, which has been criticised by domestic abuse charities, bereaved families and probation officers among others. Continue reading.",
+    "pubDate": "Sat, 29 Aug 2026 13:25:12 GMT",
+    "source": "卫报",
+    "category": "综合",
+    "summary": "Bridget Phillipson says government would not have to consider releasing prisoners early if Tories had created more capacityCells to hold newly arreste"
+  },
+  {
+    "title": "Fourth time lucky as Chris Cantrill’s spoof whodunnit wins Edinburgh comedy award 2026",
+    "link": "https://www.theguardian.com/stage/2026/aug/29/chris-cantrill-edinburgh-comedy-award-2026",
+    "description": "Nominated in three previous years, the rambunctious standup – one half of The Delightful Sausage – wins the prize for his show Rewilding while Marty Gleeson is named best newcomerThe annual Edinburgh comedy award has been won by the standup Chris Cantrill, two years after his comedy partner Amy Gledhill – in the raucous northern double act The Delightful Sausage – won the same prize.Cantrill, 42 and from Bradford, received the so-called “Oscar of live comedy” for a show, Rewilding, about his new",
+    "pubDate": "Sat, 29 Aug 2026 12:50:21 GMT",
+    "source": "卫报",
+    "category": "综合",
+    "summary": "Nominated in three previous years, the rambunctious standup – one half of The Delightful Sausage – wins the prize for his show Rewilding while Marty G"
+  },
+  {
+    "title": "Tennessee governor says he backs airport name change to honor Dolly Parton",
+    "link": "https://www.theguardian.com/music/2026/aug/29/tennessee-dolly-parton-airport-name-change",
+    "description": "Bill Lee says he favors proposal to rename Nashville’s international airport after legendary country singerBill Lee, the Tennessee governor, on Friday said he favored a proposal to rename Nashville’s international airport after legendary country singer Dolly Parton, who died three days earlier at age 80.In a statement, Lee said he and the managers of the airport in Tennessee’s capital city – where Parton resided – wanted to create “a lasting tribute to her indelible legacy and the generations of",
+    "pubDate": "Sat, 29 Aug 2026 19:57:55 GMT",
+    "source": "卫报",
+    "category": "综合",
+    "summary": "Bill Lee says he favors proposal to rename Nashville’s international airport after legendary country singerBill Lee, the Tennessee governor, on Friday"
+  },
+  {
+    "title": "LAPD releases footage of death of man whom police handcuffed and beat",
+    "link": "https://www.theguardian.com/us-news/2026/aug/29/jose-carlos-hoyoz-munoz-los-angeles-police-death",
+    "description": "Jose Carlos Hoyoz-Munoz was arrested after a family altercation and restrained for ‘combative’ behaviorA cadre of Los Angeles police officers beat and restrained a handcuffed man in July, minutes before he was found dead in a jail cell, according to newly released body-cam footage.On 15 July, Jose Carlos Hoyoz-Munoz, 58, was found unconscious in his cell at the Van Nuys regional jail. At the time, the LAPD said two use-of-force incidents had occurred, without specifying the nature. In the video ",
+    "pubDate": "Sat, 29 Aug 2026 19:52:38 GMT",
+    "source": "卫报",
+    "category": "综合",
+    "summary": "Jose Carlos Hoyoz-Munoz was arrested after a family altercation and restrained for ‘combative’ behaviorA cadre of Los Angeles police officers beat and"
+  },
+  {
+    "title": "Artemis II astronauts receive nation's highest space honor for their successful moonshot",
+    "link": "https://www.theguardian.com/science/2026/aug/29/artemis-ii-astronauts-congressional-space-medal-of-honor",
+    "description": "Reid Wiseman, Victor Glover, Christina Koch and Jeremy Hansen receive Congressional Space Medal of HonorThe Artemis II astronauts who flew around the moon in April received the US’s highest space honor on Friday.Donald Trump presented the Congressional Space Medal of Honor to the three Americans and one Canadian whose lunar flyby for the US space agency Nasa set a new distance record for humanity. Continue reading...",
+    "pubDate": "Sat, 29 Aug 2026 16:03:37 GMT",
+    "source": "卫报",
+    "category": "综合",
+    "summary": "Reid Wiseman, Victor Glover, Christina Koch and Jeremy Hansen receive Congressional Space Medal of HonorThe Artemis II astronauts who flew around the "
+  },
+  {
+    "title": "Michigan Senate candidate Mike Rogers says he saw Bin Laden’s body with his ‘own eyes’. He did not",
+    "link": "https://www.theguardian.com/us-news/2026/aug/29/michigan-senate-candidate-mike-rogers-osama-bin-laden",
+    "description": "Ex-House intel committee chair, now running against Abdul El-Sayed, instead saw photo of Osama bin Laden’s bodyIn a recent fundraising email, the Republican candidate for Michigan’s open US Senate seat, former congressman Mike Rogers, appeared to mislead supporters about his past by suggesting that he had played an active role in the killing of Osama bin Laden, the leader of al-Qaida who was shot and killed in an American military raid on his compound in Pakistan in 2011.“When I served as a US a",
+    "pubDate": "Sat, 29 Aug 2026 15:07:53 GMT",
+    "source": "卫报",
+    "category": "综合",
+    "summary": "Ex-House intel committee chair, now running against Abdul El-Sayed, instead saw photo of Osama bin Laden’s bodyIn a recent fundraising email, the Repu"
+  },
+  {
+    "title": "FBI no longer banning all applicants who have had sexual encounters with sex workers",
+    "link": "https://www.theguardian.com/us-news/2026/aug/29/fbi-apllicants-sex-workers",
+    "description": "Bureau to still dismiss those with encounters within past 10 years, three or more times or while in public safety capacityThe FBI is dropping a categorical hiring ban on applicants who have had sexual encounters with sex workers and will instead consider in a more holistic manner at least some candidates who have engaged in the practice in the past, according to people familiar with the matter.The move away from an automatic disqualification falls along a continuum of evolving recruitment standa",
+    "pubDate": "Sat, 29 Aug 2026 14:17:26 GMT",
+    "source": "卫报",
+    "category": "综合",
+    "summary": "Bureau to still dismiss those with encounters within past 10 years, three or more times or while in public safety capacityThe FBI is dropping a catego"
   }
 ]
