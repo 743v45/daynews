@@ -1267,5 +1267,977 @@
     "source": "卫报",
     "category": "综合",
     "summary": "Naegleria fowleri is commonly found in warm freshwater, and if it enters through the nose, can cause brain damageA North Carolina teenager has died af"
+  },
+  {
+    "title": "Show HN: Weedout – Safari extension that hides YouTube AI-labeled videos",
+    "link": "https://masteranza.github.io/weedout/",
+    "description": "I'm the developer. I built this because AI-generated conspiracy videos were getting out of control in my own YouTube feed. Weedout is a $1.99 Safari extension for macOS that removes videos YouTube labels “Made with AI” from feed, search, related videos, playlists and Shorts. It uses YouTube's label rather than AI detection, runs locally, and does not catch unlabeled videos.Source for developers who want to fork or build: https://github.com/masteranza/weedout-for-youtubePull requests are not acce",
+    "pubDate": "Tue, 01 Sep 2026 22:06:57 +0000",
+    "source": "Hacker News",
+    "category": "科技",
+    "summary": "I'm the developer. I built this because AI-generated conspiracy videos were getting out of control in my own YouTube feed. Weedout is a $1.99 Safari e"
+  },
+  {
+    "title": "Fluorescent lamps (don't) have ears",
+    "link": "https://blog.coredump.cx/p/fluorescent-lamps-dont-have-ears",
+    "description": "Article URL: https://blog.coredump.cx/p/fluorescent-lamps-dont-have-ears\nComments URL: https://news.ycombinator.com/item?id=49528366\nPoints: 11\n# Comments: 1",
+    "pubDate": "Tue, 01 Sep 2026 21:19:10 +0000",
+    "source": "Hacker News",
+    "category": "科技",
+    "summary": "Article URL: https://blog.coredump.cx/p/fluorescent-lamps-dont-have-ears\nComments URL: https://news.ycombinator.com/item?id=49528366\nPoints: 11\n# Comm"
+  },
+  {
+    "title": "Show HN: HN Match Maker – Matching \"Who Wants to Be Hired?\" With \"Who's Hiring?\"",
+    "link": "https://hnmatchmaker.com/",
+    "description": "Hi!Every month the \"Who Wants to Be Hired?\" and \"Who's Hiring?\" Threads come through I would think to myself, \"there should be a match maker for these two threads\".So I had abacus.ai whip one up. The methodology is pretty simple, data is extracted from posts using an LLM, score matches based on salary, domain experience, remote/onsite, etc., and then eliminate incompatible postings, like 'looking for remote work' and 'onsite only'. The result is two views: jobs-by-user and user-by-jobs.If you've",
+    "pubDate": "Tue, 01 Sep 2026 20:53:35 +0000",
+    "source": "Hacker News",
+    "category": "科技",
+    "summary": "Hi!Every month the \"Who Wants to Be Hired?\" and \"Who's Hiring?\" Threads come through I would think to myself, \"there should be a match maker for these"
+  },
+  {
+    "title": "Dyson CameraJet electric toothbrush",
+    "link": "https://www.dyson.com/oral-care/electric-toothbrush/camerajet/ceramic-ultra-blue",
+    "description": "Article URL: https://www.dyson.com/oral-care/electric-toothbrush/camerajet/ceramic-ultra-blue\nComments URL: https://news.ycombinator.com/item?id=49527879\nPoints: 79\n# Comments: 86",
+    "pubDate": "Tue, 01 Sep 2026 20:39:19 +0000",
+    "source": "Hacker News",
+    "category": "科技",
+    "summary": "Article URL: https://www.dyson.com/oral-care/electric-toothbrush/camerajet/ceramic-ultra-blue\nComments URL: https://news.ycombinator.com/item?id=49527"
+  },
+  {
+    "title": "Hang on to Your Firefox",
+    "link": "https://www.newsonaut.com/articles/hang-on-to-your-firefox",
+    "description": "Article URL: https://www.newsonaut.com/articles/hang-on-to-your-firefox\nComments URL: https://news.ycombinator.com/item?id=49527748\nPoints: 42\n# Comments: 21",
+    "pubDate": "Tue, 01 Sep 2026 20:30:51 +0000",
+    "source": "Hacker News",
+    "category": "科技",
+    "summary": "Article URL: https://www.newsonaut.com/articles/hang-on-to-your-firefox\nComments URL: https://news.ycombinator.com/item?id=49527748\nPoints: 42\n# Comme"
+  },
+  {
+    "title": "Path to Astra: critical capabilities and frontier safeguards",
+    "link": "https://openai.com/index/path-to-astra/",
+    "description": "Article URL: https://openai.com/index/path-to-astra/\nComments URL: https://news.ycombinator.com/item?id=49527595\nPoints: 56\n# Comments: 16",
+    "pubDate": "Tue, 01 Sep 2026 20:20:41 +0000",
+    "source": "Hacker News",
+    "category": "科技",
+    "summary": "Article URL: https://openai.com/index/path-to-astra/\nComments URL: https://news.ycombinator.com/item?id=49527595\nPoints: 56\n# Comments: 16"
+  },
+  {
+    "title": "Apple reveals 'shocking evidence' from ex-employee's MacBook in OpenAI suit",
+    "link": "https://9to5mac.com/2026/08/31/apple-openai-forensic-macbook-evidence/",
+    "description": "Article URL: https://9to5mac.com/2026/08/31/apple-openai-forensic-macbook-evidence/\nComments URL: https://news.ycombinator.com/item?id=49527573\nPoints: 119\n# Comments: 59",
+    "pubDate": "Tue, 01 Sep 2026 20:19:11 +0000",
+    "source": "Hacker News",
+    "category": "科技",
+    "summary": "Article URL: https://9to5mac.com/2026/08/31/apple-openai-forensic-macbook-evidence/\nComments URL: https://news.ycombinator.com/item?id=49527573\nPoints"
+  },
+  {
+    "title": "The ChatGPT/Codex app bundles a full copy of LibreOffice",
+    "link": "https://simonwillison.net/2026/Sep/1/codex-libreoffice/",
+    "description": "Article URL: https://simonwillison.net/2026/Sep/1/codex-libreoffice/\nComments URL: https://news.ycombinator.com/item?id=49527396\nPoints: 171\n# Comments: 91",
+    "pubDate": "Tue, 01 Sep 2026 20:07:57 +0000",
+    "source": "Hacker News",
+    "category": "科技",
+    "summary": "Article URL: https://simonwillison.net/2026/Sep/1/codex-libreoffice/\nComments URL: https://news.ycombinator.com/item?id=49527396\nPoints: 171\n# Comment"
+  },
+  {
+    "title": "Refurbishing a Tektronix TDS7104 Oscilloscope",
+    "link": "https://tomverbeure.github.io/2026/08/23/Tektronix-TDS7104-Refurbishing.html",
+    "description": "Article URL: https://tomverbeure.github.io/2026/08/23/Tektronix-TDS7104-Refurbishing.html\nComments URL: https://news.ycombinator.com/item?id=49527232\nPoints: 54\n# Comments: 24",
+    "pubDate": "Tue, 01 Sep 2026 19:55:47 +0000",
+    "source": "Hacker News",
+    "category": "科技",
+    "summary": "Article URL: https://tomverbeure.github.io/2026/08/23/Tektronix-TDS7104-Refurbishing.html\nComments URL: https://news.ycombinator.com/item?id=49527232\n"
+  },
+  {
+    "title": "How accurate have Ed Zitron's AI skeptic predictions been?",
+    "link": "https://danluu.com/zitron/",
+    "description": "Article URL: https://danluu.com/zitron/\nComments URL: https://news.ycombinator.com/item?id=49526069\nPoints: 251\n# Comments: 291",
+    "pubDate": "Tue, 01 Sep 2026 18:35:15 +0000",
+    "source": "Hacker News",
+    "category": "科技",
+    "summary": "Article URL: https://danluu.com/zitron/\nComments URL: https://news.ycombinator.com/item?id=49526069\nPoints: 251\n# Comments: 291"
+  },
+  {
+    "title": "Claude Fable 5.1 and Claude Mythos 5.1",
+    "link": "https://www.anthropic.com/claude-fable-and-mythos-5-1",
+    "description": "What's new in Claude Fable 5.1\n – https://platform.claude.com/docs/en/models/fable-5-1/whats-n...System Card: https://www-cdn.anthropic.com/0339e6a7c5c7b87f5c07798616dc32...\n\nComments URL: https://news.ycombinator.com/item?id=49525378\nPoints: 782\n# Comments: 745",
+    "pubDate": "Tue, 01 Sep 2026 17:53:53 +0000",
+    "source": "Hacker News",
+    "category": "科技",
+    "summary": "What's new in Claude Fable 5.1\n – https://platform.claude.com/docs/en/models/fable-5-1/whats-n...System Card: https://www-cdn.anthropic.com/0339e6a7c5"
+  },
+  {
+    "title": "The creator of Jujutsu has joined ERSC",
+    "link": "https://ersc.io/blog/martin-joins-ersc",
+    "description": "Article URL: https://ersc.io/blog/martin-joins-ersc\nComments URL: https://news.ycombinator.com/item?id=49525297\nPoints: 153\n# Comments: 119",
+    "pubDate": "Tue, 01 Sep 2026 17:46:21 +0000",
+    "source": "Hacker News",
+    "category": "科技",
+    "summary": "Article URL: https://ersc.io/blog/martin-joins-ersc\nComments URL: https://news.ycombinator.com/item?id=49525297\nPoints: 153\n# Comments: 119"
+  },
+  {
+    "title": "Atlas: A World Model for Spatial Intelligence",
+    "link": "https://www.worldlabs.ai/blog/atlas",
+    "description": "Article URL: https://www.worldlabs.ai/blog/atlas\nComments URL: https://news.ycombinator.com/item?id=49525160\nPoints: 112\n# Comments: 23",
+    "pubDate": "Tue, 01 Sep 2026 17:36:02 +0000",
+    "source": "Hacker News",
+    "category": "科技",
+    "summary": "Article URL: https://www.worldlabs.ai/blog/atlas\nComments URL: https://news.ycombinator.com/item?id=49525160\nPoints: 112\n# Comments: 23"
+  },
+  {
+    "title": "Launch HN: Nori Robotics (YC S26) – A low-cost humanoid robot for development",
+    "link": "https://www.norirobotics.com/",
+    "description": "Hey HN, I’m Antonio from Nori Robotics (https://norirobotics.com). We build a $1,688 bimanual mobile robot in San Francisco for robotics developers and researchers.I started working on Nori while doing robotics research at Columbia. I was teaching robots through human demonstrations, but getting my hands on affordable hardware was difficult. Most labs have one or two expensive robots, which makes it hard to collect large datasets, run long experiments, or test across several robots.So I built my",
+    "pubDate": "Tue, 01 Sep 2026 17:35:10 +0000",
+    "source": "Hacker News",
+    "category": "科技",
+    "summary": "Hey HN, I’m Antonio from Nori Robotics (https://norirobotics.com). We build a $1,688 bimanual mobile robot in San Francisco for robotics developers an"
+  },
+  {
+    "title": "Quill (YC W20) Is Hiring a Fullstack SWE",
+    "link": "https://news.ycombinator.com/item?id=49524704",
+    "description": "Comments URL: https://news.ycombinator.com/item?id=49524704\nPoints: 0\n# Comments: 0",
+    "pubDate": "Tue, 01 Sep 2026 17:00:14 +0000",
+    "source": "Hacker News",
+    "category": "科技",
+    "summary": "Comments URL: https://news.ycombinator.com/item?id=49524704\nPoints: 0\n# Comments: 0"
+  },
+  {
+    "title": "Show HN: Newton's Orchard – Browser-based space/gravity playground",
+    "link": "https://newtonsorchard.app",
+    "description": "Hi HN!My son spent a lot of time in 5th grade playing with the 2-dimensional PhET gravity/space sims[1]. His STEM class uses it, and he was playing with it at home, and has been looking for more. I found several space sims/playgrounds online, including NASA's Eyes on the Solar System[2], but nothing that seemed to offer a real progression from what he was getting out of the PhET sims, so I built Newton's Orchard over the summer for him.https://newtonsorchard.appThe source is also published at ht",
+    "pubDate": "Tue, 01 Sep 2026 16:43:40 +0000",
+    "source": "Hacker News",
+    "category": "科技",
+    "summary": "Hi HN!My son spent a lot of time in 5th grade playing with the 2-dimensional PhET gravity/space sims[1]. His STEM class uses it, and he was playing wi"
+  },
+  {
+    "title": "Show HN: Running 104GB Qwen3.8-Flash-Next on 48GB Mac with at ~12 tok/s",
+    "link": "https://github.com/carloslfu/slotstream",
+    "description": "I built slotstream, a way to run Qwen3.8-Flash-Next 4-bit on a low-memory mac starting from 16GB, a 125B parameter model that would need 100GB+ memory/RAM, thanks to expert-offloading/ssd-streaming. Easy to install/update, and mac-native using MLX and Swift.It ships with auto-mode, which makes a good tradeoff between memory usage and speed. I'll be implementing and porting the MTP module for speculative decoding next\n\nComments URL: https://news.ycombinator.com/item?id=49524447\nPoints: 122\n# Comm",
+    "pubDate": "Tue, 01 Sep 2026 16:42:46 +0000",
+    "source": "Hacker News",
+    "category": "科技",
+    "summary": "I built slotstream, a way to run Qwen3.8-Flash-Next 4-bit on a low-memory mac starting from 16GB, a 125B parameter model that would need 100GB+ memory"
+  },
+  {
+    "title": "Movie Scene Map – 13,312 films, series, games, anime and manga",
+    "link": "https://moviescenemap.com/",
+    "description": "Article URL: https://moviescenemap.com/\nComments URL: https://news.ycombinator.com/item?id=49524320\nPoints: 128\n# Comments: 28",
+    "pubDate": "Tue, 01 Sep 2026 16:34:45 +0000",
+    "source": "Hacker News",
+    "category": "科技",
+    "summary": "Article URL: https://moviescenemap.com/\nComments URL: https://news.ycombinator.com/item?id=49524320\nPoints: 128\n# Comments: 28"
+  },
+  {
+    "title": "Play Store blocks AuroraStore, hurting GrapheneOS users",
+    "link": "https://gitlab.com/AuroraOSS/AuroraStore/-/work_items/1566",
+    "description": "Article URL: https://gitlab.com/AuroraOSS/AuroraStore/-/work_items/1566\nComments URL: https://news.ycombinator.com/item?id=49523754\nPoints: 438\n# Comments: 179",
+    "pubDate": "Tue, 01 Sep 2026 15:55:53 +0000",
+    "source": "Hacker News",
+    "category": "科技",
+    "summary": "Article URL: https://gitlab.com/AuroraOSS/AuroraStore/-/work_items/1566\nComments URL: https://news.ycombinator.com/item?id=49523754\nPoints: 438\n# Comm"
+  },
+  {
+    "title": "Ambient CSS v3 – Blender meets CSS",
+    "link": "https://ambientcss.vercel.app/",
+    "description": "Article URL: https://ambientcss.vercel.app/\nComments URL: https://news.ycombinator.com/item?id=49523387\nPoints: 169\n# Comments: 64",
+    "pubDate": "Tue, 01 Sep 2026 15:35:11 +0000",
+    "source": "Hacker News",
+    "category": "科技",
+    "summary": "Article URL: https://ambientcss.vercel.app/\nComments URL: https://news.ycombinator.com/item?id=49523387\nPoints: 169\n# Comments: 64"
+  },
+  {
+    "title": "Apple follows Google in adopting Trump’s ‘Lake America’ name",
+    "link": "https://techcrunch.com/2026/09/01/apple-follows-google-in-adopting-trumps-lake-america-name/",
+    "description": "Apple Maps is following President Trump's executive order to change the name of Lake Ontario to Lake America.",
+    "pubDate": "Tue, 01 Sep 2026 22:13:34 +0000",
+    "source": "TechCrunch",
+    "category": "科技",
+    "summary": "Apple Maps is following President Trump's executive order to change the name of Lake Ontario to Lake America."
+  },
+  {
+    "title": "AfterQuery reportedly becomes Y Combinator&#8217;s fastest-ever unicorn, now valued at $3.2B",
+    "link": "https://techcrunch.com/2026/09/01/afterquery-reportedly-becomes-y-combinators-fastest-ever-unicorn-now-valued-at-3-2b/",
+    "description": "AI model-training startup AfterQuery has reportedly raised a round that valued it at $3.2 billion, just five months after announcing its $30 million Series A at a $300 million valuation in April.",
+    "pubDate": "Tue, 01 Sep 2026 22:08:24 +0000",
+    "source": "TechCrunch",
+    "category": "科技",
+    "summary": "AI model-training startup AfterQuery has reportedly raised a round that valued it at $3.2 billion, just five months after announcing its $30 million S"
+  },
+  {
+    "title": "Open AI&#8217;s Astra model is on the way — and very good at breaking into computer systems",
+    "link": "https://techcrunch.com/2026/09/01/open-ais-astra-model-is-on-the-way-and-very-good-at-breaking-into-computer-systems/",
+    "description": "OpenAI previewed the precautions it is taking as it prepares to release Astra, its newest, cyber-critical LLM.",
+    "pubDate": "Tue, 01 Sep 2026 21:06:24 +0000",
+    "source": "TechCrunch",
+    "category": "科技",
+    "summary": "OpenAI previewed the precautions it is taking as it prepares to release Astra, its newest, cyber-critical LLM."
+  },
+  {
+    "title": "Google&#8217;s Android update tackles motion sickness, accessibility, and more",
+    "link": "https://techcrunch.com/2026/09/01/googles-android-update-tackles-motion-sickness-accessibility-and-more/",
+    "description": "While some of the features see Google playing catch-up to Apple, which already offers similar features for iPhone users, others specifically leverage Gemini to provide various improvements.",
+    "pubDate": "Tue, 01 Sep 2026 20:53:05 +0000",
+    "source": "TechCrunch",
+    "category": "科技",
+    "summary": "While some of the features see Google playing catch-up to Apple, which already offers similar features for iPhone users, others specifically leverage "
+  },
+  {
+    "title": "X says attackers are targeting user accounts after the launch of X Money",
+    "link": "https://techcrunch.com/2026/09/01/x-says-attackers-are-targeting-accounts-after-the-launch-of-x-money/",
+    "description": "X is investigating a wave of unsolicited password reset emails that it believes may be tied to the rollout of its new payments service.",
+    "pubDate": "Tue, 01 Sep 2026 20:48:32 +0000",
+    "source": "TechCrunch",
+    "category": "科技",
+    "summary": "X is investigating a wave of unsolicited password reset emails that it believes may be tied to the rollout of its new payments service."
+  },
+  {
+    "title": "John Ternus hypes &#8216;huge launch next week&#8217; in first memo as Apple CEO",
+    "link": "https://techcrunch.com/2026/09/01/john-ternus-hypes-huge-launch-next-week-in-first-memo-as-apple-ceo/",
+    "description": "Apple is hosting its iPhone release event next week, which is rumored to feature the first-ever foldable iPhone.",
+    "pubDate": "Tue, 01 Sep 2026 19:45:28 +0000",
+    "source": "TechCrunch",
+    "category": "科技",
+    "summary": "Apple is hosting its iPhone release event next week, which is rumored to feature the first-ever foldable iPhone."
+  },
+  {
+    "title": "Anthropic&#8217;s new Fable release is cheaper, less restrictive",
+    "link": "https://techcrunch.com/2026/09/01/anthropics-new-fable-release-is-cheaper-less-restrictive/",
+    "description": "Fable 5.1 includes changes meant to reduce token cost and false-positive restrictions from the model's safeguards.",
+    "pubDate": "Tue, 01 Sep 2026 19:39:22 +0000",
+    "source": "TechCrunch",
+    "category": "科技",
+    "summary": "Fable 5.1 includes changes meant to reduce token cost and false-positive restrictions from the model's safeguards."
+  },
+  {
+    "title": "Thrive&#8217;s Kushner defends involvement in FIFA mess, hires Elon&#8217;s go-to lawyer",
+    "link": "https://techcrunch.com/2026/09/01/thrives-kushner-defends-involvement-in-fifa-mess-hires-elons-go-to-lawyer/",
+    "description": "New York's prestigious-yet-secretive venture firm Thrive Capital finally speaks out about its involvement in the messy drama upending international soccer.",
+    "pubDate": "Tue, 01 Sep 2026 19:30:24 +0000",
+    "source": "TechCrunch",
+    "category": "科技",
+    "summary": "New York's prestigious-yet-secretive venture firm Thrive Capital finally speaks out about its involvement in the messy drama upending international so"
+  },
+  {
+    "title": "Who is John Ternus, the new Apple CEO?",
+    "link": "https://techcrunch.com/2026/09/01/who-is-john-ternus-the-incoming-apple-ceo/",
+    "description": "Starting on September 1, Ternus will lead one of the world's most valuable companies, but if you're not a dedicated Apple enthusiast, you've probably never heard of this man, who has largely remained out of the spotlight until now.",
+    "pubDate": "Tue, 01 Sep 2026 18:02:00 +0000",
+    "source": "TechCrunch",
+    "category": "科技",
+    "summary": "Starting on September 1, Ternus will lead one of the world's most valuable companies, but if you're not a dedicated Apple enthusiast, you've probably "
+  },
+  {
+    "title": "Google&#8217;s answer to Canva is an AI tool where you prompt instead of design",
+    "link": "https://techcrunch.com/2026/09/01/googles-answer-to-canva-is-an-ai-tool-where-you-prompt-instead-of-design/",
+    "description": "With Google Pics, Google is pushing deeper into the creative software market dominated by Canva and Adobe, but with a distinctly AI-first approach.",
+    "pubDate": "Tue, 01 Sep 2026 17:35:37 +0000",
+    "source": "TechCrunch",
+    "category": "科技",
+    "summary": "With Google Pics, Google is pushing deeper into the creative software market dominated by Canva and Adobe, but with a distinctly AI-first approach."
+  },
+  {
+    "title": "ChatGPT Health adds Epic integration for clinicians to import patient data",
+    "link": "https://techcrunch.com/2026/09/01/chatgpt-health-adds-epic-integration-for-clinicians-to-import-patient-data/",
+    "description": "OpenAI said that the integration provides read-only access to health records for clinicians.",
+    "pubDate": "Tue, 01 Sep 2026 17:00:00 +0000",
+    "source": "TechCrunch",
+    "category": "科技",
+    "summary": "OpenAI said that the integration provides read-only access to health records for clinicians."
+  },
+  {
+    "title": "Waymo goes on offense ahead of Tesla&#8217;s Cybercab launch",
+    "link": "https://techcrunch.com/2026/09/01/waymo-goes-on-offense-ahead-of-teslas-cybercab-launch/",
+    "description": "Waymo argued that fully autonomous vehicles aren't possible without using a mix of sensors and warned that pure end-to-end AI systems aren't safe enough.",
+    "pubDate": "Tue, 01 Sep 2026 16:49:12 +0000",
+    "source": "TechCrunch",
+    "category": "科技",
+    "summary": "Waymo argued that fully autonomous vehicles aren't possible without using a mix of sensors and warned that pure end-to-end AI systems aren't safe enou"
+  },
+  {
+    "title": "Sequoia-incubated Empirik launches with $21M to predict outages before they happen",
+    "link": "https://techcrunch.com/2026/09/01/sequoia-incubated-empirik-launches-with-21m-to-predict-outages-before-they-happen/",
+    "description": "The startup wants to do for IT infrastructure what Cursor did for software engineering.",
+    "pubDate": "Tue, 01 Sep 2026 16:31:04 +0000",
+    "source": "TechCrunch",
+    "category": "科技",
+    "summary": "The startup wants to do for IT infrastructure what Cursor did for software engineering."
+  },
+  {
+    "title": "GoPro to be acquired for $285M, will remain a public company",
+    "link": "https://techcrunch.com/2026/09/01/gopro-to-be-acquired-for-285m-will-remain-a-public-company/",
+    "description": "GoPro is merging with a company that builds AI infrastructure, and will continue supporting existing consumer products.",
+    "pubDate": "Tue, 01 Sep 2026 15:57:23 +0000",
+    "source": "TechCrunch",
+    "category": "科技",
+    "summary": "GoPro is merging with a company that builds AI infrastructure, and will continue supporting existing consumer products."
+  },
+  {
+    "title": "Amazon Alexa can now alert you when something new might tempt you to shop",
+    "link": "https://techcrunch.com/2026/09/01/amazon-alexa-can-now-alert-you-when-something-new-might-tempt-you-to-shop/",
+    "description": "Amazon is adding a new Alexa-powered feature called “Update Me When” that can send personalized alerts about product launches, tours, books, shows, and other events that could trigger a purchase.",
+    "pubDate": "Tue, 01 Sep 2026 15:51:55 +0000",
+    "source": "TechCrunch",
+    "category": "科技",
+    "summary": "Amazon is adding a new Alexa-powered feature called “Update Me When” that can send personalized alerts about product launches, tours, books, shows, an"
+  },
+  {
+    "title": "AIR raises $50M to help companies vet the skills and add-ons AI agents use",
+    "link": "https://techcrunch.com/2026/09/01/air-raises-50m-to-help-companies-vet-the-skills-and-add-ons-ai-agents-use/",
+    "description": "AIR's platform can discover agents running at a company, continuously vets any skills and add-ons they use, and blocks any unwanted behavior.",
+    "pubDate": "Tue, 01 Sep 2026 15:45:51 +0000",
+    "source": "TechCrunch",
+    "category": "科技",
+    "summary": "AIR's platform can discover agents running at a company, continuously vets any skills and add-ons they use, and blocks any unwanted behavior."
+  },
+  {
+    "title": "Microsoft 365 outage drags on, but things are improving",
+    "link": "https://techcrunch.com/2026/09/01/microsoft-365-outage-drags-on-but-things-are-improving/",
+    "description": "Microsoft 365 and Outlook are still seeing service degradations on Tuesday, the company's status page indicates.",
+    "pubDate": "Tue, 01 Sep 2026 15:23:15 +0000",
+    "source": "TechCrunch",
+    "category": "科技",
+    "summary": "Microsoft 365 and Outlook are still seeing service degradations on Tuesday, the company's status page indicates."
+  },
+  {
+    "title": "Fambot introduces an &#8216;AI chief of staff&#8217; for families",
+    "link": "https://techcrunch.com/2026/09/01/fambot-introduces-an-ai-chief-of-staff-for-families/",
+    "description": "Fambot is building an AI “chief of staff” to help families manage the emails, calendars, school updates, sports schedules, and other logistics of raising kids.",
+    "pubDate": "Tue, 01 Sep 2026 15:10:58 +0000",
+    "source": "TechCrunch",
+    "category": "科技",
+    "summary": "Fambot is building an AI “chief of staff” to help families manage the emails, calendars, school updates, sports schedules, and other logistics of rais"
+  },
+  {
+    "title": "Florida and Texas move to block Flock cameras over privacy concerns",
+    "link": "https://techcrunch.com/2026/09/01/florida-and-texas-move-to-block-flock-cameras-over-privacy-concerns/",
+    "description": "Flock's searchable network of 130,000 license plate cameras around the U.S. have sparked bipartisan privacy and civil liberties concerns.",
+    "pubDate": "Tue, 01 Sep 2026 15:00:10 +0000",
+    "source": "TechCrunch",
+    "category": "科技",
+    "summary": "Flock's searchable network of 130,000 license plate cameras around the U.S. have sparked bipartisan privacy and civil liberties concerns."
+  },
+  {
+    "title": "This startup is fuel-injecting hydrogen to make cargo ships more efficient",
+    "link": "https://techcrunch.com/2026/09/01/this-startup-is-fuel-injecting-hydrogen-to-make-cargo-ships-more-efficient/",
+    "description": "Newlight has raised a $9 million seed round and completed an 8,500-nautical-mile test run from Singapore to Ghana.",
+    "pubDate": "Tue, 01 Sep 2026 14:52:12 +0000",
+    "source": "TechCrunch",
+    "category": "科技",
+    "summary": "Newlight has raised a $9 million seed round and completed an 8,500-nautical-mile test run from Singapore to Ghana."
+  },
+  {
+    "title": "CDC reported then deleted two measles deaths that were questioned by RFK Jr.",
+    "link": "https://arstechnica.com/health/2026/09/cdc-reported-then-deleted-two-measles-deaths-that-were-questioned-by-rfk-jr/",
+    "description": "Historically, state health departments determine cases and deaths, not the CDC.",
+    "pubDate": "Tue, 01 Sep 2026 18:21:16 +0000",
+    "source": "Ars Technica",
+    "category": "科技",
+    "summary": "Historically, state health departments determine cases and deaths, not the CDC."
+  },
+  {
+    "title": "New Android Drop adds remembered items in Find Hub, makes anti-nausea dots official",
+    "link": "https://arstechnica.com/gadgets/2026/09/latest-android-drop-connects-gemini-to-find-hub-adds-keep-notes-and-themes-to-messages/",
+    "description": "New features are rolling out across the Android ecosystem starting today.",
+    "pubDate": "Tue, 01 Sep 2026 18:00:02 +0000",
+    "source": "Ars Technica",
+    "category": "科技",
+    "summary": "New features are rolling out across the Android ecosystem starting today."
+  },
+  {
+    "title": "FTC alleges Amazon illegally made $20 billion by rigging billions of ad auctions",
+    "link": "https://arstechnica.com/tech-policy/2026/09/ftc-alleges-amazon-illegally-made-20-billion-by-rigging-billions-of-ad-auctions/",
+    "description": "FTC says firm replaces actual ad-auction results \"with higher prices set by Amazon.\"",
+    "pubDate": "Tue, 01 Sep 2026 17:51:17 +0000",
+    "source": "Ars Technica",
+    "category": "科技",
+    "summary": "FTC says firm replaces actual ad-auction results \"with higher prices set by Amazon.\""
+  },
+  {
+    "title": "This is what a supercar was like a century ago",
+    "link": "https://arstechnica.com/cars/2026/09/this-is-what-a-supercar-was-like-a-century-ago/",
+    "description": "When the average car could only do 40 mph, this Bentley could break 100.",
+    "pubDate": "Tue, 01 Sep 2026 17:34:16 +0000",
+    "source": "Ars Technica",
+    "category": "科技",
+    "summary": "When the average car could only do 40 mph, this Bentley could break 100."
+  },
+  {
+    "title": "It turns out that Orion's much-maligned heat shield performed really well",
+    "link": "https://arstechnica.com/space/2026/09/it-turns-out-that-orions-much-maligned-heat-shield-performed-really-well/",
+    "description": "Independent safety officials also have high praise for changes by NASA leadership.",
+    "pubDate": "Tue, 01 Sep 2026 14:46:28 +0000",
+    "source": "Ars Technica",
+    "category": "科技",
+    "summary": "Independent safety officials also have high praise for changes by NASA leadership."
+  },
+  {
+    "title": "Without new landers or rovers, it's helicopters or bust for NASA's Mars program",
+    "link": "https://arstechnica.com/space/2026/09/without-new-landers-or-rovers-its-helicopters-or-bust-for-nasas-mars-program/",
+    "description": "NASA's cost estimate for SR-1 Freedom is $2.1 billion, but that doesn't include the helicopters.",
+    "pubDate": "Tue, 01 Sep 2026 11:00:35 +0000",
+    "source": "Ars Technica",
+    "category": "科技",
+    "summary": "NASA's cost estimate for SR-1 Freedom is $2.1 billion, but that doesn't include the helicopters."
+  },
+  {
+    "title": "Private group wants to launch \"cheapest possible\" mission to Alpha Centauri",
+    "link": "https://arstechnica.com/space/2026/09/private-group-wants-to-launch-cheapest-possible-mission-to-alpha-centauri/",
+    "description": "\"We could really be facing the great filter.\"",
+    "pubDate": "Tue, 01 Sep 2026 10:00:33 +0000",
+    "source": "Ars Technica",
+    "category": "科技",
+    "summary": "\"We could really be facing the great filter.\""
+  },
+  {
+    "title": "Burnham promises more devolution and public control of essential services",
+    "link": "https://www.bbc.co.uk/news/articles/cx2z528rdp6o?at_medium=RSS&at_campaign=rss",
+    "description": "Tory leader Kemi Badenoch said Burnham was offering \"more government control, more taxes and more politicians\", as he addressed MPs for the first time as PM.",
+    "pubDate": "Tue, 01 Sep 2026 21:48:44 GMT",
+    "source": "BBC News",
+    "category": "综合",
+    "summary": "Tory leader Kemi Badenoch said Burnham was offering \"more government control, more taxes and more politicians\", as he addressed MPs for the first time"
+  },
+  {
+    "title": "UK long-term borrowing costs highest since 1998 ahead of October Budget",
+    "link": "https://www.bbc.co.uk/news/articles/c8d39vq779no?at_medium=RSS&at_campaign=rss",
+    "description": "Higher borrowing costs have piled fresh pressure on Andy Burnham ahead of his first Budget.",
+    "pubDate": "Tue, 01 Sep 2026 16:36:42 GMT",
+    "source": "BBC News",
+    "category": "综合",
+    "summary": "Higher borrowing costs have piled fresh pressure on Andy Burnham ahead of his first Budget."
+  },
+  {
+    "title": "Keir Starmer announces he is standing down as MP",
+    "link": "https://www.bbc.co.uk/news/articles/cvgy4258kgyo?at_medium=RSS&at_campaign=rss",
+    "description": "The move will trigger a by-election to replace the former prime minister in his London constituency.",
+    "pubDate": "Tue, 01 Sep 2026 17:04:29 GMT",
+    "source": "BBC News",
+    "category": "综合",
+    "summary": "The move will trigger a by-election to replace the former prime minister in his London constituency."
+  },
+  {
+    "title": "Germany says Russia behind Leipzig airport drone attack",
+    "link": "https://www.bbc.co.uk/news/articles/c5ylm3m67n2o?at_medium=RSS&at_campaign=rss",
+    "description": "A drone carrying an explosive device was discovered at the airport close to Ukrainian cargo planes on 4 August.",
+    "pubDate": "Tue, 01 Sep 2026 21:05:22 GMT",
+    "source": "BBC News",
+    "category": "综合",
+    "summary": "A drone carrying an explosive device was discovered at the airport close to Ukrainian cargo planes on 4 August."
+  },
+  {
+    "title": "US strikes Iran as state media reports four killed at wedding party",
+    "link": "https://www.bbc.co.uk/news/articles/cj06q4ynpmjo?at_medium=RSS&at_campaign=rss",
+    "description": "Iranian news agencies said retaliatory missile and drone attacks on US targets had begun.",
+    "pubDate": "Tue, 01 Sep 2026 21:48:28 GMT",
+    "source": "BBC News",
+    "category": "综合",
+    "summary": "Iranian news agencies said retaliatory missile and drone attacks on US targets had begun."
+  },
+  {
+    "title": "Ariana Grande completes tour and steps back from public life",
+    "link": "https://www.bbc.co.uk/news/articles/c4gj0l34g78o?at_medium=RSS&at_campaign=rss",
+    "description": "The star makes an emotional farewell as she wraps up a tour she's described as her \"last hurrah\".",
+    "pubDate": "Tue, 01 Sep 2026 21:41:05 GMT",
+    "source": "BBC News",
+    "category": "综合",
+    "summary": "The star makes an emotional farewell as she wraps up a tour she's described as her \"last hurrah\"."
+  },
+  {
+    "title": "Baby girl who died at Sheffield house was stabbed, police say",
+    "link": "https://www.bbc.co.uk/news/articles/cdx0n18z8ypo?at_medium=RSS&at_campaign=rss",
+    "description": "A baby girl who was pronounced dead at a property in Sheffield was stabbed, police confirm.",
+    "pubDate": "Tue, 01 Sep 2026 19:42:04 GMT",
+    "source": "BBC News",
+    "category": "综合",
+    "summary": "A baby girl who was pronounced dead at a property in Sheffield was stabbed, police confirm."
+  },
+  {
+    "title": "Israel warns it will retaliate if UK imposes sanctions",
+    "link": "https://www.bbc.co.uk/news/articles/cr7degkkv5go?at_medium=RSS&at_campaign=rss",
+    "description": "The UK's Foreign Secretary Ed Miliband pledged on Tuesday to introduce a \"comprehensive reset\" of policy on Israel.",
+    "pubDate": "Tue, 01 Sep 2026 19:27:38 GMT",
+    "source": "BBC News",
+    "category": "综合",
+    "summary": "The UK's Foreign Secretary Ed Miliband pledged on Tuesday to introduce a \"comprehensive reset\" of policy on Israel."
+  },
+  {
+    "title": "Pistol in lake gives hope for case of British family killed in French Alps",
+    "link": "https://www.bbc.co.uk/news/articles/c74eklrm344o?at_medium=RSS&at_campaign=rss",
+    "description": "Saad al-Hilli was shot dead with his wife and mother-in-law while holidaying in eastern France in September 2012.",
+    "pubDate": "Tue, 01 Sep 2026 16:33:29 GMT",
+    "source": "BBC News",
+    "category": "综合",
+    "summary": "Saad al-Hilli was shot dead with his wife and mother-in-law while holidaying in eastern France in September 2012."
+  },
+  {
+    "title": "Watch: Norway's new king takes oath as mourners pay respects to his late father",
+    "link": "https://www.bbc.co.uk/news/videos/ceq8945e71ro?at_medium=RSS&at_campaign=rss",
+    "description": "Norway's new King takes the first major step of his reign as his father, the late King Harald V, lies in state at the Royal Palace.",
+    "pubDate": "Tue, 01 Sep 2026 14:06:58 GMT",
+    "source": "BBC News",
+    "category": "综合",
+    "summary": "Norway's new King takes the first major step of his reign as his father, the late King Harald V, lies in state at the Royal Palace."
+  },
+  {
+    "title": "'I've never been to Afghanistan': Six million deportees forced to start over under the Taliban",
+    "link": "https://www.bbc.co.uk/news/articles/c2e074nn8eko?at_medium=RSS&at_campaign=rss",
+    "description": "As of August, the number forced to return this year from Pakistan and Iran had reached another million.",
+    "pubDate": "Tue, 01 Sep 2026 05:00:34 GMT",
+    "source": "BBC News",
+    "category": "综合",
+    "summary": "As of August, the number forced to return this year from Pakistan and Iran had reached another million."
+  },
+  {
+    "title": "Remarkable US oil deal puzzles analysts - and angers many Venezuelans",
+    "link": "https://www.bbc.co.uk/news/articles/c93vkgk5e1yo?at_medium=RSS&at_campaign=rss",
+    "description": "Amounting to 65 billion barrels of crude, the deal is labelled by one ex-envoy as a colonialist \"fever dream\".",
+    "pubDate": "Tue, 01 Sep 2026 21:27:29 GMT",
+    "source": "BBC News",
+    "category": "综合",
+    "summary": "Amounting to 65 billion barrels of crude, the deal is labelled by one ex-envoy as a colonialist \"fever dream\"."
+  },
+  {
+    "title": "Five takeaways from Burnham's Commons debut as PM",
+    "link": "https://www.bbc.co.uk/news/articles/c2e0rdkrjw0o?at_medium=RSS&at_campaign=rss",
+    "description": "The prime minister's first appearance in Parliament comes more than six weeks after he entered No 10.",
+    "pubDate": "Tue, 01 Sep 2026 18:17:41 GMT",
+    "source": "BBC News",
+    "category": "综合",
+    "summary": "The prime minister's first appearance in Parliament comes more than six weeks after he entered No 10."
+  },
+  {
+    "title": "Why did Modi urge Putin to end Ukraine war - and will he listen?",
+    "link": "https://www.bbc.co.uk/news/articles/cx2zy3wdqqeo?at_medium=RSS&at_campaign=rss",
+    "description": "BBC correspondents in Delhi and Moscow look at why the Indian PM made a very public peace plea to his Russian ally.",
+    "pubDate": "Tue, 01 Sep 2026 11:55:51 GMT",
+    "source": "BBC News",
+    "category": "综合",
+    "summary": "BBC correspondents in Delhi and Moscow look at why the Indian PM made a very public peace plea to his Russian ally."
+  },
+  {
+    "title": "Could Tupac verdict inspire new efforts to find killer of his rival the Notorious B.I.G.?",
+    "link": "https://www.bbc.co.uk/news/articles/cdx0np90lx4o?at_medium=RSS&at_campaign=rss",
+    "description": "Biggie Smalls was killed months after the murder of his rival Tupac Shakur, both drive-by shootings.",
+    "pubDate": "Tue, 01 Sep 2026 19:25:20 GMT",
+    "source": "BBC News",
+    "category": "综合",
+    "summary": "Biggie Smalls was killed months after the murder of his rival Tupac Shakur, both drive-by shootings."
+  },
+  {
+    "title": "Flood chased me as I ran for 20 minutes, Nepal tunnel worker tells BBC",
+    "link": "https://www.bbc.co.uk/news/articles/cg49590v6k1o?at_medium=RSS&at_campaign=rss",
+    "description": "Major efforts to rescue hydropower workers continue as Nepal's death toll exceeds 1,000.",
+    "pubDate": "Tue, 01 Sep 2026 16:11:18 GMT",
+    "source": "BBC News",
+    "category": "综合",
+    "summary": "Major efforts to rescue hydropower workers continue as Nepal's death toll exceeds 1,000."
+  },
+  {
+    "title": "Sexual assaults happening almost every day in Ceuta, prosecutors say",
+    "link": "https://www.bbc.co.uk/news/articles/c3v4pgk7gweo?at_medium=RSS&at_campaign=rss",
+    "description": "Most migrants have returned to neighbouring Morocco, but as many as 5,000 remain in the Spanish exclave.",
+    "pubDate": "Tue, 01 Sep 2026 15:33:14 GMT",
+    "source": "BBC News",
+    "category": "综合",
+    "summary": "Most migrants have returned to neighbouring Morocco, but as many as 5,000 remain in the Spanish exclave."
+  },
+  {
+    "title": "Fatal crash police get £2m to tackle serious crime",
+    "link": "https://www.bbc.co.uk/news/articles/c24j15d0jj6o?at_medium=RSS&at_campaign=rss",
+    "description": "The home secretary says the money will help support the force in the aftermath of the A66 crash.",
+    "pubDate": "Tue, 01 Sep 2026 20:24:59 GMT",
+    "source": "BBC News",
+    "category": "综合",
+    "summary": "The home secretary says the money will help support the force in the aftermath of the A66 crash."
+  },
+  {
+    "title": "Watch: Astronauts set out on rare all-female spacewalk",
+    "link": "https://www.bbc.co.uk/news/videos/c89jyxqvjq0o?at_medium=RSS&at_campaign=rss",
+    "description": "For the sixth time in history, a team of two women completed a spacewalk outside the International Space Station.",
+    "pubDate": "Tue, 01 Sep 2026 21:08:48 GMT",
+    "source": "BBC News",
+    "category": "综合",
+    "summary": "For the sixth time in history, a team of two women completed a spacewalk outside the International Space Station."
+  },
+  {
+    "title": "Spaces in male prisons fall to lowest level of year, sources say",
+    "link": "https://www.bbc.co.uk/news/articles/ce8ey8kzk3no?at_medium=RSS&at_campaign=rss",
+    "description": "Jails in England and Wales are nearing maximum capacity as the justice secretary prepares to give more details in the Commons on the early-release scheme to free inmates.",
+    "pubDate": "Tue, 01 Sep 2026 20:20:10 GMT",
+    "source": "BBC News",
+    "category": "综合",
+    "summary": "Jails in England and Wales are nearing maximum capacity as the justice secretary prepares to give more details in the Commons on the early-release sch"
+  },
+  {
+    "title": "'We'll find way to save Jodrell Bank,' Burnham says",
+    "link": "https://www.bbc.co.uk/news/articles/cm2qj7jzl7no?at_medium=RSS&at_campaign=rss",
+    "description": "Burnham said \"there is no way that we can see its demise, and it won't happen under my Government\".",
+    "pubDate": "Tue, 01 Sep 2026 19:30:02 GMT",
+    "source": "BBC News",
+    "category": "综合",
+    "summary": "Burnham said \"there is no way that we can see its demise, and it won't happen under my Government\"."
+  },
+  {
+    "title": "Jurors in Lindsay Clancy trial deadlocked but judge asks them to keep trying",
+    "link": "https://www.bbc.co.uk/news/articles/c9qr4gp8qy9o?at_medium=RSS&at_campaign=rss",
+    "description": "The Massachusetts mother is facing murder charges for killing her three children at their family home in 2023.",
+    "pubDate": "Tue, 01 Sep 2026 20:05:23 GMT",
+    "source": "BBC News",
+    "category": "综合",
+    "summary": "The Massachusetts mother is facing murder charges for killing her three children at their family home in 2023."
+  },
+  {
+    "title": "Film adaptation of the hit stage musical, starring Ben Platt",
+    "link": "https://www.bbc.co.uk/iplayer/episode/m00205fr?at_mid=iq4VjoPZWZ&at_campaign=Dear_Evan_Hansen&at_medium=display_ad&at_campaign_type=owned&at_nation=NET&at_audience_id=SS&at_product=iplayer&at_brand=m00205fr&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=Dear_Evan_Hansen&at_bbc_team=BBC",
+    "description": "High school misfit Evan lies to comfort a grieving mother - but will the truth come out?",
+    "pubDate": "Fri, 28 Aug 2026 01:12:47 GMT",
+    "source": "BBC News",
+    "category": "综合",
+    "summary": "High school misfit Evan lies to comfort a grieving mother - but will the truth come out?"
+  },
+  {
+    "title": "Premier League breaks transfer record for second straight summer",
+    "link": "https://www.bbc.co.uk/sport/football/articles/czxzk0znvzeo?at_medium=RSS&at_campaign=rss",
+    "description": "Premier League clubs break their all-time summer transfer record after spending reaches £3.198bn.",
+    "pubDate": "Tue, 01 Sep 2026 20:17:17 GMT",
+    "source": "BBC News",
+    "category": "综合",
+    "summary": "Premier League clubs break their all-time summer transfer record after spending reaches £3.198bn."
+  },
+  {
+    "title": "Camara's £47.1m move from Monaco to Chelsea collapses",
+    "link": "https://www.bbc.co.uk/sport/football/articles/ce8emxm7xmzo?at_medium=RSS&at_campaign=rss",
+    "description": "Lamine Camara is staying at Monaco after the Senegal midfielder's £47.1m move to Chelsea collapses.",
+    "pubDate": "Tue, 01 Sep 2026 22:26:54 GMT",
+    "source": "BBC News",
+    "category": "综合",
+    "summary": "Lamine Camara is staying at Monaco after the Senegal midfielder's £47.1m move to Chelsea collapses."
+  },
+  {
+    "title": "Superb England crush Ireland with record ODI chase",
+    "link": "https://www.bbc.co.uk/sport/cricket/articles/cjdvem7yke9o?at_medium=RSS&at_campaign=rss",
+    "description": "Maia Bouchier's stunning century helps England women seal their record one-day international chase of 282 to beat Ireland in the series opener.",
+    "pubDate": "Tue, 01 Sep 2026 18:57:53 GMT",
+    "source": "BBC News",
+    "category": "综合",
+    "summary": "Maia Bouchier's stunning century helps England women seal their record one-day international chase of 282 to beat Ireland in the series opener."
+  },
+  {
+    "title": "Ndiaye's journey from non-league football to £65m Man City move",
+    "link": "https://www.bbc.co.uk/sport/football/articles/c3wj1qw5x04o?at_medium=RSS&at_campaign=rss",
+    "description": "Manchester City sign winger Iliman Ndiaye from Everton in a deal worth up to £65m.",
+    "pubDate": "Tue, 01 Sep 2026 20:57:48 GMT",
+    "source": "BBC News",
+    "category": "综合",
+    "summary": "Manchester City sign winger Iliman Ndiaye from Everton in a deal worth up to £65m."
+  },
+  {
+    "title": "Rybakina makes winning start in race to number one",
+    "link": "https://www.bbc.co.uk/sport/tennis/articles/c0m3wv4e7vlo?at_medium=RSS&at_campaign=rss",
+    "description": "Elena Rybakina says she is \"motivated\" by the race to become world number one but is simply taking things \"day by day\" after getting her US Open campaign off to a winning start.",
+    "pubDate": "Tue, 01 Sep 2026 21:18:05 GMT",
+    "source": "BBC News",
+    "category": "综合",
+    "summary": "Elena Rybakina says she is \"motivated\" by the race to become world number one but is simply taking things \"day by day\" after getting her US Open campa"
+  },
+  {
+    "title": "Mark Carney tells US to ‘start being serious’ amid escalating trade war",
+    "link": "https://www.theguardian.com/us-news/2026/sep/01/trump-mark-carney-trade-war-canada",
+    "description": "Canadian PM is set to retaliate against tariffs levied by Donald Trump and criticized US officials over insultsUS politics live – latest updatesMark Carney has rebuked Donald Trump’s administration and urged officials in Washington to “start being serious” amid escalating trade tensions between the US and Canada.Days before Canada is due to retaliate against Trump’s sweeping tariffs with its own duties on US goods, the Canadian prime minister criticized US officials for insulting his country. “I",
+    "pubDate": "Tue, 01 Sep 2026 15:48:27 GMT",
+    "source": "卫报",
+    "category": "综合",
+    "summary": "Canadian PM is set to retaliate against tariffs levied by Donald Trump and criticized US officials over insultsUS politics live – latest updatesMark C"
+  },
+  {
+    "title": "MapQuest app reaches No 1 on US Apple list after defying Trump’s Lake Ontario order",
+    "link": "https://www.theguardian.com/us-news/2026/sep/01/mapquest-lake-ontario-trump",
+    "description": "Navigating app surpasses Google and Apple Maps on top-downloaded US chart after posting ‘we’re not changing it’A pioneering online mapping app that defied Donald Trump by refusing to rename Lake Ontario has become the most in-demand navigation tool in the US.MapQuest, which was openly dismissive of the president’s 27 August executive order directing federal agencies to refer to the smallest of the Great Lakes as “Lake America” amid a trade spat with Canada, leapfrogged rivals Google Maps and App",
+    "pubDate": "Tue, 01 Sep 2026 13:49:33 GMT",
+    "source": "卫报",
+    "category": "综合",
+    "summary": "Navigating app surpasses Google and Apple Maps on top-downloaded US chart after posting ‘we’re not changing it’A pioneering online mapping app that de"
+  },
+  {
+    "title": "Echoes of cold war as US accused of meddling in another Brazilian election",
+    "link": "https://www.theguardian.com/world/2026/sep/01/us-trump-rubio-meddling-brazil-election",
+    "description": "Claims that Trump and Rubio are trying to influence result have parallels with CIA intervention 64 years agoThe year was 1962 and the Kennedy administration was desperate to swing Brazil’s congressional elections against its leftwing president, João Goulart, as a way of countering the supposed communist threat sweeping a region the US considered its back yard.Historians say that in the lead-up to the vote, the CIA and the Department of State secretly channelled millions of dollars to opposition ",
+    "pubDate": "Tue, 01 Sep 2026 12:00:57 GMT",
+    "source": "卫报",
+    "category": "综合",
+    "summary": "Claims that Trump and Rubio are trying to influence result have parallels with CIA intervention 64 years agoThe year was 1962 and the Kennedy administ"
+  },
+  {
+    "title": "Trump suggests he is reviewing US support for UK over Falkland Islands",
+    "link": "https://www.theguardian.com/us-news/2026/aug/31/trump-uk-sovereignty-falkland-islands",
+    "description": "Comments signal president prepared to use dispute to push UK to raise defence spending and Nato contributionsDonald Trump has suggested he is reconsidering US support for Britain’s sovereignty over the Falkland Islands, in a move likely to strain the “special relationship” between Washington and London.“I always review every position – that’s just one of many,” the US president told reporters in the White House, in response to a question about whether he was reviewing the US’s position over the ",
+    "pubDate": "Tue, 01 Sep 2026 08:31:35 GMT",
+    "source": "卫报",
+    "category": "综合",
+    "summary": "Comments signal president prepared to use dispute to push UK to raise defence spending and Nato contributionsDonald Trump has suggested he is reconsid"
+  },
+  {
+    "title": "Canada’s ruling Liberals sweep byelections in boost to Mark Carney",
+    "link": "https://www.theguardian.com/world/2026/sep/01/canada-liberals-special-elections-mark-carney",
+    "description": "Three projected victories are a message to US that Carney has support of the Canadian people, says one MPCanada’s ruling Liberal party has swept three byelections, a result that showed voters backing the prime minister, Mark Carney, after his face-off with Donald Trump.The Canadian Press, Canada’s national news agency, projected Liberal victories in Chicoutimi-Le Fjord in Quebec, Beaches-East York in Toronto and North Vancouver-Capilano in British Columbia. Continue reading...",
+    "pubDate": "Tue, 01 Sep 2026 07:42:50 GMT",
+    "source": "卫报",
+    "category": "综合",
+    "summary": "Three projected victories are a message to US that Carney has support of the Canadian people, says one MPCanada’s ruling Liberal party has swept three"
+  },
+  {
+    "title": "Thai resort prepares to host USS Abraham Lincoln sailors after more than 270 days at sea",
+    "link": "https://www.theguardian.com/world/2026/sep/01/thailand-pattaya-uss-abraham-lincoln-sailors-marines",
+    "description": "Security stepped up in Pattaya before arrival of thousands of sailors and marines whose deployment was extended due to US war in IranAuthorities in the Thai resort city of Pattaya have stepped up security as they prepare to welcome thousands of sailors and marines from the USS Abraham Lincoln who have spent more than 270 consecutive days at sea.“About 600 officials will provide security and other necessary assistance,” the provincial governor, Narit Niramaiwong, told AFP. Continue reading...",
+    "pubDate": "Tue, 01 Sep 2026 08:30:51 GMT",
+    "source": "卫报",
+    "category": "综合",
+    "summary": "Security stepped up in Pattaya before arrival of thousands of sailors and marines whose deployment was extended due to US war in IranAuthorities in th"
+  },
+  {
+    "title": "Shein shares slide on fast-fashion retailer’s stock market debut",
+    "link": "https://www.theguardian.com/business/2026/sep/01/shein-shares-slide-fast-fashion-retailer-stock-market-debut-hong-kong",
+    "description": "Hong Kong flotation at $26bn by firm once valued at $100bn follows failure to list in US and UKShares in the fast-fashion brand Shein slumped by as much as 10% as the China-founded company made its long-anticipated trading debut on the Hong Kong stock exchange.The Singapore-headquartered company, once valued at almost $100bn (£74bn), went public on Tuesday pricing shares at HK$48.56, valuing the business at just over $26bn. Continue reading...",
+    "pubDate": "Tue, 01 Sep 2026 07:11:16 GMT",
+    "source": "卫报",
+    "category": "综合",
+    "summary": "Hong Kong flotation at $26bn by firm once valued at $100bn follows failure to list in US and UKShares in the fast-fashion brand Shein slumped by as mu"
+  },
+  {
+    "title": "Kākāpō rising: 90 chicks swell population of the world’s heaviest parrot",
+    "link": "https://www.theguardian.com/world/2026/sep/01/record-breeding-worlds-heaviest-parrot-nz-endangered-kakapo",
+    "description": "Critically endangered New Zealand bird enjoys record breeding season triggered by mass fruiting of native tree, pushing its numbers to 325The population of the world’s heaviest parrot, the kākāpō, has surpassed 300 birds for the first time in 75 years, after a record breeding season triggered by the mass fruiting of a native New Zealand tree.Ninety chicks were officially added to the population of the critically endangered birds on 1 September, pushing the total to 325 – a record high since reco",
+    "pubDate": "Tue, 01 Sep 2026 02:57:21 GMT",
+    "source": "卫报",
+    "category": "综合",
+    "summary": "Critically endangered New Zealand bird enjoys record breeding season triggered by mass fruiting of native tree, pushing its numbers to 325The populati"
+  },
+  {
+    "title": "News live: Five Australians confirmed safe after Nepal-Tibet flooding; Spender backs Contos’s call for opt-in algorithms",
+    "link": "https://www.theguardian.com/australia-news/live/2026/sep/02/anthony-albanese-palau-forum-one-nation-pauline-hanson-channel-contos-ntwnfb",
+    "description": "Follow the day’s news liveGet our breaking news email, free app or daily news podcastCanavan says young boys turning to social media after getting ‘sick and tired of the feminisation’ in schoolsAhead of Chanel Contos’s address to the National Press Club, Matt Canavan has blamed the “feminisation of our curriculum” for the proliferation of algorithms serving up “manosphere” content.They’re sick and tired of the feminisation of our curriculum and the lack of direction and leadership that they’re g",
+    "pubDate": "Tue, 01 Sep 2026 22:34:36 GMT",
+    "source": "卫报",
+    "category": "综合",
+    "summary": "Follow the day’s news liveGet our breaking news email, free app or daily news podcastCanavan says young boys turning to social media after getting ‘si"
+  },
+  {
+    "title": "Relief as Australians missing in Nepal-Tibet flood disaster found alive",
+    "link": "https://www.theguardian.com/world/2026/sep/01/missing-australian-found-alive-nepal-tibet-floods",
+    "description": "Five missing Australians have been found since Tuesday morning, bringing the total citizens unaccounted for to 38Australians missing in the Nepal floods: what we know so farA total of five Australians missing after devastating floods ravaged the Nepal-Tibet border last week have been found.Of the five Australians confirmed safe, one was found in Nepal, one in Tibet, one in China and three outside the crisis-hit area. The total number still missing is 38. Continue reading...",
+    "pubDate": "Tue, 01 Sep 2026 21:40:58 GMT",
+    "source": "卫报",
+    "category": "综合",
+    "summary": "Five missing Australians have been found since Tuesday morning, bringing the total citizens unaccounted for to 38Australians missing in the Nepal floo"
+  },
+  {
+    "title": "Sydney’s beaches enter the drone age to get swimmers back in the water after spate of shark attacks",
+    "link": "https://www.theguardian.com/environment/2026/sep/02/sydneys-beaches-enter-the-drone-age-to-get-swimmers-back-in-the-water-after-spate-of-shark-attacks",
+    "description": "Seventy beaches across New South Wales are part of the $34m dawn-to-dusk drone-monitoring program, which one expert has called ‘the best technology we have at the moment’Follow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podcast“Hey Taha, what’s the visibility like?” shouts a man with a towel slung over his shoulder.“Uh, nice,” says Surf Life Saving New South Wales drone operator Taha Kafil-Hussain. Continue reading...",
+    "pubDate": "Tue, 01 Sep 2026 16:00:07 GMT",
+    "source": "卫报",
+    "category": "综合",
+    "summary": "Seventy beaches across New South Wales are part of the $34m dawn-to-dusk drone-monitoring program, which one expert has called ‘the best technology we"
+  },
+  {
+    "title": "NSW government to resume pill testing at music festivals but rejects calls for wider community rollout",
+    "link": "https://www.theguardian.com/australia-news/2026/sep/02/nsw-government-to-resume-pill-testing-at-music-festivals-but-rejects-calls-for-wider-community-rollout",
+    "description": "Use of sniffer dogs and searches will continue despite health and harm reduction groups arguing they could lead to riskier drug takingFollow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podcastDrug testing will resume at New South Wales music festivals from October, but will not be rolled out into the wider community despite calls from peak health and harm reduction groups, while the controversial use of sniffer dogs and searches will continu",
+    "pubDate": "Tue, 01 Sep 2026 15:00:03 GMT",
+    "source": "卫报",
+    "category": "综合",
+    "summary": "Use of sniffer dogs and searches will continue despite health and harm reduction groups arguing they could lead to riskier drug takingFollow our Austr"
+  },
+  {
+    "title": "House prices could fall 10%, analysts predict, as fourth interest rate hike looms",
+    "link": "https://www.theguardian.com/australia-news/2026/sep/02/property-house-prices-drop-sydney-melbourne-brisbane-perth-adelaide-interest-rates",
+    "description": "Cotality data reveals property prices are now falling in more than 90% of Australian suburbs, while economists expect market downturn to continueFollow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podcastThe prospect of the steepest property market downturn in history will not stop the Reserve Bank from delivering a fourth interest rate hike as it battles to bring inflation back under control, economists say.New data from Cotality revealed ho",
+    "pubDate": "Tue, 01 Sep 2026 15:00:02 GMT",
+    "source": "卫报",
+    "category": "综合",
+    "summary": "Cotality data reveals property prices are now falling in more than 90% of Australian suburbs, while economists expect market downturn to continueFollo"
+  },
+  {
+    "title": "Dozens arrested after fatal pre-dawn shootout in Dutch village",
+    "link": "https://www.theguardian.com/world/2026/sep/01/dozens-arrested-after-fatal-pre-dawn-shootout-in-dutch-village",
+    "description": "Police urged people in Overasselt to stay indoors after one person died and 34 were arrestedAuthorities have arrested 34 people, including French, Belgian and Algerian nationals, after a person died in a pre-dawn shootout in a Dutch village reportedly linked to a notorious drug lord.Police urged people in Overasselt, near the German border, to stay indoors with doors and windows shut in case further suspects were on the loose. Continue reading...",
+    "pubDate": "Tue, 01 Sep 2026 22:00:09 GMT",
+    "source": "卫报",
+    "category": "综合",
+    "summary": "Police urged people in Overasselt to stay indoors after one person died and 34 were arrestedAuthorities have arrested 34 people, including French, Bel"
+  },
+  {
+    "title": "German police investigating reported explosives at Brandenburg power substation – Europe live",
+    "link": "https://www.theguardian.com/world/live/2026/sep/01/ukraine-russia-strikes-attacks-odesa-zelenskyy-putin-eu-defence-europe-latest-news-updates",
+    "description": "Russia believed to be behind hybrid activities in Germany and Europe, minister saysOver in Brussels, the European Commission is just starting its first midday briefing of the autumn.It opens with an announcement that Commission president Ursula von der Leyen will receive Nato’s Mark Rutte tomorrow. This comes amid growing scrutiny of Russia’s activities on the eastern flank. Continue reading...",
+    "pubDate": "Tue, 01 Sep 2026 18:02:18 GMT",
+    "source": "卫报",
+    "category": "综合",
+    "summary": "Russia believed to be behind hybrid activities in Germany and Europe, minister saysOver in Brussels, the European Commission is just starting its firs"
+  },
+  {
+    "title": "Germany blames Russia for drone attack at Leipzig airport",
+    "link": "https://www.theguardian.com/world/2026/sep/01/germany-blames-russia-drone-attack-leipzig-airport",
+    "description": "Government says ‘dangerous behaviour’ is part of effort by Moscow to cause damage with hybrid attacksThe German government has blamed Russia for the drone attack on Leipzig airport last month, calling it “dangerous behaviour” and part of a systematic and concerted effort by Moscow to “cause great damage” through a large number of hybrid attacks.The interior minister, Alexander Dobrindt, and the foreign minister, Johann Wadephul, ended weeks of speculation and the government’s hesitancy to blame ",
+    "pubDate": "Tue, 01 Sep 2026 18:01:07 GMT",
+    "source": "卫报",
+    "category": "综合",
+    "summary": "Government says ‘dangerous behaviour’ is part of effort by Moscow to cause damage with hybrid attacksThe German government has blamed Russia for the d"
+  },
+  {
+    "title": "Russia targets Ukraine’s rail network as war enters deadly new phase",
+    "link": "https://www.theguardian.com/world/2026/sep/01/russia-targets-ukraines-rail-network-as-war-enters-deadly-new-phase",
+    "description": "Six employees killed on Tuesday after Moscow escalates attacks on infrastructure and Ukrainian capitalRussia has opened a deadly new phase in its war against Ukraine by deliberately targeting the country’s railway network, with six employees killed on Tuesday in the latest strikes on Kyiv.Ukraine’s state-owned railway company, Ukrzaliznytsia, said its workers died when a ballistic missile plunged into a locomotive depot. The Russians hit other railway facilities, it added, during a massive bomba",
+    "pubDate": "Tue, 01 Sep 2026 17:23:15 GMT",
+    "source": "卫报",
+    "category": "综合",
+    "summary": "Six employees killed on Tuesday after Moscow escalates attacks on infrastructure and Ukrainian capitalRussia has opened a deadly new phase in its war "
+  },
+  {
+    "title": "Russia kills at least 12 on sixth night of drone attacks on Kyiv",
+    "link": "https://www.theguardian.com/world/2026/sep/01/russia-kills-sixth-night-drone-attacks-ukraine-kyiv",
+    "description": "Zelenskyy says Moscow is capitalising on shortage of US-made Patriot interceptors to lower morale in capitalEurope live – latest updatesAt least 12 people have been killed in and around Kyiv overnight as Ukraine’s capital endured a sixth consecutive night of Russian drone and missile attacks aimed at shattering infrastructure and lowering the morale of the city.Eight of the dead were reported killed in Kyiv, including seven at a railway depot on the city’s left bank, and four were killed in Bory",
+    "pubDate": "Tue, 01 Sep 2026 15:06:27 GMT",
+    "source": "卫报",
+    "category": "综合",
+    "summary": "Zelenskyy says Moscow is capitalising on shortage of US-made Patriot interceptors to lower morale in capitalEurope live – latest updatesAt least 12 pe"
+  },
+  {
+    "title": "US launches new airstrikes on Iranian targets as hostilities flare",
+    "link": "https://www.theguardian.com/world/2026/sep/01/us-iran-airstrikes-launch",
+    "description": "Move from Washington quashes hopes that exchange of fire last weekend might not presage ⁠wider renewal of hostilitiesThe US launched new airstrikes on Iranian targets on Tuesday, quashing hopes that an exchange of fire last ⁠weekend might not presage a ⁠wider renewal of hostilities.Oil prices had ​already risen after that first exchange of direct attacks since July and after reports of two tankers being hit leaving the strait of Hormuz, the global oil supply waterway that Iran has effectively cl",
+    "pubDate": "Tue, 01 Sep 2026 21:49:45 GMT",
+    "source": "卫报",
+    "category": "综合",
+    "summary": "Move from Washington quashes hopes that exchange of fire last weekend might not presage ⁠wider renewal of hostilitiesThe US launched new airstrikes on"
+  },
+  {
+    "title": "Ed Miliband promises ‘comprehensive reset’ of UK policy toward Israel",
+    "link": "https://www.theguardian.com/politics/2026/sep/01/ed-miliband-promises-reset-of-uk-policy-toward-israel",
+    "description": "Foreign secretary tells MPs he will try to stop illegal settlements carving up the West BankEd Miliband has promised to “reset” Britain’s policy on Israel, saying he will try to stop British companies helping build settlements in the West Bank.Speaking to the Commons for the first time as foreign secretary, Miliband said he would set out measures to prevent UK involvement in projects such as the illegal E1 plan, which critics say would split the West Bank in half. Continue reading...",
+    "pubDate": "Tue, 01 Sep 2026 18:37:38 GMT",
+    "source": "卫报",
+    "category": "综合",
+    "summary": "Foreign secretary tells MPs he will try to stop illegal settlements carving up the West BankEd Miliband has promised to “reset” Britain’s policy on Is"
+  },
+  {
+    "title": "Briton among 119 more people rescued in Nepal after flash floods",
+    "link": "https://www.theguardian.com/world/2026/sep/01/briton-among-119-more-people-rescued-in-nepal-after-flash-floods",
+    "description": "More than 1,000 people confirmed dead and more than 4,000 still missing in disaster triggered by glacial collapseA British national was among 119 people rescued in Nepal on Tuesday, an official said almost a week after deadly flash floods on the country’s border with Tibet.An army spokesperson told reporters at a press conference that Tuesday’s rescue efforts had saved 118 Nepali nationals – 44 women and 74 men. Continue reading...",
+    "pubDate": "Tue, 01 Sep 2026 18:48:40 GMT",
+    "source": "卫报",
+    "category": "综合",
+    "summary": "More than 1,000 people confirmed dead and more than 4,000 still missing in disaster triggered by glacial collapseA British national was among 119 peop"
+  },
+  {
+    "title": "Nepal-Tibet flood deaths pass 1,000 as police ask relatives for DNA to identify victims",
+    "link": "https://www.theguardian.com/world/2026/sep/01/nepal-tibet-flood-deaths-police-relatives-dna-identification",
+    "description": "Relatives of missing tourists asked for blood samples and photos, as efforts continue to rescue trapped hydropower workersNepal-Tibet floods – latest updatesVisual guide: How the Nepal-Tibet flash flood unfoldedNepali rescuers have built temporary bridges to reach remote areas and dug through the ruins of hydropower projects in the Himalayas to rescue hundreds of trapped workers, as the death toll passed 1,000 nearly ⁠a week after devastating ​floods left a trail of destruction across the countr",
+    "pubDate": "Tue, 01 Sep 2026 17:32:40 GMT",
+    "source": "卫报",
+    "category": "综合",
+    "summary": "Relatives of missing tourists asked for blood samples and photos, as efforts continue to rescue trapped hydropower workersNepal-Tibet floods – latest "
+  },
+  {
+    "title": "‘The mountains are changing’: What the floods tell us about the future of India’s Himalayas",
+    "link": "https://www.theguardian.com/world/2026/aug/31/this-is-india-what-the-nepal-tibet-floods-tell-us-about-the-future-of-indias-himalayas",
+    "description": "As families await news of missing loved ones, the disaster is a stark reminder of how the climate crisis is creating a fast-growing threat. Plus, the town considered India’s ‘Jurassic Park’• Don’t get This is India delivered to your inbox? Sign up hereIt has been hard not to despair while watching the ruinous floods swallow parts of Nepal, and harder, still knowing that the agony compounds each passing day for dozens of Indian families whose members remain unaccounted for.Social media is awash w",
+    "pubDate": "Tue, 01 Sep 2026 06:30:46 GMT",
+    "source": "卫报",
+    "category": "综合",
+    "summary": "As families await news of missing loved ones, the disaster is a stark reminder of how the climate crisis is creating a fast-growing threat. Plus, the "
+  },
+  {
+    "title": "Cleveland police to get £2m extra to tackle serious crime in Middlesbrough",
+    "link": "https://www.theguardian.com/uk-news/2026/sep/01/man-23-charged-fatal-teesside-house-fire",
+    "description": "Cash announced after horror car crash that killed two police officers and house fire in which woman and young girl diedCleveland’s police force is to receive a £2m funding boost to tackle serious crime, after the home secretary said successive high-profile tragedies in the Middlesbrough area had led to a “sense of disquiet” in the community.Shabana Mahmood and the prime minister, Andy Burnham, paid tribute in parliament on Tuesday to police constables Matthew Blades and Tom Clough, who were kill",
+    "pubDate": "Tue, 01 Sep 2026 22:04:34 GMT",
+    "source": "卫报",
+    "category": "综合",
+    "summary": "Cash announced after horror car crash that killed two police officers and house fire in which woman and young girl diedCleveland’s police force is to "
+  },
+  {
+    "title": "Deported Milo Yiannopoulos says he is ‘ashamed’ of support for Trump",
+    "link": "https://www.theguardian.com/us-news/2026/sep/01/milo-yiannopoulos-deported-trump-support",
+    "description": "British far-right pundit breaks silence on ICE arrest and deportation and says he was ‘really, really terrified’Milo Yiannopoulos, the British far-right commentator who was arrested last week by Immigration and Customs Enforcement (ICE) officers in Louisiana and deported to the United Kingdom, has broken his silence about the experience, saying that “for the first time I know what it feels like to be really, really terrified”.Yiannopoulos on Tuesday appeared on Piers Morgan Uncensored, a YouTube",
+    "pubDate": "Tue, 01 Sep 2026 20:49:02 GMT",
+    "source": "卫报",
+    "category": "综合",
+    "summary": "British far-right pundit breaks silence on ICE arrest and deportation and says he was ‘really, really terrified’Milo Yiannopoulos, the British far-rig"
+  },
+  {
+    "title": "Farage faces questions over his claim of facing second standards investigation",
+    "link": "https://www.theguardian.com/politics/2026/sep/01/nigel-farage-questions-claim-second-standards-investigation",
+    "description": "Reform leader said inquiry had been widened but watchdog is not believed to have decided whether to do soNigel Farage is facing questions about why he claimed his finances were the subject of a second standards investigation, as he was sworn in again as Clacton’s MP.The Reform UK leader said when he resigned in July that the standards system had become a “political tool” because “yet another standards investigation is under way” into his finances. Continue reading...",
+    "pubDate": "Tue, 01 Sep 2026 18:54:14 GMT",
+    "source": "卫报",
+    "category": "综合",
+    "summary": "Reform leader said inquiry had been widened but watchdog is not believed to have decided whether to do soNigel Farage is facing questions about why he"
+  },
+  {
+    "title": "Burnham blames Brexit and Thatcher for ‘wrong turns’ in first Commons speech as PM",
+    "link": "https://www.theguardian.com/politics/2026/sep/01/burnham-promises-to-bring-optimism-and-substantial-change-in-first-commons-speech-as-pm",
+    "description": "The prime minister said Britain needed to be brutally honest about the mistakes of the last 40 years of UK politicsAndy Burnham has blamed Brexit and Margaret Thatcher for a decade of low growth in the UK, arguing that Britain needs to be brutally honest about having taken “a series of wrong turns” in the last 40 years.In his first Commons appearance since he took over as prime minister about six weeks ago, Burnham told MPs he wanted to build a new sense of optimism so “we can make this next dec",
+    "pubDate": "Tue, 01 Sep 2026 18:52:32 GMT",
+    "source": "卫报",
+    "category": "综合",
+    "summary": "The prime minister said Britain needed to be brutally honest about the mistakes of the last 40 years of UK politicsAndy Burnham has blamed Brexit and "
+  },
+  {
+    "title": "Burnham says Brexit brought ‘decade of low growth’ in first Commons address as prime minister – as it happened",
+    "link": "https://www.theguardian.com/politics/live/2026/sep/01/andy-burnham-statement-commons-prison-release-farage-healey-defence-latest-news-updates",
+    "description": "This liveblog is now closed. Read the Guardian’s report of today’s political news hereMy colleague Richard Partington, the Guardian’s senior economics correspondent, grew up, like Andy Burnham, in the Warrington suburb of Culcheth. He has been home to find out what people there are saying about the new PM.Yesterday, Kemi Badenoch announced a reshuffle, replacing Mel Stride with Andrew Griffith as shadow chancellor and Priti Patel with Tom Tugendhat as shadow foreign secretary. Continue reading..",
+    "pubDate": "Tue, 01 Sep 2026 17:52:31 GMT",
+    "source": "卫报",
+    "category": "综合",
+    "summary": "This liveblog is now closed. Read the Guardian’s report of today’s political news hereMy colleague Richard Partington, the Guardian’s senior economics"
+  },
+  {
+    "title": "Army secretary resigns after clashes with Hegseth as Democrats warn of ‘hollowed out’ leadership",
+    "link": "https://www.theguardian.com/us-news/2026/sep/01/dan-driscoll-resignation-hegseth",
+    "description": "The sudden departure of Daniel Driscoll comes after Pentagon chief removed senior officers and blocked promotions, prompting warnings of a leadership crisisA senior Senate Democrat accused Pentagon secretary Pete Hegseth of having “hollowed out” the Army’s senior ranks after its top civilian leader resigned after months of internal clashes with Hegseth.No official reason was given for army secretary Daniel Driscoll’s departure after 18 months on the job, while thousands of US soldiers are deploy",
+    "pubDate": "Tue, 01 Sep 2026 22:37:57 GMT",
+    "source": "卫报",
+    "category": "综合",
+    "summary": "The sudden departure of Daniel Driscoll comes after Pentagon chief removed senior officers and blocked promotions, prompting warnings of a leadership "
+  },
+  {
+    "title": "Florida executes 74-year-old man, 14th state prisoner put to death this year",
+    "link": "https://www.theguardian.com/us-news/2026/sep/01/florida-14-executions",
+    "description": "Harold Lucas, sentenced to death over 1976 murder, killed by lethal injection as state continues execution rushA Florida man convicted of killing a 16-year-old girl who rejected his romantic advances and wounding two of her friends was executed Tuesday evening.Harold Gene Lucas, 74, was pronounced dead at 6.18pm following a three-drug injection starting at 6pm at Florida state prison near Starke, authorities said. Continue reading...",
+    "pubDate": "Tue, 01 Sep 2026 22:36:17 GMT",
+    "source": "卫报",
+    "category": "综合",
+    "summary": "Harold Lucas, sentenced to death over 1976 murder, killed by lethal injection as state continues execution rushA Florida man convicted of killing a 16"
+  },
+  {
+    "title": "‘Dangerous power grab’: top Democrats decry USPS system that could thwart mail-in voting – live",
+    "link": "https://www.theguardian.com/us-news/live/2026/sep/01/house-vote-stopgap-funding-bill-us-federal-government-shutdown-mike-johnson-trump-ballroom-politics-latest-news-updates",
+    "description": "A Democratic senator disclosed a whistleblower statement, which warned of potential chaos as the USPS is set to launch a computer system that could derail mail-in votingSign up for the US Breaking News emailDemocratic senator Chuck Schumer is introducing a bill that would reverse Donald Trump’s most recent tariffs, among them the new 50% duty on Canadian goods, MS Now reported.While the Senate minority leader’s proposed legislation has virtually no chance of becoming law, Schumer hopes that his ",
+    "pubDate": "Tue, 01 Sep 2026 22:34:27 GMT",
+    "source": "卫报",
+    "category": "综合",
+    "summary": "A Democratic senator disclosed a whistleblower statement, which warned of potential chaos as the USPS is set to launch a computer system that could de"
+  },
+  {
+    "title": "US may require parents to prove citizenship to get passports for their children",
+    "link": "https://www.theguardian.com/us-news/2026/sep/01/parents-citizenship-passports-children",
+    "description": "Proposal is how state department could enforce Trump’s executive order targeting what it calls ‘birth tourism’The US state department has proposed requiring parents applying for passports for their children to provide proof of their own citizenship or immigration status as part of Donald Trump’s ⁠latest effort to limit birthright citizenship.The ⁠draft guidance, reviewed by ​Reuters, is the first detailed look at how the state department could enforce Trump’s 6 August executive order targeting w",
+    "pubDate": "Tue, 01 Sep 2026 22:28:59 GMT",
+    "source": "卫报",
+    "category": "综合",
+    "summary": "Proposal is how state department could enforce Trump’s executive order targeting what it calls ‘birth tourism’The US state department has proposed req"
+  },
+  {
+    "title": "Press freedom advocates alarmed by $300,000 defamation verdict against Louisiana newspaper",
+    "link": "https://www.theguardian.com/media/2026/sep/01/louisiana-newspaper-defamation-verdict-press-freedom",
+    "description": "Experts say ruling could undermine the ‘actual malice’ standard and make publishers more wary of critical reportingA $300,000 jury verdict won recently by a Louisiana supreme court justice who sued the Advocate, the state’s largest newspaper, for libel over an editorial has caused concern among some US press freedom defenders.One said the decision demonstrated a misunderstanding of a key legal principle governing such cases. And another worries the verdict could have a chilling effect on the med",
+    "pubDate": "Tue, 01 Sep 2026 22:11:10 GMT",
+    "source": "卫报",
+    "category": "综合",
+    "summary": "Experts say ruling could undermine the ‘actual malice’ standard and make publishers more wary of critical reportingA $300,000 jury verdict won recentl"
   }
 ]
