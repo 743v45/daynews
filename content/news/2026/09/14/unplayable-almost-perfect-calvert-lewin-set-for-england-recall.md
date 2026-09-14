@@ -1,0 +1,17 @@
+---
+title: "'Unplayable' & 'almost perfect'- Calvert-Lewin set for England recall?"
+date: 2026-09-14T22:56:00+08:00
+source: "BBC News"
+sourceUrl: "https://www.bbc.co.uk/sport/football/articles/cv1j49220j93o?at_medium=RSS&at_campaign=rss"
+category: "综合"
+slug: "unplayable-almost-perfect-calvert-lewin-set-for-england-recall"
+---
+
+Dominic Calvert-Lewin has now scored in Leeds' last five league matches. Is he ready for and England recall?
+
+<!--more-->
+
+---
+
+[阅读原文 →](https://www.bbc.co.uk/sport/football/articles/cv1j49220j93o?at_medium=RSS&at_campaign=rss)
+
