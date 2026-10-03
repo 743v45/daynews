@@ -1,0 +1,1106 @@
+[
+  {
+    "title": "Open-sourcing AstaBrief, the fast report-generation model in Asta",
+    "link": "https://allenai.org/blog/astabrief",
+    "description": "Article URL: https://allenai.org/blog/astabrief\nComments URL: https://news.ycombinator.com/item?id=49938783\nPoints: 13\n# Comments: 0",
+    "pubDate": "Fri, 02 Oct 2026 21:25:25 +0000",
+    "source": "Hacker News",
+    "category": "科技"
+  },
+  {
+    "title": "Every SaaS business will become a harness around a model",
+    "link": "https://blog.sshh.io/p/the-harness-is-the-company",
+    "description": "Article URL: https://blog.sshh.io/p/the-harness-is-the-company\nComments URL: https://news.ycombinator.com/item?id=49938616\nPoints: 75\n# Comments: 54",
+    "pubDate": "Fri, 02 Oct 2026 21:06:56 +0000",
+    "source": "Hacker News",
+    "category": "科技"
+  },
+  {
+    "title": "Zig v0.17.0",
+    "link": "https://ziglang.org/download/0.17.0/release-notes.html",
+    "description": "Article URL: https://ziglang.org/download/0.17.0/release-notes.html\nComments URL: https://news.ycombinator.com/item?id=49938521\nPoints: 185\n# Comments: 95",
+    "pubDate": "Fri, 02 Oct 2026 20:56:36 +0000",
+    "source": "Hacker News",
+    "category": "科技"
+  },
+  {
+    "title": "Show HN: Made an open-source Lego AI generator",
+    "link": "https://github.com/anteloc/ldraw-nova",
+    "description": "Hi there :-) New on HN, first time posting.Past year, around December, I started experimenting with making ChatGPT and Claude generate source code in LDraw language.This LDraw is literally an \"assembly\" language, a low-level programming language that describes how to assemble LEGO pieces together into models, one placement instruction at a time.When executed by specific tools, like e.g. LDView, LeoCAD, Studio... these instructions become LEGO CAD models, that can be interacted with, modified, et",
+    "pubDate": "Fri, 02 Oct 2026 20:00:15 +0000",
+    "source": "Hacker News",
+    "category": "科技"
+  },
+  {
+    "title": "Updates to Full Disk Access in macOS",
+    "link": "https://developer.apple.com/news/?id=p6zjojqw",
+    "description": "Article URL: https://developer.apple.com/news/?id=p6zjojqw\nComments URL: https://news.ycombinator.com/item?id=49937631\nPoints: 85\n# Comments: 54",
+    "pubDate": "Fri, 02 Oct 2026 19:37:01 +0000",
+    "source": "Hacker News",
+    "category": "科技"
+  },
+  {
+    "title": "Muse Gadgets",
+    "link": "https://gadgets.muse.ai",
+    "description": "Article URL: https://gadgets.muse.ai\nComments URL: https://news.ycombinator.com/item?id=49937504\nPoints: 97\n# Comments: 47",
+    "pubDate": "Fri, 02 Oct 2026 19:26:54 +0000",
+    "source": "Hacker News",
+    "category": "科技"
+  },
+  {
+    "title": "Apple Pass Designer",
+    "link": "https://developer.apple.com/pass-designer/",
+    "description": "Article URL: https://developer.apple.com/pass-designer/\nComments URL: https://news.ycombinator.com/item?id=49937276\nPoints: 280\n# Comments: 190",
+    "pubDate": "Fri, 02 Oct 2026 19:06:56 +0000",
+    "source": "Hacker News",
+    "category": "科技"
+  },
+  {
+    "title": "From the creator of Redis; run LLM locally with ds4",
+    "link": "https://dwarfstar.sh/",
+    "description": "Article URL: https://dwarfstar.sh/\nComments URL: https://news.ycombinator.com/item?id=49936575\nPoints: 123\n# Comments: 35",
+    "pubDate": "Fri, 02 Oct 2026 18:01:16 +0000",
+    "source": "Hacker News",
+    "category": "科技"
+  },
+  {
+    "title": "STS-51-F Abort-to-Orbit (1985)",
+    "link": "https://en.wikipedia.org/wiki/STS-51-F",
+    "description": "Today I learned that one Space Shuttle flight (in 1985) successfully used the Abort-to-Orbit recovery plan (changing its flight path in real time in response to an engine failure during ascent). The overall mission continued, accomplished its other objectives, and was considered a success despite the engine failure.Some 2015 coverage of this mission:https://www.americaspace.com/2015/07/25/going-to-spain-30-ye...https://www.americaspace.com/2015/07/26/cola-and-solar-wars-...\n\nComments URL: https:",
+    "pubDate": "Fri, 02 Oct 2026 16:56:47 +0000",
+    "source": "Hacker News",
+    "category": "科技"
+  },
+  {
+    "title": "One month coding with GLM 5.3 Flash",
+    "link": "https://wagtail.org/blog/one-month-on-glm-53-flash/",
+    "description": "Article URL: https://wagtail.org/blog/one-month-on-glm-53-flash/\nComments URL: https://news.ycombinator.com/item?id=49934620\nPoints: 93\n# Comments: 74",
+    "pubDate": "Fri, 02 Oct 2026 15:29:15 +0000",
+    "source": "Hacker News",
+    "category": "科技"
+  },
+  {
+    "title": "The Forgetful CPU (Linux on M4)",
+    "link": "https://yuka.dev/blog-2026-10-02-linux-m4.html",
+    "description": "Article URL: https://yuka.dev/blog-2026-10-02-linux-m4.html\nComments URL: https://news.ycombinator.com/item?id=49933869\nPoints: 27\n# Comments: 0",
+    "pubDate": "Fri, 02 Oct 2026 14:22:12 +0000",
+    "source": "Hacker News",
+    "category": "科技"
+  },
+  {
+    "title": "With most information hidden, the game Stratego had stumped AI until now",
+    "link": "https://arstechnica.com/science/2026/10/ai-finally-beat-the-best-stratego-player-in-history-and-did-it-on-a-budget/",
+    "description": "https://www.nature.com/articles/s41586-026-11036-yhttps://arxiv.org/abs/2511.07312\n\nComments URL: https://news.ycombinator.com/item?id=49933740\nPoints: 152\n# Comments: 74",
+    "pubDate": "Fri, 02 Oct 2026 14:11:24 +0000",
+    "source": "Hacker News",
+    "category": "科技"
+  },
+  {
+    "title": "The Legend of von Neumann (1973) [pdf]",
+    "link": "https://gwern.net/doc/math/1973-halmos.pdf",
+    "description": "Article URL: https://gwern.net/doc/math/1973-halmos.pdf\nComments URL: https://news.ycombinator.com/item?id=49933235\nPoints: 234\n# Comments: 136",
+    "pubDate": "Fri, 02 Oct 2026 13:18:32 +0000",
+    "source": "Hacker News",
+    "category": "科技"
+  },
+  {
+    "title": "Venice’s failed war against Constantinople led to the first bond market",
+    "link": "https://bigthink.com/books/a-fabulous-debt/",
+    "description": "Article URL: https://bigthink.com/books/a-fabulous-debt/\nComments URL: https://news.ycombinator.com/item?id=49933230\nPoints: 57\n# Comments: 19",
+    "pubDate": "Fri, 02 Oct 2026 13:17:47 +0000",
+    "source": "Hacker News",
+    "category": "科技"
+  },
+  {
+    "title": "The first packet sent via RFC1149 avian carrier is up for auction at Christie's",
+    "link": "https://onlineonly.christies.com/s/fine-printed-books-manuscripts-science/carrier-pigeon-internet-protocol-150/325216",
+    "description": "Article URL: https://onlineonly.christies.com/s/fine-printed-books-manuscripts-science/carrier-pigeon-internet-protocol-150/325216\nComments URL: https://news.ycombinator.com/item?id=49932911\nPoints: 34\n# Comments: 5",
+    "pubDate": "Fri, 02 Oct 2026 12:46:50 +0000",
+    "source": "Hacker News",
+    "category": "科技"
+  },
+  {
+    "title": "On social reality in China",
+    "link": "https://www.lesswrong.com/posts/b5cSYh4emQb2qrGmK/on-social-reality-in-china",
+    "description": "Article URL: https://www.lesswrong.com/posts/b5cSYh4emQb2qrGmK/on-social-reality-in-china\nComments URL: https://news.ycombinator.com/item?id=49932402\nPoints: 129\n# Comments: 131",
+    "pubDate": "Fri, 02 Oct 2026 11:42:26 +0000",
+    "source": "Hacker News",
+    "category": "科技"
+  },
+  {
+    "title": "Blogging with Gleam, Org-Mode and Pandoc",
+    "link": "https://byzantine-systems.github.io/blogging-with-gleam-org-mode-and-pandoc/",
+    "description": "Article URL: https://byzantine-systems.github.io/blogging-with-gleam-org-mode-and-pandoc/\nComments URL: https://news.ycombinator.com/item?id=49932340\nPoints: 46\n# Comments: 9",
+    "pubDate": "Fri, 02 Oct 2026 11:34:28 +0000",
+    "source": "Hacker News",
+    "category": "科技"
+  },
+  {
+    "title": "Our Project Suncatcher prototype satellite is in orbit",
+    "link": "https://blog.google/innovation-and-ai/models-and-research/google-research/project-suncatcher-prototype/",
+    "description": "Article URL: https://blog.google/innovation-and-ai/models-and-research/google-research/project-suncatcher-prototype/\nComments URL: https://news.ycombinator.com/item?id=49932191\nPoints: 38\n# Comments: 45",
+    "pubDate": "Fri, 02 Oct 2026 11:13:02 +0000",
+    "source": "Hacker News",
+    "category": "科技"
+  },
+  {
+    "title": "A 12-year sequence of telescope images of a star and four planets orbiting",
+    "link": "https://bsky.app/profile/theplanetaryguy.com/post/3mwucf5ert22f",
+    "description": "Article URL: https://bsky.app/profile/theplanetaryguy.com/post/3mwucf5ert22f\nComments URL: https://news.ycombinator.com/item?id=49932147\nPoints: 165\n# Comments: 33",
+    "pubDate": "Fri, 02 Oct 2026 11:07:17 +0000",
+    "source": "Hacker News",
+    "category": "科技"
+  },
+  {
+    "title": "F.02 Decommission",
+    "link": "https://www.figure.ai/news/f-02-decommission",
+    "description": "https://www.youtube.com/watch?v=pfAh5oQDPDM\n\nComments URL: https://news.ycombinator.com/item?id=49932079\nPoints: 51\n# Comments: 20",
+    "pubDate": "Fri, 02 Oct 2026 10:57:27 +0000",
+    "source": "Hacker News",
+    "category": "科技"
+  },
+  {
+    "title": "Sean Parker is rebuilding Stability AI around music",
+    "link": "https://techcrunch.com/2026/10/02/sean-parker-is-rebuilding-stability-ai-around-music/",
+    "description": "Sean Parker, who once taught the music industry what asking for forgiveness looks like, is now back with the labels' blessing and money.",
+    "pubDate": "Fri, 02 Oct 2026 21:09:14 +0000",
+    "source": "TechCrunch",
+    "category": "科技"
+  },
+  {
+    "title": "Affected by layoffs? Don&#8217;t miss this $75 deal for your TechCrunch Disrupt 2026 Expo+ Pass",
+    "link": "https://techcrunch.com/2026/10/02/disrupt-2026-layoff-expo-plus-passes-available-for-75-dollars/",
+    "description": "Your next opportunity could be one conversation away. Get your Expo+ Pass for just $75. Limited to the first 100 qualifying people.",
+    "pubDate": "Fri, 02 Oct 2026 19:15:51 +0000",
+    "source": "TechCrunch",
+    "category": "科技"
+  },
+  {
+    "title": "Apple says it&#8217;s tightening macOS &#8216;Full Disk Access&#8217; controls due to new risks from AI agents",
+    "link": "https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents/",
+    "description": "Apple says it will add new controls around macOS’s Full Disk Access permission, warning that increasingly capable AI agents make broad access to users’ files, messages, mail, and browsing history riskier.",
+    "pubDate": "Fri, 02 Oct 2026 18:11:27 +0000",
+    "source": "TechCrunch",
+    "category": "科技"
+  },
+  {
+    "title": "It&#8217;s not AI anymore, it&#8217;s ‘super intelligence’ (according to the White House)",
+    "link": "https://techcrunch.com/video/its-not-ai-anymore-its-super-intelligence-according-to-the-white-house/",
+    "description": "This week, the White House got&#160;nearly every&#160;major tech CEO in one room — Zuckerberg, Bezos, Musk, and Anthropic’s Dario Amodei among them —&#160;to sign an AI safety pledge&#160;that President&#160;Donald&#160;Trump called “morally binding.”&#160;Trump&#160;also&#160;signed an&#160;executive order&#160;officially rebranding AI as “super intelligence,” and meanwhile,&#160;Meta and OpenAI are putting&#160;friendlier faces on their AI products, even as the biggest money [&#8230;]",
+    "pubDate": "Fri, 02 Oct 2026 17:48:16 +0000",
+    "source": "TechCrunch",
+    "category": "科技"
+  },
+  {
+    "title": "TechCrunch Disrupt 2026: Blackstone’s Jas Khaira on building the next generation of AI giants",
+    "link": "https://techcrunch.com/2026/10/02/techcrunch-disrupt-2026-blackstones-jas-khaira-on-building-the-next-generation-of-ai-giants/",
+    "description": "Blackstone's Jas Khaira will take the Builders Stage at TechCrunch Disrupt 2026 on building next-gen AI. Register for your pass and get 50% off a second.",
+    "pubDate": "Fri, 02 Oct 2026 17:32:05 +0000",
+    "source": "TechCrunch",
+    "category": "科技"
+  },
+  {
+    "title": "Circuit Breaker Labs hopes to make AI safer for your kids (and you)",
+    "link": "https://techcrunch.com/2026/10/02/circuit-breaker-labs-hopes-to-make-ai-safer-for-your-kids-and-you/",
+    "description": "With all the talk about how AI might one day kill us all, it's easy to forget that AI has already harmed some people psychologically. Circuit Breaker Labs has created \"crash-test  dummies\" to solve that.",
+    "pubDate": "Fri, 02 Oct 2026 17:00:00 +0000",
+    "source": "TechCrunch",
+    "category": "科技"
+  },
+  {
+    "title": "Paramount and Warner Bros. Discovery to become Skydance",
+    "link": "https://techcrunch.com/2026/10/02/paramount-and-warner-bros-discovery-to-become-skydance/",
+    "description": "The roughly $110 billion deal is expected to close October 6.",
+    "pubDate": "Fri, 02 Oct 2026 15:53:50 +0000",
+    "source": "TechCrunch",
+    "category": "科技"
+  },
+  {
+    "title": "Pope Leo XIV is not a fan of AI-generated art",
+    "link": "https://techcrunch.com/2026/10/02/pope-leo-xiv-is-not-a-fan-of-ai-generated-art/",
+    "description": "\"There is an ontological difference, even before an aesthetic one, between art and what a machine can generate through statistical calculation based on millions of images created by others,\" the pope wrote. \"Algorithms lack the spark of humanity.\"",
+    "pubDate": "Fri, 02 Oct 2026 15:39:41 +0000",
+    "source": "TechCrunch",
+    "category": "科技"
+  },
+  {
+    "title": "Laytr&#8217;s new app lets you save anything you find online, not just articles to read",
+    "link": "https://techcrunch.com/2026/10/02/laytrs-new-app-lets-you-save-anything-you-find-online-not-just-articles-to-read/",
+    "description": "Laytr lets you save articles, recipes, screenshots, videos, PDFs, and more for later, while keeping your archive private and synced across your Apple devices.",
+    "pubDate": "Fri, 02 Oct 2026 15:31:20 +0000",
+    "source": "TechCrunch",
+    "category": "科技"
+  },
+  {
+    "title": "Slovenia&#8217;s .si domain sees a surge in registrations after Trump&#8217;s &#8216;super intelligence&#8217; order",
+    "link": "https://techcrunch.com/2026/10/02/slovenias-si-domain-sees-a-surge-in-registrations-after-trumps-super-intelligence-order/",
+    "description": "The .si domain name is seeing unprecedented demand after President Trump's super intelligence executive order.",
+    "pubDate": "Fri, 02 Oct 2026 14:47:46 +0000",
+    "source": "TechCrunch",
+    "category": "科技"
+  },
+  {
+    "title": "TechCrunch Disrupt 2026: Clay’s Kareem Amin on the rise of the GTM engineer",
+    "link": "https://techcrunch.com/2026/10/02/techcrunch-disrupt-2026-clays-kareem-amin-on-the-rise-of-the-gtm-engineer/",
+    "description": "Clay Co-founder and CEO Kareem Amin joins the AI Stage to discuss the rise of GTM engineer at TechCrunch Disrupt 2026. Register for your ticket and get a second pass at 50% off.",
+    "pubDate": "Fri, 02 Oct 2026 14:30:00 +0000",
+    "source": "TechCrunch",
+    "category": "科技"
+  },
+  {
+    "title": "Last 24 hours: Exhibit at TechCrunch Disrupt 2026 and reach 10,000+ tech leaders",
+    "link": "https://techcrunch.com/2026/10/02/last-24-hours-exhibit-at-techcrunch-disrupt-2026-and-reach-10000-tech-leaders/",
+    "description": "Today is the last day to book your exhibit table at TechCrunch Disrupt 2026. From October 13–15, 10,000+ founders, investors, operators, and tech leaders will arrive at San Francisco’s Moscone West looking for companies, products, ideas, and people worth knowing. The question is: Will they find your startup?",
+    "pubDate": "Fri, 02 Oct 2026 14:00:00 +0000",
+    "source": "TechCrunch",
+    "category": "科技"
+  },
+  {
+    "title": "Less than 24 hours to apply for a  Side Event at Founder Summit 2026",
+    "link": "https://techcrunch.com/2026/10/02/less-than-24-hours-to-apply-for-a-side-event-at-founder-summit-2026/",
+    "description": "The clock is almost out. You have less than 24 hours left to apply to host a Side Event during TechCrunch Founder Summit 2026. Applications close tonight at midnight PT. Connect with the Boston startup ecosystem through November 1–7 by hosting your own Side Event. Bring your community, start an impactful conversation that’ll push the [&#8230;]",
+    "pubDate": "Fri, 02 Oct 2026 14:00:00 +0000",
+    "source": "TechCrunch",
+    "category": "科技"
+  },
+  {
+    "title": "Tesla sustains its EV sales momentum despite US troubles",
+    "link": "https://techcrunch.com/2026/10/02/tesla-sustains-its-ev-sales-momentum-despite-us-troubles/",
+    "description": "The company delivered more than 486,000 EVs in the third quarter, down from last year's record but moving in a positive direction.",
+    "pubDate": "Fri, 02 Oct 2026 13:39:23 +0000",
+    "source": "TechCrunch",
+    "category": "科技"
+  },
+  {
+    "title": "Medical records giant Epic pauses product development to fix security bugs that risk patients&#8217; data",
+    "link": "https://techcrunch.com/2026/10/02/medical-records-giant-epic-pauses-product-development-to-fix-security-bugs-that-risk-patients-data/",
+    "description": "The health tech software giant, which makes the widely used MyChart system for accessing medical data, will focus on fixing security bugs for the next few weeks.",
+    "pubDate": "Fri, 02 Oct 2026 13:23:09 +0000",
+    "source": "TechCrunch",
+    "category": "科技"
+  },
+  {
+    "title": "Rivian&#8217;s R2 just helped it set a new sales record",
+    "link": "https://techcrunch.com/2026/10/02/rivians-r2-just-helped-it-set-a-new-sales-record/",
+    "description": "Deliveries jumped roughly 45% compared to the same quarter last year, with Rivian delivering more than 19,000 EVs.",
+    "pubDate": "Fri, 02 Oct 2026 13:17:05 +0000",
+    "source": "TechCrunch",
+    "category": "科技"
+  },
+  {
+    "title": "Rivian issues R2 recall for poorly tightened battery packs",
+    "link": "https://techcrunch.com/2026/10/02/rivian-issues-r2-recall-for-poorly-tightened-battery-packs/",
+    "description": "The company says around 14 vehicles may be affected, and that it has resolved the issue on the assembly line.",
+    "pubDate": "Fri, 02 Oct 2026 12:50:11 +0000",
+    "source": "TechCrunch",
+    "category": "科技"
+  },
+  {
+    "title": "Robotaxi operators will face fines for blocking first responders",
+    "link": "https://techcrunch.com/2026/10/01/robotaxi-operators-will-face-fines-for-blocking-first-responders/",
+    "description": "A new California law places new rules on autonomous vehicles operators.",
+    "pubDate": "Fri, 02 Oct 2026 00:57:57 +0000",
+    "source": "TechCrunch",
+    "category": "科技"
+  },
+  {
+    "title": "The founder&#8217;s guide to TechCrunch Disrupt 2026: Everything you need to know",
+    "link": "https://techcrunch.com/2026/10/01/the-founders-guide-to-techcrunch-disrupt-2026-everything-you-need-to-know/",
+    "description": "TechCrunch Disrupt 2026 is built around one question: How do you build an enduring company in the AI era? Our programming and speaker lineup reflect that.",
+    "pubDate": "Fri, 02 Oct 2026 00:03:23 +0000",
+    "source": "TechCrunch",
+    "category": "科技"
+  },
+  {
+    "title": "Lyft is paying $272.5M to settle lawsuit over how it classified drivers",
+    "link": "https://techcrunch.com/2026/10/01/lyft-is-paying-272-5m-to-settle-lawsuit-over-how-it-classified-drivers/",
+    "description": "Today, gig economy drivers are classified as contractors. This settlement clears up a lingering lawsuit from 2020 when that was still an unanswered issue.",
+    "pubDate": "Thu, 01 Oct 2026 21:57:08 +0000",
+    "source": "TechCrunch",
+    "category": "科技"
+  },
+  {
+    "title": "Someone got Doom in an SQL database",
+    "link": "https://arstechnica.com/gaming/2026/10/can-it-run-doom-sql-database-edition/",
+    "description": "1,300 lines of SQL querying renders accurate bitmapped views of Hell at 35 fps.",
+    "pubDate": "Fri, 02 Oct 2026 21:19:05 +0000",
+    "source": "Ars Technica",
+    "category": "科技"
+  },
+  {
+    "title": "Amazon’s $1B plan to combat data center backlash draws more backlash",
+    "link": "https://arstechnica.com/tech-policy/2026/10/amazons-1b-plan-to-combat-data-center-backlash-draws-more-backlash/",
+    "description": "Amazon praised for ending NDAs but slammed for downplaying data center pollution.",
+    "pubDate": "Fri, 02 Oct 2026 20:30:27 +0000",
+    "source": "Ars Technica",
+    "category": "科技"
+  },
+  {
+    "title": "Patient-zero drill put health facilities to the test—40% of them failed",
+    "link": "https://arstechnica.com/health/2026/10/patient-zero-drill-put-health-facilities-to-the-test-40-of-them-failed/",
+    "description": "Actors with makeup and fake symptoms staggered into 73 healthcare facilities.",
+    "pubDate": "Fri, 02 Oct 2026 20:07:59 +0000",
+    "source": "Ars Technica",
+    "category": "科技"
+  },
+  {
+    "title": "Lyft settles landmark driver misclassification lawsuit for $272.5M",
+    "link": "https://arstechnica.com/tech-policy/2026/10/lyft-settles-landmark-driver-misclassification-lawsuit-for-272-5m/",
+    "description": "Critics say workers are still owed far more.",
+    "pubDate": "Fri, 02 Oct 2026 19:09:49 +0000",
+    "source": "Ars Technica",
+    "category": "科技"
+  },
+  {
+    "title": "The 2008 economic crisis changed the US's relationship with energy",
+    "link": "https://arstechnica.com/science/2026/10/the-2008-economic-crisis-changed-the-uss-relationship-to-energy/",
+    "description": "It wasn't obvious at the time, but the US uncoupled carbon emissions and GDP growth.",
+    "pubDate": "Fri, 02 Oct 2026 18:56:21 +0000",
+    "source": "Ars Technica",
+    "category": "科技"
+  },
+  {
+    "title": "US arrests tech CEO accused of smuggling $300M in Nvidia chips into China",
+    "link": "https://arstechnica.com/tech-policy/2026/10/us-arrests-tech-ceo-accused-of-smuggling-300m-in-nvidia-chips-into-china/",
+    "description": "Nvidia’s chip-smuggling problem won’t go away as arrests continue.",
+    "pubDate": "Fri, 02 Oct 2026 18:39:36 +0000",
+    "source": "Ars Technica",
+    "category": "科技"
+  },
+  {
+    "title": "Research roundup: 6 cool science stories we almost missed",
+    "link": "https://arstechnica.com/science/2026/10/research-roundup-6-cool-science-stories-we-almost-missed-6/",
+    "description": "Also: Spooky action at the LHC, Ice Age psychoactive use, yeast for building homes on Mars, and more.",
+    "pubDate": "Fri, 02 Oct 2026 18:17:27 +0000",
+    "source": "Ars Technica",
+    "category": "科技"
+  },
+  {
+    "title": "US military ends long-running program to spot nuclear missile launches",
+    "link": "https://arstechnica.com/space/2026/10/us-military-ends-long-running-program-to-spot-nuclear-missile-launches/",
+    "description": "A newer program has been operational since 2011, and the next generation could launch within 12 months.",
+    "pubDate": "Fri, 02 Oct 2026 17:32:14 +0000",
+    "source": "Ars Technica",
+    "category": "科技"
+  },
+  {
+    "title": "How I kept cool with NYC's free battery program for window AC units",
+    "link": "https://arstechnica.com/gadgets/2026/10/how-i-kept-cool-with-nycs-free-battery-program-for-window-ac-units/",
+    "description": "Bonus: Every Electric’s batteries are beloved by household cats.",
+    "pubDate": "Fri, 02 Oct 2026 17:20:21 +0000",
+    "source": "Ars Technica",
+    "category": "科技"
+  },
+  {
+    "title": "Cybertruck sales in free fall as Tesla reports mediocre sales for Q3",
+    "link": "https://arstechnica.com/cars/2026/10/tesla-sales-drop-2-percent-in-underwhelming-q3-2026/",
+    "description": "Tesla met analysts expectations as it sold fewer cars in Q3 2026 than Q3 2025.",
+    "pubDate": "Fri, 02 Oct 2026 16:05:26 +0000",
+    "source": "Ars Technica",
+    "category": "科技"
+  },
+  {
+    "title": "The 7-year-old Nvidia Shield TV is now $100 more expensive due to AI",
+    "link": "https://arstechnica.com/gadgets/2026/10/the-7-year-old-nvidia-shield-tv-is-now-100-more-expensive-thanks-to-ai/",
+    "description": "Initially launched in 2019, the Nvidia Shield TV Pro now retails for $299.99.",
+    "pubDate": "Fri, 02 Oct 2026 14:52:16 +0000",
+    "source": "Ars Technica",
+    "category": "科技"
+  },
+  {
+    "title": "Rocket Report: SpaceX completes launch triple-header; Rocket Lab nets big contract",
+    "link": "https://arstechnica.com/space/2026/10/rocket-report-spacex-completes-launch-triple-header-rocket-lab-nets-big-contract/",
+    "description": "Blue Origin seeks FAA approval for up to 50 New Glenn launches and 50 booster landings per year.",
+    "pubDate": "Fri, 02 Oct 2026 13:54:34 +0000",
+    "source": "Ars Technica",
+    "category": "科技"
+  },
+  {
+    "title": "TCL is right to question Samsung’s use of the term “Mini LED”",
+    "link": "https://arstechnica.com/gadgets/2026/10/tcl-is-right-to-question-samsungs-use-of-the-term-mini-led/",
+    "description": "Can it be Mini LED without a FALD backlight?",
+    "pubDate": "Fri, 02 Oct 2026 10:30:11 +0000",
+    "source": "Ars Technica",
+    "category": "科技"
+  },
+  {
+    "title": "Venus' mysterious haze is actually cosmic dust",
+    "link": "https://arstechnica.com/science/2026/10/venus-mysterious-haze-is-actually-cosmic-dust/",
+    "description": "A physical model show that iron dust and sulfuric acid create the right properties.",
+    "pubDate": "Thu, 01 Oct 2026 22:27:04 +0000",
+    "source": "Ars Technica",
+    "category": "科技"
+  },
+  {
+    "title": "SpaceX describes surgical intervention before launch of latest crew mission",
+    "link": "https://arstechnica.com/space/2026/10/spacex-describes-surgical-intervention-before-launch-of-latest-crew-mission/",
+    "description": "With Crew-13, Jessica Watkins became the first Black woman to lead a mission into space.",
+    "pubDate": "Thu, 01 Oct 2026 22:07:33 +0000",
+    "source": "Ars Technica",
+    "category": "科技"
+  },
+  {
+    "title": "Hacks of 2 federal agencies in a month have spilled a bonanza of sensitive data",
+    "link": "https://arstechnica.com/security/2026/10/hacks-of-2-federal-agencies-in-a-month-have-spilled-a-bonanza-of-sensitive-data/",
+    "description": "It has been a bad month for federal government cybersecurity.",
+    "pubDate": "Thu, 01 Oct 2026 20:28:45 +0000",
+    "source": "Ars Technica",
+    "category": "科技"
+  },
+  {
+    "title": "Judge dismisses Chegg and Penske antitrust lawsuits targeting Google AI search",
+    "link": "https://arstechnica.com/google/2026/10/antitrust-lawsuits-targeting-google-ai-search-dismissed-by-federal-judge/",
+    "description": "The court acknowledges AI search comes with consequences, but it's not an antitrust issue.",
+    "pubDate": "Thu, 01 Oct 2026 20:11:55 +0000",
+    "source": "Ars Technica",
+    "category": "科技"
+  },
+  {
+    "title": "Can good design stop content creators from having sex in robotaxis?",
+    "link": "https://arstechnica.com/cars/2026/10/can-good-design-stop-content-creators-from-having-sex-in-robotaxis/",
+    "description": "Autonomous vehicle designers have to worry about riders getting frisky in public.",
+    "pubDate": "Thu, 01 Oct 2026 19:19:42 +0000",
+    "source": "Ars Technica",
+    "category": "科技"
+  },
+  {
+    "title": "Marvel releases one last VisionQuest trailer",
+    "link": "https://arstechnica.com/culture/2026/10/marvel-releases-one-last-visionquest-trailer/",
+    "description": "\"This is a fight I likely won't win. We have said goodbye before. But remember, family is forever.\"",
+    "pubDate": "Thu, 01 Oct 2026 18:04:48 +0000",
+    "source": "Ars Technica",
+    "category": "科技"
+  },
+  {
+    "title": "Memory executives expect RAM shortage to continue through 2028",
+    "link": "https://arstechnica.com/information-technology/2026/10/memory-supplies-are-only-getting-tighter-micron-ceo-says/",
+    "description": "Prices for memory sold for 2027 \"are much higher than 2026 prices.\"",
+    "pubDate": "Thu, 01 Oct 2026 17:49:56 +0000",
+    "source": "Ars Technica",
+    "category": "科技"
+  },
+  {
+    "title": "Widdecombe suspect charged with planning terror act against Farage",
+    "link": "https://www.bbc.co.uk/news/articles/cv1j3lgrl6gko?at_medium=RSS&at_campaign=rss",
+    "description": "Counter terror police say the further charge comes after a \"hugely intensive and complex investigation\".",
+    "pubDate": "Fri, 02 Oct 2026 21:32:25 GMT",
+    "source": "BBC News",
+    "category": "综合"
+  },
+  {
+    "title": "G7 to release 100 million barrels of oil and diesel after Trump export ban threat",
+    "link": "https://www.bbc.co.uk/news/articles/ck87zg8jnwngo?at_medium=RSS&at_campaign=rss",
+    "description": "The coordinated release is aimed at heading off further price spikes and avoiding a ban on US diesel exports.",
+    "pubDate": "Fri, 02 Oct 2026 20:25:19 GMT",
+    "source": "BBC News",
+    "category": "综合"
+  },
+  {
+    "title": "Watch: Why has UK diesel price hit an all time high?",
+    "link": "https://www.bbc.co.uk/news/videos/c6m2d3mpm7r8o?at_medium=RSS&at_campaign=rss",
+    "description": "Diesel has now hit an average of £2 a litre in the UK, the RAC motoring group says, with petrol prices also rising.",
+    "pubDate": "Fri, 02 Oct 2026 16:58:30 GMT",
+    "source": "BBC News",
+    "category": "综合"
+  },
+  {
+    "title": "Men charged over alleged plot to target Manchester Jewish community",
+    "link": "https://www.bbc.co.uk/news/articles/cqx29nke55kno?at_medium=RSS&at_campaign=rss",
+    "description": "The pair were arrested in the Northern Quarter area of the city on the eve of Yom Kippur.",
+    "pubDate": "Fri, 02 Oct 2026 21:38:05 GMT",
+    "source": "BBC News",
+    "category": "综合"
+  },
+  {
+    "title": "Riot police clash with students as education protests rage in France",
+    "link": "https://www.bbc.co.uk/news/articles/ck3r5dxxwqzpo?at_medium=RSS&at_campaign=rss",
+    "description": "About 735 schools have faced disruption as violent protests over standards and lack of teachers continue.",
+    "pubDate": "Fri, 02 Oct 2026 21:13:27 GMT",
+    "source": "BBC News",
+    "category": "综合"
+  },
+  {
+    "title": "US murderer Christa Pike unconscious and on ventilator after failed execution, lawyers say",
+    "link": "https://www.bbc.co.uk/news/articles/c3kgqw7zvz47o?at_medium=RSS&at_campaign=rss",
+    "description": "As of Thursday night, Pike remained critically ill and is being treated at a hospital in Nashville, Tennessee.",
+    "pubDate": "Fri, 02 Oct 2026 20:32:07 GMT",
+    "source": "BBC News",
+    "category": "综合"
+  },
+  {
+    "title": "Traitors claim their first victim as Richard E Grant tries to save his skin",
+    "link": "https://www.bbc.co.uk/news/articles/czxe30796xno?at_medium=RSS&at_campaign=rss",
+    "description": "There was a murder and a recruitment in the latest episode, and that was just in the opening minutes.",
+    "pubDate": "Fri, 02 Oct 2026 23:31:37 GMT",
+    "source": "BBC News",
+    "category": "综合"
+  },
+  {
+    "title": "Tories pledge to build 50,000 new prison places",
+    "link": "https://www.bbc.co.uk/news/articles/ck9qrqq53nj3o?at_medium=RSS&at_campaign=rss",
+    "description": "The party says its proposals would stop prisoners being released early and cut crime.",
+    "pubDate": "Fri, 02 Oct 2026 21:11:04 GMT",
+    "source": "BBC News",
+    "category": "综合"
+  },
+  {
+    "title": "King's Caribbean tour will not shy away from 'darkest days of our past'",
+    "link": "https://www.bbc.co.uk/news/articles/cqn73lr17g5eo?at_medium=RSS&at_campaign=rss",
+    "description": "In recent years, the King has expressed his \"personal sorrow\" at the UK's role in slavery.",
+    "pubDate": "Fri, 02 Oct 2026 21:05:20 GMT",
+    "source": "BBC News",
+    "category": "综合"
+  },
+  {
+    "title": "Intensified Russian strikes are tearing Kyiv apart, warns mayor",
+    "link": "https://www.bbc.co.uk/news/articles/c6wyv44y4ywjo?at_medium=RSS&at_campaign=rss",
+    "description": "Vitaliy Klitschko says Ukraine's capital is in a \"very dramatic situation\" as Russia hits critical infrastructure.",
+    "pubDate": "Fri, 02 Oct 2026 15:26:37 GMT",
+    "source": "BBC News",
+    "category": "综合"
+  },
+  {
+    "title": "Met Police urge students to move 7 October protest",
+    "link": "https://www.bbc.co.uk/news/articles/cwkg5220l577o?at_medium=RSS&at_campaign=rss",
+    "description": "The Met said it had tried to contact the University of London Coalition to postpone its protest.",
+    "pubDate": "Fri, 02 Oct 2026 21:13:45 GMT",
+    "source": "BBC News",
+    "category": "综合"
+  },
+  {
+    "title": "I've seen nearly 500 executions - but never one like Christa Pike's",
+    "link": "https://www.bbc.co.uk/news/articles/c6d949gq47x9o?at_medium=RSS&at_campaign=rss",
+    "description": "Texas reporter Michael Graczyk has seen botched executions in his time, but not one in which an inmate survived.",
+    "pubDate": "Fri, 02 Oct 2026 14:01:09 GMT",
+    "source": "BBC News",
+    "category": "综合"
+  },
+  {
+    "title": "School protests send shivers down French government's spine",
+    "link": "https://www.bbc.co.uk/news/articles/c69wzjjxex8po?at_medium=RSS&at_campaign=rss",
+    "description": "A movement that started nearly two weeks ago has spread, and in France young people on the streets spells trouble, writes Hugh Schofield.",
+    "pubDate": "Fri, 02 Oct 2026 12:43:02 GMT",
+    "source": "BBC News",
+    "category": "综合"
+  },
+  {
+    "title": "Tories aim to be election-ready ahead of party conference",
+    "link": "https://www.bbc.co.uk/news/articles/cr0qxq7jwg9go?at_medium=RSS&at_campaign=rss",
+    "description": "The party will focus on the economy and welfare, as Kemi Badenoch tells her team to prepare for a possible early election.",
+    "pubDate": "Fri, 02 Oct 2026 14:09:25 GMT",
+    "source": "BBC News",
+    "category": "综合"
+  },
+  {
+    "title": "What we know about Cornell University frat house rape investigation",
+    "link": "https://www.bbc.co.uk/news/articles/cmpq0r1ljpqwo?at_medium=RSS&at_campaign=rss",
+    "description": "The woman alleges she was drugged and raped at a fraternity house at the university two years ago.",
+    "pubDate": "Fri, 02 Oct 2026 23:27:59 GMT",
+    "source": "BBC News",
+    "category": "综合"
+  },
+  {
+    "title": "How to see the Orionid meteor shower this weekend",
+    "link": "https://www.bbc.co.uk/weather/articles/c64gr18jrvx3o?at_medium=RSS&at_campaign=rss",
+    "description": "Friday sees the start of the Orionid meteor shower as Earth passes through debris left behind by Halley’s Comet. It peaks later in October.",
+    "pubDate": "Fri, 02 Oct 2026 07:16:45 GMT",
+    "source": "BBC News",
+    "category": "综合"
+  },
+  {
+    "title": "'It could cost me £10k but I need the money now': Why Gen Z are opting out of pensions",
+    "link": "https://www.bbc.co.uk/news/articles/c68xk0ndqz8jo?at_medium=RSS&at_campaign=rss",
+    "description": "A growing number of people are opting out of these schemes due to cost-of-living pressures.",
+    "pubDate": "Thu, 01 Oct 2026 23:00:06 GMT",
+    "source": "BBC News",
+    "category": "综合"
+  },
+  {
+    "title": "Three reasons Middle East oil supply is nearly back to pre-Iran war levels",
+    "link": "https://www.bbc.co.uk/news/articles/cwp8gn13lmygo?at_medium=RSS&at_campaign=rss",
+    "description": "Experts say US military assistance, using shuttle tankers and pipelines bypassing the Strait of Hormuz mean exports have rebounded.",
+    "pubDate": "Fri, 02 Oct 2026 15:29:28 GMT",
+    "source": "BBC News",
+    "category": "综合"
+  },
+  {
+    "title": "Woman at centre of Cornell rape inquiry was 'failed' by officials, says New York governor",
+    "link": "https://www.bbc.co.uk/news/articles/cqvg04718lr9o?at_medium=RSS&at_campaign=rss",
+    "description": "The woman, known as Jane Doe, alleges she was raped by seven students at a fraternity house at the university in 2024.",
+    "pubDate": "Fri, 02 Oct 2026 17:44:08 GMT",
+    "source": "BBC News",
+    "category": "综合"
+  },
+  {
+    "title": "Royal Navy's new attack submarine arrives at Faslane",
+    "link": "https://www.bbc.co.uk/news/articles/cw8rzx53e3zvo?at_medium=RSS&at_campaign=rss",
+    "description": "HMS Agamemnon is the sixth vessel in the Astute class and will undergo sea trials after arriving on the Clyde.",
+    "pubDate": "Fri, 02 Oct 2026 19:34:10 GMT",
+    "source": "BBC News",
+    "category": "综合"
+  },
+  {
+    "title": "Man jailed for piloting small boat carrying 26 others",
+    "link": "https://www.bbc.co.uk/news/articles/cmy83xpg9p5eo?at_medium=RSS&at_campaign=rss",
+    "description": "Jemal Abdela was sentenced after pleading guilty to endangering 26 others, including six children.",
+    "pubDate": "Fri, 02 Oct 2026 20:21:09 GMT",
+    "source": "BBC News",
+    "category": "综合"
+  },
+  {
+    "title": "'Cult' priest guilty of rape and assault of women",
+    "link": "https://www.bbc.co.uk/news/articles/cmreydzjdrqeo?at_medium=RSS&at_campaign=rss",
+    "description": "The leader of Sheffield's former Nine O'Clock Service movement is facing prison for abusing 13 women.",
+    "pubDate": "Fri, 02 Oct 2026 17:58:39 GMT",
+    "source": "BBC News",
+    "category": "综合"
+  },
+  {
+    "title": "Daniel Thomas in court accused of entering migrant site",
+    "link": "https://www.bbc.co.uk/news/articles/cqd095e5x127o?at_medium=RSS&at_campaign=rss",
+    "description": "Thomas, also known as Danny Tommo, is accused of multiple offences in Dover in the spring.",
+    "pubDate": "Fri, 02 Oct 2026 17:33:28 GMT",
+    "source": "BBC News",
+    "category": "综合"
+  },
+  {
+    "title": "Alison Hammond has heart check-up in hospital after rushing off This Morning while on air",
+    "link": "https://www.bbc.co.uk/news/articles/c60rlwgx9n9go?at_medium=RSS&at_campaign=rss",
+    "description": "The host says she is \"fine\" but getting checked after leaving midway through Friday's This Morning.",
+    "pubDate": "Fri, 02 Oct 2026 18:41:43 GMT",
+    "source": "BBC News",
+    "category": "综合"
+  },
+  {
+    "title": "Watch: 'I was not going to let others die' - pilot of Flydubai flight describes cockpit attack by co-pilot",
+    "link": "https://www.bbc.co.uk/news/videos/c914d43y7xn4o?at_medium=RSS&at_campaign=rss",
+    "description": "He has been hailed a hero for opening the cockpit door, allowing passengers to overpower his co-pilot.",
+    "pubDate": "Fri, 02 Oct 2026 08:46:37 GMT",
+    "source": "BBC News",
+    "category": "综合"
+  },
+  {
+    "title": "BBC News app",
+    "link": "https://www.bbc.co.uk/news/10628994?at_medium=RSS&at_campaign=rss",
+    "description": "Top stories, breaking news, live reporting, and follow news topics that match your interests",
+    "pubDate": "Wed, 30 Apr 2025 14:04:28 GMT",
+    "source": "BBC News",
+    "category": "综合"
+  },
+  {
+    "title": "Which clubs did Man City's 'inflated' money flow to in transfer market?",
+    "link": "https://www.bbc.co.uk/sport/football/articles/cmew9w451vx8o?at_medium=RSS&at_campaign=rss",
+    "description": "BBC Sport follows the trail of transfer money flowing to other clubs during Manchester City's period of financial rule-breaking.",
+    "pubDate": "Fri, 02 Oct 2026 22:30:24 GMT",
+    "source": "BBC News",
+    "category": "综合"
+  },
+  {
+    "title": "Man City whistleblower to lose witness protection",
+    "link": "https://www.bbc.co.uk/sport/football/articles/cxyvrp78ddvqo?at_medium=RSS&at_campaign=rss",
+    "description": "Portuguese computer hacker who released documents which helped trigger the Premier League investigation into Manchester City set to lose his witness protection despite fears for his life.",
+    "pubDate": "Fri, 02 Oct 2026 19:26:13 GMT",
+    "source": "BBC News",
+    "category": "综合"
+  },
+  {
+    "title": "Who has 'no ceiling' as Northern Ireland shine in Nations League?",
+    "link": "https://www.bbc.co.uk/sport/football/articles/cwjdmk3j5xleo?at_medium=RSS&at_campaign=rss",
+    "description": "After an impressive 3-0 victory over Ukraine in the Nations League, Northern Ireland manager Michael O'Neill was impressed with his young side.",
+    "pubDate": "Fri, 02 Oct 2026 21:48:54 GMT",
+    "source": "BBC News",
+    "category": "综合"
+  },
+  {
+    "title": "Bath gain revenge on Exeter to win 11-try thriller",
+    "link": "https://www.bbc.co.uk/sport/rugby-union/articles/c8r4vg227kvzo?at_medium=RSS&at_campaign=rss",
+    "description": "After losing to Exeter at home in the Prem semi-final last season, Bath beat the Chiefs 40-34 in another thriller.",
+    "pubDate": "Fri, 02 Oct 2026 21:14:42 GMT",
+    "source": "BBC News",
+    "category": "综合"
+  },
+  {
+    "title": "Sabalenka 'trying hard to be easier on myself'",
+    "link": "https://www.bbc.co.uk/sport/tennis/articles/c52e9dkmm7ylo?at_medium=RSS&at_campaign=rss",
+    "description": "Aryna Sabalenka says she is \"trying so hard to be easier on myself\" as she begins her China Open campaign with victory over Renata Zarazua.",
+    "pubDate": "Fri, 02 Oct 2026 16:23:39 GMT",
+    "source": "BBC News",
+    "category": "综合"
+  },
+  {
+    "title": "Will Warrington or Wakefield be Super League's sixth winner?",
+    "link": "https://www.bbc.co.uk/sport/rugby-league/articles/cwe8e5klvx1jo?at_medium=RSS&at_campaign=rss",
+    "description": "Only five clubs have lifted the trophy in a Super League Grand Final - Warrington and Wakefield now have the chance to add their name to that list.",
+    "pubDate": "Fri, 02 Oct 2026 15:48:57 GMT",
+    "source": "BBC News",
+    "category": "综合"
+  },
+  {
+    "title": "How Gordon became one of England's main men",
+    "link": "https://www.bbc.co.uk/sport/football/articles/cm9qrqelnd49o?at_medium=RSS&at_campaign=rss",
+    "description": "Anthony Gordon has been England's in-form player since the World Cup knockout stage -  is the Barcelona forward now undroppable?",
+    "pubDate": "Fri, 02 Oct 2026 13:15:44 GMT",
+    "source": "BBC News",
+    "category": "综合"
+  },
+  {
+    "title": "Row erupts over Cairo mural depicting Tutankhamun and Nefertiti with dark skin",
+    "link": "https://www.theguardian.com/global-development/2026/oct/02/row-erupts-over-cairo-mural-depicting-tutankhamun-and-nefertiti-with-dark-skin",
+    "description": "Artwork created in Tahrir Square for Chinese president’s state visit to Egypt is painted over amid allegations it revived Afrocentric claims about pharaohs’ originsOn the eve of the Chinese president Xi Jinping’s state visit to Cairo last month, the city authorities were busy removing a 66-metre-long mural from the esteemed guest’s line of sight.Depicting the Pharaoh Tutankhamun and Queen Nefertiti, the painting was among 40 murals commissioned to beautify the city for Xi’s arrival and was paint",
+    "pubDate": "Fri, 02 Oct 2026 08:55:42 GMT",
+    "source": "卫报",
+    "category": "综合"
+  },
+  {
+    "title": "Trump administration diverts human rights funds to push far-right agenda abroad",
+    "link": "https://www.theguardian.com/us-news/2026/sep/30/trump-state-department-human-rights-fund",
+    "description": "Support such as for white Afrikaners and anti-communism reveals how US is redefining what qualifies as human rightsWith hours left before the funding expires, the Trump administration is pushing to direct more than $175m of the state department’s flagship human rights fund to a slate of awards that includes a huge $40m grant for an anti-communism fund, support for a group advancing white Afrikaner rights in South Africa, a campaign against Brazil’s supreme court and programs that would reward id",
+    "pubDate": "Wed, 30 Sep 2026 19:51:24 GMT",
+    "source": "卫报",
+    "category": "综合"
+  },
+  {
+    "title": "South African leader urges men to speak up on gender-based violence after series of killings",
+    "link": "https://www.theguardian.com/world/2026/sep/30/south-africa-gender-based-violence-women-killings",
+    "description": "President announces measures amid anger at authorities over recent murders of womenSouth Africa’s president has called on men to take more responsibility for violence against women as he announced measures to tackle the problem, amid anger at authorities over a recent wave of murders.Cyril Ramaphosa acknowledged that not enough had been done to protect women. He said police would be reviewing unsolved murders, attempted murders and serious sexual offences against women and children, as well as p",
+    "pubDate": "Wed, 30 Sep 2026 14:16:33 GMT",
+    "source": "卫报",
+    "category": "综合"
+  },
+  {
+    "title": "Burundi agrees to receive ‘third-country’ migrant deportees from US",
+    "link": "https://www.theguardian.com/us-news/2026/sep/30/burundi-third-country-deportations-trump-immigration",
+    "description": "Burundi joins several other African nations in accepting people deported under Trump’s hardline policyBurundi has agreed to join a clutch of ⁠other African nations in receiving migrants from other countries deported from the US under ⁠Donald Trump’s hardline ⁠immigration ​policy.However, Burundi will only accept those not accused of crime or terrorism links, said ⁠Nancy Ninette Mutoni, a spokesperson for the country’s president, Évariste Ndayishimiye. Tuesday’s announcement gave no details of nu",
+    "pubDate": "Wed, 30 Sep 2026 12:47:15 GMT",
+    "source": "卫报",
+    "category": "综合"
+  },
+  {
+    "title": "DRC politician beaten to death after radio appearance about Ebola outbreak",
+    "link": "https://www.theguardian.com/world/2026/sep/28/drc-politician-beaten-death-radio-appearance-ebola",
+    "description": "Marie-Celestin Karondwa was attacked on Sunday after promoting measures to prevent spread of disease, his party saysA senior member of the Democratic Republic of the Congo’s ruling party was beaten to death on Sunday after appearing on a radio programme to raise awareness about the Ebola outbreak, a party representative has said.Marie-Celestin Karondwa, the acting president of the Union for Democracy and Social Progress (UDPS) party’s federal executive committee in Butembo, a new hotspot for the",
+    "pubDate": "Mon, 28 Sep 2026 15:54:25 GMT",
+    "source": "卫报",
+    "category": "综合"
+  },
+  {
+    "title": "Brazil’s Lula says only he can stop rise of fascism under Bolsonaro’s son",
+    "link": "https://www.theguardian.com/world/2026/oct/02/brazil-lula-stop-fascism-bolsonaro-son",
+    "description": "President leads huge rally in Rio before election on Sunday seen as most important for decadesThe Brazilian president, Luiz Inácio Lula da Silva, has claimed he is the only thing standing in the way of far-right “fascists” reclaiming power, as he led a huge rally through the streets of Rio ahead of Sunday’s crunch election.Speaking on the eve of the demonstration, the 80-year-old leftwinger said he had decided to seek a historic fourth term because he believed only he could prevent the family of",
+    "pubDate": "Fri, 02 Oct 2026 21:12:29 GMT",
+    "source": "卫报",
+    "category": "综合"
+  },
+  {
+    "title": "US Coast Guard says it intercepted ship carrying fuel to Cuba",
+    "link": "https://www.theguardian.com/world/2026/oct/02/us-coast-guard-says-it-has-intercepted-ship-carrying-fuel-to-cuba",
+    "description": "US says ship thought to be using common ‘dark fleet’ tactics was boarded and taken to Mexico as embargo continuesThe US Coast ⁠Guard has announced that it intercepted a large cargo ship carrying fuel bound for Cuba, as the ⁠Trump administration’s crippling ⁠oil embargo against ​the island nation continued.The vessel named Grace was stopped on 5 September in the Caribbean Sea between Cuba ⁠and Mexico while using tactics to evade authorities, the Coast Guard said. The New York Times reported that ",
+    "pubDate": "Fri, 02 Oct 2026 15:13:23 GMT",
+    "source": "卫报",
+    "category": "综合"
+  },
+  {
+    "title": "‘No one disrespects Our Lady’: fears for Brazil’s patron saint grip country ahead of election",
+    "link": "https://www.theguardian.com/world/2026/oct/02/brazil-election-lady-of-aparecida-lula-bolsonaro-row",
+    "description": "Speculation that Flávio Bolsonaro will try to strip Our Lady of Aparecida of position could become deciding factor in run-up to SundayA row of Biblical proportions has erupted in the run-up to Brazil’s presidential election, with the country’s patron saint, Our Lady of Aparecida, emerging as an unlikely kingmaker in the deadlocked race.Ahead of Sunday’s vote, the two frontrunners – the leftwing president, Luiz Inácio Lula da Silva, and his far-right challenger, Flávio Bolsonaro – are level in th",
+    "pubDate": "Fri, 02 Oct 2026 04:00:10 GMT",
+    "source": "卫报",
+    "category": "综合"
+  },
+  {
+    "title": "The Bolsonaros…they’re back! Brazil heads to the polls – podcast",
+    "link": "https://www.theguardian.com/news/audio/2026/oct/02/the-bolsonarostheyre-back-brazil-heads-to-the-polls-podcast",
+    "description": "Latin America correspondent Tom Phillips reports on this Sunday’s historic presidential elections in Brazil, as the son of jailed former president Jair Bolsonaro hopes to take powerYou would have been forgiven for thinking that when Jair Bolsonaro was convicted in September 2025 of attempting a coup, his political career was finished and his legacy forever tainted.But in the first round of Brazil’s presidential elections this Sunday, another Bolsonaro has genuine hopes of victory – not Jair, but",
+    "pubDate": "Fri, 02 Oct 2026 02:00:07 GMT",
+    "source": "卫报",
+    "category": "综合"
+  },
+  {
+    "title": "Brazil attorney general says meddling ‘cannot be tolerated’ after Trump funding plans revealed",
+    "link": "https://www.theguardian.com/world/2026/oct/01/brazil-attorney-general-election-meddling-trump-funding-plans",
+    "description": "Jorge Messias calls Guardian report ‘an important alert for Brazilian sovereignty’ as nation prepares to go to pollsBrazil’s attorney general has said foreign meddling in his country’s institutions and democracy “cannot be tolerated” after a Guardian report revealed how the Trump administration was pushing to direct funds to a campaign against the Brazilian supreme court.Writing on X, Jorge Messias called the report “an important alert for Brazilian sovereignty”. “The information is especially s",
+    "pubDate": "Thu, 01 Oct 2026 18:34:10 GMT",
+    "source": "卫报",
+    "category": "综合"
+  },
+  {
+    "title": "Daredevil Jaan Roose completes slackline walk high above central Seoul",
+    "link": "https://www.theguardian.com/world/2026/oct/01/jaan-roose-seoul-slackline-walk-south-korea",
+    "description": "Estonian completed first of two attempts to navigate narrow ribbon, 160 metres long and 120 metres high, near the city’s famous Gyeongbokgung palace on ThursdayThe lunchtime crowds drifted slowly back to their offices along central Seoul’s main boulevard, heads up and phones raised to the sky.High above, a narrow ribbon ran between the Koreana hotel and the Dong-A Media Center, a few hundred metres from the capital’s famous Gyeongbokgung palace and Gwanghwamun square. Continue reading...",
+    "pubDate": "Thu, 01 Oct 2026 06:04:17 GMT",
+    "source": "卫报",
+    "category": "综合"
+  },
+  {
+    "title": "MI5 China alert will send chill through UK’s cash-strapped universities",
+    "link": "https://www.theguardian.com/education/2026/sep/30/mi5-china-alert-uk-universities-funding-financing",
+    "description": "Institutions have for years turned to China for funding opportunities but national security concerns are mountingMI5 issues spy alert to UK universities over Chinese front company stealing researchThe security alert issued by MI5 regarding a Chinese state-owned conglomerate accused of conducting espionage in the UK reveals the extent to which British intelligence remains concerned about Beijing’s influence, and risks casting a shadow over UK-China cooperation at a time when the bilateral relatio",
+    "pubDate": "Wed, 30 Sep 2026 13:36:25 GMT",
+    "source": "卫报",
+    "category": "综合"
+  },
+  {
+    "title": "MI5 warns UK universities over ‘theft of tech secrets by Chinese front company’",
+    "link": "https://www.theguardian.com/uk-news/2026/sep/30/mi5-issues-spy-alert-over-body-linked-chinese-state-stealing-vital-uk-research-universities",
+    "description": "Security service says academics should stop working with and taking grants from firm backed by Chinese intelligenceMI5 China alert will send chill through UK’s cash-strapped universitiesMI5 has issued a rare public warning to UK universities that China’s intelligence service is using a front company to pay for research by UK academics and steal the secrets of hi-tech projects.Britain’s domestic security service said researchers and academics should cease work with the China General Technology Re",
+    "pubDate": "Wed, 30 Sep 2026 13:00:41 GMT",
+    "source": "卫报",
+    "category": "综合"
+  },
+  {
+    "title": "AI tool that copied actor’s ‘lustrous’ voice violated his rights, Tokyo court rules",
+    "link": "https://www.theguardian.com/technology/2026/sep/30/ai-tool-copied-actor-kenjiro-tsuda-tokyo-court",
+    "description": "Kenjiro Tsuda wins case against TikTok account in landmark Japanese verdict to protect publicity rightsA court in Japan has ruled that the human voice has legal protection after a landmark case involving a well-known actor and a TikTok account that he claimed had cloned his “lustrous” baritone voice in its AI-generated videos.Tokyo district court said on Wednesday that voices should enjoy the same protection as publicity rights, at the end of a closely watched legal action brought against TikTok",
+    "pubDate": "Wed, 30 Sep 2026 11:09:52 GMT",
+    "source": "卫报",
+    "category": "综合"
+  },
+  {
+    "title": "South Korea calls for apology from North Korea after mine injures three soldiers",
+    "link": "https://www.theguardian.com/world/2026/sep/30/south-korea-apology-north-korea-mine-injures-soldiers",
+    "description": "Blast during search operation near border fuels political tensions amid attempts to revive diplomatic channelsSouth Korea has demanded an apology from North Korea over a landmine blast that injured three soldiers, saying they were hurt by North Korean mines on the southern side of the border.Kang Hyun-woo, the director of operations at South Korea’s joint chiefs of staff, demanded an apology and “responsible measures” from Pyongyang over the blast, which occurred on 21 September during a search ",
+    "pubDate": "Wed, 30 Sep 2026 07:53:24 GMT",
+    "source": "卫报",
+    "category": "综合"
+  },
+  {
+    "title": "Magnitude 4.8 earthquake hits Victoria with tremors felt across Melbourne",
+    "link": "https://www.theguardian.com/world/2026/oct/02/magnitude-48-earthquake-hits-victoria-with-tremors-felt-across-melbourne",
+    "description": "The epicentre was at Leongatha, 130km south-east of Melbourne, with residents reporting houses shaking just after 2amGet our breaking news email, free app or daily news podcastA magnitude 4.8 earthquake struck Victoria in the early hours of Saturday morning, shaking Melbourne and waking people across the whole region.Geoscience Australia said it detected an earthquake with a preliminary magnitude of 4.8 at 2.01am near Leongatha, 130km south-east of Melbourne, with the tremors felt across the cit",
+    "pubDate": "Fri, 02 Oct 2026 19:57:16 GMT",
+    "source": "卫报",
+    "category": "综合"
+  },
+  {
+    "title": "OpenAI’s Medicare attack has exposed Australia’s ‘tech debt’. Fixing it could bring a big bill for taxpayers",
+    "link": "https://www.theguardian.com/australia-news/2026/oct/03/openais-medicare-attack-has-exposed-australias-tech-debt-fixing-it-could-bring-a-big-bill-for-taxpayers",
+    "description": "Home affairs department orders all federal government agencies to conduct review of ‘legacy technology’ amid fallout from AI agent hacks Get our breaking news email, free app or daily news podcastThe Australian government faces significant “tech debt” that could bring a big bill for taxpayers after the OpenAI Medicare breach, as government agencies will need to fortify their defences against future attacks by AI agents.This week, the home affairs department ordered all federal government agencie",
+    "pubDate": "Fri, 02 Oct 2026 15:00:13 GMT",
+    "source": "卫报",
+    "category": "综合"
+  },
+  {
+    "title": "Bruce Baird, former federal Liberal MP and NSW minister, dies aged 84",
+    "link": "https://www.theguardian.com/australia-news/2026/oct/02/bruce-baird-former-federal-liberal-mp-and-nsw-minister-dies-aged-84",
+    "description": "Baird, father of former NSW premier Mike Baird and journalist Julia Baird, helped win the Olympics for SydneyGet our breaking news email, free app or daily news podcastBruce Baird, a former federal Liberal MP and deputy leader of the party’s New South Wales branch, has died aged 84.Baird, who also served as the NSW transport minister from 1988 to 1995, is the father of former state premier Mike Baird, the ABC journalist Julia Baird, and the marketing executive Steve Baird.Sign up for Guardian Au",
+    "pubDate": "Fri, 02 Oct 2026 13:03:49 GMT",
+    "source": "卫报",
+    "category": "综合"
+  },
+  {
+    "title": "OpenAI disclose another hack on government department in Australia",
+    "link": "https://www.theguardian.com/technology/2026/oct/02/openai-disclose-another-hack-on-government-department-in-australia",
+    "description": "Attack accessing historical data on bushfires occurred in June but not disclosed by the tech company until ThursdayGet our breaking news email, free app or daily news podcastArtificial intelligence company OpenAI has disclosed another unauthorised hack on a government department in Australia.In June, an OpenAI agent hacked into a New South Wales state government department and accessed historical non-public data on bushfires without authorisation. Continue reading...",
+    "pubDate": "Fri, 02 Oct 2026 10:00:05 GMT",
+    "source": "卫报",
+    "category": "综合"
+  },
+  {
+    "title": "Activists plan legal action against police ban on entering security zone near Perth weapons expo",
+    "link": "https://www.theguardian.com/australia-news/2026/oct/02/activists-plan-legal-action-against-police-ban-on-entering-security-zone-near-perth-weapons-expo",
+    "description": "Under new WA laws anyone who defies an exclusion order could face a maximum $36,000 fine and three years in prisonGet our breaking news email, free app or daily news podcastActivists and a Greens MP have threatened legal action after the Western Australia police banned at least 12 people entering a designated security area where the Land Forces weapons expo will be held in Perth from 6 October.The police used special powers given to them by the WA government last month to ban the activists from ",
+    "pubDate": "Fri, 02 Oct 2026 08:31:55 GMT",
+    "source": "卫报",
+    "category": "综合"
+  },
+  {
+    "title": "G7 to release up to 100m barrels of emergency oil and diesel reserves",
+    "link": "https://www.theguardian.com/business/2026/oct/02/g7-release-barrels-oil-diesel-reserves-emergency",
+    "description": "Leaders agree a coordinated drawdown after surge in prices and Donald Trump’s threat to cut off US suppliesLeaders of G7 nations are to release up to 100m barrels of their emergency diesel and crude oil stockpiles after Donald Trump threatened to cut off supplies of US diesel.The French President, Emmanuel Macron, said ministers from some of world’s largest economies had agreed to release stocks from their strategic oil reserves after crisis talks on Friday. Continue reading...",
+    "pubDate": "Fri, 02 Oct 2026 18:52:03 GMT",
+    "source": "卫报",
+    "category": "综合"
+  },
+  {
+    "title": "Spanish right wing votes down housing crisis plans as protest movement grows",
+    "link": "https://www.theguardian.com/world/2026/oct/02/spanish-right-wing-votes-down-housing-crisis-plans-protest-movement-grows",
+    "description": "Opposition lawmakers join forces to defeat proposals made by Socialist-led coalition after eviction of 87-year-oldRightwing lawmakers in Spain have rejected emergency measures put forward to tackle the country’s housing crisis, pitting a fractured parliament against the widespread protest movement that has swelled in recent days.On Friday Pedro Sánchez’s Socialist-led coalition put forward two decrees that included a range of measures aimed at improving access to housing, from a ban on evictions",
+    "pubDate": "Fri, 02 Oct 2026 16:27:47 GMT",
+    "source": "卫报",
+    "category": "综合"
+  },
+  {
+    "title": "G7 to release 100m barrels from reserves to combat surging diesel prices – as it happened",
+    "link": "https://www.theguardian.com/world/live/2026/oct/02/france-schools-protests-violence-ukraine-kallas-rome-pope-latest-news-updates",
+    "description": "This blog is now closed, you can read more on this story hereBack to France, midday figures quoted by Le Figaro show that 564 schools and educational establishments have been disrupted by the ongoing unrest, and some 600 people have been arrested so far today as the high school protests continue.Europe environment correspondent Continue reading...",
+    "pubDate": "Fri, 02 Oct 2026 16:11:12 GMT",
+    "source": "卫报",
+    "category": "综合"
+  },
+  {
+    "title": "‘The enemy is tearing our city apart’: terror in Kyiv as Russia ramps up attacks",
+    "link": "https://www.theguardian.com/world/2026/oct/02/terror-kyiv-russia-ramps-up-attacks-ukraine",
+    "description": "Mayor Vitali Klitschko says Kyivans can no longer pretend it is ‘peacetime’ amid strikes on school, hospital and bridgeValeriya Tkachenko was dropping her son off at school in central Kyiv when the air raid alert sounded. Staff hurried the children and parents into the shelter, where the frightened lawyer spent the next two hours with her son.“I’m scared to death all day about what could happen to my son,” she said as she emerged from the shelter, already late for work. Continue reading...",
+    "pubDate": "Fri, 02 Oct 2026 14:50:59 GMT",
+    "source": "卫报",
+    "category": "综合"
+  },
+  {
+    "title": "Fires, fury and hundreds of arrests as France gripped by student protests",
+    "link": "https://www.theguardian.com/world/2026/oct/02/student-protests-shut-schools-across-france",
+    "description": "Government struggling to deal with worst crisis in months after being taken by surprise by massive demonstrationsAs dozens of school pupils sat on top of a pile of wheelie bins blocking a high school entrance in north-eastern Paris, Sophia, 17, was on the frontline of the barricade, when she would normally have been attending Spanish class.“We hope this grows into a massive youth protest movement,” said the final year baccalaureate student at Paris’s Lycée Voltaire, who did not want her real nam",
+    "pubDate": "Fri, 02 Oct 2026 14:10:21 GMT",
+    "source": "卫报",
+    "category": "综合"
+  },
+  {
+    "title": "Suicide by plane or terrorism? Speculation over motive in flight 1073 attack",
+    "link": "https://www.theguardian.com/world/2026/oct/02/aviation-security-flydubai-flight-israel",
+    "description": "Experts sceptical flydubai co-pilot’s only motivation was to end his own life and say key question is means of radicalisationAt about 9.30 on Wednesday morning local time, Tali Manes was taking her six-year-old daughter, Nina, to the toilet on the regular flydubai flight from Dubai to Tel Aviv when she heard a series of heavy blows against the cockpit door.Manes, an Israeli bank executive, immediately told a flight attendant seated nearby that something was wrong. When he did not react, she shou",
+    "pubDate": "Fri, 02 Oct 2026 15:40:05 GMT",
+    "source": "卫报",
+    "category": "综合"
+  },
+  {
+    "title": "‘I was fighting for my life’: Indian pilot hailed as hero recalls flydubai cockpit attack",
+    "link": "https://www.theguardian.com/world/2026/oct/02/indian-pilot-smit-machchhar-recalls-flydubai-cockpit-attack",
+    "description": "Smit Machchhar says in video call with Indian PM that he realised if he did not get up ‘passengers would lose their lives’The Indian pilot who helped thwart an apparent attempt to crash a flydubai flight to Tel Aviv said his faith and his desire to save his passengers allowed him to make a “last push” to open the cockpit door as he fought for his life.Capt Smit Machchhar, who was recovering in an Abu Dhabi hospital, described to India’s prime minister, Narendra Modi, how he helped save the plane",
+    "pubDate": "Fri, 02 Oct 2026 08:39:40 GMT",
+    "source": "卫报",
+    "category": "综合"
+  },
+  {
+    "title": "Friday briefing: How we covered the flydubai incident as it unfolded",
+    "link": "https://www.theguardian.com/world/2026/oct/02/friday-briefing-how-we-covered-the-flydubai-incident-as-it-unfolded",
+    "description": "In today’s newsletter: When a passenger plane plunges 17,000ft amid claims of terrorism, hijacking and geopolitical intrigue, Guardian journalists have to try and separate fact from fiction in real timeGood morning. Shocking news of a cockpit stabbing. Graphic footage of bloodied crew members. Mid-air testimony from terrified passengers.This was the tenor of the heart-in-mouth reporting as the horrifying events unfolded onboard flight FZ 1073 to Tel Aviv: the early morning budget flight that plu",
+    "pubDate": "Fri, 02 Oct 2026 05:45:23 GMT",
+    "source": "卫报",
+    "category": "综合"
+  },
+  {
+    "title": "NAZA film-makers say they spoke to more than 100 sources about Israeli actions in Gaza",
+    "link": "https://www.theguardian.com/film/2026/oct/01/makers-naza-film-spoke-more-than-100-sources-israeli-actions-gaza",
+    "description": "Team behind documentary push back against IDF attempt to discredit its exposure of military systemsThe team behind the award-winning film NAZA, which details the Israeli military’s targeting policies in Gaza and its alleged acceptance of high numbers of civilian deaths, have revealed they spoke to more than 100 sources with knowledge of the military systems used in the war.The disclosure came in response to an Israel Defense Forces statement seeking to discredit the documentary. Continue reading",
+    "pubDate": "Thu, 01 Oct 2026 17:45:09 GMT",
+    "source": "卫报",
+    "category": "综合"
+  },
+  {
+    "title": "Co-pilot in flight stabbing had ‘Islamic radical indoctrination’, says Netanyahu",
+    "link": "https://www.theguardian.com/world/2026/oct/01/netanyahu-flydubai-halts-all-flights-to-israel",
+    "description": "Alleged flydubai attacker interrogated by Saudi security services as investigation into apparent crash attempt opensThe Omani co-pilot who stabbed his captain in an apparent attempt to crash an Israel-bound flight from Dubai had previously undergone radical Islamist indoctrination and was suicidal, Israel’s prime minister, Benjamin Netanyahu, has claimed.Israeli passengers intervened to stop the attack on Wednesday, restraining the co-pilot, while a reserve crew in the plane was able to stabilis",
+    "pubDate": "Thu, 01 Oct 2026 16:04:48 GMT",
+    "source": "卫报",
+    "category": "综合"
+  },
+  {
+    "title": "India’s Cockroach movement launches new protests over changes to voter roll",
+    "link": "https://www.theguardian.com/world/2026/oct/02/india-cockroach-movement-protests-mumbai-changes-voter-roll",
+    "description": "Thousands gather in Mumbai with heavy police presence as concerns mount that millions will be denied voting rightsIndia’s youth-led Cockroach movement kicked off more nationwide protests on Friday as thousands of people gathered in Mumbai, amid mounting concerns that millions of citizens are being unfairly stripped of their vote.The movement, which calls itself the Cockroach Janta party (CJP) and has massive support among the country’s gen Zs, returned to the streets to demand the resignation of",
+    "pubDate": "Fri, 02 Oct 2026 14:42:16 GMT",
+    "source": "卫报",
+    "category": "综合"
+  },
+  {
+    "title": "British Sikh activist released from Delhi jail after nine-year detention",
+    "link": "https://www.theguardian.com/world/2026/oct/01/british-sikh-activist-jagtar-singh-johal-released-delhi-jail-india",
+    "description": "Indian government issued with warning it would be in contempt of court if it failed to release Jagtar Singh JohalThe British Sikh activist Jagtar Singh Johal has been released from a Delhi prison after the Indian high court warned the government it would be found in contempt of court if it continued to attempt to keep him in jail despite an 18 September court order releasing him on bail. Johal has been incarcerated for nine years without any full trial.The court order was issued after Johal’s la",
+    "pubDate": "Thu, 01 Oct 2026 13:10:51 GMT",
+    "source": "卫报",
+    "category": "综合"
+  },
+  {
+    "title": "‘We want justice’: series of rapes trigger mass protests at Indian universities",
+    "link": "https://www.theguardian.com/world/2026/sep/30/rapes-triggers-mass-protests-indian-universities",
+    "description": "Women say nothing has changed since Delhi’s infamous Nirbhaya bus rape case 14 years agoThe posters, just like the women holding them, were taking no prisoners. “Girls don’t need curfews, rapists need consequences,” read one. “Lock your dicks rather than your women at home,” read another.As hundreds of women walked from the gates of their university campus into the streets of Delhi – where sexual harassment, assault, catcalling and molestation are a constant, daily threat – they shouted together",
+    "pubDate": "Wed, 30 Sep 2026 15:56:09 GMT",
+    "source": "卫报",
+    "category": "综合"
+  },
+  {
+    "title": "From Jamui to Delhi, the burden of safety from sexual assault cannot fall on women",
+    "link": "https://www.theguardian.com/world/2026/sep/28/this-is-india-violence-against-women",
+    "description": "As outrage grows over cases​ of sexual violence, activists are demanding a shift from controlling women to confronting men’s behaviour. Plus, Tony Klor’s ‘hella dope’ city vlogs• Don’t get This is India delivered to your inbox? Sign up hereAs an Indian woman, I often feel myself oscillating between states of anxiety or anger. The anxiety is about doing the mental maths of how to stay safe – thinking about what I’m wearing, where I am going and how I’ll get there, and so on. The anger is at the s",
+    "pubDate": "Tue, 29 Sep 2026 06:30:55 GMT",
+    "source": "卫报",
+    "category": "综合"
+  },
+  {
+    "title": "Pakistan locks down Islamabad as Imran Khan’s party vows to march on capital",
+    "link": "https://www.theguardian.com/world/2026/sep/25/pakistan-lockdown-islamabad-imran-khan-party-march",
+    "description": "Tens of thousands of police deployed and roads barricaded as PTI party demands release of jailed former PMLeaders from Imran Khan’s party have vowed to go ahead with a nationwide demonstration in Pakistan to demand the former prime minister’s release, even as the government deployed tens of thousands of police to Islamabad, barricaded highways and issued arrest warrants to try to stop the march.The state has taken extreme measures to prevent Khan’s Pakistan Tehreek-e-Insaf (PTI) party from proce",
+    "pubDate": "Fri, 25 Sep 2026 13:44:55 GMT",
+    "source": "卫报",
+    "category": "综合"
+  },
+  {
+    "title": "Two Iranian men charged over alleged terror plot targeting Manchester’s Jewish community",
+    "link": "https://www.theguardian.com/uk-news/2026/oct/02/charged-alleged-terror-plot-manchester-jewish-community",
+    "description": "Man, most likely in Iran, was in contact with men arrested on the eve of Yom Kippur, police sayTwo Iranian men have been charged in relation to an alleged terror plot targeting Manchester’s Jewish community.​Police say another man, most likely in Iran, was in contact with them as part of a plot to get a bomb to attack Jewish targets. Continue reading...",
+    "pubDate": "Fri, 02 Oct 2026 22:52:01 GMT",
+    "source": "卫报",
+    "category": "综合"
+  },
+  {
+    "title": "Ann Widdecombe murder suspect charged with planning terror act against Nigel Farage",
+    "link": "https://www.theguardian.com/uk-news/2026/oct/02/ann-widdecombe-suspect-charged-with-planning-terror-act-against-nigel-farage",
+    "description": "Joshua Kerry, 28, of Rotherham in South Yorkshire, charged with one count of preparation of terrorist acts, say policeThe man accused of murdering Ann Widdecombe has been charged with engaging in conduct in preparation of acts of terrorism including against Nigel Farage.Joshua Kerry, 28, of Rotherham in South Yorkshire, was charged by the Crown Prosecution Service on Friday with one count of preparation of terrorist acts. The charge relates to activity alleged to have taken place between 31 May ",
+    "pubDate": "Fri, 02 Oct 2026 19:15:01 GMT",
+    "source": "卫报",
+    "category": "综合"
+  },
+  {
+    "title": "King Charles III to acknowledge ‘darkest days’ of Britain’s colonial rule during Caribbean tour",
+    "link": "https://www.theguardian.com/uk-news/2026/oct/02/king-charles-darkest-days-britain-colonial-rule-caribbean-tour",
+    "description": "Buckingham Palace say the king will not ‘shy away’ from Britain’s role in slavery when he visits Commonwealth nations later this monthKing Charles III will acknowledge the “darkest days” of colonial rule and slavery while touring Caribbean countries on a visit beginning this month, a Buckingham Palace spokesperson said on Friday.The king will first visit the Bahamas and Guyana alone, followed by a trip with Queen Camilla to Antigua and Barbuda, where Charles will give a speech at a meeting of Co",
+    "pubDate": "Fri, 02 Oct 2026 19:02:56 GMT",
+    "source": "卫报",
+    "category": "综合"
+  },
+  {
+    "title": "Palestine Action activists used whips and hammers to threaten guards at arms factory, court hears",
+    "link": "https://www.theguardian.com/uk-news/2026/oct/02/palestine-action-activists-whips-hammers-guards-elbit-bristol",
+    "description": "Five defendants accused of being part of ‘black team’ tasked with overcoming security at Israel-linked firm Elbit near BristolPalestine Action activists brandished whips, hammers and kebab skewers to intimidate security guards and keep them at bay during a break-in at an Israel-linked arms factory, a court has heard.Five defendants are accused by prosecutors of being part of a “black team”, wearing black jumpsuits, whose role was to overwhelm security guards, so that a “red team”, wearing red ju",
+    "pubDate": "Fri, 02 Oct 2026 17:18:37 GMT",
+    "source": "卫报",
+    "category": "综合"
+  },
+  {
+    "title": "Burnham to pass law scrapping pension triple lock before next election",
+    "link": "https://www.theguardian.com/politics/2026/oct/02/burnham-law-pension-triple-lock",
+    "description": "Guarantee will remain until 2030 but MPs will vote on changes during this parliament, government saysAndy Burnham will pass legislation to scrap the state pension triple lock in this parliament, even though the guarantee will remain until 2030, the government has said.The prime minister used his conference speech to announce a change to the policy, which guarantees that the state pension rises by the highest of 2.5%, inflation or earnings growth. Continue reading...",
+    "pubDate": "Fri, 02 Oct 2026 16:39:11 GMT",
+    "source": "卫报",
+    "category": "综合"
+  },
+  {
+    "title": "Partner of Gypsy Rose Blanchard found dead in Louisiana home",
+    "link": "https://www.theguardian.com/us-news/2026/oct/02/gypsy-rose-blanchard-ken-urker-dead",
+    "description": "Kenan ‘Ken’ Urker, 34, who died of apparent drug overdose, was partner of woman convicted of murder of mother The on-and-off partner of Gypsy Rose Blanchard, who spent time in prison for her role in the murder of her abusive mother, was found dead inside his Louisiana home on his 34th birthday on Thursday in what authorities described as an apparent drug overdose.The sheriff’s office in Lafourche parish, Louisiana, confirmed Kenan “Ken” Urker – the father of Blanchard’s daughter – was discovered",
+    "pubDate": "Fri, 02 Oct 2026 23:53:14 GMT",
+    "source": "卫报",
+    "category": "综合"
+  },
+  {
+    "title": "Trump threatens to double tariffs on South Korea if they do not pay for Alaska natural gas pipeline – US politics live",
+    "link": "https://www.theguardian.com/us-news/live/2026/oct/02/cornell-university-leticia-james-christa-pike-death-penalty-donald-trump-us-jobs-latest-news-updates",
+    "description": "President has claimed pipeline project was part of a deal made last year to lower tariffs on imports from South Korea in return for billions of dollars of investments in the USSign up for the Breaking News US emailSend us your questions on how the Iran war will affect US voters in the midtermsAnd as we bring you the latest on how the jobs report stands to impact voter sentiment ahead of the November midterms, my colleagues have done all the hard work in mapping out the battle for Congress and th",
+    "pubDate": "Fri, 02 Oct 2026 23:39:55 GMT",
+    "source": "卫报",
+    "category": "综合"
+  },
+  {
+    "title": "Federal judge halts Big Bend border wall construction in blow to Trump agenda",
+    "link": "https://www.theguardian.com/us-news/2026/oct/02/big-bend-national-park-border-wall-halt",
+    "description": "Plan to install barriers through popular national park sparked outrage from advocates and politicians alikeA federal judge has temporarily blocked the Trump administration from expanding the border wall and other security infrastructure across the Big Bend region of west Texas, where contentious plans to build roads and vehicle barriers through a popular national park have led to furious backlash and public protests.US district judge Kathleen Cardone’s ruling after a Friday hearing in El Paso de",
+    "pubDate": "Fri, 02 Oct 2026 23:32:22 GMT",
+    "source": "卫报",
+    "category": "综合"
+  },
+  {
+    "title": "DoJ declines to reopen investigation into former Fed chair Jay Powell",
+    "link": "https://www.theguardian.com/business/2026/oct/02/doj-fed-chair-jerome-powell-investigation",
+    "description": "Kevin Warsh’s predecessor had been investigated over cost overruns related to central bank renovation projectThe US ⁠justice department is not reopening a criminal investigation into former Federal Reserve chair Jerome Powell ⁠for cost overruns ⁠related ​to the central bank’s building renovation project, a department spokesperson said on Friday.Attorney general Todd ⁠Blanche – in comments to Bloomberg News, which first reported the development – said he has not ruled out ⁠continuing to look into",
+    "pubDate": "Fri, 02 Oct 2026 22:32:21 GMT",
+    "source": "卫报",
+    "category": "综合"
+  },
+  {
+    "title": "US sanctions three individuals and two charities over alleged Hamas financing",
+    "link": "https://www.theguardian.com/us-news/2026/oct/02/us-sanctions-hamas-financing-network",
+    "description": "The justice and treasury departments said they sent $2m to Hamas through charities and cryptocurrency, while six people were arrested across the US and FranceThe Trump administration on Friday unveiled sanctions against three individuals allegedly related to the Islamist militant group Hamas and against two charities based in France while also announcing six arrests – actions that the government called an “extraordinary counter-terrorism work” to expose “a sophisticated, multi‑year financing arc",
+    "pubDate": "Fri, 02 Oct 2026 22:24:45 GMT",
+    "source": "卫报",
+    "category": "综合"
+  }
+]
