@@ -926,5 +926,949 @@
     "pubDate": "Tue, 13 Oct 2026 19:22:02 GMT",
     "source": "卫报",
     "category": "综合"
+  },
+  {
+    "title": "Tiny Little Office",
+    "link": "https://tinylittleoffice.com/",
+    "description": "Article URL: https://tinylittleoffice.com/\nComments URL: https://news.ycombinator.com/item?id=50096142\nPoints: 55\n# Comments: 8",
+    "pubDate": "Wed, 14 Oct 2026 22:10:08 +0000",
+    "source": "Hacker News",
+    "category": "科技"
+  },
+  {
+    "title": "We’re releasing Jev 1.14.0 along with experimental features for dreamers",
+    "link": "https://typesafe.ai/blog/jev-1-14",
+    "description": "Article URL: https://typesafe.ai/blog/jev-1-14\nComments URL: https://news.ycombinator.com/item?id=50095353\nPoints: 124\n# Comments: 45",
+    "pubDate": "Wed, 14 Oct 2026 21:11:03 +0000",
+    "source": "Hacker News",
+    "category": "科技"
+  },
+  {
+    "title": "OpenCode 2.0",
+    "link": "https://anoma.ly/notes/opencode-2-0/",
+    "description": "Article URL: https://anoma.ly/notes/opencode-2-0/\nComments URL: https://news.ycombinator.com/item?id=50094994\nPoints: 195\n# Comments: 70",
+    "pubDate": "Wed, 14 Oct 2026 20:48:24 +0000",
+    "source": "Hacker News",
+    "category": "科技"
+  },
+  {
+    "title": "Anthropic's Scion is heavily inspired by Mononoke",
+    "link": "https://sunshowers.io/posts/anthropic-mononoke/",
+    "description": "Article URL: https://sunshowers.io/posts/anthropic-mononoke/\nComments URL: https://news.ycombinator.com/item?id=50094694\nPoints: 201\n# Comments: 89",
+    "pubDate": "Wed, 14 Oct 2026 20:30:54 +0000",
+    "source": "Hacker News",
+    "category": "科技"
+  },
+  {
+    "title": "Yandex outage: data shows that instead of going dark, malicious bots moved",
+    "link": "https://blog.cloudflare.com/yandex-outage/",
+    "description": "Article URL: https://blog.cloudflare.com/yandex-outage/\nComments URL: https://news.ycombinator.com/item?id=50094673\nPoints: 178\n# Comments: 55",
+    "pubDate": "Wed, 14 Oct 2026 20:29:13 +0000",
+    "source": "Hacker News",
+    "category": "科技"
+  },
+  {
+    "title": "Fancy Curl Sites",
+    "link": "https://nytpu.com/gemlog/2026-03-18",
+    "description": "Article URL: https://nytpu.com/gemlog/2026-03-18\nComments URL: https://news.ycombinator.com/item?id=50093612\nPoints: 62\n# Comments: 12",
+    "pubDate": "Wed, 14 Oct 2026 19:29:12 +0000",
+    "source": "Hacker News",
+    "category": "科技"
+  },
+  {
+    "title": "Things to know when you get cancer – 2026 Edition",
+    "link": "https://jjmaxwell4.com/writing/things-to-know-when-you-get-cancer/",
+    "description": "Article URL: https://jjmaxwell4.com/writing/things-to-know-when-you-get-cancer/\nComments URL: https://news.ycombinator.com/item?id=50093568\nPoints: 589\n# Comments: 158",
+    "pubDate": "Wed, 14 Oct 2026 19:26:30 +0000",
+    "source": "Hacker News",
+    "category": "科技"
+  },
+  {
+    "title": "Suicide rates highest ever among middle-aged men",
+    "link": "https://www.telegraph.co.uk/news/2026/10/13/suicide-rates-highest-ever-among-middle-aged-men/",
+    "description": "Article URL: https://www.telegraph.co.uk/news/2026/10/13/suicide-rates-highest-ever-among-middle-aged-men/\nComments URL: https://news.ycombinator.com/item?id=50093180\nPoints: 198\n# Comments: 247",
+    "pubDate": "Wed, 14 Oct 2026 19:03:58 +0000",
+    "source": "Hacker News",
+    "category": "科技"
+  },
+  {
+    "title": "Fire at Starlink site in Bulgaria after suspected sabotage in Poland",
+    "link": "https://dpa-international.com/politics/urn:newsml:dpa.com:20090101:261014-930-839530/",
+    "description": "Article URL: https://dpa-international.com/politics/urn:newsml:dpa.com:20090101:261014-930-839530/\nComments URL: https://news.ycombinator.com/item?id=50092730\nPoints: 258\n# Comments: 185",
+    "pubDate": "Wed, 14 Oct 2026 18:37:21 +0000",
+    "source": "Hacker News",
+    "category": "科技"
+  },
+  {
+    "title": "Banks are now trying to offload the AI data center debt they just underwrote",
+    "link": "https://startupfortune.com/banks-are-now-trying-to-offload-the-ai-data-center-debt-they-just-underwrote/",
+    "description": "Article URL: https://startupfortune.com/banks-are-now-trying-to-offload-the-ai-data-center-debt-they-just-underwrote/\nComments URL: https://news.ycombinator.com/item?id=50092664\nPoints: 240\n# Comments: 188",
+    "pubDate": "Wed, 14 Oct 2026 18:32:52 +0000",
+    "source": "Hacker News",
+    "category": "科技"
+  },
+  {
+    "title": "Show HN: Petal, open-source CoScreen/ScreenHero finally free",
+    "link": "https://petal.live/",
+    "description": "Hi HN!I’m Jason Thomas, one of the founders of CoScreen.As some of you may know, Datadog sunset the CoScreen service on July 31st.Four of us from the original CoScreen team have spent the last couple months building a free and open source pair programming tool inspired by those that came before us: It’s called Petal (https://github.com/kiruna-labs/petal)Some history first, because when we started CoScreen we had hoped to break the sad and established pattern of this industry.Screenhero was an ex",
+    "pubDate": "Wed, 14 Oct 2026 18:23:14 +0000",
+    "source": "Hacker News",
+    "category": "科技"
+  },
+  {
+    "title": "Virtual Oxide Labs: Emulating a Full Oxide Rack",
+    "link": "https://oxide.computer/blog/voxel-labs",
+    "description": "Article URL: https://oxide.computer/blog/voxel-labs\nComments URL: https://news.ycombinator.com/item?id=50092423\nPoints: 48\n# Comments: 4",
+    "pubDate": "Wed, 14 Oct 2026 18:21:14 +0000",
+    "source": "Hacker News",
+    "category": "科技"
+  },
+  {
+    "title": "America didn't lose its rare earth industry, it sold it",
+    "link": "https://www.lawfaremedia.org/article/america-didn-t-lose-its-rare-earth-industry.-it-sold-it",
+    "description": "Article URL: https://www.lawfaremedia.org/article/america-didn-t-lose-its-rare-earth-industry.-it-sold-it\nComments URL: https://news.ycombinator.com/item?id=50091875\nPoints: 136\n# Comments: 64",
+    "pubDate": "Wed, 14 Oct 2026 17:50:26 +0000",
+    "source": "Hacker News",
+    "category": "科技"
+  },
+  {
+    "title": "Containment and monitoring failures are to blame for AI hacking reports: experts",
+    "link": "https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html",
+    "description": "Article URL: https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html\nComments URL: https://news.ycombinator.com/item?id=50091788\nPoints: 805\n# Comments: 429",
+    "pubDate": "Wed, 14 Oct 2026 17:45:23 +0000",
+    "source": "Hacker News",
+    "category": "科技"
+  },
+  {
+    "title": "Show HN: I wrote an email app that accepts only one sender per inbox",
+    "link": "https://clova.email/",
+    "description": "Infinite inboxes, including prefixes where you don't have to create inboxes before you use them -- they self create when you add a suffix.Three types of inboxes:\n- One sender. Locks to the first domain to send email (except gmail, outlook, etc where it locks to an email account for obivous reasons. It bounces everyone else.\n- Temporary. Lasts for a while (24h, 7days, etc) then bounces. Received messages stay or go as per your choice.\n- Prefix. The most powerful. Declare a prefix like \"service\" a",
+    "pubDate": "Wed, 14 Oct 2026 17:00:59 +0000",
+    "source": "Hacker News",
+    "category": "科技"
+  },
+  {
+    "title": "Has AI tells",
+    "link": "https://theconsensus.dev/blog/2026/10/14/has-ai-tells.html?focus=1",
+    "description": "Article URL: https://theconsensus.dev/blog/2026/10/14/has-ai-tells.html?focus=1\nComments URL: https://news.ycombinator.com/item?id=50090799\nPoints: 61\n# Comments: 65",
+    "pubDate": "Wed, 14 Oct 2026 16:52:42 +0000",
+    "source": "Hacker News",
+    "category": "科技"
+  },
+  {
+    "title": "Better HTTP/1 connection reuse in Go 1.27",
+    "link": "https://go.dev/blog/http-connection-reuse",
+    "description": "Article URL: https://go.dev/blog/http-connection-reuse\nComments URL: https://news.ycombinator.com/item?id=50090369\nPoints: 180\n# Comments: 29",
+    "pubDate": "Wed, 14 Oct 2026 16:29:33 +0000",
+    "source": "Hacker News",
+    "category": "科技"
+  },
+  {
+    "title": "Google is silently linking your phone number across all signed-in accounts",
+    "link": "https://www.androidauthority.com/google-auto-phone-number-verification-android-3723117/",
+    "description": "Article URL: https://www.androidauthority.com/google-auto-phone-number-verification-android-3723117/\nComments URL: https://news.ycombinator.com/item?id=50090349\nPoints: 332\n# Comments: 88",
+    "pubDate": "Wed, 14 Oct 2026 16:28:51 +0000",
+    "source": "Hacker News",
+    "category": "科技"
+  },
+  {
+    "title": "Americans' social activity has steeply declined in the past 30 years",
+    "link": "https://www.dataforprogress.org/blog/2026/9/29/americans-social-activity-has-steeply-declined-in-the-past-30-years",
+    "description": "Article URL: https://www.dataforprogress.org/blog/2026/9/29/americans-social-activity-has-steeply-declined-in-the-past-30-years\nComments URL: https://news.ycombinator.com/item?id=50089921\nPoints: 144\n# Comments: 207",
+    "pubDate": "Wed, 14 Oct 2026 16:09:00 +0000",
+    "source": "Hacker News",
+    "category": "科技"
+  },
+  {
+    "title": "Submarine cable resilience",
+    "link": "https://blog.apnic.net/2026/10/14/submarine-cable-resilience/",
+    "description": "Article URL: https://blog.apnic.net/2026/10/14/submarine-cable-resilience/\nComments URL: https://news.ycombinator.com/item?id=50089229\nPoints: 120\n# Comments: 43",
+    "pubDate": "Wed, 14 Oct 2026 15:31:15 +0000",
+    "source": "Hacker News",
+    "category": "科技"
+  },
+  {
+    "title": "Intero Biosystems wants drugmakers to test on mini human intestines, not animals",
+    "link": "https://techcrunch.com/2026/10/14/intero-biosystems-wants-drugmakers-to-test-on-mini-human-intestines-not-animals/",
+    "description": "Intero Biosystems is selling lab-grown human intestines to drugmakers as regulators push for alternatives to animal testing, while the startup looks to scale production and expand its organoid technology.",
+    "pubDate": "Wed, 14 Oct 2026 23:00:00 +0000",
+    "source": "TechCrunch",
+    "category": "科技"
+  },
+  {
+    "title": "CedarDB wants one database to handle both transactions and analytics, as AI agents raise the stakes",
+    "link": "https://techcrunch.com/2026/10/14/cedardb-wants-one-database-to-handle-both-transactions-and-analytics-as-ai-agents-raise-the-stakes/",
+    "description": "Databases have traditionally been designed either for analytical data or for operational data. But database engine CedarDB supports both, and its approach has gained relevance with the rise of agentic AI.",
+    "pubDate": "Wed, 14 Oct 2026 22:00:00 +0000",
+    "source": "TechCrunch",
+    "category": "科技"
+  },
+  {
+    "title": "Ambani&#8217;s Jio seeks to raise $3.2B in what could be India&#8217;s biggest IPO",
+    "link": "https://techcrunch.com/2026/10/14/ambanis-jio-seeks-to-raise-3-2b-in-what-could-be-indias-biggest-ipo/",
+    "description": "Jio plans to use most of its IPO proceeds to repay debt as it expands beyond telecom.",
+    "pubDate": "Wed, 14 Oct 2026 21:48:20 +0000",
+    "source": "TechCrunch",
+    "category": "科技"
+  },
+  {
+    "title": "Flock CEO says its microphones detect &#8216;just gunshots&#8217; — its website says different",
+    "link": "https://techcrunch.com/2026/10/14/flock-ceo-says-its-microphones-detect-just-gunshots-its-website-says-different/",
+    "description": "Langley’s comments come amid mounting scrutiny of Flock from privacy advocates, including the ACLU, and members of the public who are concerned about the misuse of its technology.",
+    "pubDate": "Wed, 14 Oct 2026 21:30:33 +0000",
+    "source": "TechCrunch",
+    "category": "科技"
+  },
+  {
+    "title": "Colossal Biosciences announces new AI platform to help accelerate de-extinction efforts",
+    "link": "https://techcrunch.com/2026/10/14/colossal-biosciences-announces-new-ai-platform-to-help-accelerate-de-extinction-efforts/",
+    "description": "Colossal announced a new AI platform to help accelerate its de-extinction efforts and Peter Diamandis has launched a new fund to back startups who use it.",
+    "pubDate": "Wed, 14 Oct 2026 21:00:00 +0000",
+    "source": "TechCrunch",
+    "category": "科技"
+  },
+  {
+    "title": "Flock CEO: We haven&#8217;t &#8216;fired&#8217; any police departments as customers",
+    "link": "https://techcrunch.com/2026/10/14/flock-ceo-we-havent-fired-any-police-departments-as-customers/",
+    "description": "Flock CEO Garrett Langley said that the surveillance company has not canceled contracts of any police department or law enforcement agency, despite reports of abuse.",
+    "pubDate": "Wed, 14 Oct 2026 20:26:25 +0000",
+    "source": "TechCrunch",
+    "category": "科技"
+  },
+  {
+    "title": "Electric vehicle sales in the US are showing signs of life",
+    "link": "https://techcrunch.com/2026/10/14/electric-vehicle-sales-in-the-u-s-are-showing-signs-of-life/",
+    "description": "The electric vehicle market in the U.S. has been growing for the last three consecutive quarters.",
+    "pubDate": "Wed, 14 Oct 2026 20:12:07 +0000",
+    "source": "TechCrunch",
+    "category": "科技"
+  },
+  {
+    "title": "TimeTeller puts our internal clocks at the center of personalized medicine",
+    "link": "https://techcrunch.com/2026/10/14/timeteller-puts-our-internal-clocks-at-the-center-of-personalized-medicine/",
+    "description": "German startup TimeTeller has developed a saliva test kit to help anyone understand their circadian rhythm; it aims to reduce side effects from cancer treatments.",
+    "pubDate": "Wed, 14 Oct 2026 20:00:00 +0000",
+    "source": "TechCrunch",
+    "category": "科技"
+  },
+  {
+    "title": "Ambrosia Energy will build a 10 GWh factory in Texas to make batteries for off-grid data centers",
+    "link": "https://techcrunch.com/2026/10/14/ambrosia-energy-will-build-a-10-gwh-factory-in-texas-to-make-batteries-for-off-grid-data-centers/",
+    "description": "Startup Ambrosia Energy will build a massive factory to crank out batteries to augment solar panels, creating a round-the-clock clean power plant.",
+    "pubDate": "Wed, 14 Oct 2026 19:51:34 +0000",
+    "source": "TechCrunch",
+    "category": "科技"
+  },
+  {
+    "title": "Hiyd is a health tracker that attaches to the watch you already wear",
+    "link": "https://techcrunch.com/2026/10/14/hiyd-is-a-health-tracker-that-attaches-to-the-watch-you-already-wear/",
+    "description": "Former Apple engineers figured out how to get a biometric sensor to attach to your watch without any magnets or adhesives.",
+    "pubDate": "Wed, 14 Oct 2026 19:00:00 +0000",
+    "source": "TechCrunch",
+    "category": "科技"
+  },
+  {
+    "title": "YouTube Music launches new labels as AI-generated music floods streaming platforms",
+    "link": "https://techcrunch.com/2026/10/14/youtube-music-launches-new-labels-as-ai-generated-music-floods-streaming-platforms/",
+    "description": "The label will appear on the player page and include songs entirely generated by AI or partially, such as AI involved in composition and vocals.",
+    "pubDate": "Wed, 14 Oct 2026 18:23:46 +0000",
+    "source": "TechCrunch",
+    "category": "科技"
+  },
+  {
+    "title": "Apate sends AI agents undercover to get scammed so they can gather fraud intelligence",
+    "link": "https://techcrunch.com/2026/10/14/apate-sends-ai-agents-undercover-to-get-scammed-so-they-can-gather-fraud-intelligence/",
+    "description": "Most companies use AI agents to ship products faster or speed up workflows. Apate.ai sends them undercover to get scammed.",
+    "pubDate": "Wed, 14 Oct 2026 18:00:00 +0000",
+    "source": "TechCrunch",
+    "category": "科技"
+  },
+  {
+    "title": "Mosqitter is turning its mosquito traps into an AI-powered surveillance network",
+    "link": "https://techcrunch.com/2026/10/14/mosqitter-is-turning-its-mosquito-traps-into-an-ai-powered-surveillance-network/",
+    "description": "Mosqitter is turning its mosquito-trapping hardware into an AI-powered surveillance network designed to identify species, monitor populations, and provide earlier warnings of mosquito-borne disease risks.",
+    "pubDate": "Wed, 14 Oct 2026 17:00:00 +0000",
+    "source": "TechCrunch",
+    "category": "科技"
+  },
+  {
+    "title": "Prismm helps banks keep inherited money in-house",
+    "link": "https://techcrunch.com/2026/10/14/prismm-helps-banks-keep-inherited-money-in-house/",
+    "description": "With Prismm, account holders can give designated family members access to their accounts and documents ahead of time.",
+    "pubDate": "Wed, 14 Oct 2026 16:00:00 +0000",
+    "source": "TechCrunch",
+    "category": "科技"
+  },
+  {
+    "title": "Deezer will soon let you filter out AI-generated music",
+    "link": "https://techcrunch.com/2026/10/14/deezer-will-soon-let-you-filter-out-ai-generated-music/",
+    "description": "Deezer said that the new toggle will be rolled out by the end of the year.",
+    "pubDate": "Wed, 14 Oct 2026 15:16:04 +0000",
+    "source": "TechCrunch",
+    "category": "科技"
+  },
+  {
+    "title": "Save 50% on your TechCrunch Disrupt 2026 ticket and join the last 2 days in San Francisco&#8217;s Moscone West",
+    "link": "https://techcrunch.com/2026/10/14/save-50-on-your-techcrunch-disrupt-2026-ticket-and-join-the-last-two-days-in-san-francisco/",
+    "description": "Get a 50% discount on the last two days of TechCrunch Disrupt 2026, October 14-15, in San Francisco. Register now and join the rest of the startup ecosystem. Today, it's all about physical and software AI.",
+    "pubDate": "Wed, 14 Oct 2026 15:13:24 +0000",
+    "source": "TechCrunch",
+    "category": "科技"
+  },
+  {
+    "title": "Zenzap raises $44M for its AI chat app that aims to replace WhatsApp in the workplace",
+    "link": "https://techcrunch.com/2026/10/14/zenzap-raises-44m-for-its-ai-chat-app-that-aims-to-replace-whatsapp-in-the-workplace/",
+    "description": "Zenzap is used by organizations including Starbucks and Taco Bell.",
+    "pubDate": "Wed, 14 Oct 2026 15:08:00 +0000",
+    "source": "TechCrunch",
+    "category": "科技"
+  },
+  {
+    "title": "Floqer&#8217;s AI agents research sales prospects so teams don&#8217;t have to",
+    "link": "https://techcrunch.com/2026/10/14/floqers-ai-agents-help-b2b-revenue-teams-research-customers/",
+    "description": "The problem Floqer is trying to solve is familiar to anyone who has worked in sales or revenue operations.",
+    "pubDate": "Wed, 14 Oct 2026 15:00:00 +0000",
+    "source": "TechCrunch",
+    "category": "科技"
+  },
+  {
+    "title": "Netflix to lay off 1,000 staff amid intensifying competition for user attention",
+    "link": "https://techcrunch.com/2026/10/14/netflix-to-lay-off-1000-staff-amid-intensifying-competition-for-user-attention/",
+    "description": "Netflix said most of the cuts would affect its product, tech, legal, and human resources departments.",
+    "pubDate": "Wed, 14 Oct 2026 14:55:47 +0000",
+    "source": "TechCrunch",
+    "category": "科技"
+  },
+  {
+    "title": "TechCrunch Disrupt 2026: Day 2",
+    "link": "https://techcrunch.com/2026/10/14/techcrunch-disrupt-2026-day-2/",
+    "description": "Day 2 at TechCrunch Disrupt 2026, full of all themes across AI, as well as an investor-only session, more roundtables, Side Events, and more. Register to save 50% on your pass.",
+    "pubDate": "Wed, 14 Oct 2026 14:30:00 +0000",
+    "source": "TechCrunch",
+    "category": "科技"
+  },
+  {
+    "title": "Fridge hack costing millions and sparking fires stemmed from poor security",
+    "link": "https://arstechnica.com/security/2026/10/fridge-hack-costing-millions-and-sparking-fires-stemmed-from-poor-security/",
+    "description": "Incident hitting 700 supermarkets exploited outdated devices exposed to the Internet.",
+    "pubDate": "Wed, 14 Oct 2026 21:35:09 +0000",
+    "source": "Ars Technica",
+    "category": "科技"
+  },
+  {
+    "title": "Epic says its new vibe-coded Epic Games Launcher is faster than Steam",
+    "link": "https://arstechnica.com/gaming/2026/10/programming-is-hard-epic-games-leans-on-vibe-coding-for-its-new-launcher-app/",
+    "description": "But the new \"Preview\" app \"will have some bugs,\" Epic warns.",
+    "pubDate": "Wed, 14 Oct 2026 21:15:56 +0000",
+    "source": "Ars Technica",
+    "category": "科技"
+  },
+  {
+    "title": "NATO may redeploy anti-drone defenses as attacks sink more Black Sea shipping",
+    "link": "https://arstechnica.com/gadgets/2026/10/nato-may-redeploy-anti-drone-defenses-as-attacks-sink-more-black-sea-shipping/",
+    "description": "Suspected Russian drones have sunk or damaged 5 ships near Bulgaria and Romania.",
+    "pubDate": "Wed, 14 Oct 2026 21:03:11 +0000",
+    "source": "Ars Technica",
+    "category": "科技"
+  },
+  {
+    "title": "Things are finally looking up for NASA's first missions to Venus in a generation",
+    "link": "https://arstechnica.com/space/2026/10/nasas-embattled-venus-missions-are-back-on-track-after-cancellation-threat/",
+    "description": "\"This is great news for us. We're staffing up. We're accelerating.\"",
+    "pubDate": "Wed, 14 Oct 2026 20:48:07 +0000",
+    "source": "Ars Technica",
+    "category": "科技"
+  },
+  {
+    "title": "Schools across US protest FCC plan that could disconnect kids from Internet",
+    "link": "https://arstechnica.com/tech-policy/2026/10/schools-libraries-plead-with-fcc-to-scrap-idea-of-killing-2b-broadband-program/",
+    "description": "FCC chair threatens E-Rate fund, blames schools for kids' excessive screen time.",
+    "pubDate": "Wed, 14 Oct 2026 20:15:56 +0000",
+    "source": "Ars Technica",
+    "category": "科技"
+  },
+  {
+    "title": "Georgia man sues Flock, sheriff's office over alleged ALPR-fueled retaliation",
+    "link": "https://arstechnica.com/tech-policy/2026/10/georgia-man-sues-flock-sheriffs-office-over-alleged-alpr-fueled-retaliation/",
+    "description": "Plaintiff claims cameras enabled warrantless tracking and monitoring after he previously sued over excessive force.",
+    "pubDate": "Wed, 14 Oct 2026 19:53:01 +0000",
+    "source": "Ars Technica",
+    "category": "科技"
+  },
+  {
+    "title": "Software development and rules stability: Prototype racing in 2030",
+    "link": "https://arstechnica.com/cars/2026/10/software-development-and-rules-stability-prototype-racing-in-2030/",
+    "description": "With the end of IMSA’s 2026 season, we have thoughts about the future of the sport.",
+    "pubDate": "Wed, 14 Oct 2026 19:44:26 +0000",
+    "source": "Ars Technica",
+    "category": "科技"
+  },
+  {
+    "title": "Greta Gerwig channels Bowie in psychedelic The Magician's Nephew trailer",
+    "link": "https://arstechnica.com/culture/2026/10/greta-gerwig-channels-bowie-in-psychedelic-the-magicians-nephew-trailer/",
+    "description": "\"Have you ever seen a world born?\"",
+    "pubDate": "Wed, 14 Oct 2026 19:10:58 +0000",
+    "source": "Ars Technica",
+    "category": "科技"
+  },
+  {
+    "title": "Researchers use AI to design proteins that cut up other proteins",
+    "link": "https://arstechnica.com/science/2026/10/researchers-use-ai-to-design-proteins-that-cut-up-other-proteins/",
+    "description": "AI design tools make proteins that break bonds that are stable for hundreds of years.",
+    "pubDate": "Wed, 14 Oct 2026 17:10:15 +0000",
+    "source": "Ars Technica",
+    "category": "科技"
+  },
+  {
+    "title": "Recording device hidden in toilet paper found in top-secret OpenAI meeting room",
+    "link": "https://arstechnica.com/tech-policy/2026/10/fbi-arrests-openai-engineer-suspected-of-planting-bug-in-conference-room/",
+    "description": "OpenAI engineer faces 5 years and $250K fine as FBI lobs foreign spy charges.",
+    "pubDate": "Wed, 14 Oct 2026 16:41:49 +0000",
+    "source": "Ars Technica",
+    "category": "科技"
+  },
+  {
+    "title": "Legendary FPS level designer Richard \"Levelord\" Gray dies at 68",
+    "link": "https://arstechnica.com/gaming/2026/10/legendary-fps-level-designer-richard-levelord-gray-passes-away-at-68/",
+    "description": "Tributes pour in for the man behind iconic Duke Nukem 3D levels and much more.",
+    "pubDate": "Wed, 14 Oct 2026 16:02:08 +0000",
+    "source": "Ars Technica",
+    "category": "科技"
+  },
+  {
+    "title": "Ukraine blindsided by Starlink throttling restrictions and intelligence gaps",
+    "link": "https://arstechnica.com/gadgets/2026/10/ukraine-blindsided-by-starlink-throttling-restrictions-and-intelligence-gaps/",
+    "description": "Kyiv’s forces experience connectivity problems on Elon Musk’s satellite network.",
+    "pubDate": "Wed, 14 Oct 2026 13:56:11 +0000",
+    "source": "Ars Technica",
+    "category": "科技"
+  },
+  {
+    "title": "Anthropic warns small AI models could self-replicate through IoT devices",
+    "link": "https://arstechnica.com/security/2026/10/anthropic-warns-small-ai-models-could-self-replicate-through-iot-devices/",
+    "description": "\"Small weight-based replicators\" could usher in a new generation of computer worms.",
+    "pubDate": "Wed, 14 Oct 2026 12:55:06 +0000",
+    "source": "Ars Technica",
+    "category": "科技"
+  },
+  {
+    "title": "The Internet’s undersea backbone is slipping into the danger zone",
+    "link": "https://arstechnica.com/gadgets/2026/10/the-internets-undersea-backbone-is-slipping-into-to-the-danger-zone/",
+    "description": "Elisabeth Braw’s book Undersea War on rising risks for undersea infrastructure.",
+    "pubDate": "Wed, 14 Oct 2026 11:15:24 +0000",
+    "source": "Ars Technica",
+    "category": "科技"
+  },
+  {
+    "title": "OpenAI, Google pushing new AI models easily tricked into making nudes, researchers say",
+    "link": "https://arstechnica.com/tech-policy/2026/10/openai-google-pushing-new-ai-models-easily-tricked-into-making-nudes-researchers-say/",
+    "description": "Attack method exposes flaws in OpenAI, Google safeguards against AI nudes.",
+    "pubDate": "Wed, 14 Oct 2026 11:00:30 +0000",
+    "source": "Ars Technica",
+    "category": "科技"
+  },
+  {
+    "title": "Musk says any limits on Ukraine's Starlink access down to US, not his firm",
+    "link": "https://www.bbc.co.uk/news/articles/c8wy9veedgygo?at_medium=RSS&at_campaign=rss",
+    "description": "Ukraine says Starlink access has improved but it is still facing speed limits which are disrupting its battlefield \"missions\".",
+    "pubDate": "Wed, 14 Oct 2026 20:55:24 GMT",
+    "source": "BBC News",
+    "category": "综合"
+  },
+  {
+    "title": "We are behind you and that will not change, PM tells Zelensky",
+    "link": "https://www.bbc.co.uk/news/articles/cm0rl1gkz97do?at_medium=RSS&at_campaign=rss",
+    "description": "The Ukrainian president visited London in an effort to bolster support among European allies following a row with Donald Trump.",
+    "pubDate": "Wed, 14 Oct 2026 19:22:28 GMT",
+    "source": "BBC News",
+    "category": "综合"
+  },
+  {
+    "title": "Russell Brand was a 'sexual predator', prosecution alleges as rape trial begins",
+    "link": "https://www.bbc.co.uk/news/articles/c3qjn45pepx1o?at_medium=RSS&at_campaign=rss",
+    "description": "The actor and comedian has pleaded not guilty to three counts of rape, three counts of sexual assault and one of indecent assault.",
+    "pubDate": "Wed, 14 Oct 2026 17:55:53 GMT",
+    "source": "BBC News",
+    "category": "综合"
+  },
+  {
+    "title": "Sally Rooney books withdrawn in UK over Palestine Action support",
+    "link": "https://www.bbc.co.uk/news/articles/cmx23q4g307vo?at_medium=RSS&at_campaign=rss",
+    "description": "The Irish writer is best known for novels such as Normal People, Intermezzo and Conversations With Friends.",
+    "pubDate": "Wed, 14 Oct 2026 16:56:21 GMT",
+    "source": "BBC News",
+    "category": "综合"
+  },
+  {
+    "title": "Drop-off charges at UK airports to be reviewed after sharp increase",
+    "link": "https://www.bbc.co.uk/news/articles/cwp8gynk13rro?at_medium=RSS&at_campaign=rss",
+    "description": "Confirming the review, the government said it was \"vital to ensure travel remains accessible and that passengers are treated fairly\".",
+    "pubDate": "Wed, 14 Oct 2026 17:46:30 GMT",
+    "source": "BBC News",
+    "category": "综合"
+  },
+  {
+    "title": "Reform faces criticism after councillors filmed making racist comments",
+    "link": "https://www.bbc.co.uk/news/articles/cw3dj458re1vo?at_medium=RSS&at_campaign=rss",
+    "description": "Reform says all of those people filmed by ITV are under investigation having resigned or been suspended.",
+    "pubDate": "Wed, 14 Oct 2026 22:34:47 GMT",
+    "source": "BBC News",
+    "category": "综合"
+  },
+  {
+    "title": "What we know about the Pope's lung cancer diagnosis",
+    "link": "https://www.bbc.co.uk/news/videos/cwyvrmp9qgrgo?at_medium=RSS&at_campaign=rss",
+    "description": "The Pope is recovering in hospital after a successful surgery to remove part of his right lung.",
+    "pubDate": "Wed, 14 Oct 2026 12:37:33 GMT",
+    "source": "BBC News",
+    "category": "综合"
+  },
+  {
+    "title": "Brooklyn novelty shop reeling from 'surreal' row with Kelly Clarkson over mechanical bird",
+    "link": "https://www.bbc.co.uk/news/articles/cxvgdneplgzeo?at_medium=RSS&at_campaign=rss",
+    "description": "Art of Play says its staff have been threatened after the singer complained online about how she was treated.",
+    "pubDate": "Wed, 14 Oct 2026 22:19:13 GMT",
+    "source": "BBC News",
+    "category": "综合"
+  },
+  {
+    "title": "UK threatens to ban Eritreans over migrant return policy",
+    "link": "https://www.bbc.co.uk/news/articles/c30rl1q1j200o?at_medium=RSS&at_campaign=rss",
+    "description": "The home secretary said she would not hesitate to impose measures on other countries \"refusing to co-operate\".",
+    "pubDate": "Wed, 14 Oct 2026 21:30:13 GMT",
+    "source": "BBC News",
+    "category": "综合"
+  },
+  {
+    "title": "Container ship hit by projectile sinks in Strait of Hormuz, Singapore says",
+    "link": "https://www.bbc.co.uk/news/articles/crkg7q97z078o?at_medium=RSS&at_campaign=rss",
+    "description": "All 21 sailors on the Singapore-flagged GFS Pride were evacuated safely after it was hit by an projectile on Tuesday, maritime authorities say.",
+    "pubDate": "Wed, 14 Oct 2026 15:34:19 GMT",
+    "source": "BBC News",
+    "category": "综合"
+  },
+  {
+    "title": "US inflation rises more than expected - here's what is happening with prices",
+    "link": "https://www.bbc.co.uk/news/articles/cwy8lx3pg4k2o?at_medium=RSS&at_campaign=rss",
+    "description": "The pace of price rises increased to 3.7% in the year to September, driving by higher motor fuel costs.",
+    "pubDate": "Wed, 14 Oct 2026 15:26:14 GMT",
+    "source": "BBC News",
+    "category": "综合"
+  },
+  {
+    "title": "Why is Starlink internet so important on the battlefield in Ukraine?",
+    "link": "https://www.bbc.co.uk/news/articles/cqkgk4zg54reo?at_medium=RSS&at_campaign=rss",
+    "description": "It is the \"backbone of military communications in Ukraine\" that provides vital high-speed internet to forces across the country.",
+    "pubDate": "Wed, 14 Oct 2026 19:52:04 GMT",
+    "source": "BBC News",
+    "category": "综合"
+  },
+  {
+    "title": "One stolen every four minutes - inside the police battle against vehicle thieves",
+    "link": "https://www.bbc.co.uk/news/articles/cqpvgyz30zepo?at_medium=RSS&at_campaign=rss",
+    "description": "Officers tell the BBC they are overstretched and struggling to keep up with sophisticated criminals.",
+    "pubDate": "Wed, 14 Oct 2026 05:01:07 GMT",
+    "source": "BBC News",
+    "category": "综合"
+  },
+  {
+    "title": "'I applied for 200 jobs' - How 'spray and pray' AI job applications can backfire",
+    "link": "https://www.bbc.co.uk/news/articles/c623dnkn8pkyo?at_medium=RSS&at_campaign=rss",
+    "description": "Graduates are increasingly using AI to misrepresent themselves in job applications, research suggests. But some say their peer group has no choice.",
+    "pubDate": "Wed, 14 Oct 2026 08:27:17 GMT",
+    "source": "BBC News",
+    "category": "综合"
+  },
+  {
+    "title": "What if you could turn off your algorithm? Australia is about to try",
+    "link": "https://www.bbc.co.uk/news/videos/ck78pj2qy42po?at_medium=RSS&at_campaign=rss",
+    "description": "New legislation is being tabled in Australia's parliament on Thursday to force big tech to allow users to switch off algorithms which send them recommended content.",
+    "pubDate": "Wed, 14 Oct 2026 18:00:54 GMT",
+    "source": "BBC News",
+    "category": "综合"
+  },
+  {
+    "title": "Toilet paper and secret recorders: What we know about the arrest of the Saudi OpenAI engineer",
+    "link": "https://www.bbc.co.uk/news/articles/cm04054ykqqqo?at_medium=RSS&at_campaign=rss",
+    "description": "Abdulrahman Alfozan had worked for the AI giant for more than a year before he was arrested by the FBI.",
+    "pubDate": "Wed, 14 Oct 2026 15:54:04 GMT",
+    "source": "BBC News",
+    "category": "综合"
+  },
+  {
+    "title": "Pope's cancer diagnosis leaves Catholics questioning what comes next",
+    "link": "https://www.bbc.co.uk/news/articles/c678p0ld7z8lo?at_medium=RSS&at_campaign=rss",
+    "description": "With few details so far, it is unclear what might need to change for a Pope who has been focused on stability.",
+    "pubDate": "Wed, 14 Oct 2026 12:22:17 GMT",
+    "source": "BBC News",
+    "category": "综合"
+  },
+  {
+    "title": "Sign up now",
+    "link": "https://www.bbc.co.uk/news/articles/c2lkky9zngvo?at_medium=RSS&at_campaign=rss",
+    "description": "From news and politics to technology and the royals, get the best BBC journalism to your inbox.",
+    "pubDate": "Wed, 09 Sep 2026 10:24:59 GMT",
+    "source": "BBC News",
+    "category": "综合"
+  },
+  {
+    "title": "Shipwreck thought to be 4,700 years old found off coast of Turkey",
+    "link": "https://www.bbc.co.uk/news/articles/c6gr80rk1yyko?at_medium=RSS&at_campaign=rss",
+    "description": "Archaeologists say the wreck is up to 4,700 years old, dating to the Early Bronze Age.",
+    "pubDate": "Wed, 14 Oct 2026 05:00:35 GMT",
+    "source": "BBC News",
+    "category": "综合"
+  },
+  {
+    "title": "Netflix to shed 1,000 jobs in steepest cuts since 2022",
+    "link": "https://www.bbc.co.uk/news/articles/c6zxj0gzk4x4o?at_medium=RSS&at_campaign=rss",
+    "description": "The cuts equate to around 6% of the streaming giant's total workforce worldwide.",
+    "pubDate": "Wed, 14 Oct 2026 16:47:32 GMT",
+    "source": "BBC News",
+    "category": "综合"
+  },
+  {
+    "title": "I do not have confidence UK is safe from Russian threats, says Swinney",
+    "link": "https://www.bbc.co.uk/news/articles/c98rzg7mlxxdo?at_medium=RSS&at_campaign=rss",
+    "description": "The first minister speaks to BBC Scotland News ahead of the SNP's annual conference in Aberdeen.",
+    "pubDate": "Wed, 14 Oct 2026 16:57:21 GMT",
+    "source": "BBC News",
+    "category": "综合"
+  },
+  {
+    "title": "Swimmer Archie Goodburn thanks prime minister as brain cancer review announced",
+    "link": "https://www.bbc.co.uk/news/articles/cm74pn052j2vo?at_medium=RSS&at_campaign=rss",
+    "description": "The Scottish athlete, who has inoperable brain tumours, previously made a tearful plea for more investment in brain cancer research on BBC Breakfast.",
+    "pubDate": "Wed, 14 Oct 2026 19:04:46 GMT",
+    "source": "BBC News",
+    "category": "综合"
+  },
+  {
+    "title": "Civil servant faked illness with make-up to juggle five jobs, court hears",
+    "link": "https://www.bbc.co.uk/news/articles/cqgkvdyx5d6jo?at_medium=RSS&at_campaign=rss",
+    "description": "Kashim Chowdhury is accused of fraudulently juggling multiple government jobs while working from home.",
+    "pubDate": "Wed, 14 Oct 2026 11:57:22 GMT",
+    "source": "BBC News",
+    "category": "综合"
+  },
+  {
+    "title": "Burnham had two hospitality dinners with Man City chairman, deleted records show",
+    "link": "https://www.bbc.co.uk/news/articles/c83vq9vpwwr1o?at_medium=RSS&at_campaign=rss",
+    "description": "The prime minister has been under growing pressure since the club was found guilty of Premier League rule breaches.",
+    "pubDate": "Wed, 14 Oct 2026 12:47:43 GMT",
+    "source": "BBC News",
+    "category": "综合"
+  },
+  {
+    "title": "Unravel the secrets of a priceless piece of British history",
+    "link": "https://www.bbc.co.uk/iplayer/episode/m00303gc?at_mid=DEZSuyo6Vd&at_campaign=Secrets_of_the_Bayeux_Tapestry_Inside_the_Museum&at_medium=display_ad&at_campaign_type=owned&at_nation=NET&at_audience_id=SS&at_product=iplayer&at_brand=m00303gc&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=Secrets_of_the_Bayeux_Tapestry_Inside_the_Museum&at_bbc_team=BBC",
+    "description": "As the Bayeux Tapestry travels to the UK for the first time in 950 years, historians and experts unravel its secrets",
+    "pubDate": "Thu, 10 Sep 2026 05:00:00 GMT",
+    "source": "BBC News",
+    "category": "综合"
+  },
+  {
+    "title": "Guardiola's return, Man City's defiance - and a game of glorious chaos",
+    "link": "https://www.bbc.co.uk/sport/football/articles/cqp8gyv8le87o?at_medium=RSS&at_campaign=rss",
+    "description": "On their return to Etihad Stadium Manchester City put on a show of defiance - even in the face of a PSG masterclass, writes Phil McNulty.",
+    "pubDate": "Wed, 14 Oct 2026 22:57:23 GMT",
+    "source": "BBC News",
+    "category": "综合"
+  },
+  {
+    "title": "On night of mayhem for Liverpool, Barcola arrives in style",
+    "link": "https://www.bbc.co.uk/sport/football/articles/c39wzg59x1yxo?at_medium=RSS&at_campaign=rss",
+    "description": "Bradley Barcola's form was the subject of pre-match questions before Liverpool faced LASK - but the France forward's Champions League hat-trick was the perfect answer.",
+    "pubDate": "Wed, 14 Oct 2026 20:46:35 GMT",
+    "source": "BBC News",
+    "category": "综合"
+  },
+  {
+    "title": "Martinez outburst came out of 'anger and frustration'",
+    "link": "https://www.bbc.co.uk/sport/football/articles/cqd09l278n15o?at_medium=RSS&at_campaign=rss",
+    "description": "Manchester United defender Lisandro Martinez says he \"spoke out of anger and frustration\" when launching a scathing attack on the club's hierarchy.",
+    "pubDate": "Wed, 14 Oct 2026 22:42:02 GMT",
+    "source": "BBC News",
+    "category": "综合"
+  },
+  {
+    "title": "PSG on 'different level' - are they building greatest European dynasty?",
+    "link": "https://www.bbc.co.uk/sport/football/articles/cmx2wegg2pw5o?at_medium=RSS&at_campaign=rss",
+    "description": "Paris St-Germain are eyeing a third successive Champions League crown after dismantling Manchester City, but where do they rank against Europe's most dominant clubs?",
+    "pubDate": "Wed, 14 Oct 2026 21:55:37 GMT",
+    "source": "BBC News",
+    "category": "综合"
+  },
+  {
+    "title": "Jackson steps up again as Aston Villa revival continues",
+    "link": "https://www.bbc.co.uk/sport/football/articles/c370pnwz0gw2o?at_medium=RSS&at_campaign=rss",
+    "description": "Nicolas Jackson continues his fine goalscoring form as Aston Villa record an impressive Champions League win.",
+    "pubDate": "Wed, 14 Oct 2026 22:45:22 GMT",
+    "source": "BBC News",
+    "category": "综合"
+  },
+  {
+    "title": "Man City show fight but fall short of fightback against slick PSG",
+    "link": "https://www.bbc.co.uk/sport/football/videos/cqp8gn9x801po?at_medium=RSS&at_campaign=rss",
+    "description": "Defending champions Paris Saint-Germain make it two wins from two in this season's Champions League, after beating Manchester City 4-2 at the Etihad Stadium",
+    "pubDate": "Wed, 14 Oct 2026 21:19:45 GMT",
+    "source": "BBC News",
+    "category": "综合"
+  },
+  {
+    "title": "Zimbabwean author Simbarashe Kundizeza denies using AI to write prize-winning story",
+    "link": "https://www.theguardian.com/technology/2026/oct/14/zimbabwean-author-simbarashe-kundizeza-denies-ai-story",
+    "description": "Article in Atlantic claims The Blue Fighter was artificially generated, days after it won Caine prize for African writersThe Zimbabwean writer Simbarashe Kundizeza has denied using AI to write a prize-winning short story after an article in the Atlantic said software had flagged it as almost completely AI-generated.Kundizeza’s story The Blue Fighter was announced as the winner of the prestigious Caine prize for African writers on 6 October. Five days later, The Atlantic published an article by t",
+    "pubDate": "Wed, 14 Oct 2026 19:01:29 GMT",
+    "source": "卫报",
+    "category": "综合"
+  },
+  {
+    "title": "Guinea-Bissau denies it has approved controversial vaccine trial in newborns",
+    "link": "https://www.theguardian.com/world/2026/oct/14/guinea-bissau-vaccine-hepatitis-b-trial-denial",
+    "description": "Health minister says government ‘did not authorize’ Danish-led hepatitis B trial in babies backed by RFK JrGuinea-Bissau has not approved the controversial hepatitis B study in newborns that would be funded by the US government and private partners, the African country’s minister of health said on Tuesday.The study, which would not investigate the safety or effectiveness of vaccines but would instead track “nonspecific” health outcomes like overall mortality or neurodevelopmental conditions, has",
+    "pubDate": "Wed, 14 Oct 2026 13:16:30 GMT",
+    "source": "卫报",
+    "category": "综合"
+  },
+  {
+    "title": "Joni Mitchell becomes US citizen: ‘A journey that began 62 years ago’",
+    "link": "https://www.theguardian.com/music/2026/oct/14/joni-mitchell-becomes-us-citizen-a-journey-that-began-62-years-ago",
+    "description": "Canada-born singer-songwriter, 82, posts footage of citizenship ceremony to InstagramJoni Mitchell has become a US citizen, after first moving to the country in the mid-1960s. The Canada-born singer-songwriter, 82, posted footage of her citizenship ceremony on her Instagram account, along with a photo of her next to an American flag, accompanied by the caption: “A journey that began 62 years ago.”It means that Mitchell can now vote in US elections, something that she had complained she wasn’t ab",
+    "pubDate": "Wed, 14 Oct 2026 08:39:00 GMT",
+    "source": "卫报",
+    "category": "综合"
+  },
+  {
+    "title": "UK’s ‘incoherent’ approach to China plagued by lack of expertise, report says",
+    "link": "https://www.theguardian.com/politics/2026/oct/14/uks-incoherent-approach-to-china-plagued-by-a-lack-of-expertise-report-says",
+    "description": "International alliance of China-sceptic legislators warns of risks inherent in misjudging bilateral relationshipThe UK’s approach to China is “beset by incoherence” and plagued by a lack of senior expertise, according to a report warning of the risks inherent in misjudging the bilateral relationship.An audit by the Inter-Parliamentary Alliance on China (Ipac), an international grouping of China-sceptic legislators, says past engagement with Beijing has often exposed the UK to the risks of interf",
+    "pubDate": "Wed, 14 Oct 2026 17:00:14 GMT",
+    "source": "卫报",
+    "category": "综合"
+  },
+  {
+    "title": "Russia arrests Japanese journalist on allegations of spying",
+    "link": "https://www.theguardian.com/world/2026/oct/14/russia-detains-japanese-journalist-suspicion-spying",
+    "description": "FSB security agency said reporter was arrested on island of Sakhalin, alleging he was collecting information about Russia’s defencesRussia has arrested a Japanese journalist on the far east island of Sakhalin and accused him of spying, in the latest sign of rising tensions between Moscow and Tokyo.Russian foreign ministry spokesperson Maria Zakharova identified the reporter as Yuki Imai, from the Hokkaido Shimbun newspaper, adding that he had been accused of “conducting espionage activities on R",
+    "pubDate": "Wed, 14 Oct 2026 01:05:25 GMT",
+    "source": "卫报",
+    "category": "综合"
+  },
+  {
+    "title": "Graduate student accused of poisoning colleague and trying to flee to China arrested at LAX",
+    "link": "https://www.theguardian.com/us-news/2026/oct/13/wyoming-student-graduate-poison-arrest",
+    "description": "Microbiologist Aili Wang, 32, poisoned tea of colleague in Wyoming who had pending patents, prosecutors allegeA Wyoming microbiology graduate student from China has been arrested on accusations she poisoned the tea of a colleague who had pending patents and with whom she did not get along, then tried to flee the country after police questioned her.Aili Wang, 32, was arrested 6 October at Los Angeles international airport, where prosecutors allege she sought to return to China. With her were lapt",
+    "pubDate": "Wed, 14 Oct 2026 00:53:36 GMT",
+    "source": "卫报",
+    "category": "综合"
+  },
+  {
+    "title": "Australian politics live: Butler tables unchanged private health bill as Coalition calls it ‘cruel’ and Greens withhold support",
+    "link": "https://www.theguardian.com/australia-news/live/2026/oct/15/anthony-albanese-labor-pauline-hanson-monoculture-victorian-election-coalition-angus-taylor-ntwnfb",
+    "description": "Follow the day’s news live.Get our breaking news email, free app or daily news podcastPrivate health insurance changes ‘recalibrating precious taxpayer dollars’, says WellsThe health minister, Mark Butler, yesterday promised to reintroduce a bill to reduce private health insurance rebates for over-65s, after it was thrown out of the Senate by the crossbench and Coalition.It’s really important we reintroduce it, because we need to raise the level of support and resourcing for aged care. I was the",
+    "pubDate": "Wed, 14 Oct 2026 23:07:53 GMT",
+    "source": "卫报",
+    "category": "综合"
+  },
+  {
+    "title": "Child safety officer incorrectly assessed Elizabeth Struhs as ‘safe’ day after she was admitted to hospital in coma",
+    "link": "https://www.theguardian.com/australia-news/2026/oct/14/child-safety-officer-incorrectly-assessed-elizabeth-struhs-as-safe-a-day-after-she-was-admitted-to-hospital-in-a-coma-ntwnfb",
+    "description": "Inquest into death of eight-year-old Queensland girl who was denied insulin by her religious parents told her case was complexGet our breaking news email, free app or daily news podcastA child safety officer incorrectly assessed Elizabeth Struhs as “safe” one day after she arrived at hospital in a coma and nearly died due to the neglect of her parents, a coroner’s court has heard.A Queensland coronial inquest heard evidence on Wednesday from one of the two child safety officers who ultimately de",
+    "pubDate": "Wed, 14 Oct 2026 08:08:10 GMT",
+    "source": "卫报",
+    "category": "综合"
+  },
+  {
+    "title": "Labor’s bill to cut private health insurance rebate blocked by Greens over pensioner carve-out",
+    "link": "https://www.theguardian.com/australia-news/2026/oct/14/labors-bill-to-cut-private-health-insurance-rebate-blocked-by-greens-over-pensioner-carve-out",
+    "description": "Almost 80,000 older Australians expected to end private health cover by 2028-29 as a result of Albanese government’s proposalGet our breaking news email, free app or daily news podcastLabor’s bid to cut the private health insurance rebate for over-65s has been blocked in parliament, with the Greens insisting they will withhold support unless pensioners receive a carve-out from the new rules.The proposed changes, which would take effect from April 2027, would save the federal budget $3bn. Continu",
+    "pubDate": "Wed, 14 Oct 2026 07:59:53 GMT",
+    "source": "卫报",
+    "category": "综合"
+  },
+  {
+    "title": "Video recording device found in cabin of HMAS Leeuwin navy ship in Cairns",
+    "link": "https://www.theguardian.com/australia-news/2026/oct/14/video-recording-device-found-in-cabin-of-hmas-leeuwin-navy-ship-in-cairns",
+    "description": "Defence announcement comes after Jacqui Lambie tells parliament a camera had been found concealed in a women’s shower on boardGet our breaking news email, free app or daily news podcastA “video recording device” was found in the cabin of a Royal Australian Navy ship in Cairns, the defence department has revealed, just hours after senator Jacqui Lambie alleged in parliament that a camera had been found concealed in a women’s shower on the vessel.The department confirmed on Wednesday afternoon tha",
+    "pubDate": "Wed, 14 Oct 2026 07:19:06 GMT",
+    "source": "卫报",
+    "category": "综合"
+  },
+  {
+    "title": "Student protests in Albania turn violent as demonstrators clash with police",
+    "link": "https://www.theguardian.com/world/2026/oct/14/student-protests-tirana-albania-police-clashes",
+    "description": "Dozens of people detained after government building and two banks set on fire  as tens of thousands march over education costs and corruptionTens of thousands of students have taken to the streets of Tirana, the Albanian capital, setting alight a government building and two banks and hurling stones at police during a protest over rising education costs and ⁠corruption.Police responded with water ⁠cannon and teargas to disperse protesters who started a fire at the ministry of education building, ",
+    "pubDate": "Wed, 14 Oct 2026 23:19:43 GMT",
+    "source": "卫报",
+    "category": "综合"
+  },
+  {
+    "title": "Pope Leo’s recovery from lung cancer surgery ‘progressing as planned’",
+    "link": "https://www.theguardian.com/world/2026/oct/14/pope-leo-recovery-lung-cancer-surgery-progressing-as-planned",
+    "description": "Pontiff has begun walking in his hospital room and is eating normally after operation to remove growth, doctors sayPope Leo’s recovery from a lung cancer operation is progressing as planned, his doctors have said, as the pontiff received good wishes from around the world, including from Britain’s King Charles.Leo, who had a cancerous mass removed from his right lung late on Tuesday, began walking in his hospital room after respiratory therapy on Wednesday. He was eating normally, his doctors Lui",
+    "pubDate": "Wed, 14 Oct 2026 22:31:18 GMT",
+    "source": "卫报",
+    "category": "综合"
+  },
+  {
+    "title": "In Ukraine, civilian casualties were already rising. Restrictions on Starlink will only worsen the death toll",
+    "link": "https://www.theguardian.com/world/2026/oct/14/ukraine-starlink-civilian-casualties-death-toll",
+    "description": "Throttling of mobile internet system will affect Kyiv’s air defences more than its strikes on oil refineries. Now Zelenskyy must be hoping that US intel holdsIn Ukraine the situation was already jittery enough. Donald Trump has been inventing ceasefires and buying Russian diesel to shore up his flagging popularity, while a sinister new wave of faster, jet-powered drones are breaking through Kyiv’s stretched air defences. Casualties are rising as the weather turns.Overnight, Russia bombed three p",
+    "pubDate": "Wed, 14 Oct 2026 18:54:34 GMT",
+    "source": "卫报",
+    "category": "综合"
+  },
+  {
+    "title": "Ukrainian military’s access to Starlink satellite internet suddenly restricted",
+    "link": "https://www.theguardian.com/world/2026/oct/14/ukraine-soldiers-combat-access-starlink-satellite-internet-restricted",
+    "description": "Launch of Russian ballistic missiles on Ukraine, with no US warning, coincides with outage of Starlink managed by Musk’s SpaceXUkraine’s military has suddenly had its access to Starlink satellite internet terminals restricted as the Trump administration has increased pressure on Ukraine to halt long-range strikes on Russia’s oil industry immediately.The terminals, which are produced by Elon Musk’s SpaceX but managed by the US government, are a key component of Ukraine’s military operations and t",
+    "pubDate": "Wed, 14 Oct 2026 16:18:46 GMT",
+    "source": "卫报",
+    "category": "综合"
+  },
+  {
+    "title": "Mont Blanc, the ‘roof of Europe’, loses more than a metre of height in a year",
+    "link": "https://www.theguardian.com/environment/2026/oct/14/mont-blanc-loses-metre-height",
+    "description": "Peak of French mountain now 4,807 metres high and fluctuates year by year due to changes in Alpine climateWestern Europe’s highest mountain shrank by more than a metre last year. The peak of Mont Blanc in France now stands 4,807.47 metres above sea level, a team of surveyors said on Wednesday, putting “the roof of Europe” 1.29 metres lower than in 2025.The mountain is about 4,792 metres tall but the summit constantly shifts as heat, wind and precipitation change the thickness of snow and ice on ",
+    "pubDate": "Wed, 14 Oct 2026 15:33:52 GMT",
+    "source": "卫报",
+    "category": "综合"
+  },
+  {
+    "title": "Israel blocks construction of key Gaza base created by Trump peace board",
+    "link": "https://www.theguardian.com/us-news/2026/oct/14/israel-trump-peace-board-gaza-base",
+    "description": "Exclusive: Israel has not permitted US-led project to house 150 international troops to move forwardIsrael is refusing to allow a key military outpost project for Donald Trump’s Board of Peace to proceed in Gaza, the Guardian has learned.In early August, the Board of Peace, the international organization authorized in 2025 by the UN and chaired by the US president, issued its first construction contract for Gaza: Louisiana-based Arkel International would construct a military outpost for 150 inte",
+    "pubDate": "Wed, 14 Oct 2026 19:19:52 GMT",
+    "source": "卫报",
+    "category": "综合"
+  },
+  {
+    "title": "Two container ships sink near strait of Hormuz amid surge in Iranian attacks",
+    "link": "https://www.theguardian.com/world/2026/oct/14/container-ship-sinks-strait-of-hormuz-surge-iranian-attacks-iran-us-midterm-elections",
+    "description": "Vessels were hit by missiles as rise in strikes suggests Iran is trying to close waterway before US midterm electionsTwo container ships near the strait of Hormuz have ⁠sunk after being struck by missiles, amid the sharpest rise in Iranian attacks on shipping since the start of the US-Israel war with Iran.The increase in attacks suggests Iran is trying to fully close the strategic waterway in an attempt to frustrate Donald Trump’s efforts to bring down fuel prices before the US midterm elections",
+    "pubDate": "Wed, 14 Oct 2026 17:05:42 GMT",
+    "source": "卫报",
+    "category": "综合"
+  },
+  {
+    "title": "New UK sanctions powers will enable action against supporters of illegal Israeli settlements",
+    "link": "https://www.theguardian.com/politics/2026/oct/14/uk-sanctions-powers-action-supporters-israeli-settlements",
+    "description": "Global human rights commitments adopted by government extend reach to enablers of unlawful activityThe UK is expanding its sanctions powers to freeze assets and target entities enabling illegal Israeli settlements, obstructing humanitarian aid or unlawfully holding prisoners.The statutory instrument introducing the global human rights and international humanitarian law sanctions adds three new grounds to the 2020 regime: serious violations of international humanitarian law, obstruction of humani",
+    "pubDate": "Wed, 14 Oct 2026 16:51:25 GMT",
+    "source": "卫报",
+    "category": "综合"
+  },
+  {
+    "title": "Iranian woman handed death sentence for ‘blasphemy’ in social media post",
+    "link": "https://www.theguardian.com/global-development/2026/oct/14/najmeh-amini-blasphemy-death-sentence-insulting-prophet",
+    "description": "Rights groups warn of Tehran regime’s increasing use of executions to suppress dissent, with at least 600 this yearHuman rights groups have raised the alarm over the growing number of death sentences and executions in Iran, after reports that a 23-year-old woman, Najmeh Amini, has been sentenced to death for blasphemy over a social-media post.Amini, an accounting student, is being held in Vakilabad prison in the north-east city of Mashhad. She has been sentenced to more than 12 years in prison a",
+    "pubDate": "Wed, 14 Oct 2026 04:00:44 GMT",
+    "source": "卫报",
+    "category": "综合"
+  },
+  {
+    "title": "India’s cockroach protesters defy Modi’s crackdown – The Latest",
+    "link": "https://www.theguardian.com/news/audio/2026/oct/14/indias-cockroach-protesters-defy-modis-crackdown-the-latest",
+    "description": "A fresh wave of protests by India’s youth-led Cockroach movement has been met with a brutal crackdown by Narendra Modi’s government and the closure of a historic protest site in Delhi. Two of the movement’s leaders have been imprisoned for five days for violating suppression measures. The protests, which began over frustration about education and unemployment, are now focused on voting rights. Modi’s government denies claims it is seeking to disenfranchise millions of voters. But its treatment o",
+    "pubDate": "Wed, 14 Oct 2026 17:40:05 GMT",
+    "source": "卫报",
+    "category": "综合"
+  },
+  {
+    "title": "Leaders of India’s Cockroach party jailed for violating ban on protest site",
+    "link": "https://www.theguardian.com/world/2026/oct/14/leaders-of-indias-cockroach-party-jailed-for-violating-ban-on-protest-site",
+    "description": "Ashutosh Ranka and Saurav Das will spend spend five days in prison for entering Delhi’s Jantar Mantar – a historic protest site that has been closed by authoritiesWhy Indian voters are on the streetsTwo leaders of India’s youth-led Cockroach movement have been sent to jail for five days for violating a ban on protests at a site in central Delhi.A court ordered that Ashutosh Ranka and Saurav Das, leaders of the Cockroach Janata party (CJP) movement, spend five days in Delhi’s Tihar prison for jum",
+    "pubDate": "Wed, 14 Oct 2026 05:29:23 GMT",
+    "source": "卫报",
+    "category": "综合"
+  },
+  {
+    "title": "‘How do you explain the deletion of 130 million names?’: why Indian voters are on the streets",
+    "link": "https://www.theguardian.com/world/2026/oct/14/india-protests-election-commission-gyanesh-kumar",
+    "description": "Anger at electoral roll changes has boiled over, sparking a crisis for Narendra Modi’s Hindu nationalist governmentLeaders of India’s Cockroach party jailedBorn into a small village in West Bengal, Shahida Fakir had always taken her vote for granted. That was, until it was suddenly taken away. She presented officials with her Indian birth certificate and family land documents from the village going back to 1962.Both her parents had been on the electoral roll going back decades, so she showed pro",
+    "pubDate": "Wed, 14 Oct 2026 02:09:22 GMT",
+    "source": "卫报",
+    "category": "综合"
+  },
+  {
+    "title": "Stopping Pip for ADHD or autism would not make big savings, says thinktank",
+    "link": "https://www.theguardian.com/society/2026/oct/15/pip-ban-adhd-autism-savings-resolution-foundation",
+    "description": "Resolution Foundation says ‘crude changes’ to benefits system would probably make it harder for people to workBanning people with anxiety, ADHD or autism from claiming disability benefits would not deliver major financial savings and would probably make it harder for them to get or stay in a job and participate in society, a leading thinktank has warned.The Resolution Foundation said any proposals to make certain mental health and neurodevelopmental conditions ineligible for personal independenc",
+    "pubDate": "Wed, 14 Oct 2026 23:01:15 GMT",
+    "source": "卫报",
+    "category": "综合"
+  },
+  {
+    "title": "Volodymyr Zelenskyy feels ‘betrayed’ by Donald Trump over Starlink access",
+    "link": "https://www.theguardian.com/world/2026/oct/14/volodymyr-zelenskyy-feels-betrayed-by-donald-trump-over-starlink-access",
+    "description": "Ukrainian president accused US president of picking the other side after four years of war Volodymyr Zelenskyy has said he feels personally betrayed by Donald Trump after it emerged that Ukraine’s military has had its access to Elon Musk’s Starlink satellite squeezed, raising doubts about long-term US support for Kyiv.The Ukrainian president, on a visit to London, accused Trump of picking the other side after more than four years of war, risking a breakdown in relations already strained by the U",
+    "pubDate": "Wed, 14 Oct 2026 23:00:08 GMT",
+    "source": "卫报",
+    "category": "综合"
+  },
+  {
+    "title": "UK hospitality sector to offer up to 100,000 jobs to young people out of work",
+    "link": "https://www.theguardian.com/society/2026/oct/14/uk-hospitality-sector-100000-jobs-young-people-neets",
+    "description": "Restaurants and pubs such as Nando’s and Fuller’s will create placements for 18- to 24-year-olds under DWP-backed schemeBars, clubs and restaurants will offer up to 100,000 jobs to young people not in employment, education or training (Neet) over the next three years in an effort to give them a first step on the ladder into work.The move comes before the publication of a report on Neets by the former health secretary Alan Milburn, who has warned that the number of young people not in work or edu",
+    "pubDate": "Wed, 14 Oct 2026 21:30:13 GMT",
+    "source": "卫报",
+    "category": "综合"
+  },
+  {
+    "title": "Reform UK councillors and candidates filmed making racist and extreme comments",
+    "link": "https://www.theguardian.com/politics/2026/oct/14/reform-uk-councillors-and-candidates-filmed-making-racist-and-extreme-comments",
+    "description": "Party faces fresh crisis as three councillors quit after ITV undercover filming exposed violence, misogyny and racist viewsReform UK has been rocked by a fresh crisis after councillors and election candidates for the party were caught on film making graphic threats of extreme violence and expressing racist and misogynistic views.Three councillors have already stood down from the party, which said it was conducting an investigation over the first revelations from an ITV undercover investigation t",
+    "pubDate": "Wed, 14 Oct 2026 19:36:16 GMT",
+    "source": "卫报",
+    "category": "综合"
+  },
+  {
+    "title": "OpenAI’s London staff receive average of £2.3m per person annually",
+    "link": "https://www.theguardian.com/technology/2026/oct/14/openai-london-staff-earnings-2million-per-person",
+    "description": "Accounts for the Westminster-based company behind ChatGPT show that 110 staff shared £87m in salaries and £168m in shares last yearOpenAI’s London staff each received £2,318,181 on average last year, as the ChatGPT-maker poured Premier League football salaries into its bid to dominate the global AI race.Accounts for OpenAI UK Ltd, which is based in Westminster but is opening a new HQ in London’s King’s Cross area, showed that 110 staff shared £87m in salaries and £168m in shares in the company, ",
+    "pubDate": "Wed, 14 Oct 2026 19:15:14 GMT",
+    "source": "卫报",
+    "category": "综合"
+  },
+  {
+    "title": "Trump tries to rally support for Republican candidates as top Super Pac for Senate Democrats pours millions into key races – live",
+    "link": "https://www.theguardian.com/us-news/live/2026/oct/14/donald-trump-us-midterms-arizona-montana-politics-latest-news-updates",
+    "description": "Trump in Arizona and Montana ahead of competitive elections; The Senate Majority Pac puts millions of dollars toward competitive races in Michigan and MaineSign up for the Breaking News US emailDonald Trump has yet to weigh in on the late night ruling from a federal judge that blocks him from barring CNN, MS Now and Politico access to the White House grounds.Previously, the president had blasted Judge Timothy Kelly – a Trump appointee – for issuing a temporary pause on his media ban. That expire",
+    "pubDate": "Wed, 14 Oct 2026 23:09:55 GMT",
+    "source": "卫报",
+    "category": "综合"
+  },
+  {
+    "title": "Lawyers for man shot by ICE in New York City say agent did not identify himself",
+    "link": "https://www.theguardian.com/us-news/2026/oct/14/ice-shooting-new-york-city-oscar-belgal",
+    "description": "Account by Oscar Belgal differs sharply from that of DHS agents, who fired into vehicle with young boy in back seatLawyers for a man wounded by an immigration officer while driving with his young son in New York City said in a court filing Wednesday that the agent who shot him never identified himself before he ran up to the car, smashed one of its windows, then fired several shots into the vehicle.The account by lawyers for Oscar Belgal contrasted sharply with the version of events outlined by ",
+    "pubDate": "Wed, 14 Oct 2026 22:30:42 GMT",
+    "source": "卫报",
+    "category": "综合"
+  },
+  {
+    "title": "Ilhan Omar’s phone seized and relatives subpoenaed in criminal inquiry, source says",
+    "link": "https://www.theguardian.com/us-news/2026/oct/14/ilhan-omar-phone-seized-relatives-subpoenaed",
+    "description": "Federal authorities issued more than a dozen grand jury subpoenas in inquiry into potential immigration fraudUS politics live – latest updatesFederal authorities investigating the Minnesota representative Ilhan Omar seized the Democratic lawmaker’s phone and have issued more than a dozen grand jury subpoenas, including to some of her relatives, according to a person briefed on the inquiry.The subpoenas were issued for a grand jury collecting evidence in Minnesota as federal authorities probe pot",
+    "pubDate": "Wed, 14 Oct 2026 22:22:14 GMT",
+    "source": "卫报",
+    "category": "综合"
+  },
+  {
+    "title": "Will Trump’s economy sink Republicans in the US midterm elections? Our reporters answer your questions",
+    "link": "https://www.theguardian.com/community/live/2026/oct/14/us-economy-affordability-midterm-elections-republicans-trump",
+    "description": "The high cost of living has Americans angrier than ever. Guardian reporters answer your questions about the economy before voters head to the pollsSign up or sign in to ask your questionWelcome to our latest US midterms live Q&amp;A.With just over two weeks to election day on 3 November, the US economy is top of voters’ minds. Food and gas prices remain high, the job market is unstable, consumers are angrier than ever, and a new Fed chair, Kevin Warsh, took over this year.The makeup of the Democ",
+    "pubDate": "Wed, 14 Oct 2026 22:10:13 GMT",
+    "source": "卫报",
+    "category": "综合"
+  },
+  {
+    "title": "Luna, dog missing in Yellowstone for a month, is reunited with her owners",
+    "link": "https://www.theguardian.com/us-news/2026/oct/14/luna-dog-missing-yellowstone-found",
+    "description": "Jack Russell terrier that escaped from family’s cabin in September was caught in a live trapLuna, a Jack Russell terrier who eluded capture for over a month as concern for the dog’s survival mounted ahead of winter in Yellowstone national park, was caught in a live trap on Wednesday and reunited with her owners.The 10-year-old dog had been spotted crossing intersections, strolling through employee housing and entering lodges through automatic doors at the sprawling national park that’s home to g",
+    "pubDate": "Wed, 14 Oct 2026 21:50:15 GMT",
+    "source": "卫报",
+    "category": "综合"
   }
 ]
