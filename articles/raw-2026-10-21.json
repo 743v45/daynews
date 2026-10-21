@@ -1,0 +1,1130 @@
+[
+  {
+    "title": "Railway Security Disclosure",
+    "link": "https://blog.railway.com/p/security-disclosure-wednesday-october-21st",
+    "description": "Article URL: https://blog.railway.com/p/security-disclosure-wednesday-october-21st\nComments URL: https://news.ycombinator.com/item?id=50188228\nPoints: 208\n# Comments: 87",
+    "pubDate": "Wed, 21 Oct 2026 21:58:03 +0000",
+    "source": "Hacker News",
+    "category": "科技"
+  },
+  {
+    "title": "PHP web runtimes (CVE-2026-109618 and CVE-2026-109619)",
+    "link": "https://aws.amazon.com/security/security-bulletins/2026-143-aws/",
+    "description": "Article URL: https://aws.amazon.com/security/security-bulletins/2026-143-aws/\nComments URL: https://news.ycombinator.com/item?id=50187708\nPoints: 91\n# Comments: 22",
+    "pubDate": "Wed, 21 Oct 2026 21:12:59 +0000",
+    "source": "Hacker News",
+    "category": "科技"
+  },
+  {
+    "title": "CleanFrame: A quieter home screen for Samsung The Frame",
+    "link": "https://github.com/nthnclrk/CleanFrame",
+    "description": "Article URL: https://github.com/nthnclrk/CleanFrame\nComments URL: https://news.ycombinator.com/item?id=50187659\nPoints: 16\n# Comments: 2",
+    "pubDate": "Wed, 21 Oct 2026 21:08:59 +0000",
+    "source": "Hacker News",
+    "category": "科技"
+  },
+  {
+    "title": "Claude Duet",
+    "link": "https://claude.com/resources/articles/claude-duet",
+    "description": "Article URL: https://claude.com/resources/articles/claude-duet\nComments URL: https://news.ycombinator.com/item?id=50186455\nPoints: 50\n# Comments: 6",
+    "pubDate": "Wed, 21 Oct 2026 19:40:18 +0000",
+    "source": "Hacker News",
+    "category": "科技"
+  },
+  {
+    "title": "Claude Duet",
+    "link": "https://claude.com/product/claude-duet",
+    "description": "Article URL: https://claude.com/product/claude-duet\nComments URL: https://news.ycombinator.com/item?id=50186037\nPoints: 282\n# Comments: 236",
+    "pubDate": "Wed, 21 Oct 2026 19:14:01 +0000",
+    "source": "Hacker News",
+    "category": "科技"
+  },
+  {
+    "title": "Google's Rust Style Guide",
+    "link": "https://google.github.io/styleguide/rustguide.html",
+    "description": "Article URL: https://google.github.io/styleguide/rustguide.html\nComments URL: https://news.ycombinator.com/item?id=50186010\nPoints: 155\n# Comments: 98",
+    "pubDate": "Wed, 21 Oct 2026 19:11:57 +0000",
+    "source": "Hacker News",
+    "category": "科技"
+  },
+  {
+    "title": "GitLab Critical Patch Release",
+    "link": "https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-5-1-released/",
+    "description": "Article URL: https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-5-1-released/\nComments URL: https://news.ycombinator.com/item?id=50185869\nPoints: 211\n# Comments: 47",
+    "pubDate": "Wed, 21 Oct 2026 19:01:12 +0000",
+    "source": "Hacker News",
+    "category": "科技"
+  },
+  {
+    "title": "Canary Tokens",
+    "link": "https://canarytokens.org/",
+    "description": "https://docs.canarytokens.org/guide/\n\nComments URL: https://news.ycombinator.com/item?id=50185630\nPoints: 119\n# Comments: 21",
+    "pubDate": "Wed, 21 Oct 2026 18:45:04 +0000",
+    "source": "Hacker News",
+    "category": "科技"
+  },
+  {
+    "title": "Meta ordered to pay $25B penalty in New Mexico Cambridge Analytica case",
+    "link": "https://www.cnbc.com/2026/10/21/meta-new-mexico-cambridge-analytica-penalty.html",
+    "description": "https://nmdoj.gov/press-release/the-new-mexico-department-of...\n\nComments URL: https://news.ycombinator.com/item?id=50184820\nPoints: 303\n# Comments: 178",
+    "pubDate": "Wed, 21 Oct 2026 17:45:13 +0000",
+    "source": "Hacker News",
+    "category": "科技"
+  },
+  {
+    "title": "EA is shutting down BioWare",
+    "link": "https://www.theverge.com/games/1015647/ea-is-shutting-down-bioware",
+    "description": "Article URL: https://www.theverge.com/games/1015647/ea-is-shutting-down-bioware\nComments URL: https://news.ycombinator.com/item?id=50184586\nPoints: 476\n# Comments: 283",
+    "pubDate": "Wed, 21 Oct 2026 17:29:33 +0000",
+    "source": "Hacker News",
+    "category": "科技"
+  },
+  {
+    "title": "New plastic pollution discovered: 'Plasticorals' coral rubble fused with plastic",
+    "link": "https://www.oist.jp/news-center/news/2026/9/18/new-form-plastic-pollution-discovered-shores-vulnerable-coral-reefs",
+    "description": "Article URL: https://www.oist.jp/news-center/news/2026/9/18/new-form-plastic-pollution-discovered-shores-vulnerable-coral-reefs\nComments URL: https://news.ycombinator.com/item?id=50183512\nPoints: 91\n# Comments: 31",
+    "pubDate": "Wed, 21 Oct 2026 16:20:37 +0000",
+    "source": "Hacker News",
+    "category": "科技"
+  },
+  {
+    "title": "The bridge to agent-scale Git infrastructure",
+    "link": "https://github.blog/engineering/architecture-optimization/the-bridge-to-agent-scale-git-infrastructure/",
+    "description": "Article URL: https://github.blog/engineering/architecture-optimization/the-bridge-to-agent-scale-git-infrastructure/\nComments URL: https://news.ycombinator.com/item?id=50183344\nPoints: 53\n# Comments: 16",
+    "pubDate": "Wed, 21 Oct 2026 16:09:28 +0000",
+    "source": "Hacker News",
+    "category": "科技"
+  },
+  {
+    "title": "Today's PHP security release, and how we're strengthening security",
+    "link": "https://thephp.foundation/blog/2026/10/21/todays-php-security-release-and-how-were-strengthening-php-security/",
+    "description": "Related ongoing thread: PHP 8.2.35 - https://news.ycombinator.com/item?id=50180873(links to more at https://news.ycombinator.com/item?id=50184935)\n\nComments URL: https://news.ycombinator.com/item?id=50182987\nPoints: 634\n# Comments: 311",
+    "pubDate": "Wed, 21 Oct 2026 15:48:56 +0000",
+    "source": "Hacker News",
+    "category": "科技"
+  },
+  {
+    "title": "Oregon lawmakers approve money to buy an iconic waterfall listed on Redfin",
+    "link": "https://apnews.com/article/oregon-waterfall-for-sale-lawmakers-996de63462d49ec3ad9bee1629fb9488",
+    "description": "Article URL: https://apnews.com/article/oregon-waterfall-for-sale-lawmakers-996de63462d49ec3ad9bee1629fb9488\nComments URL: https://news.ycombinator.com/item?id=50182526\nPoints: 163\n# Comments: 79",
+    "pubDate": "Wed, 21 Oct 2026 15:20:04 +0000",
+    "source": "Hacker News",
+    "category": "科技"
+  },
+  {
+    "title": "Patch the Planet: global response coordination as agents uncover vulnerabilities",
+    "link": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities/",
+    "description": "https://patchtheplanet.org/\n\nComments URL: https://news.ycombinator.com/item?id=50181175\nPoints: 221\n# Comments: 146",
+    "pubDate": "Wed, 21 Oct 2026 14:03:43 +0000",
+    "source": "Hacker News",
+    "category": "科技"
+  },
+  {
+    "title": "DuckDB 2.0.0 LTS “Cinnamon Teal”",
+    "link": "https://duckdb.org/2026/10/21/announcing-duckdb-200",
+    "description": "Article URL: https://duckdb.org/2026/10/21/announcing-duckdb-200\nComments URL: https://news.ycombinator.com/item?id=50181136\nPoints: 350\n# Comments: 43",
+    "pubDate": "Wed, 21 Oct 2026 14:01:22 +0000",
+    "source": "Hacker News",
+    "category": "科技"
+  },
+  {
+    "title": "Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and Backdoor",
+    "link": "https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor/",
+    "description": "Article URL: https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor/\nComments URL: https://news.ycombinator.com/item?id=50181114\nPoints: 407\n# Comments: 126",
+    "pubDate": "Wed, 21 Oct 2026 14:00:26 +0000",
+    "source": "Hacker News",
+    "category": "科技"
+  },
+  {
+    "title": "PHP 8.2.35",
+    "link": "https://github.com/php/php-src/releases/tag/php-8.2.35",
+    "description": "Related ongoing thread: Today's PHP security release, and how we're strengthening security - https://news.ycombinator.com/item?id=50182987\n\nComments URL: https://news.ycombinator.com/item?id=50180873\nPoints: 954\n# Comments: 528",
+    "pubDate": "Wed, 21 Oct 2026 13:45:33 +0000",
+    "source": "Hacker News",
+    "category": "科技"
+  },
+  {
+    "title": "Using thousands of AI agents to uncover new leads in biological data",
+    "link": "https://openai.com/index/scaling-ai-research-for-complex-biological-data/",
+    "description": "Article URL: https://openai.com/index/scaling-ai-research-for-complex-biological-data/\nComments URL: https://news.ycombinator.com/item?id=50180752\nPoints: 123\n# Comments: 75",
+    "pubDate": "Wed, 21 Oct 2026 13:37:00 +0000",
+    "source": "Hacker News",
+    "category": "科技"
+  },
+  {
+    "title": "OpenAI models are coming to Google Cloud",
+    "link": "https://openai.com/index/openai-models-google-cloud/",
+    "description": "Article URL: https://openai.com/index/openai-models-google-cloud/\nComments URL: https://news.ycombinator.com/item?id=50180079\nPoints: 214\n# Comments: 93",
+    "pubDate": "Wed, 21 Oct 2026 12:53:11 +0000",
+    "source": "Hacker News",
+    "category": "科技"
+  },
+  {
+    "title": "Blackstone&#8217;s Jas Khaira says fears over AI-buildout debt are overblown",
+    "link": "https://techcrunch.com/2026/10/21/blackstones-jas-khaira-says-fears-over-ai-buildout-debt-are-overblown/",
+    "description": "Blackstone’s AI head on why the PE giant isn't panicked by market jitters.",
+    "pubDate": "Wed, 21 Oct 2026 22:51:22 +0000",
+    "source": "TechCrunch",
+    "category": "科技"
+  },
+  {
+    "title": "Meta wants to pay for its broad AI buildout with a newly created class of stock",
+    "link": "https://techcrunch.com/2026/10/21/meta-wants-to-pay-for-its-broad-ai-buildout-with-a-newly-created-class-of-stock/",
+    "description": "The social media giant is planning a new stock strategy to help power its broad investments in AI models and services.",
+    "pubDate": "Wed, 21 Oct 2026 22:45:34 +0000",
+    "source": "TechCrunch",
+    "category": "科技"
+  },
+  {
+    "title": "Airbnb limits chores for guests, sparking backlash from hosts",
+    "link": "https://techcrunch.com/2026/10/21/airbnb-limits-chores-for-guests-sparking-backlash-from-hosts/",
+    "description": "Hosts are threatening to leave the platform after Airbnb says that they can no longer require guests to strip beds or do other time-consuming cleaning chores.",
+    "pubDate": "Wed, 21 Oct 2026 22:16:05 +0000",
+    "source": "TechCrunch",
+    "category": "科技"
+  },
+  {
+    "title": "TechCrunch Founder Summit 2026: Everything you need to know",
+    "link": "https://techcrunch.com/2026/10/21/techcrunch-founder-summit-2026-everything-you-need-to-know/",
+    "description": "TechCrunch Founder Summit is a full-day gathering in Boston on November 4 where founders across all stages connect with top VCs and experienced entrepreneurs to gain tactical insights on building and scaling their companies.",
+    "pubDate": "Wed, 21 Oct 2026 21:16:20 +0000",
+    "source": "TechCrunch",
+    "category": "科技"
+  },
+  {
+    "title": "Meta says Muse has over 10M users, with shopping a top activity",
+    "link": "https://techcrunch.com/2026/10/21/meta-says-muse-has-over-10m-users-with-shopping-a-top-activity/",
+    "description": "Meta Muse users are adopting the app for shopping and personal productivity, the company said during Q3 earnings. The AI app now has over 10M users.",
+    "pubDate": "Wed, 21 Oct 2026 21:14:19 +0000",
+    "source": "TechCrunch",
+    "category": "科技"
+  },
+  {
+    "title": "Year-old AI lab Flapping Airplanes raises $1B at a $6B valuation",
+    "link": "https://techcrunch.com/2026/10/21/year-old-ai-lab-flapping-airplanes-raises-1b-at-a-6b-valuation/",
+    "description": "Just 9 months after raising an $180 million seed round, Flapping Airplanes has landed $1 billion Series A for its mission to build AI models \"without ingesting half the internet.\"",
+    "pubDate": "Wed, 21 Oct 2026 20:57:40 +0000",
+    "source": "TechCrunch",
+    "category": "科技"
+  },
+  {
+    "title": "Tesla starts Optimus robot production in California as profit falls 43%",
+    "link": "https://techcrunch.com/2026/10/21/tesla-stars-optimus-robot-production-in-california-as-profit-falls-43/",
+    "description": "Tesla's revenue was flat and its expenses skyrocketed as it pressed the accelerator on its Optimus robots, AI, and autonomous driving.",
+    "pubDate": "Wed, 21 Oct 2026 20:33:09 +0000",
+    "source": "TechCrunch",
+    "category": "科技"
+  },
+  {
+    "title": "Recursive launches Flint, a laptop coding model it says was largely built by AI",
+    "link": "https://techcrunch.com/2026/10/21/recursive-launches-flint-a-laptop-coding-model-it-says-was-largely-built-by-ai/",
+    "description": "Startup Recursive has released Flint, a free, laptop-sized coding model built largely by its own AI research system, as an early test of AI that improves itself.",
+    "pubDate": "Wed, 21 Oct 2026 20:27:41 +0000",
+    "source": "TechCrunch",
+    "category": "科技"
+  },
+  {
+    "title": "Automattic begins layoffs following board upheaval and executive departures",
+    "link": "https://techcrunch.com/2026/10/21/automattic-begins-layoffs-following-board-upheaval-and-executive-departures/",
+    "description": "Automattic has begun laying off employees across multiple teams, including WordPress.com and its enterprise business, following a board shakeup and a series of executive departures. Sources say more cuts could follow as the company looks to improve its finances.",
+    "pubDate": "Wed, 21 Oct 2026 20:15:00 +0000",
+    "source": "TechCrunch",
+    "category": "科技"
+  },
+  {
+    "title": "GM is betting compute and AI will help it compete with Chinese automakers",
+    "link": "https://techcrunch.com/2026/10/21/gm-is-betting-compute-and-ai-will-help-it-compete-with-chinese-automakers/",
+    "description": "To compete with Tesla, Rivian, and a host of Chinese automakers, GM’s fourth-gen EV platform will roll out a new central computer and electrical architecture that will debut in 2028 in the Cadillac Escalade IQ.",
+    "pubDate": "Wed, 21 Oct 2026 19:52:20 +0000",
+    "source": "TechCrunch",
+    "category": "科技"
+  },
+  {
+    "title": "Meta ordered to pay $25 billion in case related to Cambridge Analytica scandal",
+    "link": "https://techcrunch.com/2026/10/21/meta-ordered-to-pay-25-billion-in-case-related-to-cambridge-analytica-scandal/",
+    "description": "The payout is related to a recent trial involving the social media giant that revolved around its data privacy practices.",
+    "pubDate": "Wed, 21 Oct 2026 19:42:32 +0000",
+    "source": "TechCrunch",
+    "category": "科技"
+  },
+  {
+    "title": "While Amazon blocks AI agents, Walmart rolls out the welcome mat",
+    "link": "https://techcrunch.com/2026/10/21/while-amazon-blocks-ai-agents-walmart-rolls-out-the-welcome-mat/",
+    "description": "As Amazon blocks AI agents from shopping on its site, Walmart is taking the opposite approach, introducing new technology that lets AI agents make purchases on customers' behalf, with controls over spending and transaction approvals.",
+    "pubDate": "Wed, 21 Oct 2026 19:30:00 +0000",
+    "source": "TechCrunch",
+    "category": "科技"
+  },
+  {
+    "title": "The internet is having a very bad cybersecurity day",
+    "link": "https://techcrunch.com/2026/10/21/the-internet-is-having-a-very-bad-cybersecurity-day/",
+    "description": "From AI-discovered PHP vulnerabilities to flaws in Node.js and popular AI tool LiteLLM, cybersecurity teams have plenty to worry about this week.",
+    "pubDate": "Wed, 21 Oct 2026 19:03:28 +0000",
+    "source": "TechCrunch",
+    "category": "科技"
+  },
+  {
+    "title": "Legal AI startup Legora raises $550M Series E at $8.8B valuation",
+    "link": "https://techcrunch.com/2026/10/21/legal-ai-startup-legora-raises-550m-series-e-at-8-8b-valuation/",
+    "description": "Legal AI startup Legora announced Wednesday that it raised a $550 million Series E round, valuing it at $8.8 billion.",
+    "pubDate": "Wed, 21 Oct 2026 18:51:56 +0000",
+    "source": "TechCrunch",
+    "category": "科技"
+  },
+  {
+    "title": "GM is giving OnStar an AI makeover",
+    "link": "https://techcrunch.com/2026/10/21/gm-is-giving-onstar-an-ai-makeover/",
+    "description": "It's one of the biggest overhauls ever to the 30-year-old connected car product.",
+    "pubDate": "Wed, 21 Oct 2026 18:00:00 +0000",
+    "source": "TechCrunch",
+    "category": "科技"
+  },
+  {
+    "title": "PHP Armageddon: OpenAI, Google&#8217;s Wiz find ancient holes, panicking the internet",
+    "link": "https://techcrunch.com/2026/10/21/php-armageddon-openai-googles-wiz-find-ancient-holes-panicking-the-internet/",
+    "description": "This is the kind of security issue that was found and prevented by AI, but is also a high risk because of AI.",
+    "pubDate": "Wed, 21 Oct 2026 17:59:12 +0000",
+    "source": "TechCrunch",
+    "category": "科技"
+  },
+  {
+    "title": "Blacksmith hits unicorn valuation after Sequoia leads Series C",
+    "link": "https://techcrunch.com/2026/10/21/blacksmith-hits-unicorn-valuation-after-sequoia-leads-series-c/",
+    "description": "Blacksmith, a platform that lets companies build and test AI code more effectively, just announced a $66 million Series C round led by Sequoia that values the company at $1 billion.",
+    "pubDate": "Wed, 21 Oct 2026 17:18:27 +0000",
+    "source": "TechCrunch",
+    "category": "科技"
+  },
+  {
+    "title": "Waymo starts offering rides at the Las Vegas airport",
+    "link": "https://techcrunch.com/2026/10/21/waymo-starts-offering-rides-at-the-las-vegas-airport/",
+    "description": "Waymo only just started offering rides to the public in Las Vegas in September but is already serving a 24-square-mile area in the city.",
+    "pubDate": "Wed, 21 Oct 2026 16:59:44 +0000",
+    "source": "TechCrunch",
+    "category": "科技"
+  },
+  {
+    "title": "Foursquare co-founder says equity holders saw no returns from the company&#8217;s acquisition",
+    "link": "https://techcrunch.com/2026/10/21/foursquare-co-founder-says-equity-holders-saw-no-returns-from-the-companys-acquisition/",
+    "description": "Foursquare raised $411 million in funding according to PitchBook data, but its equity holders saw no returns from its final acquisition.",
+    "pubDate": "Wed, 21 Oct 2026 14:03:11 +0000",
+    "source": "TechCrunch",
+    "category": "科技"
+  },
+  {
+    "title": "AI promises productivity, but for managers, it&#8217;s mostly a headache for now",
+    "link": "https://techcrunch.com/2026/10/21/ai-promises-productivity-but-for-managers-its-mostly-a-headache-for-now-says-new-survey/",
+    "description": "More than 50% of managers say they're finding it harder to evaluate employees' work after adopting AI, according to a new survey.",
+    "pubDate": "Wed, 21 Oct 2026 14:00:00 +0000",
+    "source": "TechCrunch",
+    "category": "科技"
+  },
+  {
+    "title": "Xbox wants you to pay 24 to 40 cents per hour to stream games you already bought",
+    "link": "https://arstechnica.com/gaming/2026/10/xbox-wants-you-to-pay-24-to-40-cents-per-hour-to-stream-games-you-already-bought/",
+    "description": "Time-based a la carte charges come on top of the purchase price for the games themselves.",
+    "pubDate": "Wed, 21 Oct 2026 22:06:07 +0000",
+    "source": "Ars Technica",
+    "category": "科技"
+  },
+  {
+    "title": "Enterprises keep buying software upgrades that IT thinks will make things worse",
+    "link": "https://arstechnica.com/information-technology/2026/10/survey-enterprises-waste-28-percent-of-software-budgets-on-unwanted-upgrades/",
+    "description": "Survey of 2,018 IT heads at big firms points to a lack of leverage.",
+    "pubDate": "Wed, 21 Oct 2026 21:48:52 +0000",
+    "source": "Ars Technica",
+    "category": "科技"
+  },
+  {
+    "title": "Tesla profits drop 43% in Q3",
+    "link": "https://arstechnica.com/cars/2026/10/tesla-profits-drop-43-in-q3/",
+    "description": "Tesla’s once-booming energy storage business also shrunk in Q3 2026.",
+    "pubDate": "Wed, 21 Oct 2026 21:35:07 +0000",
+    "source": "Ars Technica",
+    "category": "科技"
+  },
+  {
+    "title": "The new human-crafted Apple Music brand matters in an AI world",
+    "link": "https://arstechnica.com/culture/2026/10/the-new-human-crafted-apple-music-brand-matters-in-an-ai-world/",
+    "description": "Opinion: In a world of AI slop, showing the human hands making things helps.",
+    "pubDate": "Wed, 21 Oct 2026 19:44:40 +0000",
+    "source": "Ars Technica",
+    "category": "科技"
+  },
+  {
+    "title": "RIP BioWare: EA shuts down storied RPG studio after over three decades",
+    "link": "https://arstechnica.com/gaming/2026/10/rip-bioware-ea-shuts-down-storied-rpg-studio-after-over-three-decades/",
+    "description": "Next Mass Effect project canceled as parent company lays off 400.",
+    "pubDate": "Wed, 21 Oct 2026 19:12:16 +0000",
+    "source": "Ars Technica",
+    "category": "科技"
+  },
+  {
+    "title": "OpenAI's latest AI models are coming to Google Cloud and Antigravity",
+    "link": "https://arstechnica.com/ai/2026/10/openais-latest-ai-models-are-coming-to-google-cloud-and-antigravity/",
+    "description": "Google Cloud will have GPT 6.1 Astra, Sol, and Luna in the coming weeks.",
+    "pubDate": "Wed, 21 Oct 2026 18:51:42 +0000",
+    "source": "Ars Technica",
+    "category": "科技"
+  },
+  {
+    "title": "Report: Musk ordered Starlink slowdown in Ukraine, then blamed it on Trump",
+    "link": "https://arstechnica.com/tech-policy/2026/10/report-says-musk-not-trump-ordered-starlink-throttling-that-blindsided-ukraine/",
+    "description": "Musk and Trump both denied ordering Starlink slowdown. WSJ reports it was Musk.",
+    "pubDate": "Wed, 21 Oct 2026 18:35:38 +0000",
+    "source": "Ars Technica",
+    "category": "科技"
+  },
+  {
+    "title": "Judge rejects Trump’s wild claim EPA can dismiss data center pollution lawsuits",
+    "link": "https://arstechnica.com/tech-policy/2026/10/judge-rejects-trumps-wild-claim-epa-can-dismiss-data-center-pollution-lawsuits/",
+    "description": "Trump’s EPA can't unilaterally dismiss SpaceXAI pollution lawsuit, court rules.",
+    "pubDate": "Wed, 21 Oct 2026 18:20:40 +0000",
+    "source": "Ars Technica",
+    "category": "科技"
+  },
+  {
+    "title": "Does opting out of smart TV tracking work? Research finds “suspicious” traffic.",
+    "link": "https://arstechnica.com/gadgets/2026/10/does-opting-out-of-smart-tv-tracking-work-research-finds-suspicious-traffic/",
+    "description": "OS operators throwing out that data is \"unlikely,\" research author tells Ars.",
+    "pubDate": "Wed, 21 Oct 2026 18:00:37 +0000",
+    "source": "Ars Technica",
+    "category": "科技"
+  },
+  {
+    "title": "SpaceX to attempt Starship catch on next flight, with eye on rapid cadence increase",
+    "link": "https://arstechnica.com/space/2026/10/spacex-will-attempt-to-reach-weekly-starship-launches-by-early-2027/",
+    "description": "\"We have had significant constructive engagement with the FAA.\"",
+    "pubDate": "Wed, 21 Oct 2026 16:46:19 +0000",
+    "source": "Ars Technica",
+    "category": "科技"
+  },
+  {
+    "title": "The $15 billion ad-powered AI startup your doctor may already be using",
+    "link": "https://arstechnica.com/ai/2026/10/the-15-billion-ad-powered-ai-startup-your-doctor-may-already-be-using/",
+    "description": "OpenEvidence is booming despite questions about accuracy and ads.",
+    "pubDate": "Wed, 21 Oct 2026 15:14:07 +0000",
+    "source": "Ars Technica",
+    "category": "科技"
+  },
+  {
+    "title": "Review: Carrie is a triumphant remix with one major flaw",
+    "link": "https://arstechnica.com/culture/2026/10/review-carrie-is-a-triumphant-remix-with-one-major-flaw/",
+    "description": "Mike Flanagan's re-imagining of Stephen King's classic is well worth watching.",
+    "pubDate": "Wed, 21 Oct 2026 11:19:12 +0000",
+    "source": "Ars Technica",
+    "category": "科技"
+  },
+  {
+    "title": "The past, present, and future share a show floor at Pinball Expo 2026",
+    "link": "https://arstechnica.com/gaming/2026/10/the-past-present-and-future-share-a-show-floor-at-pinball-expo-2026/",
+    "description": "Flipping through the highlights in and around Pinball Expo 2026.",
+    "pubDate": "Wed, 21 Oct 2026 11:00:04 +0000",
+    "source": "Ars Technica",
+    "category": "科技"
+  },
+  {
+    "title": "PHP warns it plans to release 2 emergency patches imminently",
+    "link": "https://arstechnica.com/security/2026/10/php-maintainers-tell-web-devs-to-prepare-themselves-for-critical-security-patches/",
+    "description": "Unconfirmed report claims PHP2Shell exploit remotely executes code on PHP sites.",
+    "pubDate": "Wed, 21 Oct 2026 02:12:18 +0000",
+    "source": "Ars Technica",
+    "category": "科技"
+  },
+  {
+    "title": "Merging SpaceX and Tesla would be a \"good idea,\" Musk says",
+    "link": "https://arstechnica.com/space/2026/10/spacex-and-tesla-into-a-single-company-has-a-lot-of-merit-musk-says/",
+    "description": "\"I do think there's a lot of merit to combining the companies.\"",
+    "pubDate": "Tue, 20 Oct 2026 22:04:54 +0000",
+    "source": "Ars Technica",
+    "category": "科技"
+  },
+  {
+    "title": "Cops raid office of RFK Jr. allies planning “unethical” vaccine trial on babies",
+    "link": "https://arstechnica.com/health/2026/10/cops-raid-office-of-rfk-jr-allies-planning-unethical-vaccine-trial-on-babies/",
+    "description": "Guinea-Bissau police said hepatitis B vaccine doses were taken as part of an investigation.",
+    "pubDate": "Tue, 20 Oct 2026 21:44:34 +0000",
+    "source": "Ars Technica",
+    "category": "科技"
+  },
+  {
+    "title": "Microsoft reportedly projects $1,200 to $1,800 price for 2028 Project Helix",
+    "link": "https://arstechnica.com/gaming/2026/10/report-microsofts-project-helix-planned-for-2028-at-1200-to-1800-price/",
+    "description": "Xbox maker is also apparently planning its own gaming handheld for next year.",
+    "pubDate": "Tue, 20 Oct 2026 21:14:33 +0000",
+    "source": "Ars Technica",
+    "category": "科技"
+  },
+  {
+    "title": "JustWatch, which tackles streaming fragmentation, launches own streaming service",
+    "link": "https://arstechnica.com/gadgets/2026/10/justwatch-which-tackles-streaming-fragmentation-launches-own-streaming-service/",
+    "description": "A lifetime ad-free subscription is available.",
+    "pubDate": "Tue, 20 Oct 2026 20:20:12 +0000",
+    "source": "Ars Technica",
+    "category": "科技"
+  },
+  {
+    "title": "Meta drops the word \"train\" from its commercial TOS after AI backlash",
+    "link": "https://arstechnica.com/tech-policy/2026/10/meta-drops-the-word-train-from-its-commercial-tos-after-ai-backlash/",
+    "description": "Meta changes AI scraping policy but won’t add language respecting robots.txt.",
+    "pubDate": "Tue, 20 Oct 2026 20:07:58 +0000",
+    "source": "Ars Technica",
+    "category": "科技"
+  },
+  {
+    "title": "Gemini's Personal Intelligence is coming to cars",
+    "link": "https://arstechnica.com/google/2026/10/geminis-personal-intelligence-is-coming-to-cars/",
+    "description": "It's probably time to audit your Gemini settings.",
+    "pubDate": "Tue, 20 Oct 2026 20:00:33 +0000",
+    "source": "Ars Technica",
+    "category": "科技"
+  },
+  {
+    "title": "Burnham defends Jackdaw decision as Badenoch urges PM to overturn ban on new oil and gas licences",
+    "link": "https://www.bbc.co.uk/news/articles/cy4zdgk081eo?at_medium=RSS&at_campaign=rss",
+    "description": "The UK government says the field, which is opposed by environmental campaigners, could be producing gas by the end of this month.",
+    "pubDate": "Wed, 21 Oct 2026 15:36:31 GMT",
+    "source": "BBC News",
+    "category": "综合"
+  },
+  {
+    "title": "Websites taken down worldwide as critical cyber-security update issued",
+    "link": "https://www.bbc.co.uk/news/articles/cmly0lg3w5x2o?at_medium=RSS&at_campaign=rss",
+    "description": "The vulnerabilities with PHP, a programming language widely used across the internet, have been described as the most significant ever found by AI.",
+    "pubDate": "Wed, 21 Oct 2026 19:54:57 GMT",
+    "source": "BBC News",
+    "category": "综合"
+  },
+  {
+    "title": "Missiles hit Kyiv after Russia agrees to US call to resume Ukraine peace talks",
+    "link": "https://www.bbc.co.uk/news/articles/cq3djn5nxx12o?at_medium=RSS&at_campaign=rss",
+    "description": "Moscow says it is \"ready in principle\" to resume peace talks and US President Donald Trump says the world is \"the closest we've been\" to ending the war.",
+    "pubDate": "Wed, 21 Oct 2026 21:27:41 GMT",
+    "source": "BBC News",
+    "category": "综合"
+  },
+  {
+    "title": "Rosenberg: US diplomatic push offers little hope for imminent Ukraine peace",
+    "link": "https://www.bbc.co.uk/news/articles/cm98zn5j89kdo?at_medium=RSS&at_campaign=rss",
+    "description": "President Vladimir Putin does not feel under pressure right now to end the war, the BBC's Russia Editor writes.",
+    "pubDate": "Wed, 21 Oct 2026 19:58:06 GMT",
+    "source": "BBC News",
+    "category": "综合"
+  },
+  {
+    "title": "'Targeted' attack on much-loved MP leaves Australian town heartbroken",
+    "link": "https://www.bbc.co.uk/news/articles/cmgr8q88r5eqo?at_medium=RSS&at_campaign=rss",
+    "description": "Locals describe the MP, who had to have both legs amputated, as a genuinely kind person who fought for the community.",
+    "pubDate": "Wed, 21 Oct 2026 18:10:42 GMT",
+    "source": "BBC News",
+    "category": "综合"
+  },
+  {
+    "title": "Airbnb hosts can no longer make guests strip beds and wash dishes under new rules",
+    "link": "https://www.bbc.co.uk/news/articles/c6n049gg75r4o?at_medium=RSS&at_campaign=rss",
+    "description": "The updated policy will apply to all reservations booked on the accommodation site on or after 20 November.",
+    "pubDate": "Wed, 21 Oct 2026 22:54:58 GMT",
+    "source": "BBC News",
+    "category": "综合"
+  },
+  {
+    "title": "Don't Stop Believin'! - high school musical Glee set for reboot",
+    "link": "https://www.bbc.co.uk/news/articles/c6x2vpn4xy0yo?at_medium=RSS&at_campaign=rss",
+    "description": "Ryan Murphy's popular musical comedy-drama is set to return on Hulu and Disney+ after a decade away.",
+    "pubDate": "Wed, 21 Oct 2026 14:38:22 GMT",
+    "source": "BBC News",
+    "category": "综合"
+  },
+  {
+    "title": "Fernandes rounds on Carrick after Man Utd humiliation",
+    "link": "https://www.bbc.co.uk/sport/football/articles/cq74pjn80x4wo?at_medium=RSS&at_campaign=rss",
+    "description": "Manchester United captain Bruno Fernandes blames head coach Michael Carrick for the tactics that led to an embarrassing 4-1 defeat by Como in the Champions League.",
+    "pubDate": "Wed, 21 Oct 2026 19:59:30 GMT",
+    "source": "BBC News",
+    "category": "综合"
+  },
+  {
+    "title": "Burnham proposes plan to cut standing charges from gas bills",
+    "link": "https://www.bbc.co.uk/news/articles/cw0541p65dyzo?at_medium=RSS&at_campaign=rss",
+    "description": "The prime minister provided little detail, and there are questions over shifting the fees onto unit costs.",
+    "pubDate": "Wed, 21 Oct 2026 17:06:16 GMT",
+    "source": "BBC News",
+    "category": "综合"
+  },
+  {
+    "title": "Macron accuses foreign leaders of exploiting French riots",
+    "link": "https://www.bbc.co.uk/news/articles/ckjrw044ggxgo?at_medium=RSS&at_campaign=rss",
+    "description": "The comment is an apparent swipe at Benjamin Netanyahu and Donald Trump, who both face elections in coming weeks.",
+    "pubDate": "Wed, 21 Oct 2026 14:04:28 GMT",
+    "source": "BBC News",
+    "category": "综合"
+  },
+  {
+    "title": "Google staff resign in backlash over its AI contracts with military",
+    "link": "https://www.bbc.co.uk/news/articles/cmreyvepnv0po?at_medium=RSS&at_campaign=rss",
+    "description": "The BBC speaks to several current and former Google DeepMind employees about their concerns with AI use on the battlefield.",
+    "pubDate": "Wed, 21 Oct 2026 15:41:25 GMT",
+    "source": "BBC News",
+    "category": "综合"
+  },
+  {
+    "title": "Pope does not need further treatment after lung cancer surgery",
+    "link": "https://www.bbc.co.uk/news/articles/cqrly2dg5xzzo?at_medium=RSS&at_campaign=rss",
+    "description": "Test results have confirmed his diagnosis as a lung adenocarcinoma that was localised.",
+    "pubDate": "Wed, 21 Oct 2026 20:09:10 GMT",
+    "source": "BBC News",
+    "category": "综合"
+  },
+  {
+    "title": "Will it bring down your energy bills?",
+    "link": "https://www.bbc.co.uk/news/videos/cqvg0ke2v9njo?at_medium=RSS&at_campaign=rss",
+    "description": "BBC Verify's Ben Chu explains why energy prices are so high, and what Jackdaw could mean for your bills.",
+    "pubDate": "Wed, 21 Oct 2026 16:17:49 GMT",
+    "source": "BBC News",
+    "category": "综合"
+  },
+  {
+    "title": "How the project will work and the difference it will make",
+    "link": "https://www.bbc.co.uk/news/videos/c6wy4pdqx0w5o?at_medium=RSS&at_campaign=rss",
+    "description": "Business editor Simon Jack explains how the project will work, and the impact it could have on energy supply and security.",
+    "pubDate": "Wed, 21 Oct 2026 16:45:50 GMT",
+    "source": "BBC News",
+    "category": "综合"
+  },
+  {
+    "title": "Why Jackdaw decision ignites row over climate and costs",
+    "link": "https://www.bbc.co.uk/news/videos/c6n9r7gvngx8o?at_medium=RSS&at_campaign=rss",
+    "description": "How Jackdaw ignites arguments over climate and costs",
+    "pubDate": "Wed, 21 Oct 2026 13:46:34 GMT",
+    "source": "BBC News",
+    "category": "综合"
+  },
+  {
+    "title": "The Aberfan disaster through the eyes of those who survived, 60 years on",
+    "link": "https://www.bbc.co.uk/news/articles/cr9dzpx2xl0lo?at_medium=RSS&at_campaign=rss",
+    "description": "It was one of Wales' darkest days that changed a mining community forever.",
+    "pubDate": "Wed, 21 Oct 2026 05:22:15 GMT",
+    "source": "BBC News",
+    "category": "综合"
+  },
+  {
+    "title": "Chip muffin? Bacon and egg soda? How Just Eat's AI struggled to depict Britain's regional dishes",
+    "link": "https://www.bbc.co.uk/news/articles/crz981p0klvgo?at_medium=RSS&at_campaign=rss",
+    "description": "A spokesperson said it was removing inaccurate AI images and pausing the rollout of the tool.",
+    "pubDate": "Wed, 21 Oct 2026 17:04:13 GMT",
+    "source": "BBC News",
+    "category": "综合"
+  },
+  {
+    "title": "How much gas could Jackdaw provide? And will it cut your energy bills?",
+    "link": "https://www.bbc.co.uk/news/articles/cq4g13pplyzzo?at_medium=RSS&at_campaign=rss",
+    "description": "BBC Verify looks at what the Jackdaw decision means for bills, energy security and the environment.",
+    "pubDate": "Wed, 21 Oct 2026 11:57:49 GMT",
+    "source": "BBC News",
+    "category": "综合"
+  },
+  {
+    "title": "'Mindset shift' needed within government on No10 North, says deputy",
+    "link": "https://www.bbc.co.uk/news/articles/cqx28yp532r0o?at_medium=RSS&at_campaign=rss",
+    "description": "Number 10 North deputy director Duncan Parish has told a conference he is still facing \"institutional barriers\".",
+    "pubDate": "Wed, 21 Oct 2026 17:05:09 GMT",
+    "source": "BBC News",
+    "category": "综合"
+  },
+  {
+    "title": "Undercover filming shows lawyer advising how to avoid £45,000 illegal-worker fine",
+    "link": "https://www.bbc.co.uk/news/videos/cm93z1j33dkpo?at_medium=RSS&at_campaign=rss",
+    "description": "Mohammad Alias Yousaf made his claim to an undercover reporter posing as a mini-mart owner.",
+    "pubDate": "Wed, 21 Oct 2026 05:00:54 GMT",
+    "source": "BBC News",
+    "category": "综合"
+  },
+  {
+    "title": "Ali G is back. But is the character past its sell-by date?",
+    "link": "https://www.bbc.co.uk/news/articles/ckge4vn2rnxgo?at_medium=RSS&at_campaign=rss",
+    "description": "Borat and Bruno creator Sacha Baron Cohen returns as Ali G, more than two decades after the release of Ali G Indahouse.",
+    "pubDate": "Wed, 21 Oct 2026 06:43:31 GMT",
+    "source": "BBC News",
+    "category": "综合"
+  },
+  {
+    "title": "Huge crowds watch attempt to rescue shark stranded in South Korean canal",
+    "link": "https://www.bbc.co.uk/news/videos/ckq6n56e5qrqo?at_medium=RSS&at_campaign=rss",
+    "description": "Early on Thursday morning local time, South Korea's oceans ministry said the shark had been successfully guided out of the canal.",
+    "pubDate": "Wed, 21 Oct 2026 20:31:47 GMT",
+    "source": "BBC News",
+    "category": "综合"
+  },
+  {
+    "title": "Sign up now",
+    "link": "https://www.bbc.co.uk/news/articles/c2lkky9zngvo?at_medium=RSS&at_campaign=rss",
+    "description": "From news and politics to technology and the royals, get the best BBC journalism to your inbox.",
+    "pubDate": "Wed, 09 Sep 2026 10:24:59 GMT",
+    "source": "BBC News",
+    "category": "综合"
+  },
+  {
+    "title": "Jailed former DUP leader Jeffrey Donaldson being investigated over alleged rape inside Parliament",
+    "link": "https://www.bbc.co.uk/news/articles/c94g1pjmxg0ko?at_medium=RSS&at_campaign=rss",
+    "description": "While not naming the disgraced former MP, the Metropolitan Police has issued a statement confirming a 63-year-old man is being investigated.",
+    "pubDate": "Wed, 21 Oct 2026 14:26:24 GMT",
+    "source": "BBC News",
+    "category": "综合"
+  },
+  {
+    "title": "Aberfan disaster 'most tragic of days imaginable' says King on 60th anniversary",
+    "link": "https://www.bbc.co.uk/news/articles/crgj9d4zgj5yo?at_medium=RSS&at_campaign=rss",
+    "description": "In total 116 children and 28 adults were killed when a colliery spoil tip collapsed on 21 October 1966.",
+    "pubDate": "Wed, 21 Oct 2026 15:56:03 GMT",
+    "source": "BBC News",
+    "category": "综合"
+  },
+  {
+    "title": "Holocaust school lessons to be improved after 'shocking' antisemitism review",
+    "link": "https://www.bbc.co.uk/news/articles/cq39870ypgl7o?at_medium=RSS&at_campaign=rss",
+    "description": "Education Secretary Lucy Powell has stressed the importance of reminding new generations of the horrors of the Holocaust.",
+    "pubDate": "Wed, 21 Oct 2026 15:24:23 GMT",
+    "source": "BBC News",
+    "category": "综合"
+  },
+  {
+    "title": "Glastonbury coach tickets oversold in admin error",
+    "link": "https://www.bbc.co.uk/news/articles/cm5ynqkgwr69o?at_medium=RSS&at_campaign=rss",
+    "description": "Bookings will automatically be converted into a general admission ticket and coach fare refunded.",
+    "pubDate": "Wed, 21 Oct 2026 15:30:57 GMT",
+    "source": "BBC News",
+    "category": "综合"
+  },
+  {
+    "title": "Teenage boy guilty of trying to murder girl, 15, in school",
+    "link": "https://www.bbc.co.uk/news/articles/cm0j0q9znzdlo?at_medium=RSS&at_campaign=rss",
+    "description": "The school went into lockdown and parents gathered at the gates as they waited for news about their children.",
+    "pubDate": "Wed, 21 Oct 2026 15:47:51 GMT",
+    "source": "BBC News",
+    "category": "综合"
+  },
+  {
+    "title": "Lawyer caught by BBC offering to make illegal-worker fine go away",
+    "link": "https://www.bbc.co.uk/news/articles/c30rln4pz58xo?at_medium=RSS&at_campaign=rss",
+    "description": "Because of our investigation, the home secretary has ordered a review of how fines are issued and collected.",
+    "pubDate": "Wed, 21 Oct 2026 05:00:35 GMT",
+    "source": "BBC News",
+    "category": "综合"
+  },
+  {
+    "title": "Meta fined $25bn for 'lies' over user data privacy",
+    "link": "https://www.bbc.co.uk/news/articles/cqdr8zxrr3dxo?at_medium=RSS&at_campaign=rss",
+    "description": "The fine is the largest to date against Facebook's owner, larger than an $18bn deal with California.",
+    "pubDate": "Wed, 21 Oct 2026 21:49:07 GMT",
+    "source": "BBC News",
+    "category": "综合"
+  },
+  {
+    "title": "Download now",
+    "link": "https://www.bbc.co.uk/news/10628994?at_medium=RSS&at_campaign=rss",
+    "description": "Top stories, breaking news, live reporting, and follow news topics that match your interests",
+    "pubDate": "Wed, 30 Apr 2025 14:04:28 GMT",
+    "source": "BBC News",
+    "category": "综合"
+  },
+  {
+    "title": "Man Utd humbled by four-goal Como to pile pressure on Carrick",
+    "link": "https://www.bbc.co.uk/sport/football/videos/cmz7xr3z2vz7o?at_medium=RSS&at_campaign=rss",
+    "description": "Manchester United suffer a heavy defeat to a Como side playing just their third ever game of Champions League football, as Nico Paz stars for the hosts to pile the pressure on Michael Carrick.",
+    "pubDate": "Wed, 21 Oct 2026 20:59:43 GMT",
+    "source": "BBC News",
+    "category": "综合"
+  },
+  {
+    "title": "Saka injury 'does not look good' - how will Arsenal cope?",
+    "link": "https://www.bbc.co.uk/sport/football/articles/ckg5j1zdn4m3o?at_medium=RSS&at_campaign=rss",
+    "description": "Mikel Arteta says the quadriceps injury Arsenal's Bukayo Saka picked up in the Champions League draw with Bayern Munich \"does not look good at all\".",
+    "pubDate": "Wed, 21 Oct 2026 22:51:56 GMT",
+    "source": "BBC News",
+    "category": "综合"
+  },
+  {
+    "title": "Goal, assist... goal-kick - Kane underlines Ballon d'Or credentials",
+    "link": "https://www.bbc.co.uk/sport/football/articles/ck79p7qq1q9ro?at_medium=RSS&at_campaign=rss",
+    "description": "Why Declan Rice backs his England team-mate Harry Kane to win the Ballon d'Or after Arsenal's draw with Bayern Munich in the Champions League.",
+    "pubDate": "Wed, 21 Oct 2026 23:11:06 GMT",
+    "source": "BBC News",
+    "category": "综合"
+  },
+  {
+    "title": "Rice strikes to earn Arsenal draw at Bayern",
+    "link": "https://www.bbc.co.uk/sport/football/videos/crx23nx0vp8jo?at_medium=RSS&at_campaign=rss",
+    "description": "Declan Rice scores a late equaliser as Arsenal and Bayern Munich play out an entertaining draw in the league phase of the Champions League while Bukayo Saka limps off with an early injury.",
+    "pubDate": "Wed, 21 Oct 2026 21:09:36 GMT",
+    "source": "BBC News",
+    "category": "综合"
+  },
+  {
+    "title": "'Playing for their careers' - Australia reeling after extraordinary day",
+    "link": "https://www.bbc.co.uk/sport/cricket/articles/ckzd6r577qvdo?at_medium=RSS&at_campaign=rss",
+    "description": "Australia are facing defeat in the second Test against South Africa with careers on the line after their shambolic performance on day four.",
+    "pubDate": "Wed, 21 Oct 2026 19:46:45 GMT",
+    "source": "BBC News",
+    "category": "综合"
+  },
+  {
+    "title": "Controversial US-backed vaccine trial in African newborns halted",
+    "link": "https://www.theguardian.com/world/2026/oct/21/us-vaccine-trial-african-newborns-hepatitis-b",
+    "description": "Hepatitis B study in Guinea-Bissau that was to be funded by CDC and that drew global backlash ‘will not move forward’The US-backed hepatitis B vaccine trial in African newborns that drew global backlash was halted, the lead researcher said on Wednesday.It was “now clear” that the study “will not move forward in Guinea-Bissau”, Frederik Schaltz-Buchholzer, a Danish researcher, wrote on LinkedIn, adding, “we were not given the necessary governmental approval.” Continue reading...",
+    "pubDate": "Wed, 21 Oct 2026 17:18:56 GMT",
+    "source": "卫报",
+    "category": "综合"
+  },
+  {
+    "title": "Severely ill ICE detainees face imminent deportation to unknown African states, advocates say",
+    "link": "https://www.theguardian.com/us-news/2026/oct/21/ice-detention-illness-deportation-florida",
+    "description": "Flights to third countries where the detainees have no ties are scheduled as early as Wednesday, relatives detailSend us your questions about immigration and the midtermsRelatives of gravely ill detainees at two Florida immigration jails say authorities are about to deport their loved ones to unknown countries in Africa despite worsening medical conditions.Flights are scheduled as early as Wednesday, according to the families and the immigration advocacy group the Workers Circle, which has been ",
+    "pubDate": "Wed, 21 Oct 2026 13:40:08 GMT",
+    "source": "卫报",
+    "category": "综合"
+  },
+  {
+    "title": "Nigeria confirms Ebola case as outbreak spreads into western Africa",
+    "link": "https://www.theguardian.com/world/2026/oct/21/nigeria-first-ebola-case-africa-outbreak-latest",
+    "description": "Case in Africa’s most populous country was detected in a woman who had travelled from UgandaNigeria has confirmed an Ebola case in its capital, Abuja, after a woman who arrived from Uganda tested positive for the virus, the health ministry said.The woman began showing symptoms on 7 October and was admitted to a hospital in Abuja four days later, where she was later diagnosed with Ebola. It is unclear when she arrived in Nigeria, Africa’s most populous country. Continue reading...",
+    "pubDate": "Wed, 21 Oct 2026 00:14:55 GMT",
+    "source": "卫报",
+    "category": "综合"
+  },
+  {
+    "title": "RFK Jr’s ‘deities of vaccine research’ raided by police in Guinea-Bissau",
+    "link": "https://www.theguardian.com/world/2026/oct/20/rfk-jr-vaccine-researchers-offices-raided-guinea-bissau",
+    "description": "Police seize doses of hepatitis B vaccine from people at center of dispute over research on African newbornsControversial vaccine researchers who have been praised by Robert F Kennedy Jr, the US Department of Health and Human Services (HHS) secretary, had their offices in Guinea-Bissau raided by judicial police, who seized doses of hepatitis B vaccines, officials said on Facebook.The researchers have been at the heart of an ongoing dispute over research on African newborns, supported by $1.6m fr",
+    "pubDate": "Tue, 20 Oct 2026 19:18:03 GMT",
+    "source": "卫报",
+    "category": "综合"
+  },
+  {
+    "title": "US grants deportation reprieve to migrants from Ukraine and Sudan",
+    "link": "https://www.theguardian.com/us-news/2026/oct/19/us-migrants-deportation-ukraine-sudan",
+    "description": "DHS says migrants ‘retain protections’ after temporary protected status was set to expire on MondaySend us your questions about immigration and the midtermsMore than 100,000 people from Ukraine and Sudan can stay in the United States without immediate risk of deportation, the Department of Homeland Security said, in what amounts to a temporary reprieve after their right to stay in the country was set to expire on Monday.Temporary protected status was set to end on Monday for about 101,000 Ukrain",
+    "pubDate": "Mon, 19 Oct 2026 22:34:43 GMT",
+    "source": "卫报",
+    "category": "综合"
+  },
+  {
+    "title": "Alberta voters overwhelmingly reject plan to leave Canada in referendum",
+    "link": "https://www.theguardian.com/world/2026/oct/20/canada-alberta-rejects-independence-succession-referendum",
+    "description": "Result is a victory for prime minister Mark Carney and supporters of Canadian unityVoters in Canada’s Alberta have overwhelmingly rejected a proposal to begin the process of independence, delivering a decisive victory for supporters of Canadian unity and deepening divisions within the separatist movement.With nearly 1.9m votes counted, roughly 76% people supported remaining in Canada, while 24% backed beginning a process toward separation, according to unofficial results from Elections Alberta. ",
+    "pubDate": "Tue, 20 Oct 2026 16:24:05 GMT",
+    "source": "卫报",
+    "category": "综合"
+  },
+  {
+    "title": "‘Bad decisions’: Man convicted for taking Peachy the flamingo from Las Vegas hotel",
+    "link": "https://www.theguardian.com/us-news/2026/oct/20/man-convicted-peachy-the-flamingo-las-vegas-hotel",
+    "description": "Mitchell Fairbarn found guilty of animal cruelty after prosecutors say he hurt and frightened the 27-year-old birdA Canadian man was convicted of animal cruelty charges on Monday for snatching a flamingo named Peachy from its enclosure at an iconic Las Vegas hotel.Prosecutors said it was a malicious prank while a lawyer for the tourist insisted it was drunken foolishness not meant to harm the bird. Continue reading...",
+    "pubDate": "Tue, 20 Oct 2026 16:11:21 GMT",
+    "source": "卫报",
+    "category": "综合"
+  },
+  {
+    "title": "Flavio Bolsonaro’s ‘corrupto’ stunt sparks viral meme before Brazil election runoff",
+    "link": "https://www.theguardian.com/world/2026/oct/20/flavio-bolsonaro-corrupto-viral-meme-brazil-election-runoff",
+    "description": "Far-right presidential candidate’s TV debate swipe at rival backfires as people take to social media to parody itTo Flávio Bolsonaro and his publicists, it must have seemed an ingenious idea that would expose his rival’s supposed crookedness on the eve of Brazil’s presidential election.But the far-right politician’s decision to attend a primetime television debate against his leftwing opponent, Luiz Inácio Lula da Silva, with the word “corrupto” (corrupt) written on the palm of his hand has back",
+    "pubDate": "Tue, 20 Oct 2026 15:41:44 GMT",
+    "source": "卫报",
+    "category": "综合"
+  },
+  {
+    "title": "Giving £2 a day to people in the Amazon helps protect rainforest, pilot project finds",
+    "link": "https://www.theguardian.com/environment/2026/oct/20/unconditional-basic-income-amazon-rainforest-peru-study",
+    "description": "Researchers say almost 90% of participants in unconditional basic income scheme in Peru adopted environmentally beneficial practicesA pioneering project to provide Indigenous people in the Peruvian Amazon with an unconditional basic income has contributed to the protection of the rainforest, according to a study.The analysis from the University of Bath is expected to contribute to a growing debate about the role of direct payments to communities that maintain globally important ecosystems. Conti",
+    "pubDate": "Tue, 20 Oct 2026 12:00:36 GMT",
+    "source": "卫报",
+    "category": "综合"
+  },
+  {
+    "title": "Hurricane Trudy menaces Mexico’s Pacific coast and Greece hit by deadly floods",
+    "link": "https://www.theguardian.com/news/2026/oct/19/hurricane-trudy-mexico-pacific-coast-greece-floods",
+    "description": "Trudy weakens to tropical storm after warnings of strong winds and heavy rain, while one person killed in GreeceIn contrast to the quiet Atlantic hurricane season, there has been ongoing activity in the Pacific, with Trudy being the 22nd and latest named system. The category 2 hurricane remained roughly 100 miles (160km) south-west of the coast of Mexico, meaning the worst of the conditions stayed offshore. However, the US National Hurricane Center put coastal parts of the states of Jalisco, Mic",
+    "pubDate": "Mon, 19 Oct 2026 10:07:09 GMT",
+    "source": "卫报",
+    "category": "综合"
+  },
+  {
+    "title": "Taiwan charges five men over plot to run over comedian for his Xi Jinping jokes",
+    "link": "https://www.theguardian.com/world/2026/oct/21/taiwan-five-men-plot-run-over-comedian-huang-yi-hao-xi-jinping-jokes",
+    "description": "Person named ‘K’ from China paid five defendants to injure Huang Yi-hao, New Taipei prosecutors sayTaiwanese prosecutors have charged five men over a plot to ram a car into a comedian who made fun of the Chinese Communist party and Xi Jinping.Taiwan has repeatedly accused China of transnational repression to silence critics on the self-governed island, which Beijing claims as its territory and has vowed to take by force if necessary. Continue reading...",
+    "pubDate": "Wed, 21 Oct 2026 16:13:53 GMT",
+    "source": "卫报",
+    "category": "综合"
+  },
+  {
+    "title": "Shark trapped for a month in South Korean canal is finally freed",
+    "link": "https://www.theguardian.com/world/2026/oct/21/youtube-watch-over-shark-stuck-south-korea-canal-busan-bukang-i",
+    "description": "Bukang-i successfully guided out after month in which it drew 1.6m visitors and was watched over by YouTubersIn South Korea, they call them jagyeongdan, a word whose meaning sits somewhere between vigilante group and neighbourhood watch. Each night they put on hi-vis vests, picked up their selfie sticks and gathered around the harbour in Busan to keep watch over an unlikely charge: a stranded shark affectionately known as Bukang-i.On Wednesday, after more than a month in the canal and at the thi",
+    "pubDate": "Wed, 21 Oct 2026 11:41:48 GMT",
+    "source": "卫报",
+    "category": "综合"
+  },
+  {
+    "title": "China’s economy grows faster than forecast after AI boom boosts exports",
+    "link": "https://www.theguardian.com/world/2026/oct/19/china-economy-grows-faster-than-forecast-after-ai-boom-boosted-exports",
+    "description": "Third-quarter GDP up by 4.5% compared with last year as industrial output is buoyed by electronics demandRoaring exports lifted China’s economic growth in the third quarter of this year, with factory output growing much faster than consumer spending.China’s GDP grew by 4.5% year-on-year between July and September, the National Bureau of Statistics of China reported on Monday. The figures were better than economists had expected and up from the second quarter’s growth rate of 4.3%. Continue readi",
+    "pubDate": "Mon, 19 Oct 2026 09:27:04 GMT",
+    "source": "卫报",
+    "category": "综合"
+  },
+  {
+    "title": "Three deaths from float crushes raise safety concerns over Japanese festivals",
+    "link": "https://www.theguardian.com/world/2026/oct/19/safety-concerns-japan-traditional-festivals-fatal-accidents",
+    "description": "Deputy mayor of Saijo died after becoming trapped under float, days after two similar incidents elsewhereThere is mounting concern over the safety of Japan’s traditional festivals after the death of a senior local official who was reportedly crushed beneath a float at the weekend, days after two men died in similar incidents in another part of the country.Akihiro Nabae, the deputy mayor of Saijo, in western Japan, was carrying a giant float with other participants in a festival on Saturday when ",
+    "pubDate": "Mon, 19 Oct 2026 09:08:34 GMT",
+    "source": "卫报",
+    "category": "综合"
+  },
+  {
+    "title": "Amelia Earhart researchers leave remote atoll empty-handed after ‘plane debris’ found to be a clump of trees",
+    "link": "https://www.theguardian.com/us-news/2026/oct/19/amelia-earhart-purdue-expedition-clump-of-trees-nikumaroro-kiribati",
+    "description": "Expedition was drawn to Nikumaroro after spotting what was described as a metallic glint in waters off uninhabited islandA US expedition that voyaged to a remote Pacific island in the hope of solving the mystery of what happened to pioneering pilot Amelia Earhart has said an object they suspected to be her plane was a clump of washed-up trees.“Unfortunately, we weren’t able to find that smoking gun,” said Steve Schultz of Purdue University, standing on the sand in front of a blue lagoon on the a",
+    "pubDate": "Mon, 19 Oct 2026 04:43:41 GMT",
+    "source": "卫报",
+    "category": "综合"
+  },
+  {
+    "title": "Australian politicians say they are paying thousands for their own security upgrades amid rising threats",
+    "link": "https://www.theguardian.com/australia-news/2026/oct/22/politicians-say-they-are-paying-thousands-for-own-security-upgrades-amid-rising-threats-ntwnfb",
+    "description": "Home and office safety a common concern in Australian federal police and Asio safety briefings with politicians following alleged attack on MP Helen HainesGet our new political email, free app or daily news podcastSecurity agencies will review safety precautions for MPs’ homes and offices after numerous federal politicians told police and Asio in safety briefings that they were worried about widening threats after the alleged attack on Helen Haines.The Labor government and politicians across the",
+    "pubDate": "Wed, 21 Oct 2026 23:04:49 GMT",
+    "source": "卫报",
+    "category": "综合"
+  },
+  {
+    "title": "House prices falling in every Australian capital city for first time in 15 years",
+    "link": "https://www.theguardian.com/australia-news/2026/oct/22/house-prices-fall-sydney-melbourne-perth-brisbane-adelaide-hobart-darwin",
+    "description": "House prices in Sydney are at a two-year low after falling 4.7% in the September quarter to $1.66m, according to Domain reportGet our breaking news email, free app or daily news podcastHouse prices are falling across every capital city for the first time in 15 years and the second time on record, according to figures from Domain’s September Quarter 2026 House Price report.House prices in Sydney are at a two-year low after falling 4.7% in the September quarter, to $1.66m. Continue reading...",
+    "pubDate": "Wed, 21 Oct 2026 21:56:27 GMT",
+    "source": "卫报",
+    "category": "综合"
+  },
+  {
+    "title": "‘Huge moment’: long-awaited extension to Sydney’s metro line to open next week",
+    "link": "https://www.theguardian.com/australia-news/2026/oct/22/sydney-southwest-metro-extension-opening-friday-chris-minns",
+    "description": "The south-west metro extension will open on Friday 30 October, more than two years after the former T3 heavy rail line closedGet our breaking news email, free app or daily news podcastA long-awaited extension to Sydney’s metro line will open next week, bringing an end to more than two years of replacement buses for residents in the city’s south-west.In a video shared on Instagram on Thursday morning, the New South Wales premier, Chris Minns, announced that the south-west metro extension would op",
+    "pubDate": "Wed, 21 Oct 2026 20:01:54 GMT",
+    "source": "卫报",
+    "category": "综合"
+  },
+  {
+    "title": "NSW passes ‘human compost’ laws with several MPs saying they will utilise practice after they die",
+    "link": "https://www.theguardian.com/australia-news/2026/oct/22/nsw-passes-human-compost-laws-with-several-mps-saying-they-will-utilise-practice-after-they-die",
+    "description": "Australia-first laws provide a third legal option other than burial and cremation for the treatment of bodiesGet our breaking news email, free app or daily news podcastSeveral New South Wales MPs say they want their own bodies turned into “human compost” after Australian-first laws were passed allowing the unusual practice.The laws, passed on Wednesday, provide a third legal option other than burial and cremation for the treatment of bodies. Continue reading...",
+    "pubDate": "Wed, 21 Oct 2026 19:37:00 GMT",
+    "source": "卫报",
+    "category": "综合"
+  },
+  {
+    "title": "Majority of Australians who report penicillin allergy not truly allergic",
+    "link": "https://www.theguardian.com/australia-news/2026/oct/22/penicillin-allergy-australia-doctors-antibiotic-guidelines",
+    "description": "Peak body for immunologists changes guidelines as evidence shows up to 90% of those reporting allergy don’t have oneGet our breaking news email, free app or daily news podcastThe majority of Australians who report a penicillin allergy are not truly allergic, prompting the peak body for immunologists to change its guidelines in a bid to reduce hospital stays and tackle antimicrobial resistance.Penicillin, one of the most commonly prescribed antibiotics in Australia, was thought to cause allergies",
+    "pubDate": "Wed, 21 Oct 2026 14:00:20 GMT",
+    "source": "卫报",
+    "category": "综合"
+  },
+  {
+    "title": "Macron accuses Trump and other foreign leaders of ‘stupid comments’ about France unrest",
+    "link": "https://www.theguardian.com/world/2026/oct/21/macron-trump-foreign-leaders-stupid-comments-france-unrest",
+    "description": "Leaders criticised for spreading misleading information as France prepares for further protests this weekendEmmanuel Macron has accused Donald Trump and other foreign leaders of making “stupid comments” about France’s street unrest for political gain, as the country prepared for more protests this weekend.Speaking during a visit to Qatar, the French president did not name names but said “manipulation of information” after Saturday’s riots had led to “comments that are as unacceptable as they are",
+    "pubDate": "Wed, 21 Oct 2026 23:06:36 GMT",
+    "source": "卫报",
+    "category": "综合"
+  },
+  {
+    "title": "Putin orders release of jailed American as he meets Trump envoy for Ukraine talks",
+    "link": "https://www.theguardian.com/world/2026/oct/21/putin-witkoff-russia-ukraine-trump-stephen-hubbard-release",
+    "description": "Russia frees Stephen Hubbard after US request while Steve Witkoff praises Putin, wanted by ICC as war criminal, as a ‘humanitarian’US politics live – latest updatesVladimir Putin ordered the release of an American man from a Russian jail as he met Donald Trump’s envoy Steve Witkoff in St Petersburg on Wednesday for fresh talks on ending the war in Ukraine, amid increasingly close relations between Moscow and Washington.Trump had previously asked Putin to free Stephen Hubbard, a 74-year-old forme",
+    "pubDate": "Wed, 21 Oct 2026 21:23:37 GMT",
+    "source": "卫报",
+    "category": "综合"
+  },
+  {
+    "title": "‘You are a humanitarian also, sir’: the US feeds Putin with lies as Ukraine’s children take cover and die | Andrew Roth",
+    "link": "https://www.theguardian.com/world/2026/oct/21/you-are-a-humanitarian-also-sir-us-putin-lies-ukraine-children-take-cover-and-die-witkoff",
+    "description": "Steve Witkoff’s flattery of the Russian leader could be just the start of a mendacious stratagem from a US president who says Moscow ‘has been fine on Ukraine’They say the first casualty of war is truth. For the Trump administration, the road to peace with Russia now encompasses some extraordinary lies.Steve Witkoff delivered one as he sat down with Vladimir Putin in St Petersburg on Wednesday, aiming to close the deal on Russia’s land grab in Ukraine with the White House’s strategy of maximum p",
+    "pubDate": "Wed, 21 Oct 2026 17:57:48 GMT",
+    "source": "卫报",
+    "category": "综合"
+  },
+  {
+    "title": "Thousands march in Greece over public education failures as Macron blasts ‘stupid’ commentary on French protests – as it happened",
+    "link": "https://www.theguardian.com/world/live/2026/oct/21/us-russia-ukraine-putin-witkoff-zelenskyy-france-italy-protests-europe-latest-news-updates",
+    "description": "Students, teachers and civil servants have shown up in Athens, with demonstrations also in Thessaloniki and other citiesMeanwhile, back to Witkoff’s meeting with Putin in St Petersburg, the US president, Donald Trump, has just welcomed the release of Stephen Hubbard, a US citizen held by Moscow on allegations of fighting as a mercenary for Ukraine (11:24).In a post on Truth Social, he said:“Stephen Hubbard, taken four years ago by Russia during the Biden Administration, was just released from pr",
+    "pubDate": "Wed, 21 Oct 2026 15:23:04 GMT",
+    "source": "卫报",
+    "category": "综合"
+  },
+  {
+    "title": "Poland’s parliament votes to ease abortion ban but faces likely veto from president",
+    "link": "https://www.theguardian.com/world/2026/oct/21/poland-parliament-votes-ease-abortion-ban-likely-veto-president",
+    "description": "Measures would remove some penalties for those helping women access abortion but are ‘small-scale step’, say campaignersPoland’s lower house of parliament has approved two bills aimed at loosening a near-total ban on abortions, in what campaigners have described as a “small-scale step” ahead of protests calling on the government to fulfil its promises to overhaul the country’s laws.The new measures, which are likely to be vetoed by Poland’s nationalist president, would remove some of the crimina",
+    "pubDate": "Wed, 21 Oct 2026 15:01:30 GMT",
+    "source": "卫报",
+    "category": "综合"
+  },
+  {
+    "title": "Heidi Levine recounts how Palestinian youths helped save her in settler attack",
+    "link": "https://www.theguardian.com/world/2026/oct/21/heidi-levine-palestinians-israeli-settler-attack-west-bank",
+    "description": "US photojournalist describes ‘protective shield’, vows to return to work in West Bank and criticises Netanyahu comments on incidentThe Washington Post photojournalist who was attacked and seriously injured by Israeli settlers in the West Bank on Friday has described how she was saved with the help of local Palestinians.Heidi Levine sustained four fractured vertebrae, two broken ribs and four puncture wounds when she was knocked to the ground and repeatedly beaten by a crowd of masked settlers wh",
+    "pubDate": "Wed, 21 Oct 2026 17:59:14 GMT",
+    "source": "卫报",
+    "category": "综合"
+  },
+  {
+    "title": "Besieged Yemeni city on verge of ‘unmanageable’ crisis, aid workers warn",
+    "link": "https://www.theguardian.com/world/2026/oct/21/besieged-yemeni-city-taiz-houthis-humanitarian-crisis-aid-workers",
+    "description": "Water and fresh food running out in Taiz as fighting intensifies and Houthi advance cuts off most supply routesThe humanitarian crisis in the besieged Yemeni city of Taiz is becoming unmanageable as the city runs out of water, fuel and fresh food, Oxfam aid workers in the country have warned.Iran-allied Houthi forces have largely encircled the city of more than 900,000 people, cutting it off from most supply routes. This week, heavy fighting has raged around the city’s old airport, causing exten",
+    "pubDate": "Wed, 21 Oct 2026 14:24:02 GMT",
+    "source": "卫报",
+    "category": "综合"
+  },
+  {
+    "title": "Israeli military detain US and UK volunteers in West Bank including Democratic NY politician Brad Lander",
+    "link": "https://www.theguardian.com/world/2026/oct/21/israeli-military-detains-brad-lander-rabbis-west-bank-olive-harvest",
+    "description": "About 80 US, Israeli and British volunteers held near Nahalin in West Bank and taken to police stationThe Israeli military has detained about 80 US, Israeli and British volunteers helping Palestinians harvest olives near Bethlehem, including the New York Democratic congressional nominee Brad Lander, several rabbis and Israel’s former deputy attorney general.“I’ve been detained by the IDF, along with a group of rabbis and volunteers,” Lander posted from a bus taking him to a police station. “We w",
+    "pubDate": "Wed, 21 Oct 2026 14:08:28 GMT",
+    "source": "卫报",
+    "category": "综合"
+  },
+  {
+    "title": "Troubled waters: life during wartime for Iranians on the strait of Hormuz",
+    "link": "https://www.theguardian.com/artanddesign/2026/oct/21/strait-of-hormuz-life-amid-wartime-iran",
+    "description": "Despite US-Israeli airstrikes and Tehran’s attacks on shipping, the waterway still has to provide a lifeline for those that live and work thereCapt Farouq turns the wheel as he watches the ferry terminal of Bandar Abbas grow smaller, its bright lights flickering in the distance.In front of him, the navigation radar beeps periodically, its green and pink lights glowing in the darkness. The ferry, today at about half capacity with roughly 100 passengers, turns and heads into the darkness of the st",
+    "pubDate": "Wed, 21 Oct 2026 05:00:02 GMT",
+    "source": "卫报",
+    "category": "综合"
+  },
+  {
+    "title": "Fifth foreign firm pulls out of controversial Israeli cable car project to East Jerusalem",
+    "link": "https://www.theguardian.com/world/2026/oct/21/fifth-firm-pulls-out-israeli-cable-car-project-east-jerusalem",
+    "description": "Rights groups say the planned 1.4km route, which ends at compound run by far-right settler group Elad, will displace Palestinians and reshape the cultural landscapeA fifth foreign company has pulled out of a plan to build a cable car from West to East Jerusalem that threatens to involve the seizure of land and property rights from dozens of Palestinian families along its route, but local authorities insist the scheme is proceeding as planned.The project appeared to have stalled for four years un",
+    "pubDate": "Wed, 21 Oct 2026 04:00:05 GMT",
+    "source": "卫报",
+    "category": "综合"
+  },
+  {
+    "title": "Indian court orders release of two leaders of Cockroach movement",
+    "link": "https://www.theguardian.com/world/2026/oct/21/india-cockroach-movement-leaders-released-protests-government-crackdown",
+    "description": "Saurav Das and Ashutosh Ranka spent a week in jail after defying restrictions on protests in Delhi amid government crackdownAn Indian court has ordered the release of two leaders of India’s Cockroach movement who were jailed last week amid a mounting state crackdown on youth-led protests.The two leaders of the Cockroach Janta party (CJP) movement, Saurav Das and Ashutosh Ranka, had spent a week in Delhi’s Tihar jail after being arrested by Delhi police last week. Continue reading...",
+    "pubDate": "Wed, 21 Oct 2026 15:26:25 GMT",
+    "source": "卫报",
+    "category": "综合"
+  },
+  {
+    "title": "Billionaire Mukesh Ambani launches India’s biggest-ever IPO",
+    "link": "https://www.theguardian.com/business/2026/oct/20/mukesh-ambani-jio-platforms-ipo-india-stock-market",
+    "description": "Low-cost broadband provider Jio Platforms aims for £81bn valuation when it floats on the stock market on WednesdayIndia’s second-richest man, Mukesh Ambani, is launching what could be the country’s biggest-ever initial public offering (IPO), despite a stock market downturn.Mumbai-based Jio Platforms, a telecoms company backed by Meta Platforms and Google, is hoping to raise up to 302bn rupees (£2.4bn) and is targeting a 10.3tn rupees valuation when it floats on the stock market from Wednesday. C",
+    "pubDate": "Tue, 20 Oct 2026 09:53:27 GMT",
+    "source": "卫报",
+    "category": "综合"
+  },
+  {
+    "title": "She was harassed for crude remarks about Modi at a Cockroach protest. Now she can’t leave home",
+    "link": "https://www.theguardian.com/world/2026/oct/19/this-is-india-student-protests-abuse-modi-cockroach-protests",
+    "description": "​After a protest clip went viral, a teenager’s life was torn apart by threats that sent her and her family into hiding. Plus, a book on citizen journalism• Don’t get This is India delivered to your inbox? Sign up hereBefore 24 July, a person I will call R was preoccupied with the ordinary routines of teenage life: experimenting with makeup, grumbling over mathematics homework and hanging out with friends at a tea stall.That month, as the fever of student protests spread across the country, the 1",
+    "pubDate": "Tue, 20 Oct 2026 06:30:18 GMT",
+    "source": "卫报",
+    "category": "综合"
+  },
+  {
+    "title": "Myanmar’s ousted leader Aung San Suu Kyi seen in rare photos after receiving gift from King Charles",
+    "link": "https://www.theguardian.com/world/2026/oct/20/myanmar-aung-san-suu-kyi-rare-photos-gift-king-charles",
+    "description": "Critics said images of detained former leader were a stunt by the military to end country’s diplomatic isolationMyanmar has delivered presents from Britain’s ​King Charles to Aung San Suu Kyi, releasing rare photos of the imprisoned former leader in what critics said was a stunt by the country’s military to end diplomatic isolation.A presidential spokesperson said on social media that home ministry officials handed over two gardening books on soil, “along with one sealed envelope and a sealed di",
+    "pubDate": "Tue, 20 Oct 2026 05:07:00 GMT",
+    "source": "卫报",
+    "category": "综合"
+  },
+  {
+    "title": "India’s Cockroach Janta party leader arrested amid crackdown on protests",
+    "link": "https://www.theguardian.com/world/2026/oct/16/india-cockroach-janta-party-leader-detained-amid-crackdown-protests",
+    "description": "Abhijeet Dipke was detained before planned anti-government demonstrations in DelhiThe leader of the Cockroach Janta party (CJP) youth movement, Abhijeet Dipke, was detained by police on Friday and then later formally arrested as authorities cracked down on fresh anti-government protests in the Indian capital.Dipke was detained before a planned Friday evening demonstration he had called in central Delhi, urging supporters of the movement to come out and hold up the Indian flag. Continue reading..",
+    "pubDate": "Fri, 16 Oct 2026 16:22:32 GMT",
+    "source": "卫报",
+    "category": "综合"
+  },
+  {
+    "title": "Aneurin Bevan’s personal security file was ‘remarkably tame’ – National Archives",
+    "link": "https://www.theguardian.com/politics/2026/oct/22/aneurin-bevans-personal-security-file-was-remarkably-tame-national-archives",
+    "description": "Some in UK’s security services questioned why Welsh Labour firebrand was of interestAneurin “Nye” Bevan, the Welsh Labour firebrand who spearheaded the creation of the NHS, was monitored by security services for more than two decades, though his personal file was “remarkably tame”, according to official files released to the public.Bevan came to MI5’s attention in the 1930s over concerns about his links with known communists, papers released to the National Archives show. Monitoring continued ev",
+    "pubDate": "Wed, 21 Oct 2026 23:01:03 GMT",
+    "source": "卫报",
+    "category": "综合"
+  },
+  {
+    "title": "Royal Navy lacks resources to counter Russian threat in high north, MPs warn",
+    "link": "https://www.theguardian.com/politics/2026/oct/22/uk-risk-russian-aggression-lack-submarines-warships-mps-warn",
+    "description": "Committee cites shortfalls of submarines and warships and says ‘dramatic progress’ needed by end of decadeBritain risks failing to deter future Russian aggression in the high north beyond the UK because of shortfalls in the number and availability of Royal Navy submarines and warships, MPs on the defence select committee have said.The committee focused on the slow deployment of HMS Dragon to Cyprus this spring, declining numbers of frigates, and reports that all five Astute-class attack submarin",
+    "pubDate": "Wed, 21 Oct 2026 23:01:03 GMT",
+    "source": "卫报",
+    "category": "综合"
+  },
+  {
+    "title": "Orangutans prefer food associated with sounds of laughter, study suggests",
+    "link": "https://www.theguardian.com/science/2026/oct/21/orangutans-prefer-food-laughter-sounds-study",
+    "description": "Apes in study more likely to choose treats linked to sound of peers having fun, suggesting emotions influence learningOrangutans base their food choices on whether others appear to be having a good time, research suggests.Scientists studying captive orangutans have found that when the great apes heard the sound of their peers laughing before they searched a bowl for a tasty treat, they valued the reward more highly. Continue reading...",
+    "pubDate": "Wed, 21 Oct 2026 21:00:01 GMT",
+    "source": "卫报",
+    "category": "综合"
+  },
+  {
+    "title": "Former Tory election candidate suspended over contract killing claims",
+    "link": "https://www.theguardian.com/politics/2026/oct/21/former-tory-election-candidate-suspended-over-contract-killing-claims",
+    "description": "Jack Ross was filmed allegedly discussing with an undercover reporter violent options to deal with enemies A former Conservative election candidate has been suspended from the party after he was seemingly filmed discussing the cost of hiring contract killers and offering to “broker” the services of a far-right activist with alleged paramilitary links.Jack Ross was filmed apparently asking an undercover reporter “What do you want done?” before listing the type of violent options that could be bou",
+    "pubDate": "Wed, 21 Oct 2026 18:13:55 GMT",
+    "source": "卫报",
+    "category": "综合"
+  },
+  {
+    "title": "No surprise and lasting anger: families of people who died in care homes react to Covid inquiry report",
+    "link": "https://www.theguardian.com/uk-news/2026/oct/21/families-care-home-residents-covid-inquiry-report-findings",
+    "description": "Relatives recount distress and loneliness their loved ones went through in pandemic as a result of isolation policy“At the time it felt like a devil’s bargain – it was horrible, but it was what [we thought] we had to do to keep people safe,” says Amy of the “devastating” and “terrifying” restrictions that led to her maternal grandparents being locked down in separate care homes during the early days of the Covid-19 pandemic.Eva and Eric had been married for more than 60 years when her dementia a",
+    "pubDate": "Wed, 21 Oct 2026 18:11:16 GMT",
+    "source": "卫报",
+    "category": "综合"
+  },
+  {
+    "title": "Officials confirm flesh-eating New World screwworm parasite found in US wildlife",
+    "link": "https://www.theguardian.com/us-news/2026/oct/21/new-world-screwworm-texas",
+    "description": "USDA says screwworm found in elk in Texas, and warns hunters and ranchers to be vigilant to help stop spreadThe US Department of Agriculture (USDA) said on Wednesday it had ⁠confirmed the ⁠first detection ​of flesh-eating parasite the New World screwworm in US wildlife in an ⁠elk in Pecos county, Texas.The elk was located on a game ⁠ranch and was reported after being harvested by ​a hunter, the ‌USDA said ‌in a statement. Continue reading...",
+    "pubDate": "Wed, 21 Oct 2026 23:36:31 GMT",
+    "source": "卫报",
+    "category": "综合"
+  },
+  {
+    "title": "Tesla beats earnings projections after Musk floats SpaceX merger plan",
+    "link": "https://www.theguardian.com/technology/2026/oct/21/elon-musk-tesla-spacex",
+    "description": "Musk says ‘there’s a lot of merit’ to potential merger that would require approval of 50% of all Tesla shareholders, but he declined to elaborate Investors were paying close attention to Tesla’s third-quarter earnings call on Wednesday afternoon, after chief executive Elon Musk floated the idea of merging the car company with his rocket and AI company, SpaceX. But they didn’t glean further information after the company announced there would be no questions on the matter.“With regard to a potenti",
+    "pubDate": "Wed, 21 Oct 2026 23:03:16 GMT",
+    "source": "卫报",
+    "category": "综合"
+  },
+  {
+    "title": "JD Vance says he is ‘a little bit disgusted’ by Republicans who criticized Ramaswamy campaign ad – live",
+    "link": "https://www.theguardian.com/us-news/live/2026/oct/21/donald-trump-south-carolina-data-centers-midterms-ukraine-witkoff-russia-latest-news-updates",
+    "description": "Vice-president says GOP representatives should ‘stop whining’ about advertisement featuring estranged mother of Ramaswamy’s Democrat opponentSign up for Breaking News US emailSend us your questions about immigration and the midtermsReporting from JerusalemThe Israeli military has detained about 80 US, Israeli and British volunteers helping Palestinians harvest olives near Bethlehem, including the New York Democratic congressional nominee Brad Lander, several rabbis and Israel’s former deputy att",
+    "pubDate": "Wed, 21 Oct 2026 22:53:08 GMT",
+    "source": "卫报",
+    "category": "综合"
+  },
+  {
+    "title": "Nancy Pelosi’s office latest recipient of letter containing white powder",
+    "link": "https://www.theguardian.com/us-news/2026/oct/21/nancy-pelosi-office-letter-white-powder",
+    "description": "Former speaker is latest target of mailings sent to various Congress members in the lead-up to the midterm electionsCalifornia representative Nancy Pelosi’s office received “a suspicious letter” on Wednesday in what appears to be the latest incident of ill-intentioned mailings targeted at US Congress members before the midterm elections.The offices of more than three dozen members of Congress across the political spectrum have received envelopes containing white powder in recent days. One lawmak",
+    "pubDate": "Wed, 21 Oct 2026 22:47:28 GMT",
+    "source": "卫报",
+    "category": "综合"
+  },
+  {
+    "title": "How will Trump’s mass deportation agenda shape the US midterm elections? Our reporters answer your questions",
+    "link": "https://www.theguardian.com/us-news/live/2026/oct/21/immigration-ice-mass-deportation-trump-midterm-elections",
+    "description": "With ICE arrests and detentions at their highest levels, immigration remains a key issue for voters less than two weeks before election daySign in or sign up to join the conversationFrom mass raids to quiet crackdown: a timeline of Trump’s strategic ICE pivotIt’s our last US midterms live Q&amp;A before election day on 3 November, and our reporters are answering your immigration questions.Since Donald Trump began his second term, ICE arrests have reached record levels, operations have become dea",
+    "pubDate": "Wed, 21 Oct 2026 22:35:17 GMT",
+    "source": "卫报",
+    "category": "综合"
+  }
+]
