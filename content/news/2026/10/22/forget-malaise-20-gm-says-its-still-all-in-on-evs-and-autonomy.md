@@ -1,0 +1,17 @@
+---
+title: "Forget \"Malaise 2.0,\" GM says it's still all-in on EVs and autonomy"
+date: 2026-10-22T13:04:00+08:00
+source: "Ars Technica"
+sourceUrl: "https://arstechnica.com/cars/2026/10/forget-malaise-2-0-gm-says-its-still-all-in-on-evs-and-autonomy/"
+category: "科技"
+slug: "forget-malaise-20-gm-says-its-still-all-in-on-evs-and-autonomy"
+---
+
+General Motors' plans will require quite a lot of customers' trust.
+
+<!--more-->
+
+---
+
+[阅读原文 →](https://arstechnica.com/cars/2026/10/forget-malaise-2-0-gm-says-its-still-all-in-on-evs-and-autonomy/)
+
