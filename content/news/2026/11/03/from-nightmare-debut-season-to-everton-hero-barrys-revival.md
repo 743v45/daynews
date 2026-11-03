@@ -1,0 +1,17 @@
+---
+title: "From nightmare debut season to Everton hero - Barry's revival"
+date: 2026-11-02T23:28:00+08:00
+source: "BBC News"
+sourceUrl: "https://www.bbc.co.uk/sport/football/articles/cqj346rvg3pzo?at_medium=RSS&at_campaign=rss"
+category: "综合"
+slug: "from-nightmare-debut-season-to-everton-hero-barrys-revival"
+---
+
+Last season Thierno Barry scored eight goals in 41 appearances. This season it's taken him just 12 games to match that tally.
+
+<!--more-->
+
+---
+
+[阅读原文 →](https://www.bbc.co.uk/sport/football/articles/cqj346rvg3pzo?at_medium=RSS&at_campaign=rss)
+
