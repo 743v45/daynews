@@ -1,0 +1,1114 @@
+[
+  {
+    "title": "Edge0-145B: Frontier AI Capabilities on Your Own Computer",
+    "link": "https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer",
+    "description": "Article URL: https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer\nComments URL: https://news.ycombinator.com/item?id=50475713\nPoints: 31\n# Comments: 8",
+    "pubDate": "Thu, 12 Nov 2026 23:06:17 +0000",
+    "source": "Hacker News",
+    "category": "科技"
+  },
+  {
+    "title": "Chinese frontier AI models carry the fingerprint of export-controlled GPUs",
+    "link": "https://unemploymentlabs.com/checkpoint-forensics",
+    "description": "Article URL: https://unemploymentlabs.com/checkpoint-forensics\nComments URL: https://news.ycombinator.com/item?id=50474883\nPoints: 153\n# Comments: 42",
+    "pubDate": "Thu, 12 Nov 2026 21:56:11 +0000",
+    "source": "Hacker News",
+    "category": "科技"
+  },
+  {
+    "title": "Foundation Models framework",
+    "link": "https://developer.apple.com/foundation-models-framework/",
+    "description": "Article URL: https://developer.apple.com/foundation-models-framework/\nComments URL: https://news.ycombinator.com/item?id=50474361\nPoints: 120\n# Comments: 16",
+    "pubDate": "Thu, 12 Nov 2026 21:13:26 +0000",
+    "source": "Hacker News",
+    "category": "科技"
+  },
+  {
+    "title": "AI is turning Apple's app review process into a nightmare for synth developers",
+    "link": "https://synthanatomy.com/2026/11/ai-is-turning-apples-app-review-process-into-a-nightmare-for-developers.html",
+    "description": "Article URL: https://synthanatomy.com/2026/11/ai-is-turning-apples-app-review-process-into-a-nightmare-for-developers.html\nComments URL: https://news.ycombinator.com/item?id=50474311\nPoints: 84\n# Comments: 78",
+    "pubDate": "Thu, 12 Nov 2026 21:09:49 +0000",
+    "source": "Hacker News",
+    "category": "科技"
+  },
+  {
+    "title": "Announcement: Conductor Is Back",
+    "link": "https://twitter.com/charlieholtz/status/2120973052024598620",
+    "description": "Article URL: https://twitter.com/charlieholtz/status/2120973052024598620\nComments URL: https://news.ycombinator.com/item?id=50473888\nPoints: 4\n# Comments: 1",
+    "pubDate": "Thu, 12 Nov 2026 20:37:55 +0000",
+    "source": "Hacker News",
+    "category": "科技"
+  },
+  {
+    "title": "Distributed Ray Tracer",
+    "link": "https://ray.hatchet.run",
+    "description": "Hey HN, I'm Julius, I'm a backend engineer at Hatchet and created this demo to show off some of Hatchet's new features, primarily durable streams and serverless endpoints. Those, however, are just background details that made this significantly easier to scale. By distributing the rendering across many different nodes, orchestrated using Hatchet, it makes it possible to render quite high fidelity scenes fairly quickly. All of this would be possible on a single machine, but would be much slower w",
+    "pubDate": "Thu, 12 Nov 2026 19:06:23 +0000",
+    "source": "Hacker News",
+    "category": "科技"
+  },
+  {
+    "title": "Dwarf planet candidate appears which takes roughly 280 years to orbit our sun",
+    "link": "https://www.smithsonianmag.com/smart-news/astronomers-found-a-mysterious-object-orbiting-far-beyond-pluto-it-could-be-a-new-dwarf-planet-hidden-in-our-solar-system-180989857/",
+    "description": "Article URL: https://www.smithsonianmag.com/smart-news/astronomers-found-a-mysterious-object-orbiting-far-beyond-pluto-it-could-be-a-new-dwarf-planet-hidden-in-our-solar-system-180989857/\nComments URL: https://news.ycombinator.com/item?id=50472490\nPoints: 194\n# Comments: 93",
+    "pubDate": "Thu, 12 Nov 2026 19:05:33 +0000",
+    "source": "Hacker News",
+    "category": "科技"
+  },
+  {
+    "title": "Gemini 4 Hydrogen and Orchestrator",
+    "link": "https://antigravity.google/blog/gemini-4-hydrogen-in-google-antigravity/",
+    "description": "Article URL: https://antigravity.google/blog/gemini-4-hydrogen-in-google-antigravity/\nComments URL: https://news.ycombinator.com/item?id=50472260\nPoints: 294\n# Comments: 70",
+    "pubDate": "Thu, 12 Nov 2026 18:52:01 +0000",
+    "source": "Hacker News",
+    "category": "科技"
+  },
+  {
+    "title": "Rust 1.100",
+    "link": "https://blog.rust-lang.org/2026/11/12/Rust-1.100.0/",
+    "description": "Article URL: https://blog.rust-lang.org/2026/11/12/Rust-1.100.0/\nComments URL: https://news.ycombinator.com/item?id=50472038\nPoints: 406\n# Comments: 171",
+    "pubDate": "Thu, 12 Nov 2026 18:39:05 +0000",
+    "source": "Hacker News",
+    "category": "科技"
+  },
+  {
+    "title": "Turning a 22-year-old Postgres type-confusion primitive into RCE",
+    "link": "https://mehmetince.net/part-3-6-how-i-ended-up-turning-a-22-year-old-postgresql-type-confusion-primitive-into-rce-cve-2026-6460/",
+    "description": "Article URL: https://mehmetince.net/part-3-6-how-i-ended-up-turning-a-22-year-old-postgresql-type-confusion-primitive-into-rce-cve-2026-6460/\nComments URL: https://news.ycombinator.com/item?id=50471761\nPoints: 140\n# Comments: 18",
+    "pubDate": "Thu, 12 Nov 2026 18:22:22 +0000",
+    "source": "Hacker News",
+    "category": "科技"
+  },
+  {
+    "title": "Service degradation on Microsoft 365",
+    "link": "https://status.cloud.microsoft/",
+    "description": "https://www.abc.net.au/news/2026-11-13/microsoft-outage-affe...https://www.reddit.com/r/sysadmin/comments/1xuje83/microsoft...https://downdetector.com/status/microsoft-365/\n\nComments URL: https://news.ycombinator.com/item?id=50471731\nPoints: 485\n# Comments: 451",
+    "pubDate": "Thu, 12 Nov 2026 18:20:48 +0000",
+    "source": "Hacker News",
+    "category": "科技"
+  },
+  {
+    "title": "Show HN: AgentRun – open-source, Self-improving Managed Agents",
+    "link": "https://github.com/Parcha-ai/agentrun/blob/main/README.md",
+    "description": "We (GREP.AI, YC F26) are open-sourcing AgentRun and turning it into a full managed agents platform. Read more about it in this post: https://agentrun.ai/blog/introducing-agentrun-run-smarter-ag....It includes what we originally built for our own agent harness:- Self-improving agents \n- Web-grounded workflows \n- A range of sandboxes and computer environments \n- Thousands of tools and integrations \n- Detailed analytics on how your agents behaveYou can bring your own agent. AgentRun works with Pi, ",
+    "pubDate": "Thu, 12 Nov 2026 18:15:48 +0000",
+    "source": "Hacker News",
+    "category": "科技"
+  },
+  {
+    "title": "Gemini 4 Hydrogen",
+    "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/",
+    "description": "Article URL: https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/\nComments URL: https://news.ycombinator.com/item?id=50471431\nPoints: 458\n# Comments: 296",
+    "pubDate": "Thu, 12 Nov 2026 18:01:48 +0000",
+    "source": "Hacker News",
+    "category": "科技"
+  },
+  {
+    "title": "Show HN: Kapso – Iterative learning from enterprise data",
+    "link": "https://news.ycombinator.com/item?id=50471281",
+    "description": "Hey HN! We're Alireza and Majid building Leeroo (https://leeroo.com/). Previously we’ve built AI systems for products with millions of users, including at LinkedIn and Meta. We’re now focusing on building AI systems for enterprise data. Today, we're open-sourcing Kapso (https://github.com/Leeroo-AI/kapso), an engine that runs experiments, deploys the best solution, and learns from every run.The nature of data work is iterative: investigate, form hypotheses, experiment, and improve based on what ",
+    "pubDate": "Thu, 12 Nov 2026 17:51:23 +0000",
+    "source": "Hacker News",
+    "category": "科技"
+  },
+  {
+    "title": "Show HN: My $300 embroidery machine needed a subscription, so I built my own app",
+    "link": "https://github.com/simpsoka/zigzag",
+    "description": "https://x.com/simpsoka/status/2115254318161182876\n\nComments URL: https://news.ycombinator.com/item?id=50470488\nPoints: 327\n# Comments: 131",
+    "pubDate": "Thu, 12 Nov 2026 17:02:42 +0000",
+    "source": "Hacker News",
+    "category": "科技"
+  },
+  {
+    "title": "ExcalidrawZ: Local Native Excalidraw on macOS/iOS",
+    "link": "https://github.com/chocoford/ExcalidrawZ",
+    "description": "Article URL: https://github.com/chocoford/ExcalidrawZ\nComments URL: https://news.ycombinator.com/item?id=50468944\nPoints: 107\n# Comments: 24",
+    "pubDate": "Thu, 12 Nov 2026 15:25:52 +0000",
+    "source": "Hacker News",
+    "category": "科技"
+  },
+  {
+    "title": "I'm making LLMs work on small and old devices",
+    "link": "https://github.com/hyperionaidev/smolmaxxing/",
+    "description": "Article URL: https://github.com/hyperionaidev/smolmaxxing/\nComments URL: https://news.ycombinator.com/item?id=50468888\nPoints: 278\n# Comments: 93",
+    "pubDate": "Thu, 12 Nov 2026 15:23:10 +0000",
+    "source": "Hacker News",
+    "category": "科技"
+  },
+  {
+    "title": "Abandoned Quake 4 expansion finished by modders and now playable",
+    "link": "https://www.moddb.com/mods/openq4/downloads/openq4-0141-windows-x64",
+    "description": "Article URL: https://www.moddb.com/mods/openq4/downloads/openq4-0141-windows-x64\nComments URL: https://news.ycombinator.com/item?id=50467618\nPoints: 237\n# Comments: 81",
+    "pubDate": "Thu, 12 Nov 2026 14:18:49 +0000",
+    "source": "Hacker News",
+    "category": "科技"
+  },
+  {
+    "title": "Talking Zen 6 with Mike Clark at AMD In-Depth",
+    "link": "https://chipsandcheese.com/p/talking-zen-6-with-mike-clark-at",
+    "description": "Article URL: https://chipsandcheese.com/p/talking-zen-6-with-mike-clark-at\nComments URL: https://news.ycombinator.com/item?id=50467460\nPoints: 186\n# Comments: 2",
+    "pubDate": "Thu, 12 Nov 2026 14:12:37 +0000",
+    "source": "Hacker News",
+    "category": "科技"
+  },
+  {
+    "title": "Libreagi – Save OSS Models",
+    "link": "https://libreagi.com/",
+    "description": "Article URL: https://libreagi.com/\nComments URL: https://news.ycombinator.com/item?id=50467439\nPoints: 129\n# Comments: 25",
+    "pubDate": "Thu, 12 Nov 2026 14:11:58 +0000",
+    "source": "Hacker News",
+    "category": "科技"
+  },
+  {
+    "title": "Democrats launch Nvidia investigation, write scathing letter on Huang&#8217;s &#8216;scheme&#8217; with Trump",
+    "link": "https://techcrunch.com/2026/11/12/democrats-launch-nvidia-investigation-write-scathing-letter-on-huangs-scheme-with-trump/",
+    "description": "This Congressional investigation into Nvidia's China sales and its dealings with Trump is the second one, so far, since news of the alleged spy affair broke.",
+    "pubDate": "Thu, 12 Nov 2026 22:42:51 +0000",
+    "source": "TechCrunch",
+    "category": "科技"
+  },
+  {
+    "title": "Muse can now place calls to US businesses — if you pay",
+    "link": "https://techcrunch.com/2026/11/12/muse-can-now-place-calls-to-u-s-businesses-if-you-pay/",
+    "description": "Muse's AI can now place outbound calls to U.S. businesses — but it's not free.",
+    "pubDate": "Thu, 12 Nov 2026 22:22:28 +0000",
+    "source": "TechCrunch",
+    "category": "科技"
+  },
+  {
+    "title": "The unfolding Jensen Huang scandal: a timeline",
+    "link": "https://techcrunch.com/2026/11/12/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+    "description": "Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
+    "pubDate": "Thu, 12 Nov 2026 21:35:00 +0000",
+    "source": "TechCrunch",
+    "category": "科技"
+  },
+  {
+    "title": "Nebius tests the neocloud playbook with $40 billion in planned spending",
+    "link": "https://techcrunch.com/2026/11/12/nebius-tests-the-neocloud-playbook-with-40-billion-in-planned-spending/",
+    "description": "Nebius plans to fund its $40 billion AI infrastructure expansion through customer prepayments and loans, even as delays at a Microsoft data center raise questions about its financing model.",
+    "pubDate": "Thu, 12 Nov 2026 21:27:10 +0000",
+    "source": "TechCrunch",
+    "category": "科技"
+  },
+  {
+    "title": "Jensen Huang was having a third affair, Reuters reports",
+    "link": "https://techcrunch.com/2026/11/12/jensen-huang-was-having-a-third-affair-reuters-reports/",
+    "description": "Reuters is withholding the name of the new employee linked to Huang, but says she is an employee of Nvidia.",
+    "pubDate": "Thu, 12 Nov 2026 20:26:47 +0000",
+    "source": "TechCrunch",
+    "category": "科技"
+  },
+  {
+    "title": "Google&#8217;s latest Search upgrade promises better answers to your most complicated questions",
+    "link": "https://techcrunch.com/2026/11/12/googles-latest-search-upgrade-promises-better-answers-to-your-most-complicated-questions/",
+    "description": "Powered by Gemini 4 Hydrogen, Google's AI Mode is getting better at understanding complex queries, surfacing relevant links, and delivering richer visual responses.",
+    "pubDate": "Thu, 12 Nov 2026 19:27:45 +0000",
+    "source": "TechCrunch",
+    "category": "科技"
+  },
+  {
+    "title": "Nectar launches an AI agent to automate creator discovery and outreach for brands",
+    "link": "https://techcrunch.com/2026/11/12/nectar-launches-an-ai-agent-to-automate-creator-discovery-and-outreach-for-brands/",
+    "description": "Nectar's new AI agent automates influencer marketing, helping brands discover creators, manage outreach and partnerships, and track campaign results.",
+    "pubDate": "Thu, 12 Nov 2026 19:11:00 +0000",
+    "source": "TechCrunch",
+    "category": "科技"
+  },
+  {
+    "title": "Microsoft&#8217;s Outlook email hit by new outage",
+    "link": "https://techcrunch.com/2026/11/12/microsofts-outlook-email-hit-by-new-outage/",
+    "description": "Microsoft hasn't yet given a cause for the outage, which is affecting Outlook email users.",
+    "pubDate": "Thu, 12 Nov 2026 19:03:39 +0000",
+    "source": "TechCrunch",
+    "category": "科技"
+  },
+  {
+    "title": "Jensen Huang’s exit puts Nvidia’s support for open source in question",
+    "link": "https://techcrunch.com/2026/11/12/jensen-huangs-exit-puts-nvidias-support-for-open-source-in-question/",
+    "description": "Jensen Huang’s resignation raises questions about Nvidia’s commitment to open source AI, including its Hugging Face acquisition, open-weight models, and advocacy against restrictions, as the company navigates a leadership transition.",
+    "pubDate": "Thu, 12 Nov 2026 18:39:23 +0000",
+    "source": "TechCrunch",
+    "category": "科技"
+  },
+  {
+    "title": "Hugging Face CEO vows to keep fighting for open source AI after Jensen Huang&#8217;s exit",
+    "link": "https://techcrunch.com/2026/11/12/hugging-face-ceo-vows-to-keep-fighting-for-open-source-ai-after-jensen-huangs-exit/",
+    "description": "Hugging Face's CEO pledged to keep fighting for open source AI after Huang's exit, raising questions about Nvidia's $12.9 billion acquisition.",
+    "pubDate": "Thu, 12 Nov 2026 17:36:40 +0000",
+    "source": "TechCrunch",
+    "category": "科技"
+  },
+  {
+    "title": "United Airlines blocks AI agents from booking flights, citing cybersecurity risks",
+    "link": "https://techcrunch.com/2026/11/12/united-airlines-blocks-ai-agents-from-booking-flights-citing-cybersecurity-risks/",
+    "description": "The airline said it will not allow customers to use AI agents to book flights and manage reservations.",
+    "pubDate": "Thu, 12 Nov 2026 17:17:58 +0000",
+    "source": "TechCrunch",
+    "category": "科技"
+  },
+  {
+    "title": "SoftBank’s billion-dollar loss may have put a cap on AI&#8217;s natural gas ambitions",
+    "link": "https://techcrunch.com/2026/11/12/softbanks-billion-dollar-loss-may-have-put-a-cap-on-ais-natural-gas-ambitions/",
+    "description": "SoftBank lost over $3 billion preordering natural gas turbines to power AI data centers. Here's what the loss means to power markets.",
+    "pubDate": "Thu, 12 Nov 2026 17:00:52 +0000",
+    "source": "TechCrunch",
+    "category": "科技"
+  },
+  {
+    "title": "Phota Labs uses AI to turn everyday photos into professional-looking shots",
+    "link": "https://techcrunch.com/2026/11/12/phota-labs-uses-ai-to-turn-everyday-photos-into-professional-looking-shots/",
+    "description": "Rather than giving consumers yet another photo-editing tool, Phota Labs aims to use advances in AI to automate the editing process so it’s easier for anyone to turn everyday moments into better photos.",
+    "pubDate": "Thu, 12 Nov 2026 17:00:00 +0000",
+    "source": "TechCrunch",
+    "category": "科技"
+  },
+  {
+    "title": "Jensen Huang agrees to testify before Congress",
+    "link": "https://techcrunch.com/2026/11/12/jensen-huang-agrees-to-testify-before-congress/",
+    "description": "Huang, who was ousted as CEO following reports of an alleged affair with a woman suspected of spying for China, agreed to testify Wednesday after several senior lawmakers threatened to subpoena him.",
+    "pubDate": "Thu, 12 Nov 2026 16:36:37 +0000",
+    "source": "TechCrunch",
+    "category": "科技"
+  },
+  {
+    "title": "Five ways Jensen Huang’s ouster from Nvidia could damage the AI industry",
+    "link": "https://techcrunch.com/2026/11/12/five-ways-jensen-huangs-ouster-from-nvidia-could-damage-the-ai-industry/",
+    "description": "Nvidia's ousted CEO Jensen Huang's downfall isn’t just your run-of-the-mill salacious billionaire sex scandal. He was using his influence to push the AI industry in some very specific ways.",
+    "pubDate": "Thu, 12 Nov 2026 16:32:33 +0000",
+    "source": "TechCrunch",
+    "category": "科技"
+  },
+  {
+    "title": "Trump floats Apple chairman Tim Cook as Jensen Huang&#8217;s successor",
+    "link": "https://techcrunch.com/2026/11/12/trump-floats-apple-chairman-tim-cook-as-jensen-huangs-successor/",
+    "description": "In a post on Truth Social, President Trump says only one man can take Jensen Huang's place as head of Nvidia: Tim Cook.",
+    "pubDate": "Thu, 12 Nov 2026 16:12:44 +0000",
+    "source": "TechCrunch",
+    "category": "科技"
+  },
+  {
+    "title": "Whoop just launched a social network",
+    "link": "https://techcrunch.com/2026/11/12/whoop-just-launched-a-social-network/",
+    "description": "Whoop is launching a social network that lets members share their sleep, recovery, and workout data, but the bigger bet is on becoming more of a personal health brand, with CEO Will Ahmed hinting at acquisitions to come.",
+    "pubDate": "Thu, 12 Nov 2026 16:00:00 +0000",
+    "source": "TechCrunch",
+    "category": "科技"
+  },
+  {
+    "title": "Jensen Huang is out at Nvidia — who is Colette Kress, his interim replacement?",
+    "link": "https://techcrunch.com/2026/11/12/jensen-huang-is-out-at-nvidia-who-is-colette-kress-his-interim-replacement/",
+    "description": "Nvidia CFO Colette Kress is taking over as an interim replacement for longtime CEO Jensen Huang, who is embroiled in scandal.",
+    "pubDate": "Thu, 12 Nov 2026 15:37:29 +0000",
+    "source": "TechCrunch",
+    "category": "科技"
+  },
+  {
+    "title": "Norwest pushes deeper into AI with new $4B fund",
+    "link": "https://techcrunch.com/2026/11/12/norwest-pushes-deeper-into-ai-with-new-4b-fund/",
+    "description": "This is the investment firm's largest fund to date.",
+    "pubDate": "Thu, 12 Nov 2026 15:18:14 +0000",
+    "source": "TechCrunch",
+    "category": "科技"
+  },
+  {
+    "title": "Cyberattack on Fireworks AI allowed hackers to access Notion customers&#8217; chat transcripts",
+    "link": "https://techcrunch.com/2026/11/12/cyberattack-on-fireworks-ai-allowed-hackers-to-access-notion-customers-chat-transcripts/",
+    "description": "This is Fireworks' second data breach in as many months.",
+    "pubDate": "Thu, 12 Nov 2026 15:02:28 +0000",
+    "source": "TechCrunch",
+    "category": "科技"
+  },
+  {
+    "title": "In reversal, American Cancer Society urges prostate cancer tests for all men",
+    "link": "https://arstechnica.com/health/2026/11/in-reversal-american-cancer-society-urges-prostate-cancer-tests-for-all-men/",
+    "description": "Men aged 50–69 and at average risk should get PSA screening every two years.",
+    "pubDate": "Thu, 12 Nov 2026 22:59:51 +0000",
+    "source": "Ars Technica",
+    "category": "科技"
+  },
+  {
+    "title": "FAA expands AI advice to manage air traffic congestion across entire US airspace",
+    "link": "https://arstechnica.com/ai/2026/11/faa-expands-ai-advice-to-manage-air-traffic-congestion-across-entire-us-airspace/",
+    "description": "Airlines praised the AI tool, but the air traffic controllers’ union wasn’t involved.",
+    "pubDate": "Thu, 12 Nov 2026 22:28:47 +0000",
+    "source": "Ars Technica",
+    "category": "科技"
+  },
+  {
+    "title": "Ars Live: What drone attacks on data centers mean for modern life in the cloud",
+    "link": "https://arstechnica.com/gadgets/2026/11/ars-live-can-the-cloud-survive-drone-strikes-on-data-centers/",
+    "description": "A livestream Ars discussion is happening on November 17 at 1 pm Eastern Time.",
+    "pubDate": "Thu, 12 Nov 2026 19:59:59 +0000",
+    "source": "Ars Technica",
+    "category": "科技"
+  },
+  {
+    "title": "The Elder Scrolls&#039; most obscure adventure gets a 4K PC makeover",
+    "link": "https://arstechnica.com/gaming/2026/11/the-elder-scrolls-most-obscure-adventure-gets-a-4k-pc-makeover/",
+    "description": "N-Gage exclusive Shadowkey gets an AI-coded glow-up with plenty of new features.",
+    "pubDate": "Thu, 12 Nov 2026 19:49:11 +0000",
+    "source": "Ars Technica",
+    "category": "科技"
+  },
+  {
+    "title": "Google rolls out Gemini 4 Hydrogen, finally replacing 3.8 Flash",
+    "link": "https://arstechnica.com/google/2026/11/google-rolls-out-gemini-4-hydrogen-finally-replacing-3-8-flash/",
+    "description": "Gemini 4 Hydrogen isn't getting a slow, security-conscious release like Carbon and Argon.",
+    "pubDate": "Thu, 12 Nov 2026 19:23:03 +0000",
+    "source": "Ars Technica",
+    "category": "科技"
+  },
+  {
+    "title": "Ukraine says it can’t stop Russian strikes because Starshield is limited again",
+    "link": "https://arstechnica.com/tech-policy/2026/11/ukraine-says-spacex-starshield-is-restricted-again-spacex-claims-it-isnt/",
+    "description": "Report: Ukraine suspects speeds limits are intended to help Russia in peace talks.",
+    "pubDate": "Thu, 12 Nov 2026 19:09:57 +0000",
+    "source": "Ars Technica",
+    "category": "科技"
+  },
+  {
+    "title": "Google faces calls for AI moratoriums in schools after Gemini pilot backlash",
+    "link": "https://arstechnica.com/tech-policy/2026/11/families-fight-to-keep-googles-disturbing-ai-off-school-issued-chromebooks/",
+    "description": "Families confront Google after teen’s lawsuit labels Gemini a “suicide coach.”",
+    "pubDate": "Thu, 12 Nov 2026 18:57:45 +0000",
+    "source": "Ars Technica",
+    "category": "科技"
+  },
+  {
+    "title": "Netflix releases new trailer for Ray Gunn",
+    "link": "https://arstechnica.com/culture/2026/11/netflix-releases-new-trailer-for-ray-gunn/",
+    "description": "\"It's hard being the only honest players in a crooked game.\"",
+    "pubDate": "Thu, 12 Nov 2026 18:38:38 +0000",
+    "source": "Ars Technica",
+    "category": "科技"
+  },
+  {
+    "title": "Building a rocket is hard. AST SpaceMobile thinks it&#039;s \"simple.\"",
+    "link": "https://arstechnica.com/space/2026/11/building-a-rocket-is-hard-ast-spacemobile-thinks-its-simple/",
+    "description": "\"We're not doing this thing because we like rockets.\"",
+    "pubDate": "Thu, 12 Nov 2026 18:28:22 +0000",
+    "source": "Ars Technica",
+    "category": "科技"
+  },
+  {
+    "title": "Man&#039;s secret use of synthetic testosterone for cows nearly destroyed his heart",
+    "link": "https://arstechnica.com/health/2026/11/mans-secret-use-of-synthetic-testosterone-for-cows-nearly-destroyed-his-heart/",
+    "description": "Doctors warn that such life-threatening cases are becoming more common.",
+    "pubDate": "Thu, 12 Nov 2026 18:17:19 +0000",
+    "source": "Ars Technica",
+    "category": "科技"
+  },
+  {
+    "title": "The amazing disappearing exoplanet",
+    "link": "https://arstechnica.com/science/2026/11/the-amazing-disappearing-exoplanet/",
+    "description": "An exoplanet seems to have stopped transiting in front of its host star.",
+    "pubDate": "Thu, 12 Nov 2026 17:18:10 +0000",
+    "source": "Ars Technica",
+    "category": "科技"
+  },
+  {
+    "title": "Google pushes privacy angle as Gemini-powered smartglasses debut starting at $395",
+    "link": "https://arstechnica.com/google/2026/11/google-pushes-privacy-angle-as-gemini-powered-smartglasses-debut-starting-at-395/",
+    "description": "The first Gemini smartglasses are a collab between Google, Samsung, Gentle Monster, and Warby Parker.",
+    "pubDate": "Thu, 12 Nov 2026 14:50:17 +0000",
+    "source": "Ars Technica",
+    "category": "科技"
+  },
+  {
+    "title": "Nvidia CEO Jensen Huang has resigned",
+    "link": "https://arstechnica.com/gadgets/2026/11/ceo-jensen-huangs-job-is-suddenly-on-the-line-at-nvidia/",
+    "description": "Nvidia CEO also had an affair with a senior executive at the firm.",
+    "pubDate": "Thu, 12 Nov 2026 14:05:17 +0000",
+    "source": "Ars Technica",
+    "category": "科技"
+  },
+  {
+    "title": "Hundreds of streaming services and nothing to watch",
+    "link": "https://arstechnica.com/gadgets/2026/11/hundreds-of-streaming-services-and-nothing-to-watch/",
+    "description": "Most viewers wish there was a TV Guide for streaming.",
+    "pubDate": "Thu, 12 Nov 2026 14:00:19 +0000",
+    "source": "Ars Technica",
+    "category": "科技"
+  },
+  {
+    "title": "Review: Apple&#039;s M6 iMac is pricey, but it&#039;s still a good choice for a clean desk",
+    "link": "https://arstechnica.com/features/2026/11/review-apples-m6-imac-is-pricey-but-its-still-a-good-choice-for-a-clean-desk/",
+    "description": "Apple's M6 keeps the iMac current without shaking things up much.",
+    "pubDate": "Thu, 12 Nov 2026 12:00:37 +0000",
+    "source": "Ars Technica",
+    "category": "科技"
+  },
+  {
+    "title": "T-Mobile illegally imposed 50GB cap on low-income home Internet plan, NY says",
+    "link": "https://arstechnica.com/tech-policy/2026/11/t-mobile-illegally-imposed-50-gb-cap-on-low-income-home-internet-plan-ny-says/",
+    "description": "Law requires 25Mbps home Internet. T-Mobile lowers speed to 600Kbps after 50GB cap.",
+    "pubDate": "Wed, 11 Nov 2026 20:32:21 +0000",
+    "source": "Ars Technica",
+    "category": "科技"
+  },
+  {
+    "title": "Anduril says its first satellite can see adversaries maneuver in orbital night",
+    "link": "https://arstechnica.com/space/2026/11/anduril-demos-night-vision-sensor-for-tracking-satellites-in-darkness/",
+    "description": "\"What's unique is it's got a huge dynamic range. We can see things in full dark.\"",
+    "pubDate": "Wed, 11 Nov 2026 20:22:03 +0000",
+    "source": "Ars Technica",
+    "category": "科技"
+  },
+  {
+    "title": "NASA&#039;s secret weapon in the lunar space race may be ... procurement reform?",
+    "link": "https://arstechnica.com/space/2026/11/nasa-takes-an-all-hands-on-deck-approach-in-its-return-to-the-moon/",
+    "description": "\"The pace that's occurring, and the nature of the procurements, is unprecedented.\"",
+    "pubDate": "Wed, 11 Nov 2026 19:00:26 +0000",
+    "source": "Ars Technica",
+    "category": "科技"
+  },
+  {
+    "title": "Taiwan’s chipmaking giant TSMC to invest $1B in Anthropic, OpenAI",
+    "link": "https://arstechnica.com/ai/2026/11/taiwans-chipmaking-giant-tsmc-to-invest-1b-in-anthropic-openai/",
+    "description": "Latest example of the AI boom’s circular financing comes as AI trade wobbles.",
+    "pubDate": "Wed, 11 Nov 2026 18:16:40 +0000",
+    "source": "Ars Technica",
+    "category": "科技"
+  },
+  {
+    "title": "Trump admin loses fight to spy on random journalists’ LinkedIn DMs",
+    "link": "https://arstechnica.com/tech-policy/2026/11/trump-admin-loses-fight-to-spy-on-random-journalists-linkedin-dms/",
+    "description": "Confidential sources “lifeblood” of free press, court rules in LinkedIn fight.",
+    "pubDate": "Wed, 11 Nov 2026 18:05:26 +0000",
+    "source": "Ars Technica",
+    "category": "科技"
+  },
+  {
+    "title": "Scandal-hit Nvidia CEO Jensen Huang quits, plunging AI chipmaking giant into turmoil",
+    "link": "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o?at_medium=RSS&at_campaign=rss",
+    "description": "US lawmakers now want to question him over whether one of his alleged relationships was with a Chinese spy.",
+    "pubDate": "Thu, 12 Nov 2026 23:34:05 GMT",
+    "source": "BBC News",
+    "category": "综合"
+  },
+  {
+    "title": "Russian warship hit by Ukrainian drone in Gulf of Finland",
+    "link": "https://www.bbc.co.uk/news/articles/cmn0d33zz34zo?at_medium=RSS&at_campaign=rss",
+    "description": "The attack is thought to be the first time Ukrainian drones have attacked a Russian ship in an open stretch of the Baltic Sea.",
+    "pubDate": "Thu, 12 Nov 2026 20:09:16 GMT",
+    "source": "BBC News",
+    "category": "综合"
+  },
+  {
+    "title": "Junior doctor burnout putting maternity patients at risk, says regulator",
+    "link": "https://www.bbc.co.uk/news/articles/ckx28le8dv9wo?at_medium=RSS&at_campaign=rss",
+    "description": "Trainee doctors delivering babies are more likely to suffer from overwork and burnout than other specialties, evidence suggests.",
+    "pubDate": "Fri, 13 Nov 2026 00:55:31 GMT",
+    "source": "BBC News",
+    "category": "综合"
+  },
+  {
+    "title": "Military base asylum plans granted planning approval",
+    "link": "https://www.bbc.co.uk/news/articles/c58j4798874go?at_medium=RSS&at_campaign=rss",
+    "description": "The Home Office's application to house up to 1,256 men at the site near Bicester was fast-tracked.",
+    "pubDate": "Thu, 12 Nov 2026 22:16:34 GMT",
+    "source": "BBC News",
+    "category": "综合"
+  },
+  {
+    "title": "US envoys meet Zelensky in Dublin after talks with Putin in Moscow",
+    "link": "https://www.bbc.co.uk/news/articles/cwrkgmymk55zo?at_medium=RSS&at_campaign=rss",
+    "description": "US envoy Steve Witkoff says President Putin has agreed to European negotiators joining the next round of Ukraine talks.",
+    "pubDate": "Thu, 12 Nov 2026 21:00:42 GMT",
+    "source": "BBC News",
+    "category": "综合"
+  },
+  {
+    "title": "The school where white working-class pupils defy the odds",
+    "link": "https://www.bbc.co.uk/news/articles/cm369259g0j2o?at_medium=RSS&at_campaign=rss",
+    "description": "Politicians are worried about the outcomes of white, working-class pupils. But one school in Sunderland seems to have defied gravity",
+    "pubDate": "Fri, 13 Nov 2026 00:53:49 GMT",
+    "source": "BBC News",
+    "category": "综合"
+  },
+  {
+    "title": "Timothée Chalamet among Hollywood stars and charity heroes stepping up for BBC Children In Need",
+    "link": "https://www.bbc.co.uk/news/articles/cqly4lnxn031o?at_medium=RSS&at_campaign=rss",
+    "description": "Viewers of the annual TV charity event will see the actor playing a prank on Rylan.",
+    "pubDate": "Fri, 13 Nov 2026 00:54:04 GMT",
+    "source": "BBC News",
+    "category": "综合"
+  },
+  {
+    "title": "Microsoft struggling to restore service as global outage affects Outlook and Teams",
+    "link": "https://www.bbc.co.uk/news/articles/c5gm3g9ldz8xo?at_medium=RSS&at_campaign=rss",
+    "description": "Services including Teams, Outlook and Microsoft's AI software Copilot have been affected by \"connectivity problems\".",
+    "pubDate": "Thu, 12 Nov 2026 20:25:29 GMT",
+    "source": "BBC News",
+    "category": "综合"
+  },
+  {
+    "title": "Burnham says 'win-win' deal can be agreed between UK and EU",
+    "link": "https://www.bbc.co.uk/news/articles/cm2l5n07l87vo?at_medium=RSS&at_campaign=rss",
+    "description": "The prime minister says the deal could be \"more like the Brexit people thought they were voting for\" in 2016.",
+    "pubDate": "Fri, 13 Nov 2026 01:17:58 GMT",
+    "source": "BBC News",
+    "category": "综合"
+  },
+  {
+    "title": "MI5 will need proof to be believed in future, says Leveson after BBC investigation",
+    "link": "https://www.bbc.co.uk/news/articles/c98r7dlj6v2go?at_medium=RSS&at_campaign=rss",
+    "description": "The BBC exposed how the security service had lied to three courts concerning Agent X.",
+    "pubDate": "Fri, 13 Nov 2026 00:54:50 GMT",
+    "source": "BBC News",
+    "category": "综合"
+  },
+  {
+    "title": "Cricket sandpaper scandal claims '100% wrong', Australia captain says",
+    "link": "https://www.bbc.co.uk/sport/cricket/articles/cwq6e4y9525mo?at_medium=RSS&at_campaign=rss",
+    "description": "Australia captain Pat Cummins hits back at former team-mate Usman Khawaja’s claims over the sandpaper scandal, calling them “100% wrong” and “utter nonsense”.",
+    "pubDate": "Fri, 13 Nov 2026 00:58:00 GMT",
+    "source": "BBC News",
+    "category": "综合"
+  },
+  {
+    "title": "Brand will face 'hell on earth' in Wandsworth prison, says former inmate",
+    "link": "https://www.bbc.co.uk/news/articles/ck7v25pp19m8o?at_medium=RSS&at_campaign=rss",
+    "description": "The disgraced entertainer was sentenced to 10 years and six months for rape and sexual assault.",
+    "pubDate": "Fri, 13 Nov 2026 00:15:27 GMT",
+    "source": "BBC News",
+    "category": "综合"
+  },
+  {
+    "title": "How AI visionary Jensen Huang was undone by his own bad decisions",
+    "link": "https://www.bbc.co.uk/news/articles/cq5y13819gpjo?at_medium=RSS&at_campaign=rss",
+    "description": "Zoe Kleinman explains how the man who built Nvidia from the ground up lost everything in a matter of days.",
+    "pubDate": "Thu, 12 Nov 2026 16:43:36 GMT",
+    "source": "BBC News",
+    "category": "综合"
+  },
+  {
+    "title": "The rise of 'housefishing' - when does using AI go from enhancing to misleading?",
+    "link": "https://www.bbc.co.uk/news/articles/cm62y0wrnz9zo?at_medium=RSS&at_campaign=rss",
+    "description": "Experts warn that using AI to enhance property images can go too far and mislead prospective buyers.",
+    "pubDate": "Fri, 13 Nov 2026 00:13:35 GMT",
+    "source": "BBC News",
+    "category": "综合"
+  },
+  {
+    "title": "Skye Newman gets 'goosebumps' over record-breaking Brixton Academy run",
+    "link": "https://www.bbc.co.uk/news/articles/ckvg25g323ymo?at_medium=RSS&at_campaign=rss",
+    "description": "She is the first British female solo singer to play a five-gig residency at the venue.",
+    "pubDate": "Fri, 13 Nov 2026 00:24:11 GMT",
+    "source": "BBC News",
+    "category": "综合"
+  },
+  {
+    "title": "Ankle injuries are more common than you think - here's how to protect yours",
+    "link": "https://www.bbc.co.uk/news/articles/c6vgxjevv5v7o?at_medium=RSS&at_campaign=rss",
+    "description": "Performance physiotherapist Genevieve Taiwah shares her top tips for looking after your ankles.",
+    "pubDate": "Fri, 13 Nov 2026 00:14:12 GMT",
+    "source": "BBC News",
+    "category": "综合"
+  },
+  {
+    "title": "Weekly quiz: Who's joining Wayne Rooney in the I'm A Celebrity jungle?",
+    "link": "https://www.bbc.co.uk/news/articles/cmkgk0w34lkpo?at_medium=RSS&at_campaign=rss",
+    "description": "How much attention did you pay to what happened in the world over the past seven days?",
+    "pubDate": "Thu, 12 Nov 2026 20:22:21 GMT",
+    "source": "BBC News",
+    "category": "综合"
+  },
+  {
+    "title": "Faisal Islam: Why the UK economy is surprisingly resilient",
+    "link": "https://www.bbc.co.uk/news/articles/cj62p32k90wyo?at_medium=RSS&at_campaign=rss",
+    "description": "The UK is seeing impressive growth, but will it last?",
+    "pubDate": "Thu, 12 Nov 2026 13:27:09 GMT",
+    "source": "BBC News",
+    "category": "综合"
+  },
+  {
+    "title": "US doctor kills building manager after long-running dispute over mould, police say",
+    "link": "https://www.bbc.co.uk/news/articles/crgqx2qqnwpjo?at_medium=RSS&at_campaign=rss",
+    "description": "Authorities say the shooting in Washington DC left four people injured, with the suspect dying of a self-inflicted gunshot wound.",
+    "pubDate": "Thu, 12 Nov 2026 23:39:04 GMT",
+    "source": "BBC News",
+    "category": "综合"
+  },
+  {
+    "title": "Can Burnham avoid another Labour welfare rebellion?",
+    "link": "https://www.bbc.co.uk/news/articles/c95y100nrm41o?at_medium=RSS&at_campaign=rss",
+    "description": "Any revolt among MPs is likely to be smaller than the one that badly damaged Keir Starmer's government.",
+    "pubDate": "Thu, 12 Nov 2026 18:21:38 GMT",
+    "source": "BBC News",
+    "category": "综合"
+  },
+  {
+    "title": "Duran Duran drummer quits band due to tinnitus",
+    "link": "https://www.bbc.co.uk/news/articles/crwy499k504do?at_medium=RSS&at_campaign=rss",
+    "description": "Roger Taylor says his condition has been getting steadily worse, and he must now \"listen to my body and my doctors\".",
+    "pubDate": "Thu, 12 Nov 2026 19:00:15 GMT",
+    "source": "BBC News",
+    "category": "综合"
+  },
+  {
+    "title": "Hegseth awards medal to war memorial guard who reprimanded him and group",
+    "link": "https://www.bbc.co.uk/news/articles/cmvg2r3dq7xno?at_medium=RSS&at_campaign=rss",
+    "description": "Specialist Thomas Iglesias had shouted at Hegseth's group to be quiet after they could be heard talking and laughing at the Tomb of the Unknown Soldier.",
+    "pubDate": "Thu, 12 Nov 2026 18:47:35 GMT",
+    "source": "BBC News",
+    "category": "综合"
+  },
+  {
+    "title": "Two men found guilty of spying for Iran over plan to target UK-based journalists",
+    "link": "https://www.bbc.co.uk/news/articles/ck9q8g8209l2o?at_medium=RSS&at_campaign=rss",
+    "description": "The men were convicted of engaging in conduct likely to assist an Iranian intelligence service.",
+    "pubDate": "Thu, 12 Nov 2026 18:54:00 GMT",
+    "source": "BBC News",
+    "category": "综合"
+  },
+  {
+    "title": "Teenage girl admits murder in row over boy",
+    "link": "https://www.bbc.co.uk/news/articles/c6x28e243gg9o?at_medium=RSS&at_campaign=rss",
+    "description": "Kayla Smith, 18, pleads guilty to the murder of Chloe Watson Dransfield, who she stabbed to death.",
+    "pubDate": "Thu, 12 Nov 2026 17:54:50 GMT",
+    "source": "BBC News",
+    "category": "综合"
+  },
+  {
+    "title": "Some under-25s should get fewer benefits, Milburn review to say",
+    "link": "https://www.bbc.co.uk/news/articles/cwn70l1628l0o?at_medium=RSS&at_campaign=rss",
+    "description": "The proposed radical overhaul of the welfare system would move under-25s off the main sickness benefits.",
+    "pubDate": "Thu, 12 Nov 2026 22:51:18 GMT",
+    "source": "BBC News",
+    "category": "综合"
+  },
+  {
+    "title": "Download now",
+    "link": "https://www.bbc.co.uk/news/10628994?at_medium=RSS&at_campaign=rss",
+    "description": "Top stories, breaking news, live reporting, and follow news topics that match your interests",
+    "pubDate": "Wed, 30 Apr 2025 14:04:28 GMT",
+    "source": "BBC News",
+    "category": "综合"
+  },
+  {
+    "title": "Are Under-25s About to Lose Sickness Benefits?",
+    "link": "https://www.bbc.co.uk/sounds/play/p0pm3s8y?at_mid=8p9AcX1WWS&at_campaign=Newscast_Are_Under_25s_About_to_Lose_Sickness_Benefits_news_rail&at_medium=display_ad&at_campaign_type=owned&at_nation=NET&at_audience_id=SS&at_product=sounds&at_brand=p05299nl&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=Newscast_Are_Under_25s_About_to_Lose_Sickness_Benefits_news_rail&at_bbc_team=BBC&at_creation=News",
+    "description": "The BBC’s daily news podcast with episodes available Monday to Sunday at 5pm.",
+    "pubDate": "Sun, 25 Oct 2026 00:00:00 GMT",
+    "source": "BBC News",
+    "category": "综合"
+  },
+  {
+    "title": "The mammoth effort to entomb the ruins of the Chernobyl nuclear power plant",
+    "link": "https://www.bbc.co.uk/iplayer/episode/b08650s6?at_mid=gEXl0ndPjx&at_campaign=Inside_Chernobyls_Mega_Tomb&at_medium=display_ad&at_campaign_type=owned&at_nation=NET&at_audience_id=SS&at_product=iplayer&at_brand=b08650s6&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=Inside_Chernobyls_Mega_Tomb&at_bbc_team=BBC",
+    "description": "Film following the team racing to entomb the ruins of the Chernobyl nuclear power plant.",
+    "pubDate": "Wed, 07 Jan 2026 22:00:23 GMT",
+    "source": "BBC News",
+    "category": "综合"
+  },
+  {
+    "title": "How Pochettino came on Man Utd's radar - and what Carrick was told when",
+    "link": "https://www.bbc.co.uk/sport/football/articles/cqdr1jlr1707o?at_medium=RSS&at_campaign=rss",
+    "description": "How Man Utd identified Mauricio Pochettino as their new head coach - and what happened in the week Michael Carrick was left waiting.",
+    "pubDate": "Thu, 12 Nov 2026 16:12:39 GMT",
+    "source": "BBC News",
+    "category": "综合"
+  },
+  {
+    "title": "Where does Kane rank among all-time England greats?",
+    "link": "https://www.bbc.co.uk/sport/football/articles/cxj0lvqpn94qo?at_medium=RSS&at_campaign=rss",
+    "description": "Harry Kane is England's all-time top scorer and record appearance maker, but where does he rank among the Three Lions' greatest players?",
+    "pubDate": "Thu, 12 Nov 2026 22:09:59 GMT",
+    "source": "BBC News",
+    "category": "综合"
+  },
+  {
+    "title": "'A lie' - Palmer committed to England, says Rogers",
+    "link": "https://www.bbc.co.uk/sport/football/articles/c6e9kjne5y8vo?at_medium=RSS&at_campaign=rss",
+    "description": "Morgan Rogers says any suggestion Cole Palmer is not committed to England \"is a lie\" and \"nonsense\".",
+    "pubDate": "Thu, 12 Nov 2026 23:09:07 GMT",
+    "source": "BBC News",
+    "category": "综合"
+  },
+  {
+    "title": "Grealish apologises for absence after breach of discipline",
+    "link": "https://www.bbc.co.uk/sport/football/articles/cr3wgp8e2ljxo?at_medium=RSS&at_campaign=rss",
+    "description": "Jack Grealish issues an apology to Everton fans for his recent absence due to a disciplinary issue.",
+    "pubDate": "Thu, 12 Nov 2026 22:10:13 GMT",
+    "source": "BBC News",
+    "category": "综合"
+  },
+  {
+    "title": "Gritty Arsenal show different side in Barcelona draw",
+    "link": "https://www.bbc.co.uk/sport/football/articles/cqe85vym242jo?at_medium=RSS&at_campaign=rss",
+    "description": "Could a resilient draw against European champions Barcelona be a turning point in Arsenal's season?",
+    "pubDate": "Thu, 12 Nov 2026 21:50:59 GMT",
+    "source": "BBC News",
+    "category": "综合"
+  },
+  {
+    "title": "Pegula saves match point to beat Noskova & reach WTA Finals last four",
+    "link": "https://www.bbc.co.uk/sport/tennis/articles/c57429mgdkjdo?at_medium=RSS&at_campaign=rss",
+    "description": "A determined Jessica Pegula saves match point to beat Wimbledon champion Linda Noskova and reach the WTA Finals last four at the expense of Coco Gauff.",
+    "pubDate": "Fri, 13 Nov 2026 01:23:06 GMT",
+    "source": "BBC News",
+    "category": "综合"
+  },
+  {
+    "title": "Zimbabwean author Simbarashe Kundizeza cleared of using AI to write prize-winning story",
+    "link": "https://www.theguardian.com/books/2026/nov/12/zimbabwean-author-simbarashe-kundizeza-cleared-ai-caine-prize-winning-story",
+    "description": "After a month-long investigation it was concluded that Kundizeza’s story The Blue Fighter, which won the £10,000 Caine prize, was ‘human-written’The Zimbabwean author Simbarashe Kundizeza has been cleared of using AI to write a prize-winning short story, after the prestigious Caine prize for African writers concluded that his entry was “human-written” after a month-long investigation.Kundizeza’s story The Blue Fighter, which charts the declining fortunes of a family after the father invests in f",
+    "pubDate": "Thu, 12 Nov 2026 13:14:38 GMT",
+    "source": "卫报",
+    "category": "综合"
+  },
+  {
+    "title": "Lewis Hamilton visits Egypt’s Rafah crossing and Gaza aid facilities",
+    "link": "https://www.theguardian.com/world/2026/nov/10/lewis-hamilton-egypt-rafah-crossing-gaza-aid-facilities",
+    "description": "Seven-time F1 world champion tours border area and logistics warehouses operated by Egyptian Red CrescentLewis Hamilton has visited Egypt’s Rafah border crossing with the Gaza Strip to meet organisations sending humanitarian aid to the territory.The seven-time Formula One world champion has spoken out about conflict and humanitarian crises in the region, and has called for peace. He has frequently posted on social media about children killed in Israeli airstrikes in Gaza and called for a ceasefi",
+    "pubDate": "Tue, 10 Nov 2026 15:39:26 GMT",
+    "source": "卫报",
+    "category": "综合"
+  },
+  {
+    "title": "Collision of two trains in Egypt kills at least seven",
+    "link": "https://www.theguardian.com/world/2026/nov/08/egypt-two-trains-deadly-collision",
+    "description": "President orders prompt investigation after one train derails in collision in al-Ayyat about 50km from CairoSeven people were killed and at least 125 injured when two trains collided on Sunday south of the Egyptian capital, Cairo, officials said.The crash occurred in al-Ayyat district in Giza province, about 50km (30 miles) south of Cairo, when a train travelling to Fayoum province crashed into the rear of a train heading to the southern province of Aswan, according to the transport ministry. Co",
+    "pubDate": "Sun, 08 Nov 2026 17:51:17 GMT",
+    "source": "卫报",
+    "category": "综合"
+  },
+  {
+    "title": "How African philosophies inspired a new approach to staging film festivals in Manchester",
+    "link": "https://www.theguardian.com/news/2026/nov/08/african-philosophies-see-my-world-film-festival-manchester",
+    "description": "See My World, an event highlighting the pan-African thought via film, poetry and dance, builds on momentum sparked by local activists and creativesAfrican philosophies including exploring how lessons from the past can shape the present and near future have inspired a film festival coming to Manchester.See My World, a day dedicated to independent creators from across the African diaspora in the north of England, will take place at the Contact theatre on 21 November. Continue reading...",
+    "pubDate": "Sun, 08 Nov 2026 12:00:39 GMT",
+    "source": "卫报",
+    "category": "综合"
+  },
+  {
+    "title": "Kenyan doomsday sect leader jailed for 200 years for murder of 190 children",
+    "link": "https://www.theguardian.com/world/2026/nov/06/kenyan-doomsday-sect-leader-jailed-murders-paul-mackenzie",
+    "description": "Paul Mackenzie convicted over deaths of children and one adult after followers were ordered to starve themselves and their familiesThe leader of a Kenyan doomsday sect has been sentenced to 200 years in prison for the murders of 190 children and one adult in one of the world’s worst cult disasters in recent history.The sentence, comprising 100 years for murder by starvation and 100 years by direct homicide, came two weeks after the court in Kenya’s coastal city of Mombasa found the cult leader g",
+    "pubDate": "Fri, 06 Nov 2026 15:08:43 GMT",
+    "source": "卫报",
+    "category": "综合"
+  },
+  {
+    "title": "Two skulls likely belonging to enslaved people returned to Brazil after Harvard used them in eugenics studies",
+    "link": "https://www.theguardian.com/news/2026/nov/11/harvard-skulls-repatriated-brazil",
+    "description": "Remains believed to have belonged to Africans or Afro-Brazilians repatriated after being flown back by diplomats Two skulls, including that of a man believed to have taken part in Brazil’s greatest slave revolt but whose remains were taken to the United States and used in racist eugenics studies at Harvard University, were repatriated on Wednesday.The remains had been outside Brazil since the 19th century. One was taken about 190 years ago from Salvador, the capital of the state of Bahia; the ot",
+    "pubDate": "Wed, 11 Nov 2026 22:50:37 GMT",
+    "source": "卫报",
+    "category": "综合"
+  },
+  {
+    "title": "Ex-member of radical Marxist group scales balcony, escapes house arrest in Argentina",
+    "link": "https://www.theguardian.com/world/2026/nov/11/red-brigades-leonardo-bertulazzi-escapes-house-arrest-argentina",
+    "description": "Leonardo Bertulazzi, 74, awaiting extradition to Italy, reportedly used harness to flee custodyA 74-year-old former member of Italy’s radical Marxist group the Red Brigades has escaped from house arrest in Argentina, the country’s security ministry confirmed on Wednesday, after he reportedly hid his ankle monitor inside a tube of pork and lowered himself from a fifth-floor balcony.Authorities placed Leonardo Bertulazzi under house arrest in Buenos Aires in 2024, prior to his extradition to Italy",
+    "pubDate": "Wed, 11 Nov 2026 19:00:33 GMT",
+    "source": "卫报",
+    "category": "综合"
+  },
+  {
+    "title": "Argentinian lawyer mocks UK’s sovereignty claim in Falklands oil case",
+    "link": "https://www.theguardian.com/uk-news/2026/nov/11/argentine-lawyer-mocks-uk-sovereignty-claim-in-falklands-oil-case",
+    "description": "Lawyer says Britain wrong to believe in historic doctrine that crown has sovereignty over parts of oceansBritain should not be permitted to act as a 17th-century colonial power treating the waters around the Falkland Islands as a Dominium maris Britannici, Argentina has told an international tribunal.Marcelo Kohen, representing Argentina at a hearing in Hamburg, mocked Britain for apparently believing in the historic doctrine that the British crown has sovereignty over expansive parts of the oce",
+    "pubDate": "Wed, 11 Nov 2026 16:05:45 GMT",
+    "source": "卫报",
+    "category": "综合"
+  },
+  {
+    "title": "Killing of journalist underscores deteriorating conditions in Ecuador",
+    "link": "https://www.theguardian.com/world/2026/nov/11/ecuador-journalist-killing",
+    "description": "Tomás Beltrán was shot dead amid gang warfare that has turned Latin American country into one of its most violentTomás Beltrán was manoeuvring his car into his garage on Sunday night when the Ecuadorian journalist was shot dead.Beltrán ran a Facebook page with news about Calceta, a small city in the province of Manabí, whose Pacific coastline has made it a key flashpoint in the gang warfare over drug trafficking routes that has transformed one of Latin America’s safest countries into one of its ",
+    "pubDate": "Wed, 11 Nov 2026 14:00:52 GMT",
+    "source": "卫报",
+    "category": "综合"
+  },
+  {
+    "title": "Falkland Islanders face ‘devastating consequences’ if Argentina blocks oil project, says UK",
+    "link": "https://www.theguardian.com/world/2026/nov/10/uk-and-argentina-clash-over-falklands-oil-project-as-hamburg-tribunal-starts",
+    "description": "Countries clash over Sea Lion project as Hamburg tribunal risks deepening sovereignty disputeThe people of the Falkland Islands face “devastating consequences” if Argentina is successful in blocking development of its offshore oilfield, the attorney general for England and Wales has told an international tribunal.Ellie Reeves, representing the British government at a hearing of the international tribunal for the law of the sea (Itlos), said billions of pounds vital to the future of the British o",
+    "pubDate": "Tue, 10 Nov 2026 19:01:33 GMT",
+    "source": "卫报",
+    "category": "综合"
+  },
+  {
+    "title": "China rules out hosting Cop33 climate summit in 2028",
+    "link": "https://www.theguardian.com/environment/2026/nov/12/china-rules-out-hosting-cop33-climate-summit-in-2028",
+    "description": "Decision disappoints experts hoping for world’s biggest emitter to take global lead on climate crisis China has ruled out hosting the Cop33 UN climate summit in 2028 after months of deliberations, leaving the field open for other Asian countries to hold it, the Guardian understands.The decision will disappoint many countries and climate experts, who had hoped the world’s biggest emitter would take the lead on the global stage, as the US under Donald Trump has vacated all forms of international c",
+    "pubDate": "Thu, 12 Nov 2026 22:00:15 GMT",
+    "source": "卫报",
+    "category": "综合"
+  },
+  {
+    "title": "Thursday briefing: What we do (and don’t) know about Alice Huang and the Nvidia affair",
+    "link": "https://www.theguardian.com/world/2026/nov/12/thursday-briefing-what-we-do-and-dont-know-about-alice-huang-and-the-nvidia-affair",
+    "description": "In today’s newsletter: US intelligence reportedly believes the former tech executive was recruited by Beijing, raising questions about the security of the AI industry and Trump’s close ties to Nvidia chief Jensen HuangGood morning. Espionage is supposed to be a secretive business, and spies are supposed to be virtually invisible. That hasn’t been the case for Alice Huang, the mysterious Shanghai executive who formed a romantic relationship with Jensen Huang, the founder of Nvidia, one of America",
+    "pubDate": "Thu, 12 Nov 2026 06:43:31 GMT",
+    "source": "卫报",
+    "category": "综合"
+  },
+  {
+    "title": "Ukraine captures first Indonesian prisoner of war amid surge in Russian recruitment",
+    "link": "https://www.theguardian.com/world/2026/nov/11/ukraine-indonesian-pow-prisoner-of-war-russia",
+    "description": "Capture of man from Java follows reports that hundreds are being recruited from the south-east Asian country as Moscow seeks to boost its war effortUkraine says it has captured its first Indonesian prisoner of war, amid what it says is a spike in recruitment by Russia from the south-east Asian nation.The 49-year-old man from Java was taken to Ukraine’s Zaporizhzhia region to take part in a Russian assault, but managed to reach Ukrainian-held territory after the group came under drone attack, acc",
+    "pubDate": "Wed, 11 Nov 2026 05:33:27 GMT",
+    "source": "卫报",
+    "category": "综合"
+  },
+  {
+    "title": "US and rest of world must follow China’s lead on green energy, says John Kerry",
+    "link": "https://www.theguardian.com/environment/2026/nov/10/china-green-energy-john-kerry-cop31",
+    "description": "Former US secretary of state says most nations are ‘stumbling along’ while Beijing has ‘hugely accelerated’Cop31 live – latest updatesChina is leading the world in moving away from fossil fuels, and the rest of the globe – including the US – must now follow, the former US secretary of state John Kerry has told the Guardian, as Cop watchers wonder exactly how China is going to approach this year’s climate summit.As Cop31 opens – this year the climate conference is in Turkey – there is plenty of s",
+    "pubDate": "Tue, 10 Nov 2026 12:08:23 GMT",
+    "source": "卫报",
+    "category": "综合"
+  },
+  {
+    "title": "Nvidia opens investigation after report CEO Jensen Huang was target of foreign intelligence",
+    "link": "https://www.theguardian.com/us-news/2026/nov/08/nvidia-jensen-huang-investigation",
+    "description": "CEO reportedly ‌had close relationship ‌with a Chinese businesswoman who passed information to ‌BeijingNvidia said ⁠on Sunday it “is initiating an independent investigation in light of recent reporting that founder and CEO Jensen Huang has been the target of a foreign intelligence effort”.The New York Times reported in ​October that Donald Trump had been briefed last year on intelligence that Huang ‌had a close relationship ‌with a Chinese businesswoman who passed information to ‌Beijing. Contin",
+    "pubDate": "Mon, 09 Nov 2026 00:25:28 GMT",
+    "source": "卫报",
+    "category": "综合"
+  },
+  {
+    "title": "Pat Cummins press conference live updates: Australian cricket captain speaks about Usman Khawaja’s ‘sandpapergate’ claims",
+    "link": "https://www.theguardian.com/sport/live/2026/nov/13/pat-cummins-press-conference-usman-khawaja-sandpapergate-australia-cricket-captain-statement-ntwnfb",
+    "description": "Cummins speaks about allegations in Usman Khawaja’s book about the 2018 ball-tampering incident‘Complete and utter nonsense’: Australia captain Pat Cummins hits back at Khawaja ‘sandpapergate’ claimsCummins says there’s a ‘proper way to do things’Cummins says he believes there was a proper way to handle the sandpaper incident, pointing to the Cricket Australia investigation shortly afterwards.There’s a very proper way to do things and improve. I think that investigation was a proper way to do it",
+    "pubDate": "Fri, 13 Nov 2026 01:14:52 GMT",
+    "source": "卫报",
+    "category": "综合"
+  },
+  {
+    "title": "Beau Lamarre-Condon bought sim card under pseudonym a month before alleged murders, trial hears",
+    "link": "https://www.theguardian.com/australia-news/2026/nov/13/beau-lamarre-condon-trial-sim-card-pseudonym-ntwnfb",
+    "description": "Former police officer tells court he was attempting to compile statements about ‘bullying from a certain sergeant’ but was worried about speaking publiclyGet our breaking news email, free app or daily news podcastBeau Lamarre-Condon has told a Sydney court he obtained a sim card under a pseudonym a month before allegedly murdering two men because he wanted to go to the media about bullying allegations in the police force.The former police officer is accused of fatally shooting Jesse Baird and hi",
+    "pubDate": "Fri, 13 Nov 2026 00:34:23 GMT",
+    "source": "卫报",
+    "category": "综合"
+  },
+  {
+    "title": "Icac’s dirt files expose NSW’s ‘guns for hire’ problem. But neither major party is serious about lobbying reform",
+    "link": "https://www.theguardian.com/australia-news/2026/nov/13/icac-chris-minns-nsw-undeclared-lobbying-bill-ntwnfb",
+    "description": "Chris Minns’s move to address the threat of undeclared lobbying falls well short of what the commission recommended five years agoGet our daily political email, free app or daily news podcastA dirt file on a state minister peddled to journalists. A subterranean campaign to discredit the building commissioner. Convincing the Liberal party to unseat councillors in the Hills district who were blocking a developer.The New South Wales corruption watchdog’s recent inquiry, Rosny, revealed the ease wit",
+    "pubDate": "Thu, 12 Nov 2026 22:21:26 GMT",
+    "source": "卫报",
+    "category": "综合"
+  },
+  {
+    "title": "Microsoft begins restoring services amid global outage affecting Outlook and Teams",
+    "link": "https://www.theguardian.com/technology/2026/nov/13/microsoft-outage-outlook-teams-word-excel-reports",
+    "description": "Streamlined recovery process under way, company says, after nearly 130,000 users worldwide reported access issuesMicrosoft outage – live updatesMicrosoft says a portion of servers are returning to service, and a streamlined recovery process is under way to end a global outage that has resulted in nearly 130,000 users worldwide reporting issues accessing its 365 suite of software, including Outlook and Teams.Outage website Down Detector showed a spike in Microsoft 365 problems, with nearly 130,00",
+    "pubDate": "Thu, 12 Nov 2026 21:51:47 GMT",
+    "source": "卫报",
+    "category": "综合"
+  },
+  {
+    "title": "What’s behind Australia’s surge in teen extremism?",
+    "link": "https://www.theguardian.com/australia-news/2026/nov/13/australia-surge-in-teen-extremism-ntwnfb",
+    "description": "Young people are being found with ‘hard drives full of what can only be described as gore’, one expert saysGet our breaking news email, free app or daily news podcastIn March, Guardian Australia revealed that most people who have been charged with the new federal crime of possession of violent extremist material are under 18.This week Australian federal police sounded the alarm about a surge in teen extremism: 32 of the 37 young people prosecuted in counter-terrorism cases since 2020 were charge",
+    "pubDate": "Thu, 12 Nov 2026 14:00:45 GMT",
+    "source": "卫报",
+    "category": "综合"
+  },
+  {
+    "title": "Putin takes hard line in US talks as Ukraine says Starlink disrupted again",
+    "link": "https://www.theguardian.com/world/2026/nov/12/vladimir-putin-russia-target-foreign-troops-ukraine-elon-musk-starlink",
+    "description": "Russian president says he would target any foreign troops sent to Ukraine and refuses to soften territorial demandsVladimir Putin warned US negotiators that Russia would target any foreign troops deployed to Ukraine, in a series of hardline remarks that came as the Ukrainian military faced renewed disruptions to Elon Musk’s Starlink satellite service.During the talks at the Kremlin with the US envoys Jared Kushner and Steve Witkoff on Thursday, the Russian president refused to soften his territo",
+    "pubDate": "Thu, 12 Nov 2026 22:26:37 GMT",
+    "source": "卫报",
+    "category": "综合"
+  },
+  {
+    "title": "‘Win-win’ deal with EU could be done, Andy Burnham says",
+    "link": "https://www.theguardian.com/politics/2026/nov/12/win-win-deal-with-eu-could-be-done-andy-burmham-says",
+    "description": "Prime minister says reset could be a deal ‘like the Brexit people thought they were voting for in 2016’ Andy Burnham has said he believes a “win-win” deal could be done with the EU that could be “more like the Brexit that people thought they were voting for in 2016”.The prime minister was meeting fellow leaders at the European Political Community summit in Dublin, ahead of a keenly anticipated EU-UK summit next week, where he hopes to bring Britain closer to Europe. Continue reading...",
+    "pubDate": "Thu, 12 Nov 2026 22:01:39 GMT",
+    "source": "卫报",
+    "category": "综合"
+  },
+  {
+    "title": "Norway follows Finland in barring Russian athletes from entering country over Ukraine war",
+    "link": "https://www.theguardian.com/sport/2026/nov/12/finland-bars-russian-athletes-ukraine",
+    "description": "Move by Norway ‘a further tightening’ of current rulesRussians ‘have no business’ in Finland, says ministerNorway’s government announced that it would prevent Russian and Belarusian professional athletes from coming to Norway to compete, hours after neighbouring Finland announced a similar move.The government said it intended to prevent athletes from these countries coming to Norway as long as the war in Ukraine continues. In a statement, it noted that while Norway already had strict rules for v",
+    "pubDate": "Thu, 12 Nov 2026 21:00:12 GMT",
+    "source": "卫报",
+    "category": "综合"
+  },
+  {
+    "title": "New talks with Russia, Ukraine and European countries agreed, US says - as it happened",
+    "link": "https://www.theguardian.com/world/live/2026/nov/12/us-envoys-in-moscow-meeting-putin-abu-dhabi-trilateral-ukraine-ceasefire-talks-latest-news-updates",
+    "description": "This blog is now closedLuxembourg’s PM Luc Frieden looks to be absolutely chuffed to be representing all three Benelux countries at today’s summit, as his Belgian and Dutch colleagues are too busy to attend as they face domestic crises.“I have the privilege of representing 30 millions citizens today,” he said on arrival to Dublin, with a massive smile on his face. Continue reading...",
+    "pubDate": "Thu, 12 Nov 2026 17:17:55 GMT",
+    "source": "卫报",
+    "category": "综合"
+  },
+  {
+    "title": "The planet ‘is being killed’, Greta Thunberg tells Cop31 climate summit",
+    "link": "https://www.theguardian.com/environment/2026/nov/12/greta-thunberg-cop31-climate-summit",
+    "description": "Swedish activist criticised world governments for their failure to prevent environmental breakdown The planet is “not dying, it is being killed and we know by who”, said Greta Thunberg, who excoriated world governments for their failure to prevent environmental breakdown in her first appearance at the annual UN climate talks in five years.Thunberg, 23, the Swedish activist who became famous for heading the school climate strike movement, delivered her stark message to those gathered at the Cop31",
+    "pubDate": "Thu, 12 Nov 2026 16:39:47 GMT",
+    "source": "卫报",
+    "category": "综合"
+  },
+  {
+    "title": "Two men found guilty of helping Iran try to ‘eliminate’ UK-based journalists",
+    "link": "https://www.theguardian.com/uk-news/2026/nov/12/two-men-found-guilty-over-iranian-attempts-to-eliminate-uk-based-journalists",
+    "description": "Mostafa Sepahvand and Farhad Javadi Manesh carried out surveillance in an effort to inflict violence on targetsTwo men of Iranian origin who were hired through social media as part of a plan to “eliminate” journalists in the UK have been found guilty of assisting Tehran’s intelligence services.Mostafa Sepahvand, 41, and Farhad Javadi Manesh, 46, carried out surveillance and reconnaissance between August 2024 and March last year in an attempt to inflict violence on “subjects” in the UK. Continue ",
+    "pubDate": "Thu, 12 Nov 2026 19:15:30 GMT",
+    "source": "卫报",
+    "category": "综合"
+  },
+  {
+    "title": "Lewis Hamilton says ‘Israel’s genocide in Gaza is appalling’ after Rafah visit",
+    "link": "https://www.theguardian.com/sport/2026/nov/12/lewis-hamilton-gaza-visit-rafah-israel",
+    "description": "F1 driver urges Israel to let aid into GazaTrip involved tour of facilities with aid workersFormula One driver Lewis Hamilton said on Wednesday that Israel must allow aid ⁠trucks into Gaza, a day after he visited the Rafah border crossing in Egypt.Hamilton, a seven-time ⁠world champion, arrived ⁠in ​El Arish on Tuesday, where he was briefed on how aid is prepared and coordinated before it ⁠is sent into Gaza, as he toured the Rafah crossing and the Egyptian Red Crescent’s aid warehouses. Continue",
+    "pubDate": "Thu, 12 Nov 2026 18:00:50 GMT",
+    "source": "卫报",
+    "category": "综合"
+  },
+  {
+    "title": "NAZA: how and where to watch the Guardian’s acclaimed Gaza documentary",
+    "link": "https://www.theguardian.com/global/2026/nov/12/naza-how-to-watch-guardian-acclaimed-gaza-documentary",
+    "description": "Film features testimony from 24 Israeli officials involved in surveillance and remote killing of Palestinian civilians• NAZA is in cinemas worldwide and will screen for free on the Guardian’s website from early December. Sign up here to be the first to watch it Continue reading...",
+    "pubDate": "Thu, 12 Nov 2026 14:23:50 GMT",
+    "source": "卫报",
+    "category": "综合"
+  },
+  {
+    "title": "Israeli airstrike on Nasser hospital in Gaza kills surgeon and five others",
+    "link": "https://www.theguardian.com/world/2026/nov/12/israeli-airstrike-nasser-hospital-gaza-kills-surgeon",
+    "description": "Hospital director says 28 wounded in attack on one of few remaining medical facilities in the stripAn Israeli airstrike on Nasser hospital in southern Gaza killed six people, including a surgeon and a disabled man, and wounded 28 others, according to the hospital director.The Israeli military carried out the attack on the hospital, in Khan Younis, early on Thursday saying in a statement it had struck a Hamas commander and other fighters there, without providing evidence. Continue reading...",
+    "pubDate": "Thu, 12 Nov 2026 12:19:01 GMT",
+    "source": "卫报",
+    "category": "综合"
+  },
+  {
+    "title": "Oil slicks seen from space: the devastating impact of boat strikes on fragile Gulf ecosystems",
+    "link": "https://www.theguardian.com/world/2026/nov/12/oil-slicks-seen-from-space-the-devastating-impact-of-boat-strikes-on-fragile-gulf-ecosystems",
+    "description": "Since the US war on Iran began in February, there have been hundreds of oil spills, posing a ‘generational’ threat to wildlifeThe vast, dark slicks in the strait of Hormuz are visible from space. Throughout October, oil tankers were struck by missiles or sea mines in the waterway and spilled crude into the sea. The pollution has spread across the Gulf, contaminating coastlines and threatening to cause lasting damage to marine ecosystems that are home to dolphins, sea turtles and countless specie",
+    "pubDate": "Thu, 12 Nov 2026 03:00:07 GMT",
+    "source": "卫报",
+    "category": "综合"
+  },
+  {
+    "title": "Disgraced former leader Sheikh Hasina plans return to Bangladesh from exile",
+    "link": "https://www.theguardian.com/world/2026/nov/10/disgraced-former-leader-sheikh-hasina-plans-return-to-bangladesh-after-two-years-in-exile",
+    "description": "Former prime minister faces death penalty upon return after being sentenced in absentia over deaths in 2024 uprisingSheikh Hasina is “confident” she will return to Bangladesh in December, according to exiled members of her party, after the disgraced former prime minister applied for a new passport this week.Hasina has been living in self-imposed exile since August 2024 when she was toppled from power by a mass uprising against her authoritarian rule. She crossed the border to India, where she ha",
+    "pubDate": "Tue, 10 Nov 2026 10:57:51 GMT",
+    "source": "卫报",
+    "category": "综合"
+  },
+  {
+    "title": "Grenades, grief and a deepening political divide: five takeaways from Sonia Gandhi’s new memoir",
+    "link": "https://www.theguardian.com/world/2026/nov/09/this-is-india-sonia-gandhi-memoir-belonging",
+    "description": "From the assassinations of her husband and mother-in-law to press stonewalling under Modi, Belonging offers an insider’s account of India’s political evolution• Don’t get This is India delivered to your inbox? Sign up hereFew love stories have been as closely entwined with a nation’s history as that of Sonia and Rajiv Gandhi. The former’s much-awaited political memoir, Belonging, offers a strikingly candid account of her journey from a small town in Italy to the highest echelons of power in Indi",
+    "pubDate": "Tue, 10 Nov 2026 07:30:31 GMT",
+    "source": "卫报",
+    "category": "综合"
+  },
+  {
+    "title": "Environmentalists criticise choice of Earthshot prize venue owned by fossil fuel firm",
+    "link": "https://www.theguardian.com/environment/2026/nov/08/earthshot-prize-venue-criticism-fossil-fuel-firm-reliance-industries-india-mumbai",
+    "description": "Mumbai facility is part of Reliance Industries, owner of world’s biggest oil refinery and funder of controversial mega-zooThe Prince of Wales’s Earthshot prize will host its forthcoming annual awards ceremony at a venue owned by the billionaire Ambani family conglomerate, drawing criticism from conservationists over their fossil fuel businesses and their foundation’s controversial mega-zoo.A spokesperson for the Earthshot prize, which awards £1m to five winners every year to invest in conservati",
+    "pubDate": "Sun, 08 Nov 2026 06:00:33 GMT",
+    "source": "卫报",
+    "category": "综合"
+  },
+  {
+    "title": "The private creative world of Rabindranath Tagore, the man Yeats called ‘greater than any of us’",
+    "link": "https://www.theguardian.com/world/2026/nov/03/rabindranath-tagore-yeats-nobel-prize-india",
+    "description": "A previously unseen family archive offers a glimpse into the Indian Nobel prize winner’s artistic process and personal relationships in his final years• Don’t get This is India delivered to your inbox? Sign up hereIt’s easy to run out of words to describe Rabindranath Tagore. The first non-European to win the Nobel prize in literature, Tagore was a Bengali poet, musician, novelist, philosopher, songwriter, painter, humanist and educator.Born in 1861, Tagore left an indelible mark on the subconti",
+    "pubDate": "Tue, 03 Nov 2026 15:24:53 GMT",
+    "source": "卫报",
+    "category": "综合"
+  },
+  {
+    "title": "UK ministers told not to engage formally with Indian mega-zoo after lobbying",
+    "link": "https://www.theguardian.com/environment/2026/nov/03/uk-ministers-anant-ambani-indian-zoo-vantara-freedom-information-endangered-animals-cites",
+    "description": "Guardian and Mongabay reveal approaches to officials and MPs on behalf of  Vantara zoo ahead of UK-chaired Cites meeting on endangered animal importsBritish government ministers were told not to engage formally with Vantara, the controversial mega-zoo run by the Indian billionaire Anant Ambani, after lobbying efforts by the private animal sanctuary in the run-up to a UK-chaired meeting on the trade in endangered species, according to documents.This week, the UK heads a 32-country committee meeti",
+    "pubDate": "Tue, 03 Nov 2026 06:00:39 GMT",
+    "source": "卫报",
+    "category": "综合"
+  },
+  {
+    "title": "Second world war ‘brain’ bunker in cliffs of Dover opens to public",
+    "link": "https://www.theguardian.com/world/2026/nov/13/fan-bay-plotting-room-national-trust-white-cliffs-dover",
+    "description": "Hidden bunker, entered via a hatch in a field, controlled a gun battery used to attack German ships in ChannelIt has been kept secret for decades, buried four metres deep into the white cliffs of Dover. But from Friday, members of the public will finally be able to visit a pioneering command bunker that was ordered by Winston Churchill and proved a vital defence during the second world war.The Fan Bay plotting room, which is encased in concrete, housed the first land-based computer-aided targeti",
+    "pubDate": "Fri, 13 Nov 2026 00:01:03 GMT",
+    "source": "卫报",
+    "category": "综合"
+  },
+  {
+    "title": "Russell Brand accused of misconduct by six more women, according to report",
+    "link": "https://www.theguardian.com/news/2026/nov/12/russell-brand-accused-of-misconduct-by-six-more-women-according-to-report",
+    "description": "Allegations of sexual misconduct and predatory behaviour made against ex-comedian who was jailed on MondayRussell Brand has been accused of sexual misconduct and predatory behaviour by a further six women, according to a report.The comedian, 51, is accused of having sex with a woman without her consent and then apologising afterwards, an investigation by the Times and the Sunday Times said. Continue reading...",
+    "pubDate": "Thu, 12 Nov 2026 23:51:04 GMT",
+    "source": "卫报",
+    "category": "综合"
+  },
+  {
+    "title": "Angela Rayner grants planning approval for asylum centre in Piddington despite local opposition",
+    "link": "https://www.theguardian.com/uk-news/2026/nov/12/angela-rayner-grants-planning-approval-for-asylum-centre-in-piddington-despite-local-opposition",
+    "description": "Home Office sign-off also needed for site that would house 1,200 asylum seekers near Oxfordshire village that voted to leave UKThe communities secretary, Angela Rayner, has approved full planning permission for an asylum centre at a Ministry of Defence site near the village of Piddington in Oxfordshire.The decision approves plans to go ahead with the refurbishment and redevelopment of the former barracks. The Home Office insists that final approval is still to be determined. Continue reading...",
+    "pubDate": "Thu, 12 Nov 2026 22:09:20 GMT",
+    "source": "卫报",
+    "category": "综合"
+  },
+  {
+    "title": "Leeds woman, 18, admits knife murder of 16-year-old love rival",
+    "link": "https://www.theguardian.com/uk-news/2026/nov/12/woman-18-admits-murdering-girl-16-in-leeds",
+    "description": "Kayla Smith stabbed Chloe Watson Dransfield to death during planned fight over young manAn 18-year-old woman who stabbed a teenage girl to death during a planned fight over a young man has pleaded guilty to murder.Chloe Watson Dransfield, 16, was attacked by Kayla Smith, 18, after going to the latter’s home with her boyfriend Blake Dowling in Leeds, West Yorkshire, a court heard. Continue reading...",
+    "pubDate": "Thu, 12 Nov 2026 20:57:07 GMT",
+    "source": "卫报",
+    "category": "综合"
+  },
+  {
+    "title": "UK ministers look at quick ways to limit NDAs after Walliams allegations",
+    "link": "https://www.theguardian.com/tv-and-radio/2026/nov/12/uk-ministers-look-at-quick-ways-to-limit-ndas-after-walliams-allegations",
+    "description": "Government considers further curbs on non-disclosure agreements after Guardian investigation of TV personalityMinisters are looking at ways to change the law quickly to expand protections that stop non-disclosure agreements being used to cover up harassment or discrimination in the wake of the allegations about David Walliams.This could involve extending measures that mean an NDA cannot be used this way to silence an employee so that it also applies to others, such as freelancers or volunteers. ",
+    "pubDate": "Thu, 12 Nov 2026 18:38:13 GMT",
+    "source": "卫报",
+    "category": "综合"
+  },
+  {
+    "title": "Nvidia’s Jensen Huang expected to testify before Congress amid calls for crackdown on China chip exports – live",
+    "link": "https://www.theguardian.com/technology/live/2026/nov/13/nvidia-jensen-huang-to-testify-before-congress-live-latest-updates",
+    "description": "Huang’s resignation has sent shockwaves through the AI industry, after revelations of extramarital affairs, including one involving a suspected Chinese spyFull report: Jensen Huang resigns as Nvidia CEOAnalysis: Jensen Huang built an AI kingdom. Now he’s gone, will Nvidia’s ramparts be breached?The hunt is on for a new Nvidia CEO after the company head and co-founder, Jensen Huang, resigned amid multiple allegations of extramarital affairs, including one that involved an alleged Chinese spy and ",
+    "pubDate": "Fri, 13 Nov 2026 01:15:19 GMT",
+    "source": "卫报",
+    "category": "综合"
+  },
+  {
+    "title": "Hegseth gives medal to guard who reprimanded him at Arlington national cemetery – US politics live",
+    "link": "https://www.theguardian.com/us-news/live/2026/nov/12/mississippi-scott-colom-ukraine-donald-trump",
+    "description": "Defense secretary issues commendation to US army sentinel who told him and his aides to be quiet after laughter was heard at Tomb of the Unknown SoldierPete Hegseth awards medal to soldier who reprimanded himSign up for the Breaking News US emailPerhaps you saw this ad from Scott Colom, who was just elected to serve as Mississippi’s first Democratic senator since 1989:The New York Times spoke to Russ Hudson, the man who is grilling in the first part of the ad and uttered the “sheeeit” that has n",
+    "pubDate": "Fri, 13 Nov 2026 00:59:22 GMT",
+    "source": "卫报",
+    "category": "综合"
+  },
+  {
+    "title": "Calls grow for release of beloved California nurse detained by ICE: ‘We want her home’",
+    "link": "https://www.theguardian.com/us-news/2026/nov/12/california-nurse-release-ice-custody",
+    "description": "Ann Lawani was taken from her home, sparking a huge outcry among students and faculty at her universityNearly two months after ICE agents whisked a beloved California nurse and professor from her home in Lodi, her university has ramped up calls for her release.“She needs to come home,” said Eileen Fry-Bowers, dean for the University of San Francisco’s nursing school,in reference to Ann Lawani, who was arrested by immigration agents in September and has since been shuffled between detention cente",
+    "pubDate": "Fri, 13 Nov 2026 00:19:54 GMT",
+    "source": "卫报",
+    "category": "综合"
+  },
+  {
+    "title": "Who could replace the departed Jensen Huang as Nvidia CEO?",
+    "link": "https://www.theguardian.com/technology/2026/nov/12/jensen-huang-nvidia-ceo-replacement",
+    "description": "Chief financial officer Colette Kress to take over on interim basis but other names are in mix to be permanent successorThe hunt is on for a new Nvidia CEO. It comes after a whirlwind week, which saw the company head and co-founder, Jensen Huang, resign amid multiple allegations of extramarital affairs, including one that involved an alleged Chinese spy and two with company employees.Nvidia immediately named Colette Kress, the company’s chief financial officer, as the interim CEO. It’s possible ",
+    "pubDate": "Fri, 13 Nov 2026 00:03:57 GMT",
+    "source": "卫报",
+    "category": "综合"
+  },
+  {
+    "title": "Police identify suspect and victim in Washington DC gym shooting that also injured four",
+    "link": "https://www.theguardian.com/us-news/2026/nov/12/dc-shooting-logan-circle",
+    "description": "Authorities identify suspect as Matt Wade Lambert, 55, who died from a self-inflicted gunshot woundWashington DC shooting latest updatesFour people were injured and one person died after a shooting in Northwest Washington DC on Thursday morning, local police said.In a Thursday afternoon press conference, law enforcement identified the suspect as 55-year-old Matt Wade Lambert, who died from a self-inflicted gunshot wound. Continue reading...",
+    "pubDate": "Thu, 12 Nov 2026 23:43:42 GMT",
+    "source": "卫报",
+    "category": "综合"
+  }
+]
