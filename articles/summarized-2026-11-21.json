@@ -1,0 +1,1235 @@
+[
+  {
+    "title": "Re: Riemann",
+    "link": "https://borretti.me/article/re-riemann",
+    "description": "Article URL: https://borretti.me/article/re-riemann\nComments URL: https://news.ycombinator.com/item?id=50583982\nPoints: 113\n# Comments: 95",
+    "pubDate": "Fri, 20 Nov 2026 23:42:44 +0000",
+    "source": "Hacker News",
+    "category": "科技",
+    "summary": "Article URL: https://borretti.me/article/re-riemann\nComments URL: https://news.ycombinator.com/item?id=50583982\nPoints: 113\n# Comments: 95"
+  },
+  {
+    "title": "Uncontacted Indigenous people emerge from Amazon forest to ask for food",
+    "link": "https://www.washingtonpost.com/world/2026/11/19/uncontacted-indigenous-people-emerge-amazon-forest-ask-food/",
+    "description": "Article URL: https://www.washingtonpost.com/world/2026/11/19/uncontacted-indigenous-people-emerge-amazon-forest-ask-food/\nComments URL: https://news.ycombinator.com/item?id=50583877\nPoints: 37\n# Comments: 12",
+    "pubDate": "Fri, 20 Nov 2026 23:31:27 +0000",
+    "source": "Hacker News",
+    "category": "科技",
+    "summary": "Article URL: https://www.washingtonpost.com/world/2026/11/19/uncontacted-indigenous-people-emerge-amazon-forest-ask-food/\nComments URL: https://news.y"
+  },
+  {
+    "title": "Sir Brian May adds new dimension to Hera asteroid",
+    "link": "https://www.esa.int/articles/about-us/directorates/operations/space-safety/hera/sir-brian-may-adds-new-dimension-to-hera-asteroid",
+    "description": "Article URL: https://www.esa.int/articles/about-us/directorates/operations/space-safety/hera/sir-brian-may-adds-new-dimension-to-hera-asteroid\nComments URL: https://news.ycombinator.com/item?id=50583768\nPoints: 35\n# Comments: 6",
+    "pubDate": "Fri, 20 Nov 2026 23:19:44 +0000",
+    "source": "Hacker News",
+    "category": "科技",
+    "summary": "Article URL: https://www.esa.int/articles/about-us/directorates/operations/space-safety/hera/sir-brian-may-adds-new-dimension-to-hera-asteroid\nComment"
+  },
+  {
+    "title": "NINLIVE: The Nine Inch Nails live archive",
+    "link": "https://ninlive.com/",
+    "description": "Article URL: https://ninlive.com/\nComments URL: https://news.ycombinator.com/item?id=50583274\nPoints: 117\n# Comments: 26",
+    "pubDate": "Fri, 20 Nov 2026 22:30:47 +0000",
+    "source": "Hacker News",
+    "category": "科技",
+    "summary": "Article URL: https://ninlive.com/\nComments URL: https://news.ycombinator.com/item?id=50583274\nPoints: 117\n# Comments: 26"
+  },
+  {
+    "title": "Merkle Tree Certificates",
+    "link": "https://datatracker.ietf.org/doc/draft-ietf-plants-merkle-tree-certs/",
+    "description": "Article URL: https://datatracker.ietf.org/doc/draft-ietf-plants-merkle-tree-certs/\nComments URL: https://news.ycombinator.com/item?id=50583134\nPoints: 13\n# Comments: 2",
+    "pubDate": "Fri, 20 Nov 2026 22:19:23 +0000",
+    "source": "Hacker News",
+    "category": "科技",
+    "summary": "Article URL: https://datatracker.ietf.org/doc/draft-ietf-plants-merkle-tree-certs/\nComments URL: https://news.ycombinator.com/item?id=50583134\nPoints:"
+  },
+  {
+    "title": "The Hungry Butler Effect: Concealed Commercial Incentives in LLMs",
+    "link": "https://www.researchgate.net/publication/418143113_The_Hungry_Butler_Effect_Concealed_Commercial_Incentives_and_the_Erosion_of_Epistemic_Rigour_in_Large_Language_Models",
+    "description": "Article URL: https://www.researchgate.net/publication/418143113_The_Hungry_Butler_Effect_Concealed_Commercial_Incentives_and_the_Erosion_of_Epistemic_Rigour_in_Large_Language_Models\nComments URL: https://news.ycombinator.com/item?id=50583117\nPoints: 15\n# Comments: 6",
+    "pubDate": "Fri, 20 Nov 2026 22:18:20 +0000",
+    "source": "Hacker News",
+    "category": "科技",
+    "summary": "Article URL: https://www.researchgate.net/publication/418143113_The_Hungry_Butler_Effect_Concealed_Commercial_Incentives_and_the_Erosion_of_Epistemic_"
+  },
+  {
+    "title": "US SEC's Nvidia probe is examining potential accounting issues – sources",
+    "link": "https://www.marketscreener.com/news/us-sec-s-nvidia-probe-is-examining-potential-accounting-issues-sources-say-ce785ed3dd8ff627",
+    "description": "Article URL: https://www.marketscreener.com/news/us-sec-s-nvidia-probe-is-examining-potential-accounting-issues-sources-say-ce785ed3dd8ff627\nComments URL: https://news.ycombinator.com/item?id=50581438\nPoints: 221\n# Comments: 112",
+    "pubDate": "Fri, 20 Nov 2026 20:22:41 +0000",
+    "source": "Hacker News",
+    "category": "科技",
+    "summary": "Article URL: https://www.marketscreener.com/news/us-sec-s-nvidia-probe-is-examining-potential-accounting-issues-sources-say-ce785ed3dd8ff627\nComments "
+  },
+  {
+    "title": "Show HN: OpenComputer – an open source alternative to Devin",
+    "link": "https://github.com/diggerhq/opencomputer",
+    "description": "Hi HN!Utpal here, I'm one of the founders of OpenComputer.OpenComputer is an open source cloud coding agent for teams that can run in your own cloud account (AWS, GCP, Azure).We run the agent harness and the sandbox on the same durable VM (architecture in the docs [1]). First commit lands in 24s; the alternatives we benchmarked took 53-72s (benchmarks below [2]).Two other choices:- One VM per team, scalable horizontally. Sessions are isolated in git worktrees.\n- Session files are backed up to a ",
+    "pubDate": "Fri, 20 Nov 2026 20:19:56 +0000",
+    "source": "Hacker News",
+    "category": "科技",
+    "summary": "Hi HN!Utpal here, I'm one of the founders of OpenComputer.OpenComputer is an open source cloud coding agent for teams that can run in your own cloud a"
+  },
+  {
+    "title": "Inkling 2 Mini",
+    "link": "https://thinkingmachines.ai/news/inkling-2-mini/",
+    "description": "Article URL: https://thinkingmachines.ai/news/inkling-2-mini/\nComments URL: https://news.ycombinator.com/item?id=50581260\nPoints: 679\n# Comments: 108",
+    "pubDate": "Fri, 20 Nov 2026 20:12:19 +0000",
+    "source": "Hacker News",
+    "category": "科技",
+    "summary": "Article URL: https://thinkingmachines.ai/news/inkling-2-mini/\nComments URL: https://news.ycombinator.com/item?id=50581260\nPoints: 679\n# Comments: 108"
+  },
+  {
+    "title": "And yet, it moves",
+    "link": "https://signoregalilei.com/2026/11/20/and-yet-it-moves/",
+    "description": "Article URL: https://signoregalilei.com/2026/11/20/and-yet-it-moves/\nComments URL: https://news.ycombinator.com/item?id=50581177\nPoints: 86\n# Comments: 42",
+    "pubDate": "Fri, 20 Nov 2026 20:07:55 +0000",
+    "source": "Hacker News",
+    "category": "科技",
+    "summary": "Article URL: https://signoregalilei.com/2026/11/20/and-yet-it-moves/\nComments URL: https://news.ycombinator.com/item?id=50581177\nPoints: 86\n# Comments"
+  },
+  {
+    "title": "DreamCoder: Coding harness and IDE from the author of Mastering Emacs",
+    "link": "https://www.masteringemacs.org/article/announcing-dreamcoder",
+    "description": "Article URL: https://www.masteringemacs.org/article/announcing-dreamcoder\nComments URL: https://news.ycombinator.com/item?id=50581110\nPoints: 107\n# Comments: 17",
+    "pubDate": "Fri, 20 Nov 2026 20:03:59 +0000",
+    "source": "Hacker News",
+    "category": "科技",
+    "summary": "Article URL: https://www.masteringemacs.org/article/announcing-dreamcoder\nComments URL: https://news.ycombinator.com/item?id=50581110\nPoints: 107\n# Co"
+  },
+  {
+    "title": "The stochastic parrots have apparently proved the Riemann Hypothesis",
+    "link": "https://scottaaronson.blog/?p=10344",
+    "description": "Article URL: https://scottaaronson.blog/?p=10344\nComments URL: https://news.ycombinator.com/item?id=50581084\nPoints: 218\n# Comments: 181",
+    "pubDate": "Fri, 20 Nov 2026 20:03:07 +0000",
+    "source": "Hacker News",
+    "category": "科技",
+    "summary": "Article URL: https://scottaaronson.blog/?p=10344\nComments URL: https://news.ycombinator.com/item?id=50581084\nPoints: 218\n# Comments: 181"
+  },
+  {
+    "title": "Winedroid – run Android apps without Android (WASM demo)",
+    "link": "https://winedroid.soham.sh/demo/",
+    "description": "Article URL: https://winedroid.soham.sh/demo/\nComments URL: https://news.ycombinator.com/item?id=50580536\nPoints: 103\n# Comments: 30",
+    "pubDate": "Fri, 20 Nov 2026 19:30:16 +0000",
+    "source": "Hacker News",
+    "category": "科技",
+    "summary": "Article URL: https://winedroid.soham.sh/demo/\nComments URL: https://news.ycombinator.com/item?id=50580536\nPoints: 103\n# Comments: 30"
+  },
+  {
+    "title": "Hurried Announcement: Alessandro Masullo GRH",
+    "link": "https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/",
+    "description": "Article URL: https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/\nComments URL: https://news.ycombinator.com/item?id=50579568\nPoints: 1568\n# Comments: 711",
+    "pubDate": "Fri, 20 Nov 2026 18:33:14 +0000",
+    "source": "Hacker News",
+    "category": "科技",
+    "summary": "Article URL: https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/\nComments URL: https://news.ycombinator.com/item?id="
+  },
+  {
+    "title": "We promoted developers into architects without informing them",
+    "link": "https://manidoraisamy.com/developer-to-architect.html",
+    "description": "Article URL: https://manidoraisamy.com/developer-to-architect.html\nComments URL: https://news.ycombinator.com/item?id=50579331\nPoints: 298\n# Comments: 183",
+    "pubDate": "Fri, 20 Nov 2026 18:17:51 +0000",
+    "source": "Hacker News",
+    "category": "科技",
+    "summary": "Article URL: https://manidoraisamy.com/developer-to-architect.html\nComments URL: https://news.ycombinator.com/item?id=50579331\nPoints: 298\n# Comments:"
+  },
+  {
+    "title": "Vibecoding an inference chip",
+    "link": "https://ankitg.me/blog/vibecoding-inference-chip/",
+    "description": "Article URL: https://ankitg.me/blog/vibecoding-inference-chip/\nComments URL: https://news.ycombinator.com/item?id=50579297\nPoints: 113\n# Comments: 40",
+    "pubDate": "Fri, 20 Nov 2026 18:15:16 +0000",
+    "source": "Hacker News",
+    "category": "科技",
+    "summary": "Article URL: https://ankitg.me/blog/vibecoding-inference-chip/\nComments URL: https://news.ycombinator.com/item?id=50579297\nPoints: 113\n# Comments: 40"
+  },
+  {
+    "title": "Unforced Navier-Stokes Singularity and the Generalized Riemann Hypothesis",
+    "link": "https://terrytao.wordpress.com/2026/11/20/unforced-euler-singularity-unforced-navier-stokes-singularity-and-the-generalized-riemann-hypothesis/",
+    "description": "Article URL: https://terrytao.wordpress.com/2026/11/20/unforced-euler-singularity-unforced-navier-stokes-singularity-and-the-generalized-riemann-hypothesis/\nComments URL: https://news.ycombinator.com/item?id=50578358\nPoints: 341\n# Comments: 141",
+    "pubDate": "Fri, 20 Nov 2026 17:21:36 +0000",
+    "source": "Hacker News",
+    "category": "科技",
+    "summary": "Article URL: https://terrytao.wordpress.com/2026/11/20/unforced-euler-singularity-unforced-navier-stokes-singularity-and-the-generalized-riemann-hypot"
+  },
+  {
+    "title": "I'm Peter Roberts, immigration attorney who does work for YC and startups. AMA",
+    "link": "https://news.ycombinator.com/item?id=50577613",
+    "description": "I'll be here for the rest of the day. As usual, there are countless possible topics and I'll be guided by whatever you're concerned with. Please remember that I can't provide legal advice on specific cases for obvious liability reasons because I won't have access to all the facts. Please stick to a factual discussion in your questions and comments and I'll try to do the same in my answers!Previous threads we've done: https://news.ycombinator.com/submitted?id=proberts.\n\nComments URL: https://news",
+    "pubDate": "Fri, 20 Nov 2026 16:45:25 +0000",
+    "source": "Hacker News",
+    "category": "科技",
+    "summary": "I'll be here for the rest of the day. As usual, there are countless possible topics and I'll be guided by whatever you're concerned with. Please remem"
+  },
+  {
+    "title": "Language Models Can Rewrite Their Own Weights",
+    "link": "https://arxiv.org/abs/2611.21885",
+    "description": "Article URL: https://arxiv.org/abs/2611.21885\nComments URL: https://news.ycombinator.com/item?id=50577265\nPoints: 340\n# Comments: 111",
+    "pubDate": "Fri, 20 Nov 2026 16:29:06 +0000",
+    "source": "Hacker News",
+    "category": "科技",
+    "summary": "Article URL: https://arxiv.org/abs/2611.21885\nComments URL: https://news.ycombinator.com/item?id=50577265\nPoints: 340\n# Comments: 111"
+  },
+  {
+    "title": "Finite-time blow-up for the Navier–Stokes equations",
+    "link": "https://github.com/tristanbuckmaster/navier-stokes/",
+    "description": "Article URL: https://github.com/tristanbuckmaster/navier-stokes/\nComments URL: https://news.ycombinator.com/item?id=50576232\nPoints: 258\n# Comments: 82",
+    "pubDate": "Fri, 20 Nov 2026 15:34:31 +0000",
+    "source": "Hacker News",
+    "category": "科技",
+    "summary": "Article URL: https://github.com/tristanbuckmaster/navier-stokes/\nComments URL: https://news.ycombinator.com/item?id=50576232\nPoints: 258\n# Comments: 8"
+  },
+  {
+    "title": "Experts warn: Nearly everyone in AI is susceptible to a honey-trap scheme right now",
+    "link": "https://techcrunch.com/2026/11/20/experts-warn-nearly-everyone-in-ai-is-susceptible-to-a-honey-trap-scheme-right-now/",
+    "description": "Techies are building technology that can advance all aspects of the world — but can they protect their hearts? That's the vulnerability that honey pots exploit.",
+    "pubDate": "Fri, 20 Nov 2026 20:58:29 +0000",
+    "source": "TechCrunch",
+    "category": "科技",
+    "summary": "Techies are building technology that can advance all aspects of the world — but can they protect their hearts? That's the vulnerability that honey pot"
+  },
+  {
+    "title": "Daniel Ek backs AI researcher&#8217;s fusion power startup. Here&#8217;s what they&#8217;re building.",
+    "link": "https://techcrunch.com/2026/11/20/daniel-ek-backs-ai-researchers-fusion-power-startup-heres-what-theyre-building/",
+    "description": "Spotify founder Daniel Ek is backing Europa Fusion, a fusion power startup founded by an AI researcher. Here's what the startup is building.",
+    "pubDate": "Fri, 20 Nov 2026 19:53:41 +0000",
+    "source": "TechCrunch",
+    "category": "科技",
+    "summary": "Spotify founder Daniel Ek is backing Europa Fusion, a fusion power startup founded by an AI researcher. Here's what the startup is building."
+  },
+  {
+    "title": "AI claimed a solution to the 167-year-old Riemann hypothesis — and a human did, too",
+    "link": "https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/",
+    "description": "Mathematicians are having their minds blown by the latest AI-driven result — and there's a competing human solution, too.",
+    "pubDate": "Fri, 20 Nov 2026 19:32:08 +0000",
+    "source": "TechCrunch",
+    "category": "科技",
+    "summary": "Mathematicians are having their minds blown by the latest AI-driven result — and there's a competing human solution, too."
+  },
+  {
+    "title": "Super-hot rock geothermal could end data center energy woes",
+    "link": "https://techcrunch.com/2026/11/20/super-hot-rock-geothermal-could-end-data-center-energy-woes/",
+    "description": "New geothermal startups are betting that they can leapfrog today's leaders to deliver terawatts of electricity nearly anywhere.",
+    "pubDate": "Fri, 20 Nov 2026 18:34:00 +0000",
+    "source": "TechCrunch",
+    "category": "科技",
+    "summary": "New geothermal startups are betting that they can leapfrog today's leaders to deliver terawatts of electricity nearly anywhere."
+  },
+  {
+    "title": "Chips can survive the space environment — can their financing?",
+    "link": "https://techcrunch.com/2026/11/20/chips-can-survive-the-space-environment-can-their-financing/",
+    "description": "Lenders don't want SpaceX shooting their collateral into orbit. What does that mean for space data centers writ large?",
+    "pubDate": "Fri, 20 Nov 2026 17:40:01 +0000",
+    "source": "TechCrunch",
+    "category": "科技",
+    "summary": "Lenders don't want SpaceX shooting their collateral into orbit. What does that mean for space data centers writ large?"
+  },
+  {
+    "title": "Bending Spoons buys Mailchimp for $3.68B",
+    "link": "https://techcrunch.com/2026/11/20/bending-spoons-buys-mailchimp-for-3-68-billion/",
+    "description": "Intuit acquired the company in 2021 for roughly $12 billion, so it looks like Bending Spoons is getting quite a bargain.",
+    "pubDate": "Fri, 20 Nov 2026 16:16:06 +0000",
+    "source": "TechCrunch",
+    "category": "科技",
+    "summary": "Intuit acquired the company in 2021 for roughly $12 billion, so it looks like Bending Spoons is getting quite a bargain."
+  },
+  {
+    "title": "A transcription firm used by police, prosecutors, and tech giants exposed customer data online",
+    "link": "https://techcrunch.com/2026/11/20/a-transcription-firm-used-by-police-prosecutors-and-tech-giants-exposed-customer-data-online/",
+    "description": "Exclusive: A simple security lapse exposed transcriptions of police interviews and bodycam footage on a cloud server without a password.",
+    "pubDate": "Fri, 20 Nov 2026 15:46:07 +0000",
+    "source": "TechCrunch",
+    "category": "科技",
+    "summary": "Exclusive: A simple security lapse exposed transcriptions of police interviews and bodycam footage on a cloud server without a password."
+  },
+  {
+    "title": "Six AI-powered gadgets that could make your home office smarter",
+    "link": "https://techcrunch.com/2026/11/20/6-ai-powered-gadgets-that-could-make-your-home-office-smarter/",
+    "description": "From notetakers to webcams, here are six AI-powered gadgets to upgrade your workspace.",
+    "pubDate": "Fri, 20 Nov 2026 14:00:00 +0000",
+    "source": "TechCrunch",
+    "category": "科技",
+    "summary": "From notetakers to webcams, here are six AI-powered gadgets to upgrade your workspace."
+  },
+  {
+    "title": "Behind Jensen Huang’s exit, questions about a management style reportedly built on fear",
+    "link": "https://techcrunch.com/2026/11/20/behind-jensen-huangs-exit-questions-about-a-management-style-reportedly-built-on-fear/",
+    "description": "Elon Musk may have been overstating it when he said Nvidia’s employees “love” the ousted Jensen Huang.",
+    "pubDate": "Fri, 20 Nov 2026 13:25:00 +0000",
+    "source": "TechCrunch",
+    "category": "科技",
+    "summary": "Elon Musk may have been overstating it when he said Nvidia’s employees “love” the ousted Jensen Huang."
+  },
+  {
+    "title": "California AG subpoenas Nvidia over worries about Huang&#8217;s ties with China",
+    "link": "https://techcrunch.com/2026/11/20/california-ag-subpoenas-nvidia-over-worries-about-huangs-ties-with-china/",
+    "description": "\"The conduct of Nvidia and its former CEO raises bright red flags, including about the ways in which the company may have misled investors,\" California AG Rob Bonta said.",
+    "pubDate": "Fri, 20 Nov 2026 13:21:11 +0000",
+    "source": "TechCrunch",
+    "category": "科技",
+    "summary": "\"The conduct of Nvidia and its former CEO raises bright red flags, including about the ways in which the company may have misled investors,\" Californi"
+  },
+  {
+    "title": "The US national cyber director is stepping down",
+    "link": "https://techcrunch.com/2026/11/20/the-u-s-national-cyber-director-is-stepping-down/",
+    "description": "The news comes as businesses across the country report a flurry of technical outages, the causes of which are still unknown.",
+    "pubDate": "Fri, 20 Nov 2026 09:14:19 +0000",
+    "source": "TechCrunch",
+    "category": "科技",
+    "summary": "The news comes as businesses across the country report a flurry of technical outages, the causes of which are still unknown."
+  },
+  {
+    "title": "Apple may be developing its own AI agent that runs your Mac",
+    "link": "https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/",
+    "description": "The iPhone maker appears to be building agents that can compete with the likes of Meta Muse, Instinct, Claude, and OpenAI Dots.",
+    "pubDate": "Fri, 20 Nov 2026 00:56:01 +0000",
+    "source": "TechCrunch",
+    "category": "科技",
+    "summary": "The iPhone maker appears to be building agents that can compete with the likes of Meta Muse, Instinct, Claude, and OpenAI Dots."
+  },
+  {
+    "title": "Anthropic&#8217;s 7 founders cashed out nearly $2B in record-breaking IPO",
+    "link": "https://techcrunch.com/2026/11/19/anthropics-7-founders-cashed-out-nearly-2b-in-record-breaking-ipo/",
+    "description": "At the upgraded $83/share IPO price, Anthropic's seven founders each pocketed $280 million, while the company nabbed nearly $105 billion.",
+    "pubDate": "Fri, 20 Nov 2026 00:43:50 +0000",
+    "source": "TechCrunch",
+    "category": "科技",
+    "summary": "At the upgraded $83/share IPO price, Anthropic's seven founders each pocketed $280 million, while the company nabbed nearly $105 billion."
+  },
+  {
+    "title": "Anthropic rival says companies can (mostly) skip the pricey models",
+    "link": "https://techcrunch.com/2026/11/19/anthropic-rival-says-companies-can-mostly-skip-the-pricey-models/",
+    "description": "On the day Anthropic went public, Fireworks AI’s co-founder made the case for open source models as a cheaper alternative, and addressed the breaches that have cost the company some customers’ trust.",
+    "pubDate": "Fri, 20 Nov 2026 00:26:03 +0000",
+    "source": "TechCrunch",
+    "category": "科技",
+    "summary": "On the day Anthropic went public, Fireworks AI’s co-founder made the case for open source models as a cheaper alternative, and addressed the breaches "
+  },
+  {
+    "title": "Elon Musk says SpaceX has a plan to eliminate cell phone dead zones",
+    "link": "https://techcrunch.com/2026/11/19/elon-musk-says-spacex-has-a-plan-to-eliminate-cell-phone-dead-zones/",
+    "description": "SpaceX CEO Elon Musk said the company has completed the design of a miniature rooftop cell tower that could provide better coverage to mobile phones and eliminate dead zones.",
+    "pubDate": "Thu, 19 Nov 2026 23:37:56 +0000",
+    "source": "TechCrunch",
+    "category": "科技",
+    "summary": "SpaceX CEO Elon Musk said the company has completed the design of a miniature rooftop cell tower that could provide better coverage to mobile phones a"
+  },
+  {
+    "title": "Want to see your live AI usage on your Mac&#8217;s icons? This clever new app lets you",
+    "link": "https://techcrunch.com/2026/11/19/want-to-see-your-live-ai-usage-on-your-macs-icons-this-clever-new-app-lets-you/",
+    "description": "IconSwapper brings your Mac's app icons to life with real-time data, animations, and playful customizations that make your desktop more fun.",
+    "pubDate": "Thu, 19 Nov 2026 22:33:26 +0000",
+    "source": "TechCrunch",
+    "category": "科技",
+    "summary": "IconSwapper brings your Mac's app icons to life with real-time data, animations, and playful customizations that make your desktop more fun."
+  },
+  {
+    "title": "Meta&#8217;s new Muse Charm device may cost $300",
+    "link": "https://techcrunch.com/2026/11/19/metas-new-muse-charm-device-may-cost-300/",
+    "description": "Meta hasn't denied the reporting from The Information, saying only that it will \"have more to share soon\" about its upcoming AI wearable.",
+    "pubDate": "Thu, 19 Nov 2026 21:58:06 +0000",
+    "source": "TechCrunch",
+    "category": "科技",
+    "summary": "Meta hasn't denied the reporting from The Information, saying only that it will \"have more to share soon\" about its upcoming AI wearable."
+  },
+  {
+    "title": "These tech outages are giving Y2K, AI agent style",
+    "link": "https://techcrunch.com/2026/11/19/these-tech-outages-are-giving-y2k-ai-agent-style/",
+    "description": "Are the recent outages in the airline booking systems, banking platforms, and productivity platforms really a coincidence? There's actually likely something deeper going on, cybersecurity experts say.",
+    "pubDate": "Thu, 19 Nov 2026 21:42:31 +0000",
+    "source": "TechCrunch",
+    "category": "科技",
+    "summary": "Are the recent outages in the airline booking systems, banking platforms, and productivity platforms really a coincidence? There's actually likely som"
+  },
+  {
+    "title": "Uber tests rides for kids as young as 10, with extra pay for drivers",
+    "link": "https://techcrunch.com/2026/11/19/uber-tests-rides-for-kids-as-young-as-10-with-extra-pay-for-drivers/",
+    "description": "Uber is testing the new program in three U.S. cities.",
+    "pubDate": "Thu, 19 Nov 2026 21:33:24 +0000",
+    "source": "TechCrunch",
+    "category": "科技",
+    "summary": "Uber is testing the new program in three U.S. cities."
+  },
+  {
+    "title": "The unfolding Jensen Huang scandal: a timeline",
+    "link": "https://techcrunch.com/2026/11/19/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+    "description": "Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
+    "pubDate": "Thu, 19 Nov 2026 20:18:49 +0000",
+    "source": "TechCrunch",
+    "category": "科技",
+    "summary": "Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop "
+  },
+  {
+    "title": "Trump FCC declares California isn&#039;t allowed to enforce phone service rules",
+    "link": "https://arstechnica.com/tech-policy/2026/11/fcc-orders-california-to-stop-enforcing-phone-service-rules-against-att/",
+    "description": "FCC preempts state rules that require AT&#038;T to keep offering home phone service.",
+    "pubDate": "Fri, 20 Nov 2026 22:28:24 +0000",
+    "source": "Ars Technica",
+    "category": "科技",
+    "summary": "FCC preempts state rules that require AT&#038;T to keep offering home phone service."
+  },
+  {
+    "title": "SpaceX&#039;s Starshield troubles in Ukraine could threaten its broader military business",
+    "link": "https://arstechnica.com/space/2026/11/incoming-house-chair-threatens-spacex-funding-over-ukraine-controversy/",
+    "description": "\"Explain the changes that were made to the Starshield service in October 2026.\"",
+    "pubDate": "Fri, 20 Nov 2026 22:16:51 +0000",
+    "source": "Ars Technica",
+    "category": "科技",
+    "summary": "\"Explain the changes that were made to the Starshield service in October 2026.\""
+  },
+  {
+    "title": "Google rolls out new search homepage with AI chat history and no search button",
+    "link": "https://arstechnica.com/ai/2026/11/googles-latest-search-page-redesign-drops-the-search-button-adds-ai-sidebar/",
+    "description": "Google search is making it even easier to access AI tools on the search page.",
+    "pubDate": "Fri, 20 Nov 2026 21:58:29 +0000",
+    "source": "Ars Technica",
+    "category": "科技",
+    "summary": "Google search is making it even easier to access AI tools on the search page."
+  },
+  {
+    "title": "Meta reconsiders 2030 net-zero goal amid record emissions from AI data centers",
+    "link": "https://arstechnica.com/ai/2026/11/meta-reconsiders-2030-net-zero-goal-amid-record-emissions-from-ai-data-centers/",
+    "description": "Meta is “re-evaluating” 2030 sustainability goals. Will others follow?",
+    "pubDate": "Fri, 20 Nov 2026 21:47:10 +0000",
+    "source": "Ars Technica",
+    "category": "科技",
+    "summary": "Meta is “re-evaluating” 2030 sustainability goals. Will others follow?"
+  },
+  {
+    "title": "Researcher plants 2m canaries into the AI supply chain. A privacy disaster surfaced.",
+    "link": "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/",
+    "description": "Test using prompts with unique, trackable secrets proves that data doesn't stay private.",
+    "pubDate": "Fri, 20 Nov 2026 20:59:08 +0000",
+    "source": "Ars Technica",
+    "category": "科技",
+    "summary": "Test using prompts with unique, trackable secrets proves that data doesn't stay private."
+  },
+  {
+    "title": "Watching as a giant star swallowed its neighbor and exploded",
+    "link": "https://arstechnica.com/science/2026/11/astronomers-watched-a-star-spiral-to-its-death-inside-a-giant-companion/",
+    "description": "A recent brightening turned out to be from a star orbiting inside another.",
+    "pubDate": "Fri, 20 Nov 2026 20:41:17 +0000",
+    "source": "Ars Technica",
+    "category": "科技",
+    "summary": "A recent brightening turned out to be from a star orbiting inside another."
+  },
+  {
+    "title": "NASA’s new Moon plan is taking shape, but some big questions remain",
+    "link": "https://arstechnica.com/space/2026/11/nasas-new-moon-plan-is-taking-shape-but-some-big-questions-remain/",
+    "description": "\"We tend to have a lot of technical discussion and debate. That point will continue to be debated.\"",
+    "pubDate": "Fri, 20 Nov 2026 20:26:33 +0000",
+    "source": "Ars Technica",
+    "category": "科技",
+    "summary": "\"We tend to have a lot of technical discussion and debate. That point will continue to be debated.\""
+  },
+  {
+    "title": "Prisons get OK to jam contraband phones. CTIA says nearby phones will be jammed too.",
+    "link": "https://arstechnica.com/tech-policy/2026/11/prisons-get-ok-to-jam-contraband-phones-ctia-says-nearby-phones-will-be-jammed-too/",
+    "description": "CTIA said jamming test showed \"interference... up to two and a half miles away.\"",
+    "pubDate": "Fri, 20 Nov 2026 19:52:59 +0000",
+    "source": "Ars Technica",
+    "category": "科技",
+    "summary": "CTIA said jamming test showed \"interference... up to two and a half miles away.\""
+  },
+  {
+    "title": "Army delays detonating \"catastrophically hazardous\" lead azide amid fear, anger",
+    "link": "https://arstechnica.com/science/2026/11/outrage-questions-swirl-as-army-delays-blowing-up-stockpile-of-toxic-lead-azide/",
+    "description": "Modeling predicts plume of neurotoxic lead could reach up to 100 miles away.",
+    "pubDate": "Fri, 20 Nov 2026 19:21:50 +0000",
+    "source": "Ars Technica",
+    "category": "科技",
+    "summary": "Modeling predicts plume of neurotoxic lead could reach up to 100 miles away."
+  },
+  {
+    "title": "Valve says it might have to raise the price of supply-limited Steam Machines",
+    "link": "https://arstechnica.com/gaming/2026/11/valve-says-it-might-have-to-raise-the-price-of-supply-limited-steam-machines/",
+    "description": "\"We don't yet know the number we are able to make, and at what price...\"",
+    "pubDate": "Fri, 20 Nov 2026 16:11:21 +0000",
+    "source": "Ars Technica",
+    "category": "科技",
+    "summary": "\"We don't yet know the number we are able to make, and at what price...\""
+  },
+  {
+    "title": "US will soon announce root cause behind FAA nationwide ground stop",
+    "link": "https://arstechnica.com/gadgets/2026/11/how-faa-can-modernize-us-national-airspace-system-without-emergency-ground-stops/",
+    "description": "Former FAA insider on reducing the risks of upgrading a decades-old network.",
+    "pubDate": "Fri, 20 Nov 2026 14:52:51 +0000",
+    "source": "Ars Technica",
+    "category": "科技",
+    "summary": "Former FAA insider on reducing the risks of upgrading a decades-old network."
+  },
+  {
+    "title": "SpaceX lenders don’t want Elon Musk launching their collateral into space",
+    "link": "https://arstechnica.com/space/2026/11/spacex-lenders-dont-want-elon-musk-launching-their-collateral-into-space/",
+    "description": "Bondholders want SpaceX’s valuable chip collateral kept on Earth and within reach.",
+    "pubDate": "Fri, 20 Nov 2026 14:15:21 +0000",
+    "source": "Ars Technica",
+    "category": "科技",
+    "summary": "Bondholders want SpaceX’s valuable chip collateral kept on Earth and within reach."
+  },
+  {
+    "title": "Rocket Report: A weekend of ups and downs; Stoke celebrates engine milestone",
+    "link": "https://arstechnica.com/space/2026/11/rocket-report-a-weekend-of-ups-and-downs-stoke-celebrates-engine-milestone/",
+    "description": "Russia launched a Soyuz rocket with satellites to help enable drone attacks over Ukraine.",
+    "pubDate": "Fri, 20 Nov 2026 13:35:45 +0000",
+    "source": "Ars Technica",
+    "category": "科技",
+    "summary": "Russia launched a Soyuz rocket with satellites to help enable drone attacks over Ukraine."
+  },
+  {
+    "title": "Only the Seminole Tribe can offer online gambling in Florida—and they&#039;re furious at DraftKings",
+    "link": "https://arstechnica.com/tech-policy/2026/11/seminole-tribe-tries-to-stop-draftkings-illegal-gambling-in-florida/",
+    "description": "Gambling? We're just swapping contracts!",
+    "pubDate": "Fri, 20 Nov 2026 12:30:29 +0000",
+    "source": "Ars Technica",
+    "category": "科技",
+    "summary": "Gambling? We're just swapping contracts!"
+  },
+  {
+    "title": "Science has a home here at Ars—please help keep it that way",
+    "link": "https://arstechnica.com/staff/2026/11/science-has-a-home-here-at-ars-please-help-keep-it-that-way/",
+    "description": "Your support for Ars matters more now than ever.",
+    "pubDate": "Fri, 20 Nov 2026 12:15:36 +0000",
+    "source": "Ars Technica",
+    "category": "科技",
+    "summary": "Your support for Ars matters more now than ever."
+  },
+  {
+    "title": "Trump admin still won&#039;t let Wi-Fi giant TP-Link sell its latest routers in US",
+    "link": "https://arstechnica.com/tech-policy/2026/11/trump-admin-still-wont-let-wi-fi-giant-tp-link-sell-its-latest-routers-in-us/",
+    "description": "TP-Link's struggle illustrates how Trump admin wields control over device makers.",
+    "pubDate": "Fri, 20 Nov 2026 12:00:43 +0000",
+    "source": "Ars Technica",
+    "category": "科技",
+    "summary": "TP-Link's struggle illustrates how Trump admin wields control over device makers."
+  },
+  {
+    "title": "Amazon fights the Delivery Protection Act with homepage banner, in-app pop-up",
+    "link": "https://arstechnica.com/tech-policy/2026/11/amazon-takes-its-fight-against-nyc-delivery-bill-to-shoppers-with-in-app-pop-up/",
+    "description": "Amazon now uses its shopping platform for political purposes.",
+    "pubDate": "Thu, 19 Nov 2026 22:16:37 +0000",
+    "source": "Ars Technica",
+    "category": "科技",
+    "summary": "Amazon now uses its shopping platform for political purposes."
+  },
+  {
+    "title": "MAHA PAC spent more on steak, luxury club than candidates, report shows",
+    "link": "https://arstechnica.com/health/2026/11/maha-pac-spent-more-on-steak-luxury-club-than-candidates-report-shows/",
+    "description": "Expert called MAHA's spending \"pretty unusual\" for a PAC.",
+    "pubDate": "Thu, 19 Nov 2026 21:19:12 +0000",
+    "source": "Ars Technica",
+    "category": "科技",
+    "summary": "Expert called MAHA's spending \"pretty unusual\" for a PAC."
+  },
+  {
+    "title": "Man hired by Russia spied on Silicon Valley tech and defense company, feds say",
+    "link": "https://arstechnica.com/security/2026/11/man-charged-with-spying-on-silicon-valley-tech-and-defense-company-for-russia/",
+    "description": "25-year-old accused of stalking employees at coffee shop and in an \"aggressive\" car pursuit.",
+    "pubDate": "Thu, 19 Nov 2026 20:29:46 +0000",
+    "source": "Ars Technica",
+    "category": "科技",
+    "summary": "25-year-old accused of stalking employees at coffee shop and in an \"aggressive\" car pursuit."
+  },
+  {
+    "title": "Traumatized teens sue school, cops after Doritos bag triggers AI gun alert",
+    "link": "https://arstechnica.com/tech-policy/2026/11/traumatized-teens-sue-school-cops-after-doritos-bag-triggers-ai-gun-alert/",
+    "description": "Lawsuit: Over 99% of school system’s AI gun alerts were false positives.",
+    "pubDate": "Thu, 19 Nov 2026 20:19:28 +0000",
+    "source": "Ars Technica",
+    "category": "科技",
+    "summary": "Lawsuit: Over 99% of school system’s AI gun alerts were false positives."
+  },
+  {
+    "title": "UK to explore even closer ties with EU after agreeing deal, says Burnham",
+    "link": "https://www.bbc.co.uk/news/articles/c6jreyqgw4e9o?at_medium=RSS&at_campaign=rss",
+    "description": "The UK-EU deal agreed on Friday covers British food exports, emissions trading and a youth experience scheme.",
+    "pubDate": "Fri, 20 Nov 2026 17:49:48 GMT",
+    "source": "BBC News",
+    "category": "综合",
+    "summary": "The UK-EU deal agreed on Friday covers British food exports, emissions trading and a youth experience scheme."
+  },
+  {
+    "title": "Faisal Islam: This cost-cutting UK-EU deal doesn't mean lower prices will follow",
+    "link": "https://www.bbc.co.uk/news/articles/cm1wr029evnqo?at_medium=RSS&at_campaign=rss",
+    "description": "The trade deal is unlikely lower food prices for shoppers, but should boost the economy more than other post-Brexit agreements.",
+    "pubDate": "Fri, 20 Nov 2026 16:41:52 GMT",
+    "source": "BBC News",
+    "category": "综合",
+    "summary": "The trade deal is unlikely lower food prices for shoppers, but should boost the economy more than other post-Brexit agreements."
+  },
+  {
+    "title": "Tech stock sell-off drags markets down as Anthropic shares slide",
+    "link": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss",
+    "description": "Pressures weighed on US markets, with the S&P 500 and the Dow Jones Industrial Average pushed into correction territory.",
+    "pubDate": "Fri, 20 Nov 2026 22:42:47 GMT",
+    "source": "BBC News",
+    "category": "综合",
+    "summary": "Pressures weighed on US markets, with the S&P 500 and the Dow Jones Industrial Average pushed into correction territory."
+  },
+  {
+    "title": "Man guilty of murdering woman he groomed on fetish site",
+    "link": "https://www.bbc.co.uk/news/articles/cmy49lekdkkzo?at_medium=RSS&at_campaign=rss",
+    "description": "Dwain Hall has been found guilty of the kidnap and first-degree murder of Sonia Exelby.",
+    "pubDate": "Fri, 20 Nov 2026 18:17:56 GMT",
+    "source": "BBC News",
+    "category": "综合",
+    "summary": "Dwain Hall has been found guilty of the kidnap and first-degree murder of Sonia Exelby."
+  },
+  {
+    "title": "Russian missile hits Poland as Kyiv's allies hold military exercise, says Tusk",
+    "link": "https://www.bbc.co.uk/news/articles/cqx2x9dklxnro?at_medium=RSS&at_campaign=rss",
+    "description": "Nobody was hurt and no damage has been reported, but Warsaw described the incident as a \"provocation\" from Moscow.",
+    "pubDate": "Fri, 20 Nov 2026 16:54:29 GMT",
+    "source": "BBC News",
+    "category": "综合",
+    "summary": "Nobody was hurt and no damage has been reported, but Warsaw described the incident as a \"provocation\" from Moscow."
+  },
+  {
+    "title": "What we know about the latest Russian missile strikes on Ukraine",
+    "link": "https://www.bbc.co.uk/news/videos/c65y19wy3xl8o?at_medium=RSS&at_campaign=rss",
+    "description": "Russia struck bridges and railway stations in the capital Kyiv in a major attack.",
+    "pubDate": "Fri, 20 Nov 2026 15:14:01 GMT",
+    "source": "BBC News",
+    "category": "综合",
+    "summary": "Russia struck bridges and railway stations in the capital Kyiv in a major attack."
+  },
+  {
+    "title": "Sales of baby sleeping bag halted by Next after new mum raises alarm",
+    "link": "https://www.bbc.co.uk/news/articles/cw9874p114dro?at_medium=RSS&at_campaign=rss",
+    "description": "The sleeping bag’s neck hole was far too big, meaning Emma's baby daughter could wriggle down and it could cover her face.",
+    "pubDate": "Sat, 21 Nov 2026 00:02:09 GMT",
+    "source": "BBC News",
+    "category": "综合",
+    "summary": "The sleeping bag’s neck hole was far too big, meaning Emma's baby daughter could wriggle down and it could cover her face."
+  },
+  {
+    "title": "Daniel Thomas jailed for 15 months for slashing dinghy",
+    "link": "https://www.bbc.co.uk/news/articles/c6lywjpn5levo?at_medium=RSS&at_campaign=rss",
+    "description": "A judge called the anti-migrant activist a “publicity seeker” who disrupted the work of rescue crews.",
+    "pubDate": "Fri, 20 Nov 2026 16:39:49 GMT",
+    "source": "BBC News",
+    "category": "综合",
+    "summary": "A judge called the anti-migrant activist a “publicity seeker” who disrupted the work of rescue crews."
+  },
+  {
+    "title": "Denmark accuses Russia of plotting to assassinate US-Ukrainian rapper",
+    "link": "https://www.bbc.co.uk/news/articles/cmde1lj4yjxno?at_medium=RSS&at_campaign=rss",
+    "description": "The Russian embassy in Denmark has denied the allegation, which has led to Russia's defence attaché being expelled.",
+    "pubDate": "Fri, 20 Nov 2026 21:57:07 GMT",
+    "source": "BBC News",
+    "category": "综合",
+    "summary": "The Russian embassy in Denmark has denied the allegation, which has led to Russia's defence attaché being expelled."
+  },
+  {
+    "title": "Trump threatens ban on US firms building AI data centres overseas",
+    "link": "https://www.bbc.co.uk/news/articles/cmde1lw9y54ko?at_medium=RSS&at_campaign=rss",
+    "description": "The US president provided little detail on the potential policy, saying others in his team were hearing about it for the first time.",
+    "pubDate": "Fri, 20 Nov 2026 20:54:12 GMT",
+    "source": "BBC News",
+    "category": "综合",
+    "summary": "The US president provided little detail on the potential policy, saying others in his team were hearing about it for the first time."
+  },
+  {
+    "title": "French police officers sentenced for beating of music producer Michel Zecler",
+    "link": "https://www.bbc.co.uk/news/articles/ck9d7e9wvvweo?at_medium=RSS&at_campaign=rss",
+    "description": "The court has upheld the 2020 beating of the black music producer as an aggravated circumstance of racism.",
+    "pubDate": "Fri, 20 Nov 2026 22:37:09 GMT",
+    "source": "BBC News",
+    "category": "综合",
+    "summary": "The court has upheld the 2020 beating of the black music producer as an aggravated circumstance of racism."
+  },
+  {
+    "title": "Who will be Robert Pattinson's 'Bond girl' - and does the role need to change?",
+    "link": "https://www.bbc.co.uk/news/articles/cr4g1l7x52jno?at_medium=RSS&at_campaign=rss",
+    "description": "Pattinson’s announcement as 007 has completely upped the game, and commentators say his leading lady will need a \"very strong identity\".",
+    "pubDate": "Sat, 21 Nov 2026 00:03:16 GMT",
+    "source": "BBC News",
+    "category": "综合",
+    "summary": "Pattinson’s announcement as 007 has completely upped the game, and commentators say his leading lady will need a \"very strong identity\"."
+  },
+  {
+    "title": "The Papers: 'Closest ties since Brexit' and 'Grand Theft EU'",
+    "link": "https://www.bbc.co.uk/news/articles/cw7829pl3xklo?at_medium=RSS&at_campaign=rss",
+    "description": "Saturday's front pages focus on a new deal agreed between the UK and EU in Brussels.",
+    "pubDate": "Sat, 21 Nov 2026 01:07:01 GMT",
+    "source": "BBC News",
+    "category": "综合",
+    "summary": "Saturday's front pages focus on a new deal agreed between the UK and EU in Brussels."
+  },
+  {
+    "title": "Can AI really help spot Black Friday deals? We put it to the test",
+    "link": "https://www.bbc.co.uk/news/articles/cw8dv4jmnle2o?at_medium=RSS&at_campaign=rss",
+    "description": "We put four AI models to the test to see if they could save us money on a new TV.",
+    "pubDate": "Sat, 21 Nov 2026 00:06:11 GMT",
+    "source": "BBC News",
+    "category": "综合",
+    "summary": "We put four AI models to the test to see if they could save us money on a new TV."
+  },
+  {
+    "title": "Phoebe Bridgers banned phones at her gigs, so fans are using art to remember them",
+    "link": "https://www.bbc.co.uk/news/articles/cq7821d0pv49o?at_medium=RSS&at_campaign=rss",
+    "description": "The American singer has brought in a no-phone policy for the shows, inspiring fans to explore their artistic talent.",
+    "pubDate": "Sat, 21 Nov 2026 00:08:19 GMT",
+    "source": "BBC News",
+    "category": "综合",
+    "summary": "The American singer has brought in a no-phone policy for the shows, inspiring fans to explore their artistic talent."
+  },
+  {
+    "title": "Dead pets were meant to be cremated - then their bodies appeared on a livestream",
+    "link": "https://www.bbc.co.uk/news/articles/cmn502ek17yvo?at_medium=RSS&at_campaign=rss",
+    "description": "Grieving Filipinos confront a distressing reality: their dogs and cats may not have received the send-off they paid for.",
+    "pubDate": "Fri, 20 Nov 2026 23:20:33 GMT",
+    "source": "BBC News",
+    "category": "综合",
+    "summary": "Grieving Filipinos confront a distressing reality: their dogs and cats may not have received the send-off they paid for."
+  },
+  {
+    "title": "What is the EU-UK youth experience scheme and when will it start?",
+    "link": "https://www.bbc.co.uk/news/articles/c6jeqv9nv5eqo?at_medium=RSS&at_campaign=rss",
+    "description": "The agreement will allow young people between 18 and 31 year-olds to travel, work or study in the EU for up to three years.",
+    "pubDate": "Fri, 20 Nov 2026 16:07:55 GMT",
+    "source": "BBC News",
+    "category": "综合",
+    "summary": "The agreement will allow young people between 18 and 31 year-olds to travel, work or study in the EU for up to three years."
+  },
+  {
+    "title": "They were fined $811m for conning detained migrants, but the scams didn't stop",
+    "link": "https://www.bbc.co.uk/news/articles/cqgm0zlkgrm2o?at_medium=RSS&at_campaign=rss",
+    "description": "How convicted fraudsters made millions from detained immigrants, evaded efforts to shut down their bail business and left migrants behind bars.",
+    "pubDate": "Sat, 21 Nov 2026 01:02:39 GMT",
+    "source": "BBC News",
+    "category": "综合",
+    "summary": "How convicted fraudsters made millions from detained immigrants, evaded efforts to shut down their bail business and left migrants behind bars."
+  },
+  {
+    "title": "What new UK-EU deal could mean for future post-Brexit relations",
+    "link": "https://www.bbc.co.uk/news/videos/c90k6gl3lyxeo?at_medium=RSS&at_campaign=rss",
+    "description": "The BBC's political and Europe editors analyse the new agreements between the UK and EU.",
+    "pubDate": "Fri, 20 Nov 2026 21:43:22 GMT",
+    "source": "BBC News",
+    "category": "综合",
+    "summary": "The BBC's political and Europe editors analyse the new agreements between the UK and EU."
+  },
+  {
+    "title": "'I was exhausted': Two days in the shoes of a tradwife",
+    "link": "https://www.bbc.co.uk/news/articles/cr0jxwd93y09o?at_medium=RSS&at_campaign=rss",
+    "description": "Writer and broadcaster Poppy Jay tries living as a British tradwife for a documentary, and speaks to BBC News.",
+    "pubDate": "Sat, 21 Nov 2026 00:29:00 GMT",
+    "source": "BBC News",
+    "category": "综合",
+    "summary": "Writer and broadcaster Poppy Jay tries living as a British tradwife for a documentary, and speaks to BBC News."
+  },
+  {
+    "title": "Villagers to vote on 'leaving UK' over plans to house migrants at RAF base",
+    "link": "https://www.bbc.co.uk/news/articles/cqn70v1p6ymlo?at_medium=RSS&at_campaign=rss",
+    "description": "Barnham is proposing breaking away from the UK in protest of plans to house migrants at RAF Barnham.",
+    "pubDate": "Sat, 21 Nov 2026 01:34:51 GMT",
+    "source": "BBC News",
+    "category": "综合",
+    "summary": "Barnham is proposing breaking away from the UK in protest of plans to house migrants at RAF Barnham."
+  },
+  {
+    "title": "Mamdani announces plan to close New York's Rikers Island jail by 2032",
+    "link": "https://www.bbc.co.uk/news/articles/cmjeqv89egylo?at_medium=RSS&at_campaign=rss",
+    "description": "Plans to shutter the troubled facility date back to 2019, when the city council first voted to close it but delays arose over where to place inmates.",
+    "pubDate": "Sat, 21 Nov 2026 00:01:39 GMT",
+    "source": "BBC News",
+    "category": "综合",
+    "summary": "Plans to shutter the troubled facility date back to 2019, when the city council first voted to close it but delays arose over where to place inmates."
+  },
+  {
+    "title": "Gérard Depardieu and French author investigated over sexual allegations",
+    "link": "https://www.bbc.co.uk/news/articles/c9ly43pj10mvo?at_medium=RSS&at_campaign=rss",
+    "description": "A judicial investigation was launched after a complaint was filed last year over \"allegations of a sexual nature\".",
+    "pubDate": "Fri, 20 Nov 2026 19:45:20 GMT",
+    "source": "BBC News",
+    "category": "综合",
+    "summary": "A judicial investigation was launched after a complaint was filed last year over \"allegations of a sexual nature\"."
+  },
+  {
+    "title": "Burnham rejects calls for devolution of powers in letter to Welsh FM",
+    "link": "https://www.bbc.co.uk/news/articles/ck9874vydr83o?at_medium=RSS&at_campaign=rss",
+    "description": "The prime minister says he is \"not persuaded\" by the argument that devolution would benefit Wales.",
+    "pubDate": "Fri, 20 Nov 2026 19:41:30 GMT",
+    "source": "BBC News",
+    "category": "综合",
+    "summary": "The prime minister says he is \"not persuaded\" by the argument that devolution would benefit Wales."
+  },
+  {
+    "title": "Man jailed for murder of woman drowned in Thames",
+    "link": "https://www.bbc.co.uk/news/articles/c67423wvdnpyo?at_medium=RSS&at_campaign=rss",
+    "description": "Nelio Gouveia, 45, is jailed for killing Jennifer Symonds, who drowned in the River Thames.",
+    "pubDate": "Fri, 20 Nov 2026 16:59:20 GMT",
+    "source": "BBC News",
+    "category": "综合",
+    "summary": "Nelio Gouveia, 45, is jailed for killing Jennifer Symonds, who drowned in the River Thames."
+  },
+  {
+    "title": "Download now",
+    "link": "https://www.bbc.co.uk/news/10628994?at_medium=RSS&at_campaign=rss",
+    "description": "Top stories, breaking news, live reporting, and follow news topics that match your interests",
+    "pubDate": "Wed, 30 Apr 2025 14:04:28 GMT",
+    "source": "BBC News",
+    "category": "综合",
+    "summary": "Top stories, breaking news, live reporting, and follow news topics that match your interests"
+  },
+  {
+    "title": "Thrilling dark comedy starring Blake Lively and Anna Kendrick",
+    "link": "https://www.bbc.co.uk/iplayer/episode/m000pbnd?at_mid=nQHTb1sAnD&at_campaign=A_Simple_Favour&at_medium=display_ad&at_campaign_type=owned&at_nation=NET&at_audience_id=SS&at_product=iplayer&at_brand=m000pbnd&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=A_Simple_Favour&at_bbc_team=BBC&at_creation=film",
+    "description": "Anna Kendrick stars. Every friendship has its secrets - some are worth dying for...",
+    "pubDate": "Tue, 31 Mar 2026 05:00:00 GMT",
+    "source": "BBC News",
+    "category": "综合",
+    "summary": "Anna Kendrick stars. Every friendship has its secrets - some are worth dying for..."
+  },
+  {
+    "title": "Price beats Kotaskova to become undisputed champion",
+    "link": "https://www.bbc.co.uk/sport/boxing/articles/cw808y2lrkzxo?at_medium=RSS&at_campaign=rss",
+    "description": "Lauren Price dominates Michaela Kotaskova to seal her place in history by becoming undisputed world welterweight champion.",
+    "pubDate": "Fri, 20 Nov 2026 23:30:56 GMT",
+    "source": "BBC News",
+    "category": "综合",
+    "summary": "Lauren Price dominates Michaela Kotaskova to seal her place in history by becoming undisputed world welterweight champion."
+  },
+  {
+    "title": "Cost of Man Utd hiring and firing managers nears £100m",
+    "link": "https://www.bbc.co.uk/sport/football/articles/cwd01n9z23x5o?at_medium=RSS&at_campaign=rss",
+    "description": "Manchester United borrowed £10m three days after confirming Mauricio Pochettino would be their new head coach, which will cost them £7.5m in compensation to US Soccer.",
+    "pubDate": "Fri, 20 Nov 2026 23:18:16 GMT",
+    "source": "BBC News",
+    "category": "综合",
+    "summary": "Manchester United borrowed £10m three days after confirming Mauricio Pochettino would be their new head coach, which will cost them £7.5m in compensat"
+  },
+  {
+    "title": "Stacked England aim to pile on style and add to All Black misery",
+    "link": "https://www.bbc.co.uk/sport/rugby-union/articles/cqrmgjpp0l48o?at_medium=RSS&at_campaign=rss",
+    "description": "England's easy-on-the-eye revival will be stress-tested by a New Zealand side under sudden pressure on Saturday",
+    "pubDate": "Fri, 20 Nov 2026 16:51:17 GMT",
+    "source": "BBC News",
+    "category": "综合",
+    "summary": "England's easy-on-the-eye revival will be stress-tested by a New Zealand side under sudden pressure on Saturday"
+  },
+  {
+    "title": "NFL great Brady could buy Chelsea stake",
+    "link": "https://www.bbc.co.uk/sport/football/articles/cmg46k97k92do?at_medium=RSS&at_campaign=rss",
+    "description": "American football great Tom Brady is looking to invest in Chelsea through ownership group Clearlake Capital.",
+    "pubDate": "Fri, 20 Nov 2026 22:36:35 GMT",
+    "source": "BBC News",
+    "category": "综合",
+    "summary": "American football great Tom Brady is looking to invest in Chelsea through ownership group Clearlake Capital."
+  },
+  {
+    "title": "Price survives match darts to reach Grand Slam semis",
+    "link": "https://www.bbc.co.uk/sport/darts/articles/ck7928yjd1dgo?at_medium=RSS&at_campaign=rss",
+    "description": "Gerwyn Price faces two match darts before winning a thrilling quarter-final against Nico Springer at the Grand Slam of Darts, as Luke Littler's conqueror Jermaine Wattimena is knocked out.",
+    "pubDate": "Fri, 20 Nov 2026 22:30:34 GMT",
+    "source": "BBC News",
+    "category": "综合",
+    "summary": "Gerwyn Price faces two match darts before winning a thrilling quarter-final against Nico Springer at the Grand Slam of Darts, as Luke Littler's conque"
+  },
+  {
+    "title": "California’s coastal communities on alert as biggest waves in years hit state",
+    "link": "https://www.theguardian.com/us-news/2026/nov/20/california-coastal-communities-alert-big-waves-hit-state",
+    "description": "Hazard warnings issued throughout week after powerful swells and waves of more than 9 metres recordedMultiple coastal hazard warnings were issued this week across California as successive areas of low pressure generated powerful swells and large breaking waves for coastal communities. Beaches and piers were closed last weekend as large waves crashed into California’s coastline. Offshore National Oceanic and Atmospheric Administration buoys recorded wave heights of greater than 30ft (9 metres) la",
+    "pubDate": "Fri, 20 Nov 2026 09:03:20 GMT",
+    "source": "卫报",
+    "category": "综合",
+    "summary": "Hazard warnings issued throughout week after powerful swells and waves of more than 9 metres recordedMultiple coastal hazard warnings were issued this"
+  },
+  {
+    "title": "Race to replant five South African baobabs after export blocked",
+    "link": "https://www.theguardian.com/environment/2026/nov/19/baobab-five-trees-south-africa-dug-up-export-blocked-georgia-aoe",
+    "description": "The trees, intended for an unnamed buyer in Georgia, were reportedly dug up without the necessary permitsEnvironmentalists in South Africa are racing to replant five centuries-old baobabs after the 20-tonne trees were dug up by an exporter, who tried to ship them thousands of miles to Georgia.The baobabs arrived at a reserve in Timbavati, in north-eastern South Africa, on Wednesday, where they will be replanted and supported by cables to help them recover. The trees had been stranded at a wareho",
+    "pubDate": "Thu, 19 Nov 2026 11:03:24 GMT",
+    "source": "卫报",
+    "category": "综合",
+    "summary": "The trees, intended for an unnamed buyer in Georgia, were reportedly dug up without the necessary permitsEnvironmentalists in South Africa are racing "
+  },
+  {
+    "title": "One in four women globally unable to refuse sex within marriage, says UN",
+    "link": "https://www.theguardian.com/global-development/2026/nov/19/women-girls-rights-rape-sexual-violence-africa-marriage-unfpa",
+    "description": "Almost half of women in west and central Africa cannot withhold consent, with girls worst affected, UNFPA findsOne in four women around the world have no power of consent if their husband or partner demands sex, according to a UN report.In west and central Africa, almost half of women (45%) are not able to say no in their own marriage, while a third of women (33%) in east and southern Africa and in Arab states face the same predicament. In Latin America and the Caribbean, one in 10 women are not",
+    "pubDate": "Thu, 19 Nov 2026 04:00:16 GMT",
+    "source": "卫报",
+    "category": "综合",
+    "summary": "Almost half of women in west and central Africa cannot withhold consent, with girls worst affected, UNFPA findsOne in four women around the world have"
+  },
+  {
+    "title": "Fears grow that US will put Nobel-winning judge under sanctions after Myanmar genocide ruling",
+    "link": "https://www.theguardian.com/world/2026/nov/18/us-sanctions-icj-judges-myanmar-genocide-ruling-israel-gaza-court",
+    "description": "A ruling against Myanmar could set precedent for court’s judgment on Israel’s actions in GazaFears are growing that the US could impose sanctions on judges at the international court of justice, including this year’s Nobel peace prize winner, Navi Pillay, if the court rules on Thursday that the Myanmar government committed genocide against the Rohingya.The ICJ has never found a state responsible for committing genocide, and a significant factor in previous cases has been how to prove “intent” in",
+    "pubDate": "Wed, 18 Nov 2026 09:58:28 GMT",
+    "source": "卫报",
+    "category": "综合",
+    "summary": "A ruling against Myanmar could set precedent for court’s judgment on Israel’s actions in GazaFears are growing that the US could impose sanctions on j"
+  },
+  {
+    "title": "European Commission accused of sugarcoating figures to release funds to Egypt",
+    "link": "https://www.theguardian.com/world/2026/nov/18/european-commission-accused-sugarcoating-figures-egypt-loans",
+    "description": "Leaked documents raise questions about claims Egypt met welfare targets to qualify for €2.5bn in loansThe European Commission has been accused of sugarcoating figures to enable it to release funds to Egypt under a landmark pact with the authoritarian government of Abdel Fatah al-Sisi.The charge relates to a €7.4bn deal promised by Ursula von der Leyen, the European Commission president, to al-Sisi on a high-profile visit to Cairo in 2024. The three-year “strategic and comprehensive partnership” ",
+    "pubDate": "Wed, 18 Nov 2026 05:00:32 GMT",
+    "source": "卫报",
+    "category": "综合",
+    "summary": "Leaked documents raise questions about claims Egypt met welfare targets to qualify for €2.5bn in loansThe European Commission has been accused of suga"
+  },
+  {
+    "title": "‘Weak and dizzy’: the secretive ICE force-feeding tactics that ended a Cuban father’s hunger strike",
+    "link": "https://www.theguardian.com/us-news/2026/nov/20/ice-cuba-hunger-strike-force-feeding",
+    "description": "Exclusive: Luis Alejandro Cora Pérez says in messages to Guardian from inside Texas facility pain of force-feeding caused him to break strikeThe text message that came from inside the Immigration and Customs Enforcement (ICE) detention center was stark: “I have spent five days eating regular food. If I don’t eat it, they put the tube in me to feed me.”A Cuban asylum seeker, Luis Alejandro Cora Pérez, 32, said in messages to the Guardian this month that he was still weak and dizzy after three mon",
+    "pubDate": "Fri, 20 Nov 2026 11:00:31 GMT",
+    "source": "卫报",
+    "category": "综合",
+    "summary": "Exclusive: Luis Alejandro Cora Pérez says in messages to Guardian from inside Texas facility pain of force-feeding caused him to break strikeThe text "
+  },
+  {
+    "title": "Race to be next UN secretary general exposes divisions among world powers",
+    "link": "https://www.theguardian.com/world/2026/nov/20/race-to-be-next-un-secretary-general-exposes-divisions-among-world-powers",
+    "description": "Debate about dominance of permanent five members could reignite if major powers block Costa Rican frontrunnerThe race to become the next UN secretary general could reach a decisive moment on Friday when a UN security council vote is likely to reveal whether the Costa Rican frontrunner for the post would be blocked by the big powers. If so, the setback will reignite a debate about the dominance of the permanent five (P5) members at the United Nations.Rebeca Grynspan, an economist and UN insider w",
+    "pubDate": "Fri, 20 Nov 2026 05:00:24 GMT",
+    "source": "卫报",
+    "category": "综合",
+    "summary": "Debate about dominance of permanent five members could reignite if major powers block Costa Rican frontrunnerThe race to become the next UN secretary "
+  },
+  {
+    "title": "Florida pastor found guilty over 2021 assassination of Haitian president",
+    "link": "https://www.theguardian.com/us-news/2026/nov/18/florida-pastor-guilty-haiti-president-assassination",
+    "description": "Christian Emmanuel Sanon faces life in prison after conviction on charges arising from killing of Jovenel MoïseA Florida pastor with dual Haitian-American citizenship was convicted on Wednesday of US charges arising from the 2021 assassination of the Haitian president Jovenel Moïse.Christian Emmanuel Sanon was found guilty on charges including conspiring to kill Moïse after a nearly eight-week trial in federal court in Miami. He had faced a total of eight charges including conspiracy to kidnap o",
+    "pubDate": "Wed, 18 Nov 2026 22:31:41 GMT",
+    "source": "卫报",
+    "category": "综合",
+    "summary": "Christian Emmanuel Sanon faces life in prison after conviction on charges arising from killing of Jovenel MoïseA Florida pastor with dual Haitian-Amer"
+  },
+  {
+    "title": "Hegseth uses Venezuela visit to boast of Maduro’s capture by US military",
+    "link": "https://www.theguardian.com/world/2026/nov/18/pete-hegseth-venezuela-nicolas-maduro-military",
+    "description": "Defense secretary asserts US dominance on trip that would have seemed ‘impossible, almost unbelievable’ a year agoPete Hegseth has used his first visit to Venezuela since US special forces abducted its former president, Nicolás Maduro, to boast of the dictator’s capture during what he called “the single most sophisticated military operation in the history of Latin America”.Maduro was controversially seized by Delta Force operatives in the early hours of 3 January, setting in motion an improbable",
+    "pubDate": "Wed, 18 Nov 2026 20:24:19 GMT",
+    "source": "卫报",
+    "category": "综合",
+    "summary": "Defense secretary asserts US dominance on trip that would have seemed ‘impossible, almost unbelievable’ a year agoPete Hegseth has used his first visi"
+  },
+  {
+    "title": "Caribbean nations fear economic impact of shuttering citizenship program after EU threats",
+    "link": "https://www.theguardian.com/world/2026/nov/17/st-kitts-nevis-citizenship-investment",
+    "description": "St Kitts and Nevis to wind down citizenship-by-investment program after EU warns of end to visa-free accessThe decision by St Kitts and Nevis to end a lucrative programme offering citizenship to wealthy foreigners in exchange for investment threatens its economy and ability to support people in need, the premier of the island of Nevis has warned.On Friday, Terrance Drew, the prime minister of the twin-island Caribbean nation, announced he would wind down the citizenship-by-investment (CBI) progr",
+    "pubDate": "Tue, 17 Nov 2026 21:49:29 GMT",
+    "source": "卫报",
+    "category": "综合",
+    "summary": "St Kitts and Nevis to wind down citizenship-by-investment program after EU warns of end to visa-free accessThe decision by St Kitts and Nevis to end a"
+  },
+  {
+    "title": "Trump threatens ‘tremendous penalties’ for US tech firms that build datacenters abroad",
+    "link": "https://www.theguardian.com/us-news/2026/nov/20/trump-datacenters-white-house",
+    "description": "President gives wide-ranging White House press conference and says he has ‘fantastic relationships’ with Putin and XiDonald Trump threatened on Friday to impose “tremendous penalties” on American tech companies that build datacenters outside the US, though he gave no details and told reporters he had not yet informed his own officials about the plan.In a discursive press conference from the White House briefing room, Trump also said he would “look into” the report that Iran had been planning to ",
+    "pubDate": "Fri, 20 Nov 2026 21:47:41 GMT",
+    "source": "卫报",
+    "category": "综合",
+    "summary": "President gives wide-ranging White House press conference and says he has ‘fantastic relationships’ with Putin and XiDonald Trump threatened on Friday"
+  },
+  {
+    "title": "Nasdaq erases all 2026 gains as AI sell-off dampens Anthropic’s second day of trading",
+    "link": "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off",
+    "description": "The Nasdaq lost trillions in value, with the AI startup’s IPO failing to buoy it as investors question huge sums being poured into AI buildoutWho are Anthropic’s seven co-founders, now worth $180bn?As Anthropic’s stock dropped during its second day of trading, the wider stock market dipped with it. On Friday, the Nasdaq Composite erased all its gains for 2026 and closed down 5% from its value on 1 January. The Dow Jones Industrial Average and S&amp;P 500 closed in correction territory.Anthropic’",
+    "pubDate": "Fri, 20 Nov 2026 21:38:17 GMT",
+    "source": "卫报",
+    "category": "综合",
+    "summary": "The Nasdaq lost trillions in value, with the AI startup’s IPO failing to buoy it as investors question huge sums being poured into AI buildoutWho are "
+  },
+  {
+    "title": "California investigates Nvidia over whether chip exports ended up in China",
+    "link": "https://www.theguardian.com/technology/2026/nov/20/california-investigates-nvidia-over-whether-chip-exports-ended-up-in-china",
+    "description": "State attorney says scandal ‘raises bright red flags’ and aims to find out if company misled investorsCalifornia has served an investigative subpoena on Nvidia after a scandal that prompted the departure of co-founder and longtime chief executive Jensen Huang.Rob Bonta, the US state’s attorney general, issued the subpoena as part of an investigation into whether exports of the California-based company’s advanced semiconductor chips ended up in China, contravening US restrictions. Continue readin",
+    "pubDate": "Fri, 20 Nov 2026 09:18:30 GMT",
+    "source": "卫报",
+    "category": "综合",
+    "summary": "State attorney says scandal ‘raises bright red flags’ and aims to find out if company misled investorsCalifornia has served an investigative subpoena "
+  },
+  {
+    "title": "China, Russia and US agree peace declaration with no mention of Ukraine and Iran wars",
+    "link": "https://www.theguardian.com/world/2026/nov/19/china-russia-us-agree-peace-statement-no-mention-ukraine-iran-wars",
+    "description": "Xi, Putin and Trump outline priorities that include UN reform, boosting oil supplies and ‘protection of diplomatic immunity’China, Russia and the US say they have agreed a peace statement after an unprecedented trilateral summit, but the declaration made no mention of the wars in Ukraine and Iran caused by two of the participants.The declaration on Thursday also outlined a set of priorities that included changing the UN, boosting oil supplies and what it said was the protection of diplomatic imm",
+    "pubDate": "Thu, 19 Nov 2026 17:13:23 GMT",
+    "source": "卫报",
+    "category": "综合",
+    "summary": "Xi, Putin and Trump outline priorities that include UN reform, boosting oil supplies and ‘protection of diplomatic immunity’China, Russia and the US s"
+  },
+  {
+    "title": "Trump accused of falling asleep during Xi Jinping speech at Apec summit in China",
+    "link": "https://www.theguardian.com/us-news/2026/nov/19/trump-apec-asleep-china",
+    "description": "US president appeared to doze off while Chinese leader made speech, but White House insisted he was awakeDonald Trump was, again, accused of falling asleep during a televised event, this time during the speech of the Chinese president, Xi Jinping, at the Asia-Pacific Economic Cooperation (Apec) summit in China.The US president appeared to close his eyes for roughly 10 seconds on Thursday. As his eyes closed, Trump’s head tilted downward, and his hands remained clasped in front of him. Continue r",
+    "pubDate": "Thu, 19 Nov 2026 17:12:11 GMT",
+    "source": "卫报",
+    "category": "综合",
+    "summary": "US president appeared to doze off while Chinese leader made speech, but White House insisted he was awakeDonald Trump was, again, accused of falling a"
+  },
+  {
+    "title": "Victorian Greens seek urgent injunction over how-to-vote cards mimicking party’s branding but preferencing it last",
+    "link": "https://www.theguardian.com/australia-news/2026/nov/21/victorian-greens-seek-urgent-injunction-over-how-to-vote-cards-mimicking-branding-but-preferencing-it-last-ntwnfb",
+    "description": "Exclusive: Independent candidate Tosh-Jake Finnigan’s cards instruct people to vote in a way that would benefit Liberal partyGet our daily political email, free app or daily news podcastThe Victorian Greens are seeking an urgent injunction from the supreme court to stop an independent candidate distributing how-to-vote cards that allegedly mimic the party’s branding and urge people to preference it last.As prepoll opened on Wednesday morning, Tosh-Jake Finnigan’s campaign team handed out how-to-",
+    "pubDate": "Sat, 21 Nov 2026 00:26:56 GMT",
+    "source": "卫报",
+    "category": "综合",
+    "summary": "Exclusive: Independent candidate Tosh-Jake Finnigan’s cards instruct people to vote in a way that would benefit Liberal partyGet our daily political e"
+  },
+  {
+    "title": "NSW passes Mount Pleasant coalmine law as Greens claim change an attempt to head off One Nation",
+    "link": "https://www.theguardian.com/australia-news/2026/nov/21/nsw-passes-hunter-valley-coalmine-law-as-greens-claim-change-an-attempt-to-head-off-one-nation-ntwnfb",
+    "description": "Labor says allowing mine to increase production reflects ‘gravity of situation facing hundreds of workers’ – but critics call it ‘unprecedented and dangerous’Get our breaking news email, free app or daily news podcastThe New South Wales government has passed special legislation to allow a coalmine in the Hunter Valley to increase production by 32% in its final act of parliament before the March state election, in which the region will be a key battleground for One Nation.After a marathon session",
+    "pubDate": "Fri, 20 Nov 2026 23:09:57 GMT",
+    "source": "卫报",
+    "category": "综合",
+    "summary": "Labor says allowing mine to increase production reflects ‘gravity of situation facing hundreds of workers’ – but critics call it ‘unprecedented and da"
+  },
+  {
+    "title": "As the Coalition stares down One Nation in NSW, a new threat is rising: the teals",
+    "link": "https://www.theguardian.com/australia-news/2026/nov/21/coalition-one-nation-teals-new-threat-sydney",
+    "description": "The opposition’s struggle is creating an opportunity for progressive independents who are boosted by shrewd political operator Chris MinnsGet our daily political email, free app or daily news podcastThe New South Wales Coalition is facing a renewed threat to its heartland seats on Sydney’s north shore.This time, the threat is from independent candidates – and they’re backed by the same community activists who put a swathe of teal independents into federal parliament. Continue reading...",
+    "pubDate": "Fri, 20 Nov 2026 14:00:32 GMT",
+    "source": "卫报",
+    "category": "综合",
+    "summary": "The opposition’s struggle is creating an opportunity for progressive independents who are boosted by shrewd political operator Chris MinnsGet our dail"
+  },
+  {
+    "title": "Vape users hospitalised after losing consciousness, prompting public health warning in New South Wales",
+    "link": "https://www.theguardian.com/australia-news/2026/nov/20/vape-users-hospitalised-after-losing-consciousness-prompting-public-health-warning-in-new-south-wales",
+    "description": "Testing confirms presence of etomidate, a strong and fast-acting sedative used as a general anaesthetic overseas but not registered for medical use in AustraliaGet our breaking news email, free app or daily news podcastThree people who lost consciousness and were hospitalised in New South Wales after using certain vapes have tested positive for the unregulated anaesthetic agent etomidate, health officials said.NSW health on Friday issued a public warning about vape liquids containing etomidate, ",
+    "pubDate": "Fri, 20 Nov 2026 07:17:01 GMT",
+    "source": "卫报",
+    "category": "综合",
+    "summary": "Testing confirms presence of etomidate, a strong and fast-acting sedative used as a general anaesthetic overseas but not registered for medical use in"
+  },
+  {
+    "title": "Baby born with heart abnormalities ‘didn’t have a chance’ after non-medical free birth, NSW inquest hears",
+    "link": "https://www.theguardian.com/australia-news/2026/nov/20/routine-checks-may-have-saved-babies-lives-freebirth-inquest-nsw-ntwnfb",
+    "description": "Inquest into the deaths of four babies after free and home births hears routine checks and follow-up may have saved their livesGet our breaking news email, free app or daily news podcastFour babies who died in New South Wales – three after free births and one after a home birth – might have survived if they had had routine checks and follow-up , a coronial inquest has heard.Baby DH, Baby D, Baby R, and Baby B died in the state’s northern rivers region between 2022 and 2024. Continue reading...",
+    "pubDate": "Fri, 20 Nov 2026 06:51:54 GMT",
+    "source": "卫报",
+    "category": "综合",
+    "summary": "Inquest into the deaths of four babies after free and home births hears routine checks and follow-up may have saved their livesGet our breaking news e"
+  },
+  {
+    "title": "French police officers found guilty of racist assault on black music producer",
+    "link": "https://www.theguardian.com/world/2026/nov/20/french-police-officers-found-guilty-of-racist-assault-on-black-music-producer",
+    "description": "Beating of Michel Zecler in 2020 sparked outrage over police brutality after it was caught on security camerasThree French police officers who beat a black music producer they said was not wearing a face mask during the Covid pandemic have been found guilty of intentional, racist violence.The brutal assault on Michel Zecler, now 47, was caught on security cameras in his building in 2020 and triggered outrage in France over police brutality. The trial this month was considered a turning point for",
+    "pubDate": "Fri, 20 Nov 2026 22:23:53 GMT",
+    "source": "卫报",
+    "category": "综合",
+    "summary": "Beating of Michel Zecler in 2020 sparked outrage over police brutality after it was caught on security camerasThree French police officers who beat a "
+  },
+  {
+    "title": "Spain frees wealthy US-sought activist on bail as Irish police raid Dublin home",
+    "link": "https://www.theguardian.com/world/2026/nov/20/james-fergie-chambers-bail-spain",
+    "description": "Pro-Palestinian donor James ‘Fergie’ Chambers released as court considers extradition requestIn a blur of events surrounding the Trump administration’s effort to extradite James “Fergie” Chambers, Spain released the wealthy US activist and donor on bail even as Irish police raided a Dublin house owned by Chambers and his partner, Stella Schnabel, acting on a request from US authorities.Chambers’s case is the first known instance of the US seeking to extradite a citizen over alleged support for H",
+    "pubDate": "Fri, 20 Nov 2026 18:34:13 GMT",
+    "source": "卫报",
+    "category": "综合",
+    "summary": "Pro-Palestinian donor James ‘Fergie’ Chambers released as court considers extradition requestIn a blur of events surrounding the Trump administration’"
+  },
+  {
+    "title": "Misty-eyed Burnham gambles on closer ties with EU as he throws down gauntlet to Tories and Reform",
+    "link": "https://www.theguardian.com/politics/2026/nov/20/andy-burnham-uk-eu-brussels-summit",
+    "description": "PM challenges rivals to rebuff plan he says could add 0.5% annual growth to economy and offer young people hopeSeveral sentences into a slightly convoluted answer about where UK-EU relations might go next, Andy Burnham abruptly changed tack. “The important point is that the Britain of today and the EU of today is not the one of 2016,” he said. “Life has moved on in so many ways.”This is undoubtedly true. But Burnham’s political gamble on closer ties with Brussels hinges on the assumption that mo",
+    "pubDate": "Fri, 20 Nov 2026 18:22:50 GMT",
+    "source": "卫报",
+    "category": "综合",
+    "summary": "PM challenges rivals to rebuff plan he says could add 0.5% annual growth to economy and offer young people hopeSeveral sentences into a slightly convo"
+  },
+  {
+    "title": "Denmark to expel Russian diplomat over alleged Moscow link to attempted killing of rapper",
+    "link": "https://www.theguardian.com/world/2026/nov/20/denmark-russian-diplomat-us-ukrainian-rapper-attempted-killing",
+    "description": "Russian intelligence thought to be behind plan to kill US-Ukrainian musician Kyivstoner before concert in DenmarkDenmark’s foreign minister has said Russia’s defence attache in Copenhagen would be expelled after Moscow was suspected of being behind an attempted killing of a US-Ukrainian rapper.“We have just summoned the Russian ambassador to the ministry of foreign affairs and notified him of the government’s decision to expel the Russian defence attache from Denmark,”, Lars Løkke Rasmussen told",
+    "pubDate": "Fri, 20 Nov 2026 18:16:12 GMT",
+    "source": "卫报",
+    "category": "综合",
+    "summary": "Russian intelligence thought to be behind plan to kill US-Ukrainian musician Kyivstoner before concert in DenmarkDenmark’s foreign minister has said R"
+  },
+  {
+    "title": "EU wants ‘closest possible relationship’ with UK after agreeing Brexit reset deal – live",
+    "link": "https://www.theguardian.com/world/live/2026/nov/20/uk-eu-european-union-brexit-deal-andy-burnham-latest-news-updates",
+    "description": "President of European Council says EU ‘remains open to have the closest possible relationship’ with the UKSenior correspondent\n \n \n Making today’s reset deal contingent on a further agreement on the level of tuition fees for EU citizens is designed to neutralise the leverage London gets in the next six months, EU sources have said.\n \n \n Senior diplomats had already confirmed this week that the EU would defer the deal on the level of tuition fees for another six months, a move designed to give th",
+    "pubDate": "Fri, 20 Nov 2026 17:59:55 GMT",
+    "source": "卫报",
+    "category": "综合",
+    "summary": "President of European Council says EU ‘remains open to have the closest possible relationship’ with the UKSenior correspondent\n \n \n Making today’s res"
+  },
+  {
+    "title": "Iraq university’s removal of male professors teaching women sparks weeks of protests",
+    "link": "https://www.theguardian.com/global-development/2026/nov/20/iraqi-university-ban-men-teaching-women-protests",
+    "description": "Al-Qadisiyah University’s move a sign of the country’s slide into a Taliban-like gender segregation, say activistsThe removal of male professors teaching female students at a university in southern Iraq has sparked protests and been criticised by activists as a Taliban-like gender segregation policy.As many as 400 women are estimated to have joined protests over the past two weeks calling for the return of their professors at Al-Qadisiyah University in a move that appears to have surprised its a",
+    "pubDate": "Fri, 20 Nov 2026 05:00:23 GMT",
+    "source": "卫报",
+    "category": "综合",
+    "summary": "Al-Qadisiyah University’s move a sign of the country’s slide into a Taliban-like gender segregation, say activistsThe removal of male professors teach"
+  },
+  {
+    "title": "Myanmar ruling gives new relevance to genocide convention and is ‘full of messages’ for Israel",
+    "link": "https://www.theguardian.com/law/2026/nov/19/myanmar-ruling-new-relevance-genocide-convention-messages-israel",
+    "description": "Hailed as ‘a rare moment of justice’, judges’ decision sets out a roadmap for assessing the question of intentThe international court of justice (ICJ) verdict making Myanmar the first country in history to be found guilty of committing genocide does not just deliver justice for Rohingya victims. It also gives the 1948 genocide convention new relevance in governing the actions of nation states.In their nine votes to six majority ruling, the panel of judges in The Hague set out a detailed roadmap ",
+    "pubDate": "Thu, 19 Nov 2026 17:14:55 GMT",
+    "source": "卫报",
+    "category": "综合",
+    "summary": "Hailed as ‘a rare moment of justice’, judges’ decision sets out a roadmap for assessing the question of intentThe international court of justice (ICJ)"
+  },
+  {
+    "title": "Israeli tanks cross ‘yellow line’ boundary into Hamas-controlled central Gaza",
+    "link": "https://www.theguardian.com/world/2026/nov/18/israeli-tanks-cross-yellow-line-boundary-into-hamas-controlled-central-gaza",
+    "description": "First incursion across boundary since ceasefire deal comes as Eisenkot seeks to form government without NetanyahuThe Israeli military crossed into Hamas-controlled central Gaza on Wednesday in its first ground operation across the “yellow line” boundary since a fragile ceasefire was agreed last October, forcing dozens of displaced Palestinians to flee their tents.Israeli tanks rolled along the Salah al-Din road, Gaza’s main north-south route, a day after the US-backed Board of Peace, a body over",
+    "pubDate": "Thu, 19 Nov 2026 12:40:46 GMT",
+    "source": "卫报",
+    "category": "综合",
+    "summary": "First incursion across boundary since ceasefire deal comes as Eisenkot seeks to form government without NetanyahuThe Israeli military crossed into Ham"
+  },
+  {
+    "title": "Eight injured after driver in Israel repeatedly rams car into Palestinians",
+    "link": "https://www.theguardian.com/world/2026/nov/19/car-rams-into-palestinian-residents-four-times-in-israeli-city-kafr-qasim",
+    "description": "Arab MPs accuse politicians of fuelling hostility as footage shows driver accelerating towards Palestinians at four locations in Kafr QasimEight people were injured on Wednesday evening when a driver struck Palestinian residents at four separate locations in Kafr Qasim, a city in central Israel.Footage shared on social media appears to show the car accelerating towards people, all Palestinians, at several locations in the city, striking them before driving away. Three of those injured were in mo",
+    "pubDate": "Thu, 19 Nov 2026 12:36:37 GMT",
+    "source": "卫报",
+    "category": "综合",
+    "summary": "Arab MPs accuse politicians of fuelling hostility as footage shows driver accelerating towards Palestinians at four locations in Kafr QasimEight peopl"
+  },
+  {
+    "title": "Israel delays building contracts for West Bank settlement after UK sanctions",
+    "link": "https://www.theguardian.com/world/2026/nov/18/israel-construction-contracts-e1-west-bank-settlement-uk-sanctions",
+    "description": "Attorney general says E1 settlement decision should not be taken by caretaker government led by NetanyahuIsrael has postponed issuing contracts for the construction of a large settlement on the West Bank seen as likely to render a two-state solution unviable, days after the UK imposed sanctions against building firms operating in the area.Israeli diplomats insisted the move was not in response to the measures from Downing Street. Gali Baharav-Miara, the attorney general, said any decision on set",
+    "pubDate": "Wed, 18 Nov 2026 14:05:38 GMT",
+    "source": "卫报",
+    "category": "综合",
+    "summary": "Attorney general says E1 settlement decision should not be taken by caretaker government led by NetanyahuIsrael has postponed issuing contracts for th"
+  },
+  {
+    "title": "Indian man sentenced to 19 years in prison for conspiring to kill Sikh separatist in New York",
+    "link": "https://www.theguardian.com/us-news/2026/nov/20/indian-man-sentenced-prison-murder-plot-sikh-separatist",
+    "description": "Nikhil Gupta admitted to plotting with Indian government official to hire hitman to murder dual US-Canadian citizenAn Indian ⁠man was sentenced to more ⁠than 19 ​years in US prison on Friday after admitting to orchestrating a failed Indian government-backed plot to kill a Sikh separatist in New York ⁠City, in connection with what US and Canadian authorities have called a broader effort to target Indian dissidents.Nikhil Gupta, 55, pleaded guilty in February to murder-for-hire, conspiracy ⁠to com",
+    "pubDate": "Fri, 20 Nov 2026 18:24:12 GMT",
+    "source": "卫报",
+    "category": "综合",
+    "summary": "Nikhil Gupta admitted to plotting with Indian government official to hire hitman to murder dual US-Canadian citizenAn Indian ⁠man was sentenced to mor"
+  },
+  {
+    "title": "US reacts cautiously to Myanmar genocide ruling as EU praises ‘critical’ role of UN’s top court",
+    "link": "https://www.theguardian.com/law/2026/nov/20/us-eu-reaction-myanmar-rohingya-genocide-icj-ruling-trump-international-law",
+    "description": "Reactions to ICJ ruling underline global divisions over court with China raising concerns about judicial overreachThe US has greeted with caution the world’s highest court’s ruling that Myanmar committed genocide against its Rohingya minority, while China has raised concerns of judicial overreach.Reactions to Thursday’s historic ruling underlined deep international division over the role of the court and similar institutions. The international court of justice (ICJ) had never previously found a ",
+    "pubDate": "Fri, 20 Nov 2026 11:57:43 GMT",
+    "source": "卫报",
+    "category": "综合",
+    "summary": "Reactions to ICJ ruling underline global divisions over court with China raising concerns about judicial overreachThe US has greeted with caution the "
+  },
+  {
+    "title": "‘Everyone struggled for this justice’: tears in court as Rohingya vindicated in Myanmar genocide ruling",
+    "link": "https://www.theguardian.com/global-development/2026/nov/19/everyone-struggled-for-this-justice-tears-in-court-as-rohingya-vindicated-in-myanmar-genocide-ruling",
+    "description": "Relief in the immediate aftermath of a landmark ruling, but what happens next is in the hands of governments around the worldThere were tears in the halls of The Hague in the Netherlands and an eruption of applause in the refugee camps of Bangladesh as the scattered communities of Rohingya watched the UN’s top court rule the Myanmar military had committed genocide against them.For almost a decade, the Rohingya have awaited this moment; recognition from the international court of justice (ICJ) th",
+    "pubDate": "Thu, 19 Nov 2026 16:15:52 GMT",
+    "source": "卫报",
+    "category": "综合",
+    "summary": "Relief in the immediate aftermath of a landmark ruling, but what happens next is in the hands of governments around the worldThere were tears in the h"
+  },
+  {
+    "title": "Myanmar committed genocide against Rohingya minority, world’s top court rules",
+    "link": "https://www.theguardian.com/world/2026/nov/19/genocide-rohingya-international-court-of-justice-ruling-myanmar",
+    "description": "Judgment finds ‘intent to destroy a substantial part of the Rohingya population’ after case seen as critical test for dealing with most serious of state crimesMyanmar committed genocide against its Rohingya minority during a 2017 military campaign, the world’s highest court has ruled, in a historic and unprecedented decision.The judgment from the international court of justice (ICJ) – which has never previously found a state responsible for genocide – ends a seven-year legal battle that was seen",
+    "pubDate": "Thu, 19 Nov 2026 13:52:10 GMT",
+    "source": "卫报",
+    "category": "综合",
+    "summary": "Judgment finds ‘intent to destroy a substantial part of the Rohingya population’ after case seen as critical test for dealing with most serious of sta"
+  },
+  {
+    "title": "Violent protests and killings in Bangladesh ahead of exiled Sheikh Hasina’s planned return",
+    "link": "https://www.theguardian.com/world/2026/nov/19/bangladesh-violent-protest-sheikh-hasina-planned-return",
+    "description": "Awami League party called for ⁠nationwide protest on Thursday after the government rejected Hasina’s request for passportParts of Bangladesh were shut down Thursday as protests by supporters of former prime minister Sheikh Hasina sparked clashes, bomb blasts and arson attacks, with the ancestral home ⁠of former leader Muhammad Yunus set ablaze in the violence.Hasina’s Awami League party had called for a ​week-long programme of protests and rallies to mobilise support ‌for Hasina’s planned return",
+    "pubDate": "Thu, 19 Nov 2026 06:58:33 GMT",
+    "source": "卫报",
+    "category": "综合",
+    "summary": "Awami League party called for ⁠nationwide protest on Thursday after the government rejected Hasina’s request for passportParts of Bangladesh were shut"
+  },
+  {
+    "title": "JP Morgan boss says he will find ways to offset ‘unfair’ rise in UK tax on banks",
+    "link": "https://www.theguardian.com/business/2026/nov/20/jp-morgan-jamie-dimon-uk-tax-hike-bank-surcharge",
+    "description": "Jamie Dimon says he is ‘setting an example’ in seeking to claw back Labour’s increase in surcharge, from 3% to 6%Jamie Dimon, the chief executive of JP Morgan, has said he will find ways to offset the chancellor’s tax rise for banks, calling the increase unfair.Speaking at an event in London on Thursday, Dimon said he would seek to claw back the increase and was “setting an example so that [governments] understand the trade-offs of these unfair penalties”. Continue reading...",
+    "pubDate": "Fri, 20 Nov 2026 19:38:59 GMT",
+    "source": "卫报",
+    "category": "综合",
+    "summary": "Jamie Dimon says he is ‘setting an example’ in seeking to claw back Labour’s increase in surcharge, from 3% to 6%Jamie Dimon, the chief executive of J"
+  },
+  {
+    "title": "Police arrest teacher who missed sentencing after indecent assault conviction",
+    "link": "https://www.theguardian.com/uk-news/2026/nov/20/sally-anne-bowen-police-search-teacher-missed-court-sentencing",
+    "description": "Sally-Anne Bowen was found guilty of having sexual relationships with two pupils at a boys’ school in the 1980sA chemistry teacher who had sexual relationships with two pupils at a boys’ school in the late 1980s has been arrested by police in Hampshire after she failed to turn up to her sentencing hearing.Sally-Anne Bowen, 65, could not be found at her home by Metropolitan police officers on Friday morning after a warrant was issued for her arrest, a court heard. Continue reading...",
+    "pubDate": "Fri, 20 Nov 2026 19:00:11 GMT",
+    "source": "卫报",
+    "category": "综合",
+    "summary": "Sally-Anne Bowen was found guilty of having sexual relationships with two pupils at a boys’ school in the 1980sA chemistry teacher who had sexual rela"
+  },
+  {
+    "title": "Florida mechanic found guilty of murdering British woman who attorney says came to US to die",
+    "link": "https://www.theguardian.com/us-news/2026/nov/20/florida-man-guilty-murder-british-woman",
+    "description": "Dwain Hall was convicted of stabbing Sonia Exelby, a music teacher who prosecutors say suffered from mental illnessA Florida mechanic has been found guilty of stabbing to death a British music teacher, whom he convinced to travel to the United States.Dwain Hall, an auto repair and tow truck driver, groomed 32-year-old Sonia Exelby from Portsmouth, England, on a fetish website before luring her to the US. Continue reading...",
+    "pubDate": "Fri, 20 Nov 2026 18:36:30 GMT",
+    "source": "卫报",
+    "category": "综合",
+    "summary": "Dwain Hall was convicted of stabbing Sonia Exelby, a music teacher who prosecutors say suffered from mental illnessA Florida mechanic has been found g"
+  },
+  {
+    "title": "Two men killed after glider crashes into Loch Leven in Scotland",
+    "link": "https://www.theguardian.com/uk-news/2026/nov/20/glider-crash-loch-leven-scotland",
+    "description": "The pair had taken off from the Scottish Gliding Centre at nearby Portmoak on a training flightTwo men have been killed after their glider crashed into Loch Leven, a large body of water in Perth and Kinross, on Friday morning.Police Scotland said their bodies were recovered from the loch by the emergency services after the alarm was raised at 11.05am on Friday. Continue reading...",
+    "pubDate": "Fri, 20 Nov 2026 18:20:09 GMT",
+    "source": "卫报",
+    "category": "综合",
+    "summary": "The pair had taken off from the Scottish Gliding Centre at nearby Portmoak on a training flightTwo men have been killed after their glider crashed int"
+  },
+  {
+    "title": "No one else in Reform is suitable to lead the party, Nigel Farage says",
+    "link": "https://www.theguardian.com/politics/2026/nov/20/nigel-farage-leadership-reform-uk-party",
+    "description": "Farage issues warning to potential rivals and says he will fight next election as leader if ‘still here and fit and healthy’Nigel Farage has said he does not see another person who could do his job as leader of Reform UK, in a warning shot to potential rivals who might seek to replace him.The Reform UK leader delivered a message that he was going nowhere despite his worries over his personal safety in the wake of the killing of the Reform politician Ann Widdecombe. Continue reading...",
+    "pubDate": "Fri, 20 Nov 2026 18:11:25 GMT",
+    "source": "卫报",
+    "category": "综合",
+    "summary": "Farage issues warning to potential rivals and says he will fight next election as leader if ‘still here and fit and healthy’Nigel Farage has said he d"
+  },
+  {
+    "title": "Trump turns White House press conference into a 2028 succession audition",
+    "link": "https://www.theguardian.com/us-news/2026/nov/20/trump-republican-succession-battle-vance-rubio",
+    "description": "The president appeared to put Vance and Rubio through their paces as potential successors, though Stephen Miller unexpectedly stole the spotlight“Which of you shall we say doth love us most?”The ageing King Lear’s question to his daughters, expecting them to compete for his favour and carve up his kingdom, hovered in the White House press briefing room on Friday. Continue reading...",
+    "pubDate": "Sat, 21 Nov 2026 00:16:26 GMT",
+    "source": "卫报",
+    "category": "综合",
+    "summary": "The president appeared to put Vance and Rubio through their paces as potential successors, though Stephen Miller unexpectedly stole the spotlight“Whic"
+  },
+  {
+    "title": "‘A source of inspiration’: California celebrates the late civil rights icon Dolores Huerta",
+    "link": "https://www.theguardian.com/us-news/2026/nov/20/dolores-huerta-celebration-of-life-california",
+    "description": "A public vigil and celebration of life honor the civil rights activist and co-founder of United Farm Workers unionHundreds of people came out to honor and celebrate the life and legacy of the California civil rights activist Dolores Huerta at a celebration-of-life event Friday in Bakersfield.Huerta’s daughter Lori de Leon thanked attendees for their support during her mother’s passing, highlighting the widespread tributes and communities gathering in her honor. Continue reading...",
+    "pubDate": "Sat, 21 Nov 2026 00:03:47 GMT",
+    "source": "卫报",
+    "category": "综合",
+    "summary": "A public vigil and celebration of life honor the civil rights activist and co-founder of United Farm Workers unionHundreds of people came out to honor"
+  },
+  {
+    "title": "Republican senator blocks Trump cyber nominee over January 6 denial",
+    "link": "https://www.theguardian.com/us-news/2026/nov/20/tillis-republican-senator-trump-cyber-nominee",
+    "description": "Thom Tillis move comes after Michael LoSapio, nominated for Cisa role, told hearing ‘I don’t believe it was an attack’ Senator Thom Tillis, the outgoing North Carolina Republican who is due to be replaced by a Democrat, has reportedly blocked a confirmation vote on Donald Trump’s nominee to lead a key US cybersecurity agency, Michael LoSapio, after he denied during a hearing that the Capitol was attacked on January 6 2021.Tillis, who declined to run for re-election and after repeated clashes wit",
+    "pubDate": "Fri, 20 Nov 2026 23:48:38 GMT",
+    "source": "卫报",
+    "category": "综合",
+    "summary": "Thom Tillis move comes after Michael LoSapio, nominated for Cisa role, told hearing ‘I don’t believe it was an attack’ Senator Thom Tillis, the outgoi"
+  },
+  {
+    "title": "Judge approves $7.25bn Bayer payout to settle claims that Roundup causes cancer",
+    "link": "https://www.theguardian.com/business/2026/nov/20/bayer-roundup-cancer-litigation",
+    "description": "German company faced 65,000 claims from people who said they developed cancer after using weedkillerA Missouri judge on Friday approved Bayer’s $7.25bn settlement of lawsuits ⁠alleging that its weedkiller ​Roundup causes cancer, potentially resolving litigation that has weighed on the German company for close to a decade.Judge Timothy Boyer of a state court in St Louis ⁠found the settlement “fair, reasonable and adequate”. Continue reading...",
+    "pubDate": "Fri, 20 Nov 2026 23:42:43 GMT",
+    "source": "卫报",
+    "category": "综合",
+    "summary": "German company faced 65,000 claims from people who said they developed cancer after using weedkillerA Missouri judge on Friday approved Bayer’s $7.25b"
+  },
+  {
+    "title": "Man accused of sparking deadly Los Angeles wildfire found guilty",
+    "link": "https://www.theguardian.com/us-news/2026/nov/20/los-angeles-palisades-wildfire-trial-verdict",
+    "description": "Verdict in case against former Uber driver Jonathan Rinderknecht comes after first trial ended with hung juryThe 30-year-old accused of sparking the deadly Palisades fire in Los Angeles was found guilty of two federal arson charges in a Friday verdict that came months after his first trial concluded with a hung jury.For two weeks, a fresh batch of jurors listened to prosecutors mount their case against Jonathan Rinderknecht. Continue reading...",
+    "pubDate": "Fri, 20 Nov 2026 23:20:29 GMT",
+    "source": "卫报",
+    "category": "综合",
+    "summary": "Verdict in case against former Uber driver Jonathan Rinderknecht comes after first trial ended with hung juryThe 30-year-old accused of sparking the d"
+  }
+]
