@@ -1,0 +1,17 @@
+---
+title: "A renovation was meant to improve these Hong Kong homes - it ended in a blaze that killed 168"
+date: 2026-11-25T23:26:00+08:00
+source: "BBC News"
+sourceUrl: "https://www.bbc.co.uk/news/articles/cqx2wrkyrdn8o?at_medium=RSS&at_campaign=rss"
+category: "综合"
+slug: "a-renovation-was-meant-to-improve-these-hong-kong-homes-it-ended-in-a-blaze-that"
+---
+
+A year after one of Hong Kong's deadliest fires, families left behind are still waiting for justice.
+
+<!--more-->
+
+---
+
+[阅读原文 →](https://www.bbc.co.uk/news/articles/cqx2wrkyrdn8o?at_medium=RSS&at_campaign=rss)
+
